@@ -1,0 +1,1606 @@
+{
+    "txt_login": "Авторизоваться",
+    "@txt_login": {
+        "description": "Авторизоваться"
+    },
+    "txt_mobile_number": "Мобильный номер",
+    "@txt_mobile_number": {
+        "description": "Мобильный номер"
+    },
+    "txt_submit": "Представлять на рассмотрение",
+    "@txt_submit": {
+        "description": "Представлять на рассмотрение"
+    },
+    "txt_continue_with": "Или продолжить с",
+    "@txt_continue_with": {
+        "description": "Или продолжить с"
+    },
+    "txt_select_lng": "Выбрать язык",
+    "@txt_select_lng": {
+        "description": "Выбрать язык"
+    },
+    "txt_select_country": "Выберите страну",
+    "@txt_select_country": {
+        "description": "Выберите страну"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "Поиск",
+    "@txt_search": {
+        "description": "Поиск"
+    },
+    "txt_last_pick": "Последний выбор",
+    "@txt_last_pick": {
+        "description": "Последний выбор"
+    },
+    "txt_successfully": "успешно",
+    "@txt_successfully": {
+        "description": "успешно"
+    },
+    "txt_your_otp": "Ваш OTP есть",
+    "@txt_your_otp": {
+        "description": "Ваш OTP есть"
+    },
+    "txt_otp_sent_successfully": "OTP послал успешно",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP послал успешно"
+    },
+    "txt_verification": "Проверка",
+    "@txt_verification": {
+        "description": "Проверка"
+    },
+    "txt_enter_code_we_sent": "Введите код проверки, который мы только что отправили вам на ваш номер мобильного телефона",
+    "@txt_enter_code_we_sent": {
+        "description": "Введите код проверки, который мы только что отправили вам на ваш номер мобильного телефона"
+    },
+    "txt_resend_otp": "Повторный ОТП",
+    "@txt_resend_otp": {
+        "description": "Повторный ОТП"
+    },
+    "txt_verify": "Проверять",
+    "@txt_verify": {
+        "description": "Проверять"
+    },
+    "txt_error": "Ошибка",
+    "@txt_error": {
+        "description": "Ошибка"
+    },
+    "txt_ok": "Хорошо",
+    "@txt_ok": {
+        "description": "Хорошо"
+    },
+    "txt_upload_details": "Загрузите детали",
+    "@txt_upload_details": {
+        "description": "Загрузите детали"
+    },
+    "txt_vehicle_picture": "Автомобильные картинки",
+    "@txt_vehicle_picture": {
+        "description": "Автомобильные картинки"
+    },
+    "txt_vehicle_number": "Номер автомобиля",
+    "@txt_vehicle_number": {
+        "description": "Номер автомобиля"
+    },
+    "txt_upload_image": "Загрузить изображение",
+    "@txt_upload_image": {
+        "description": "Загрузить изображение"
+    },
+    "txt_front": "Фронт",
+    "@txt_front": {
+        "description": "Фронт"
+    },
+    "txt_back": "Назад",
+    "@txt_back": {
+        "description": "Назад"
+    },
+    "txt_driver_id_card": "Идентификационная карта драйвера",
+    "@txt_driver_id_card": {
+        "description": "Идентификационная карта драйвера"
+    },
+    "txt_id_number": "идентификационный номер",
+    "@txt_id_number": {
+        "description": "идентификационный номер"
+    },
+    "txt_valid_from": "Действителен с",
+    "@txt_valid_from": {
+        "description": "Действителен с"
+    },
+    "txt_valid_until": "Действительна до",
+    "@txt_valid_until": {
+        "description": "Действительна до"
+    },
+    "txt_driver_driving_license": "Водительские права водительских прав",
+    "@txt_driver_driving_license": {
+        "description": "Водительские права водительских прав"
+    },
+    "txt_license_number": "Лицензионный номер",
+    "@txt_license_number": {
+        "description": "Лицензионный номер"
+    },
+    "txt_vehicle_registration": "Регистрация транспортных средств",
+    "@txt_vehicle_registration": {
+        "description": "Регистрация транспортных средств"
+    },
+    "txt_registration_number": "Регистрационный номер",
+    "@txt_registration_number": {
+        "description": "Регистрационный номер"
+    },
+    "txt_next": "Следующий",
+    "@txt_next": {
+        "description": "Следующий"
+    },
+    "txt_vehicle_ownership": "Владение транспортным средством",
+    "@txt_vehicle_ownership": {
+        "description": "Владение транспортным средством"
+    },
+    "txt_ownership_number": "Номер владения",
+    "@txt_ownership_number": {
+        "description": "Номер владения"
+    },
+    "txt_vehicle_insurance": "Страхование транспортного средства",
+    "@txt_vehicle_insurance": {
+        "description": "Страхование транспортного средства"
+    },
+    "txt_vehicle_inspection": "Техосмотр",
+    "@txt_vehicle_inspection": {
+        "description": "Техосмотр"
+    },
+    "txt_insurance_number": "Номер страховки",
+    "@txt_insurance_number": {
+        "description": "Номер страховки"
+    },
+    "txt_inspection_number": "Инспекционный номер",
+    "@txt_inspection_number": {
+        "description": "Инспекционный номер"
+    },
+    "txt_vehicle_manifest": "Автомобиль Манифест",
+    "@txt_vehicle_manifest": {
+        "description": "Автомобиль Манифест"
+    },
+    "txt_manifest_number": "Манифестный номер",
+    "@txt_manifest_number": {
+        "description": "Манифестный номер"
+    },
+    "txt_vehicle_radio_tax": "Налог на транспортное средство",
+    "@txt_vehicle_radio_tax": {
+        "description": "Налог на транспортное средство"
+    },
+    "txt_radio_tax_number": "Радиологовый номер",
+    "@txt_radio_tax_number": {
+        "description": "Радиологовый номер"
+    },
+    "txt_done": "Сделанный",
+    "@txt_done": {
+        "description": "Сделанный"
+    },
+    "txt_almost_done": "Почти готово! Введите номер мобильного телефона, чтобы продолжить",
+    "@txt_almost_done": {
+        "description": "Почти готово! Введите номер мобильного телефона, чтобы продолжить"
+    },
+    "txt_menu": "МЕНЮ",
+    "@txt_menu": {
+        "description": "МЕНЮ"
+    },
+    "txt_driver_profile": "Профиль драйвера",
+    "@txt_driver_profile": {
+        "description": "Профиль драйвера"
+    },
+    "txt_upload_doc_info": "Загрузился документ и информация о автомобиле.",
+    "@txt_upload_doc_info": {
+        "description": "Загрузился документ и информация о автомобиле."
+    },
+    "txt_add_new_doc": "Добавить новый документ",
+    "@txt_add_new_doc": {
+        "description": "Добавить новый документ"
+    },
+    "txt_bank_info": "Банковская информация",
+    "@txt_bank_info": {
+        "description": "Банковская информация"
+    },
+    "txt_transaction": "Сделка",
+    "@txt_transaction": {
+        "description": "Сделка"
+    },
+    "txt_my_trip": "Мои поездки",
+    "@txt_my_trip": {
+        "description": "Мои поездки"
+    },
+    "txt_support": "Поддерживать",
+    "@txt_support": {
+        "description": "Поддерживать"
+    },
+    "txt_about_us": "О нас",
+    "@txt_about_us": {
+        "description": "О нас"
+    },
+    "txt_terms_condition": "Сроки и условия",
+    "@txt_terms_condition": {
+        "description": "Сроки и условия"
+    },
+    "txt_logout": "Выйти",
+    "@txt_logout": {
+        "description": "Выйти"
+    },
+    "txt_edit_profile": "РЕДАКТИРОВАТЬ ПРОФИЛЬ",
+    "@txt_edit_profile": {
+        "description": "РЕДАКТИРОВАТЬ ПРОФИЛЬ"
+    },
+    "txt_name": "Имя",
+    "@txt_name": {
+        "description": "Имя"
+    },
+    "txt_email": "Эл. адрес",
+    "@txt_email": {
+        "description": "Эл. адрес"
+    },
+    "txt_camera": "Камера",
+    "@txt_camera": {
+        "description": "Камера"
+    },
+    "txt_gallery": "Галерея",
+    "@txt_gallery": {
+        "description": "Галерея"
+    },
+    "txt_uploaded_documents_info": "Загруженные документы Информация",
+    "@txt_uploaded_documents_info": {
+        "description": "Загруженные документы Информация"
+    },
+    "txt_pending": "В ожидании",
+    "@txt_pending": {
+        "description": "В ожидании"
+    },
+    "txt_approved": "Одобренный",
+    "@txt_approved": {
+        "description": "Одобренный"
+    },
+    "txt_upload_detail": "Загрузите детали",
+    "@txt_upload_detail": {
+        "description": "Загрузите детали"
+    },
+    "txt_welcome": "добро пожаловать",
+    "@txt_welcome": {
+        "description": "добро пожаловать"
+    },
+    "txt_welcome_and_setup": "Вот что вам нужно сделать, настроить свою учетную запись",
+    "@txt_welcome_and_setup": {
+        "description": "Вот что вам нужно сделать, настроить свою учетную запись"
+    },
+    "txt_take_photo": "Сфотографируйте свой",
+    "@txt_take_photo": {
+        "description": "Сфотографируйте свой"
+    },
+    "val_upload_doc": "Пожалуйста, загрузите документы",
+    "@val_upload_doc": {
+        "description": "Пожалуйста, загрузите документы"
+    },
+    "txt_update_document": "Обновить документ",
+    "@txt_update_document": {
+        "description": "Обновить документ"
+    },
+    "txt_holder_name": "Банк -владелец название",
+    "@txt_holder_name": {
+        "description": "Банк -владелец название"
+    },
+    "txt_account_number": "Номер счета",
+    "@txt_account_number": {
+        "description": "Номер счета"
+    },
+    "txt_ifsc_code": "IFSC код",
+    "@txt_ifsc_code": {
+        "description": "IFSC код"
+    },
+    "txt_bank_name": "Название банка",
+    "@txt_bank_name": {
+        "description": "Название банка"
+    },
+    "txt_transaction_upr": "Транзакции",
+    "@txt_transaction_upr": {
+        "description": "Транзакции"
+    },
+    "txt_total_amt": "Общая сумма",
+    "@txt_total_amt": {
+        "description": "Общая сумма"
+    },
+    "txt_cash": "Денежные средства",
+    "@txt_cash": {
+        "description": "Денежные средства"
+    },
+    "txt_online": "онлайн",
+    "@txt_online": {
+        "description": "онлайн"
+    },
+    "txt_payment_history": "ИСТОРИЯ ПЛАТЕЖЕЙ",
+    "@txt_payment_history": {
+        "description": "ИСТОРИЯ ПЛАТЕЖЕЙ"
+    },
+    "txt_no_data_found": "Данные не найдены",
+    "@txt_no_data_found": {
+        "description": "Данные не найдены"
+    },
+    "txt_support_upr": "ПОДДЕРЖИВАТЬ",
+    "@txt_support_upr": {
+        "description": "ПОДДЕРЖИВАТЬ"
+    },
+    "txt_concern_queries": "Проблемы и запросы",
+    "@txt_concern_queries": {
+        "description": "Проблемы и запросы"
+    },
+    "txt_upload_pic_doc": "Загрузите свою фотографию или документ",
+    "@txt_upload_pic_doc": {
+        "description": "Загрузите свою фотографию или документ"
+    },
+    "txt_logout": "Выйти",
+    "@txt_logout": {
+        "description": "Выйти"
+    },
+    "txt_want_to_logout": "Вы хотите выйти в систему",
+    "@txt_want_to_logout": {
+        "description": "Вы хотите выйти в систему"
+    },
+    "txt_no": "Нет",
+    "@txt_no": {
+        "description": "Нет"
+    },
+    "txt_yes": "Да",
+    "@txt_yes": {
+        "description": "Да"
+    },
+    "txt_notification": "Уведомления",
+    "@txt_notification": {
+        "description": "Уведомления"
+    },
+    "txt_offline": "Ты не в сети",
+    "@txt_offline": {
+        "description": "Ты не в сети"
+    },
+    "txt_successfully_logged_in": "Вы успешно вошли в систему.",
+    "@txt_successfully_logged_in": {
+        "description": "Вы успешно вошли в систему."
+    },
+    "txt_distance": "расстояние",
+    "@txt_distance": {
+        "description": "расстояние"
+    },
+    "txt_estimate_time": "Оценка общего времени",
+    "@txt_estimate_time": {
+        "description": "Оценка общего времени"
+    },
+    "txt_from_upr": "ИЗ",
+    "@txt_from_upr": {
+        "description": "ИЗ"
+    },
+    "txt_to_upr": "К",
+    "@txt_to_upr": {
+        "description": "К"
+    },
+    "txt_call": "Вызов",
+    "@txt_call": {
+        "description": "Вызов"
+    },
+    "txt_chat": "Чат",
+    "@txt_chat": {
+        "description": "Чат"
+    },
+    "txt_price": "Цена",
+    "@txt_price": {
+        "description": "Цена"
+    },
+    "txt_decline": "Отклонить",
+    "@txt_decline": {
+        "description": "Отклонить"
+    },
+    "txt_accept": "Принимать",
+    "@txt_accept": {
+        "description": "Принимать"
+    },
+    "txt_customer_pickup": "Показ клиентов?",
+    "@txt_customer_pickup": {
+        "description": "Показ клиентов?"
+    },
+    "txt_navigate": "Навигация",
+    "@txt_navigate": {
+        "description": "Навигация"
+    },
+    "txt_enter_otp": "Введите OTP",
+    "@txt_enter_otp": {
+        "description": "Введите OTP"
+    },
+    "txt_start_ride": "Начать поездку",
+    "@txt_start_ride": {
+        "description": "Начать поездку"
+    },
+    "txt_ride_complete": "Ездить в комплекте",
+    "@txt_ride_complete": {
+        "description": "Ездить в комплекте"
+    },
+    "txt_wait_for_payment": "Подождите оплату",
+    "@txt_wait_for_payment": {
+        "description": "Подождите оплату"
+    },
+    "txt_ride_complete_upr": "Ездить в комплекте",
+    "@txt_ride_complete_upr": {
+        "description": "Ездить в комплекте"
+    },
+    "txt_your_ride_complete_upr": "Ваша поездка завершена",
+    "@txt_your_ride_complete_upr": {
+        "description": "Ваша поездка завершена"
+    },
+    "txt_payment_by": "Оплата по",
+    "@txt_payment_by": {
+        "description": "Оплата по"
+    },
+    "txt_type_of_service": "Тип обслуживания",
+    "@txt_type_of_service": {
+        "description": "Тип обслуживания"
+    },
+    "txt_total_km": "Всего км",
+    "@txt_total_km": {
+        "description": "Всего км"
+    },
+    "txt_duration": "Продолжительность",
+    "@txt_duration": {
+        "description": "Продолжительность"
+    },
+    "txt_reason_cancellation": "Причина отмены",
+    "@txt_reason_cancellation": {
+        "description": "Причина отмены"
+    },
+    "txt_driver_denied": "Водитель отказал",
+    "@txt_driver_denied": {
+        "description": "Водитель отказал"
+    },
+    "txt_expected_time": "Ожидал более короткое время ожидания",
+    "@txt_expected_time": {
+        "description": "Ожидал более короткое время ожидания"
+    },
+    "txt_unable_to_contact_user": "Невозможно связаться с пользователем",
+    "@txt_unable_to_contact_user": {
+        "description": "Невозможно связаться с пользователем"
+    },
+    "txt_reason_not_listed": "Моя причина не указана здесь",
+    "@txt_reason_not_listed": {
+        "description": "Моя причина не указана здесь"
+    },
+    "txt_cancel": "Отмена",
+    "@txt_cancel": {
+        "description": "Отмена"
+    },
+    "txt_check_internet": "Пожалуйста, проверьте подключение к интернету",
+    "@txt_check_internet": {
+        "description": "Пожалуйста, проверьте подключение к интернету"
+    },
+    "txt_english": "Английский",
+    "@txt_english": {
+        "description": "Английский"
+    },
+    "txt_portuguese": "португальский",
+    "@txt_portuguese": {
+        "description": "португальский"
+    },
+    "txt_arabic": "арабский",
+    "@txt_arabic": {
+        "description": "арабский"
+    },
+    "txt_urdu": "Урду",
+    "@txt_urdu": {
+        "description": "Урду"
+    },
+    "txt_hindi": "хинди",
+    "@txt_hindi": {
+        "description": "хинди"
+    },
+    "txt_spanish": "испанский",
+    "@txt_spanish": {
+        "description": "испанский"
+    },
+    "txt_mandarim": "Мандарин",
+    "@txt_mandarim": {
+        "description": "Мандарин"
+    },
+    "txt_french": "Французский",
+    "@txt_french": {
+        "description": "Французский"
+    },
+    "txt_afrikaans": "Африканский",
+    "@txt_afrikaans": {
+        "description": "Африканский"
+    },
+    "txt_bengali": "Бенгальский",
+    "@txt_bengali": {
+        "description": "Бенгальский"
+    },
+    "txt_russian": "Русский",
+    "@txt_russian": {
+        "description": "Русский"
+    },
+    "txt_japanese": "японский язык",
+    "@txt_japanese": {
+        "description": "японский язык"
+    },
+    "txt_turkish": "турецкий",
+    "@txt_turkish": {
+        "description": "турецкий"
+    },
+    "txt_swahili": "суахили",
+    "@txt_swahili": {
+        "description": "суахили"
+    },
+    "txt_italian": "Итальянский",
+    "@txt_italian": {
+        "description": "Итальянский"
+    },
+    "txt_edit": "Редактировать",
+    "@txt_edit": {
+        "description": "Редактировать"
+    },
+    "txt_delete": "Удалить",
+    "@txt_delete": {
+        "description": "Удалить"
+    },
+    "val_accept_term_condition": "Примите положения и условия",
+    "@val_accept_term_condition": {
+        "description": "Примите положения и условия"
+    },
+    "val_first_name": "Пожалуйста, введите имя",
+    "@val_first_name": {
+        "description": "Пожалуйста, введите имя"
+    },
+    "val_fullname_short": "Полное имя слишком короткое",
+    "@val_fullname_short": {
+        "description": "Полное имя слишком короткое"
+    },
+    "val_enter_userid_email": "Пожалуйста, введите идентификатор пользователя или электронную почту",
+    "@val_enter_userid_email": {
+        "description": "Пожалуйста, введите идентификатор пользователя или электронную почту"
+    },
+    "val_userid_email_short": "Идентификатор пользователя или электронная почта слишком коротко",
+    "@val_userid_email_short": {
+        "description": "Идентификатор пользователя или электронная почта слишком коротко"
+    },
+    "val_enter_last_name": "Пожалуйста, введите фамилию",
+    "@val_enter_last_name": {
+        "description": "Пожалуйста, введите фамилию"
+    },
+    "val_enter_userid": "Пожалуйста, введите идентификатор пользователя",
+    "@val_enter_userid": {
+        "description": "Пожалуйста, введите идентификатор пользователя"
+    },
+    "val_atleast_3char": "Пожалуйста, введите как минимум 3 символа",
+    "@val_atleast_3char": {
+        "description": "Пожалуйста, введите как минимум 3 символа"
+    },
+    "val_first_name_short": "Имя слишком короткое",
+    "@val_first_name_short": {
+        "description": "Имя слишком короткое"
+    },
+    "val_last_name_short": "Фамилия слишком короткая",
+    "@val_last_name_short": {
+        "description": "Фамилия слишком короткая"
+    },
+    "val_enter_email": "Пожалуйста, введите электронное письмо",
+    "@val_enter_email": {
+        "description": "Пожалуйста, введите электронное письмо"
+    },
+    "val_valid_enter": "Пожалуйста, введите действительное письмо",
+    "@val_valid_enter": {
+        "description": "Пожалуйста, введите действительное письмо"
+    },
+    "val_enter_password": "Пожалуйста введите пароль",
+    "@val_enter_password": {
+        "description": "Пожалуйста введите пароль"
+    },
+    "val_enter_old_pass": "Пожалуйста, введите старый пароль",
+    "@val_enter_old_pass": {
+        "description": "Пожалуйста, введите старый пароль"
+    },
+    "val_enter_new_pass": "Пожалуйста, введите новый пароль",
+    "@val_enter_new_pass": {
+        "description": "Пожалуйста, введите новый пароль"
+    },
+    "val_pass_short": "Пароль слишком короткий",
+    "@val_pass_short": {
+        "description": "Пароль слишком короткий"
+    },
+    "val_pass_not_match": "Пароли не совпадают",
+    "@val_pass_not_match": {
+        "description": "Пароли не совпадают"
+    },
+    "val_enter_name": "Пожалуйста, введите имя",
+    "@val_enter_name": {
+        "description": "Пожалуйста, введите имя"
+    },
+    "val_enter_query": "Пожалуйста, введите запрос",
+    "@val_enter_query": {
+        "description": "Пожалуйста, введите запрос"
+    },
+    "val_enter_confirm_pass": "Пожалуйста, введите подтверждение пароля",
+    "@val_enter_confirm_pass": {
+        "description": "Пожалуйста, введите подтверждение пароля"
+    },
+    "val_enter_address": "Пожалуйста, введите адрес",
+    "@val_enter_address": {
+        "description": "Пожалуйста, введите адрес"
+    },
+    "val_enter_mobile": "Please enter mobile number",
+    "@val_enter_mobile": {
+        "description": "Please enter mobile number"
+    },
+    "val_valid_number": "Пожалуйста, введите номер мобильного телефона",
+    "@val_valid_number": {
+        "description": "Пожалуйста, введите номер мобильного телефона"
+    },
+    "val_otp": "Пожалуйста, введите действительный номер мобильного телефона",
+    "@val_otp": {
+        "description": "Пожалуйста, введите действительный номер мобильного телефона"
+    },
+    "val_enter_postal_code": "Пожалуйста, введите OTP",
+    "@val_enter_postal_code": {
+        "description": "Пожалуйста, введите OTP"
+    },
+    "val_valid_postal_code": "Пожалуйста, введите почтовый код",
+    "@val_valid_postal_code": {
+        "description": "Пожалуйста, введите почтовый код"
+    },
+    "val_enter_landmark": "Пожалуйста, введите Landmark",
+    "@val_enter_landmark": {
+        "description": "Пожалуйста, введите Landmark"
+    },
+    "val_enter_city": "Пожалуйста, введите город",
+    "@val_enter_city": {
+        "description": "Пожалуйста, введите город"
+    },
+    "val_enter_state": "Пожалуйста, введите состояние",
+    "@val_enter_state": {
+        "description": "Пожалуйста, введите состояние"
+    },
+    "val_enter_address": "Пожалуйста, введите адрес",
+    "@val_enter_address": {
+        "description": "Пожалуйста, введите адрес"
+    },
+    "val_enter_specification": "Пожалуйста, введите спецификацию",
+    "@val_enter_specification": {
+        "description": "Пожалуйста, введите спецификацию"
+    },
+    "val_enter_message": "Введите сообщение",
+    "@val_enter_message": {
+        "description": "PВведите сообщение"
+    },
+    "txt_camera_permission": "Разрешение камеры",
+    "@txt_camera_permission": {
+        "description": "Разрешение камеры"
+    },
+    "txt_permission_camera": "Без этого разрешения это приложение не сможет выбрать фото. Вы уверены, что хотите отрицать это разрешение?",
+    "@txt_permission_camera": {
+        "description": "Без этого разрешения это приложение не сможет выбрать фото. Вы уверены, что хотите отрицать это разрешение?"
+    },
+    "txt_retry": "Повторно",
+    "@txt_retry": {
+        "description": "Повторно"
+    },
+    "txt_im_sure": "Я уверен",
+    "@txt_im_sure": {
+        "description": "Я уверен"
+    },
+    "txt_gallery_permission": "Галерея разрешение",
+    "@txt_gallery_permission": {
+        "description": "Галерея разрешение"
+    },
+    "txt_permision_gallery": "Без этого разрешения это приложение не сможет получить фотографии из галереи. Вы уверены, что хотите отрицать это разрешение?",
+    "@txt_permision_gallery": {
+        "description": "Без этого разрешения это приложение не сможет получить фотографии из галереи. Вы уверены, что хотите отрицать это разрешение?"
+    },
+    "txt_your_msg": "Ваше сообщение...",
+    "@txt_your_msg": {
+        "description": "Ваше сообщение..."
+    },
+    "txt_user_cancel_process": "Пользователь отменил процесс",
+    "@txt_user_cancel_process": {
+        "description": "Пользователь отменил процесс"
+    },
+    "txt_thank_for_reg": "Спасибо за регистрацию",
+    "@txt_thank_for_reg": {
+        "description": "Спасибо за регистрацию"
+    },
+    "txt_verify_your_doc": "Как только мы проверим ваши документы.",
+    "@txt_verify_your_doc": {
+        "description": "Как только мы проверим ваши документы."
+    },
+     "txt_notify_you": "Мы скоро уведомим вас",
+    "@txt_notify_you": {
+        "description": "Мы скоро уведомим вас"
+    },
+    "txt_active_after_verification": "После проверки ваша учетная запись будет активна",
+    "@txt_active_after_verification": {
+        "description": "После проверки ваша учетная запись будет активна"
+    },
+    "val_enter_vehicle_num": "Пожалуйста, введите номер автомобиля",
+    "@val_enter_vehicle_num": {
+        "description": "Пожалуйста, введите номер автомобиля"
+    },
+     "val_upload_vehicle_front_img": "Пожалуйста, загрузите переднее изображение автомобиля",
+    "@val_upload_vehicle_front_img": {
+        "description": "Пожалуйста, загрузите переднее изображение автомобиля"
+    },
+     "val_upload_vehicle_back_img": "Пожалуйста, загрузите обратное изображение автомобиля",
+    "@val_upload_vehicle_back_img": {
+        "description": "Пожалуйста, загрузите обратное изображение автомобиля"
+    },
+     "val_enter_id_number": "Пожалуйста, введите номер идентификационной карты",
+    "@val_enter_id_number": {
+        "description": "Пожалуйста, введите номер идентификационной карты"
+    },
+     "val_upload_id_front_img": "Пожалуйста, загрузите идентификационную карту переднее изображение",
+    "@val_upload_id_front_img": {
+        "description": "Пожалуйста, загрузите идентификационную карту переднее изображение"
+    },
+     "val_upload_id_back_img": "Пожалуйста, загрузите изображение идентификационную карту обратно",
+    "@val_upload_id_back_img": {
+        "description": "Пожалуйста, загрузите изображение идентификационную карту обратно"
+    },
+     "val_select_id_start_date": "Пожалуйста, выберите дату начала идентификационной карты",
+    "@val_select_id_start_date": {
+        "description": "Пожалуйста, выберите дату начала идентификационной карты"
+    },
+     "val_select_id_end_date": "Пожалуйста, выберите дату окончания идентификационной карты",
+    "@val_select_id_end_date": {
+        "description": "Пожалуйста, выберите дату окончания идентификационной карты"
+    },
+     "val_enter_license_num": "Пожалуйста, введите номер лицензии",
+    "@val_enter_license_num": {
+        "description": "Пожалуйста, введите номер лицензии"
+    },
+     "val_upload_license_front_img": "Пожалуйста, загрузите лицензионное изображение",
+    "@val_upload_license_front_img": {
+        "description": "Пожалуйста, загрузите лицензионное изображение"
+    },
+     "val_upload_license_back_img": "Пожалуйста, загрузите лицензию обратно",
+    "@val_upload_license_back_img": {
+        "description": "Пожалуйста, загрузите лицензию обратно"
+    },
+     "val_select_license_start_date": "Пожалуйста, выберите дату начала лицензии",
+    "@val_select_license_start_date": {
+        "description": "Пожалуйста, выберите дату начала лицензии"
+    },
+     "val_select_license_end_date": "Пожалуйста, выберите дату окончания лицензии",
+    "@val_select_license_end_date": {
+        "description": "Пожалуйста, выберите дату окончания лицензии"
+    },
+     "val_enter_vehicle_reg_num": "Пожалуйста, введите регистрационный номер автомобиля",
+    "@val_enter_vehicle_reg_num": {
+        "description": "Пожалуйста, введите регистрационный номер автомобиля"
+    },
+     "val_upload_reg_front_img": "Пожалуйста, загрузите переднее изображение регистрации автомобиля",
+    "@val_upload_vehicle_front_img": {
+        "description": "Пожалуйста, загрузите переднее изображение регистрации автомобиля"
+    },
+     "val_upload_reg_back_img": "Пожалуйста, загрузите изображение регистрации автомобиля обратно",
+    "@txt_your_msg": {
+        "description": "Пожалуйста, загрузите изображение регистрации автомобиля обратно"
+    },
+     "val_enter_reg_start_date": "Пожалуйста, выберите дату начала регистрации транспортного средства",
+    "@val_enter_reg_start_date": {
+        "description": "Пожалуйста, выберите дату начала регистрации транспортного средства"
+    },
+     "val_enter_reg_end_date": "Пожалуйста, выберите дату окончания регистрации транспортного средства",
+    "@val_enter_reg_end_date": {
+        "description": "Пожалуйста, выберите дату окончания регистрации транспортного средства"
+    },
+    "val_enter_owner_num": "Пожалуйста, введите номер владения транспортным средством",
+    "@val_enter_owner_num": {
+        "description": "Пожалуйста, введите номер владения транспортным средством"
+    },
+     "val_upload_owner_front_img": "Пожалуйста, загрузите переднее изображение владения транспортным средством",
+    "@val_upload_owner_front_img": {
+        "description": "Пожалуйста, загрузите переднее изображение владения транспортным средством"
+    },
+     "val_upload_owner_back_img": "Пожалуйста, загрузите изображение владения транспортным средством",
+    "@val_upload_owner_back_img": {
+        "description": "Пожалуйста, загрузите изображение владения транспортным средством"
+    },
+     "val_enter_owner_start_date": "Пожалуйста, выберите дату начала владения транспортным средством",
+    "@val_enter_owner_start_date": {
+        "description": "Пожалуйста, выберите дату начала владения транспортным средством"
+    },
+     "val_enter_owner_end_date": "Пожалуйста, выберите дату окончания владения транспортным средством",
+    "@val_enter_owner_end_date": {
+        "description": "Пожалуйста, выберите дату окончания владения транспортным средством"
+    },
+     "val_enter_insurance_num": "Пожалуйста, введите номер страхования автомобиля",
+    "@val_enter_insurance_num": {
+        "description": "Пожалуйста, введите номер страхования автомобиля"
+    },
+      "val_upload_insurance_front_img": "Пожалуйста, загрузите переднее изображение страхования автомобиля",
+    "@val_upload_insurance_front_img": {
+        "description": "Пожалуйста, загрузите переднее изображение страхования автомобиля"
+    },
+      "val_upload_insurance_back_img": "Пожалуйста, загрузите обратное изображение страхования автомобиля",
+    "@val_upload_insurance_back_img": {
+        "description": "Пожалуйста, загрузите обратное изображение страхования автомобиля"
+    },
+      "val_insurance_start_date": "Пожалуйста, выберите дату начала страхования транспортных средств",
+    "@val_insurance_start_date": {
+        "description": "Пожалуйста, выберите дату начала страхования транспортных средств"
+    },
+      "val_insurance_end_date": "Пожалуйста, выберите дату окончания страхования транспортного средства",
+    "@val_insurance_end_date": {
+        "description": "Пожалуйста, выберите дату окончания страхования транспортного средства"
+    },
+      "val_inspection_num": "Пожалуйста, введите номер проверки автомобиля",
+    "@val_inspection_num": {
+        "description": "Пожалуйста, введите номер проверки автомобиля"
+    },
+      "val_inspection_front_img": "Пожалуйста, загрузите переднее изображение проверки автомобиля",
+    "@val_inspection_front_img": {
+        "description": "Пожалуйста, загрузите переднее изображение проверки автомобиля"
+    },
+      "val_inspection_back_img": "Пожалуйста, загрузите проверку автомобиля обратно",
+    "@val_inspection_back_img": {
+        "description": "Пожалуйста, загрузите проверку автомобиля обратно"
+    },
+     "val_inspection_start_date": "Пожалуйста, выберите дату начала проверки транспортного средства",
+    "@val_inspection_start_date": {
+        "description": "Пожалуйста, выберите дату начала проверки транспортного средства"
+    },
+     "val_inspection_end_date": "Пожалуйста, выберите дату окончания проверки автомобиля",
+    "@val_inspection_end_date": {
+        "description": "Пожалуйста, выберите дату окончания проверки автомобиля"
+    },
+     "val_manifest_num": "Пожалуйста, введите манифестный номер автомобиля",
+    "@val_manifest_num": {
+        "description": "Пожалуйста, введите манифестный номер автомобиля"
+    },
+     "val_manifest_front_img": "Пожалуйста, загрузите переднее изображение декларации транспортного средства",
+     "@val_manifest_front_img": {
+        "description": "Пожалуйста, загрузите переднее изображение декларации транспортного средства"
+    },
+     "val_manifest_back_img": "Пожалуйста, загрузите обратное изображение декларации транспортного средства",
+    "@val_manifest_back_img": {
+        "description": "Пожалуйста, загрузите обратное изображение декларации транспортного средства"
+    },
+     "val_manifest_start_date": "Пожалуйста, выберите дату начала регистрации транспортного средства",
+    "@val_manifest_start_date": {
+        "description": "Пожалуйста, выберите дату начала регистрации транспортного средства"
+    },
+     "val_manifest_end_date": "Пожалуйста, выберите дату окончания транспортного средства.",
+    "@val_manifest_end_date": {
+        "description": "Пожалуйста, выберите дату окончания транспортного средства."
+    },
+     "val_radio_num": "Пожалуйста, введите номер радио налога на транспортное средство",
+    "@val_radio_num": {
+        "description": "Пожалуйста, введите номер радио налога на транспортное средство"
+    },
+     "val_radio_front_img": "Пожалуйста, загрузите фронт налога на радио -налог",
+    "@val_radio_front_img": {
+        "description": "Пожалуйста, загрузите фронт налога на радио -налог"
+    },
+     "val_radio_back_img": "Пожалуйста, загрузите изображение радио налога на транспортное средство",
+    "@val_radio_back_img": {
+        "description": "Пожалуйста, загрузите изображение радио налога на транспортное средство"
+    },
+     "val_radio_start_date": "Пожалуйста, выберите дату начала радио налога на транспортное средство",
+    "@val_radio_start_date": {
+        "description": "Пожалуйста, выберите дату начала радио налога на транспортное средство"
+    },
+     "val_radio_end_date": "Пожалуйста, выберите дату окончания радио налога на транспортное средство",
+    "@val_radio_end_date": {
+        "description": "Пожалуйста, выберите дату окончания радио налога на транспортное средство"
+    },
+      "txt_file_selected": "Файл выбран",
+    "@txt_file_selected": {
+        "description": "Файл выбран"
+    },
+       "txt_nofile_selected": "Файл не выбран",
+    "@txt_nofile_selected": {
+        "description": "Файл не выбран"
+    },
+    "txt_server_error": "Ошибка сервера, попробуйте еще раз",
+    "@txt_server_error": {
+        "description": "Ошибка сервера, попробуйте еще раз"
+    },
+     "val_valid_otp": "Пожалуйста, введите действительный OTP",
+    "@val_valid_otp": {
+        "description": "Пожалуйста, введите действительный OTP"
+    },
+     "txt_double_click": "Двойной щелчок, чтобы выйти из приложения",
+    "@txt_double_click": {
+        "description": "Двойной щелчок, чтобы выйти из приложения"
+    },
+      "txt_pick_from": "Пикап от",
+    "@txt_pick_from": {
+        "description": "Пикап от"
+    },
+      "txt_transaction_id": "Номер транзакции",
+    "@txt_pick_from": {
+        "description": "Номер транзакции"
+    },
+       "txt_total_price": "Итоговая цена",
+    "@txt_total_price": {
+        "description": "Итоговая цена"
+    },
+     "txt_complete": "Завершенный",
+    "@txt_complete": {
+        "description": "Завершенный"
+    },
+      "txt_date": "Дата",
+    "@txt_date": {
+        "description": "Дата"
+    },
+      "txt_by": "От",
+    "@txt_by": {
+        "description": "От"
+    },
+       "txt_cancelled": "Отменен",
+    "@txt_cancelled": {
+        "description": "Отменен"
+    },
+       "txt_phone_number": "Номер телефона",
+    "@txt_phone_number": {
+        "description": "Номер телефона"
+    },
+       "txt_upload": "Загрузить",
+    "@txt_upload": {
+        "description": "Загрузить"
+    },
+       "txt_valid_phone": "Пожалуйста, введите действительный телефон №",
+    "@txt_valid_phone": {
+        "description": "Пожалуйста, введите действительный телефон №"
+    },
+       "txt_maker_name": "Пожалуйста, введите подробную информацию",
+    "@txt_maker_name": {
+        "description": "Пожалуйста, введите подробную информацию"
+    },
+       "txt_model_name": "Пожалуйста, введите название модели автомобиля",
+    "@txt_model_name": {
+        "description": "Пожалуйста, введите название модели автомобиля"
+    },
+       "txt_color_name": "Пожалуйста, введите название цвета автомобиля",
+    "@txt_color_name": {
+        "description": "Пожалуйста, введите название цвета автомобиля"
+    },
+       "txt_select_passenger": "Пожалуйста, выберите номер пассажира",
+    "@txt_select_passenger": {
+        "description": "Пожалуйста, выберите номер пассажира"
+    },
+       "txt_valid_data": "Введите допустимые данные",
+    "@txt_valid_data": {
+        "description": "Введите допустимые данные"
+    },
+       "txt_select_vehicle_pic": "Пожалуйста, выберите картинки автомобиля",
+    "@txt_select_vehicle_pic": {
+        "description": "Пожалуйста, выберите картинки автомобиля"
+    },
+        "txt_location_permission": "Разрешение местоположения",
+    "@txt_location_permission": {
+        "description": "Разрешение местоположения"
+    },
+    "txt_permision_location": "Без этого разрешения это приложение не сможет получить ваше местоположение и адрес. Вы уверены, что хотите отрицать это разрешение?",
+    "@txt_permision_location": {
+        "description": "Без этого разрешения это приложение не сможет получить ваше местоположение и адрес. Вы уверены, что хотите отрицать это разрешение?"
+    },
+    "txt_permision_setting": "Если вы хотите использовать это приложение, вы должны включить разрешения в настройке разрешений системы",
+    "@txt_permision_setting": {
+        "description": "Если вы хотите использовать это приложение, вы должны включить разрешения в настройке разрешений системы"
+    },
+     "txt_setting": "Настройки",
+    "@txt_setting": {
+        "description": "Настройки"
+    },
+     "txt_exit": "Выход",
+    "@txt_exit": {
+        "description": "Выход"
+    },
+    "txt_select_max": "Выберите Max 10 изображений",
+    "@txt_exit": {
+        "description": "Выберите Max 10 изображений"
+    },
+    "txt_car_maker": "Автомобиль",
+    "@txt_car_maker": {
+        "description": "Автомобиль"
+    },
+     "txt_car_model": "Модель автомобиля",
+    "@txt_car_model": {
+        "description": "Модель автомобиля"
+    },
+     "txt_car_color": "Цвет автомобиля",
+    "@txt_car_color": {
+        "description": "Цвет автомобиля"
+    },
+     "txt_no_pass": "Количество пассажира",
+    "@txt_no_pass": {
+        "description": "Количество пассажира"
+    },
+     "txt_vehicle_pic": "Картина автомобиля",
+    "@txt_vehicle_pic": {
+        "description": "Картина автомобиля"
+    },
+     "txt_driver_id": "Идентификационная карта драйвера",
+    "@txt_driver_id": {
+        "description": "Идентификационная карта драйвера"
+    },
+     "txt_driver_driving": "Водительские права водительских прав",
+    "@txt_driver_driving": {
+        "description": "Водительские права водительских прав"
+    },
+     "txt_vehicle_reg": "Регистрация транспортных средств",
+    "@txt_vehicle_reg": {
+        "description": "Регистрация транспортных средств"
+    },
+     "txt_vehicle_owner": "Владение транспортным средством",
+    "@txt_vehicle_owner": {
+        "description": "Владение транспортным средством"
+    },
+     "txt_vehicle_insur": "Страхование транспортного средства",
+    "@txt_vehicle_insur": {
+        "description": "Страхование транспортного средства"
+    },
+      "txt_vehicle_inspec": "Техосмотр",
+    "@txt_vehicle_inspec": {
+        "description": "Техосмотр"
+    },
+      "txt_vehicle_mani": "Автомобиль Манифест",
+    "@txt_vehicle_mani": {
+        "description": "Автомобиль Манифест"
+    },
+     "txt_vehicle_radio": "Налог на транспортное средство",
+    "@txt_vehicle_radio": {
+        "description": "Налог на транспортное средство"
+    },
+      "txt_maker": "Производитель",
+    "@txt_maker": {
+        "description": "Производитель"
+    },
+      "txt_model": "Модель",
+    "@txt_model": {
+        "description": "Модель"
+    },
+      "txt_color": "Цвет",
+    "@txt_color": {
+        "description": "Цвет"
+    },
+       "txt_passenger": "Пассажир",
+    "@txt_passenger": {
+        "description": "Пассажир"
+    },
+      "txt_max_10": "(Макс 10)",
+    "@txt_max_10": {
+        "description": "(Макс 10)"
+    },
+    "txt_uploaded": "Загружен",
+    "@txt_uploaded": {
+        "description": "Загружен"
+    },
+     "val_name_len": "Введите допустимое имя",
+    "@val_name_len": {
+        "description": "Введите допустимое имя"
+    },
+    "val_driving_license": "Введите действительные водительские права",
+    "@val_driving_license": {
+        "description": "Введите действительные водительские права"
+    },
+    "txt_select": "Выбирать",
+    "@txt_select": {
+        "description": "Выбирать"
+    },
+    "val_IdCard": "Введите действительную идентификационную карту",
+    "@tval_IdCard": {
+        "description": "Введите действительную идентификационную карту"
+    },
+    "val_reg_len": "Регистрационный номер не должен превышать более 10 буквенно -цифровых символов",
+    "@val_reg_len": {
+        "description": "Регистрационный номер не должен превышать более 10 буквенно -цифровых символов"
+    },
+    "val_owner_len": "Введите действительное имя владельца",
+    "@val_owner_len": {
+        "description": "Введите действительное имя владельца"
+    },
+    "txt_insurance_len": "Номер страхования не должен превышать более 30 буквенно -цифровых символов",
+    "@txt_insurance_len": {
+        "description": "Номер страхования не должен превышать более 30 буквенно -цифровых символов"
+    },
+     "txt_change_lng": "Изменить язык",
+    "@txt_change_lng": {
+        "description": "Изменить язык"
+    },
+     "txt_pls_enter_queries": "Пожалуйста, введите свои запросы",
+    "@txt_pls_enter_queries": {
+        "description": "Пожалуйста, введите свои запросы"
+    },
+     "txt_query_length": "Длина запросов должна составлять мин 10 символов",
+    "@txt_query_length": {
+        "description": "Длина запросов должна составлять мин 10 символов"
+    },
+     "txt_take_live_photo": "Сделайте живое фото",
+    "@txt_take_live_photo": {
+        "description": "Сделайте живое фото"
+    },
+     "txt_loading_camera": "Загрузка камеры ...",
+    "@txt_loading_camera": {
+        "description": "Загрузка камеры ..."
+    },
+     "txt_retake": "Вертеть",
+    "@txt_retake": {
+        "description": "Вертеть"
+    },
+     "txt_confirm": "Подтверждать",
+    "@txt_confirm": {
+        "description": "Подтверждать"
+    },
+     "txt_no_booking_for_schedule": "Нет бронирования для расписания езды",
+    "@txt_no_booking_for_schedule": {
+        "description": "Нет бронирования для расписания езды"
+    },
+     "txt_schedule_ride": "Запланировать поездку",
+    "@txt_schedule_ride": {
+        "description": "Запланировать поездку"
+    },
+     "txt_scheduled_rides": "Запланированные поездки",
+    "@txt_scheduled_rides": {
+        "description": "Запланированные поездки"
+    },
+     "txt_cancel_ride": "Отменить поездку",
+    "@txt_cancel_ride": {
+        "description": "Отменить поездку"
+    },
+     "txt_payment_pending": "Оплата в ожидании",
+    "@txt_payment_pending": {
+        "description": "Оплата в ожидании"
+    },
+     "txt_accepted": "Принял",
+    "@txt_accepted": {
+        "description": "Принял"
+    },
+     "txt_ride_pending": "Ездить в ожидании",
+    "@txt_ride_pending": {
+        "description": "Ездить в ожидании"
+    },
+     "txt_wallet": "Кошелек",
+    "@txt_wallet": {
+        "description": "Кошелек"
+    },
+     "txt_send_request": "Послать запрос",
+    "@txt_send_request": {
+        "description": "Послать запрос"
+    },
+     "txt_note_remark": "Примечание/замечание",
+    "@txt_note_remark": {
+        "description": "Примечание/замечание"
+    },
+     "txt_withdrawal_amt": "Сумма снятия",
+    "@txt_withdrawal_amt": {
+        "description": "Сумма снятия"
+    },
+     "txt_history": "История",
+    "@txt_history": {
+        "description": "История"
+    },
+     "txt_skip": "Пропускать",
+    "@txt_skip": {
+        "description": "Пропускать"
+    },
+     "txt_success": "Успех",
+    "@txt_success": {
+        "description": "Успех"
+    },
+     "txt_enter_amt": "Введите сумму",
+    "@txt_": {
+        "description": "Введите сумму"
+    },
+     "txt_enter_valid_amt": "Введите допустимую сумму",
+    "@txt_enter_valid_amt": {
+        "description": "Введите допустимую сумму"
+    },
+     "txt_owner_name": "Имя владельца",
+    "@txt_owner_name": {
+        "description": "Имя владельца"
+    },
+     "txt_enter_owner_name": "Пожалуйста, введите имя владельца",
+    "@txt_enter_owner_name": {
+        "description": "Пожалуйста, введите имя владельца"
+    },
+     "txt_enter_valid_owner_name": "Введите действительное имя владельца",
+    "@txt_enter_valid_owner_name": {
+        "description": "Введите действительное имя владельца"
+    },
+     "txt_enter_valid_maker_name": "Введите действительное имя производителя",
+    "@txt_enter_valid_maker_name": {
+        "description": "Введите действительное имя производителя"
+    },
+     "txt_valid_color_name": "Введите допустимое имя цвета",
+    "@txt_valid_color_name": {
+        "description": "Введите допустимое имя цвета"
+    },
+     "txt_enter_color_name": "Пожалуйста, введите имя цвета",
+    "@txt_enter_color_name": {
+        "description": "Пожалуйста, введите имя цвета"
+    },
+     "txt_request_mode": "Режим запроса",
+    "@txt_request_mode": {
+        "description": "Режим запроса"
+    },
+     "txt_request_pending": "Запрос ожидает выполнения",
+    "@txt_request_pending": {
+        "description": "Запрос ожидает выполнения"
+    },
+     "txt_request_decline": "Запросить упадок",
+    "@txt_request_decline": {
+        "description": "Запросить упадок"
+    },
+     "txt_request_date": "Дата заказа",
+    "@txt_request_date": {
+        "description": "Дата заказа"
+    },
+     "txt_request_status": "Запрос статус",
+    "@txt_request_status": {
+        "description": "Запрос статус"
+    },
+     "txt_enter_vaild_name": "Введите допустимое имя",
+    "@txt_enter_vaild_name": {
+        "description": "Введите допустимое имя"
+    },
+     "txt_update": "Обновлять",
+    "@txt_update": {
+        "description": "Обновлять"
+    },
+     "txt_enter_details_of_your": "Введите подробности вашего",
+    "@txt_enter_details_of_your": {
+        "description": "Введите подробности вашего"
+    },
+     "txt_upload_photo_of_your": "Загрузите фото вашего",
+    "@txt_upload_photo_of_your": {
+        "description": "Загрузите фото вашего"
+    },
+     "txt_vehicle": "Транспортное средство",
+    "@txt_vehicle": {
+        "description": "Транспортное средство"
+    },
+     "txt_select_min_one_img": "Выберите минимум 1 изображение",
+    "@txt_select_min_one_img": {
+        "description": "Выберите минимум 1 изображение"
+    },
+     "txt_details": "Подробности",
+    "@txt_details": {
+        "description": "Подробности"
+    },
+     "txt_in_progress": "В ходе выполнения",
+    "@txt_in_progress": {
+        "description": "В ходе выполнения"
+    },
+     "txt_complete_ride": "Полная езда",
+    "@txt_complete_ride": {
+        "description": "Полная езда"
+    },
+     "txt_your_ride_completed": "Ваша поездка завершена",
+    "@txt_your_ride_completed": {
+        "description": "Ваша поездка завершена"
+    },
+     "txt_ride_completed": "Поездка завершена",
+    "@txt_ride_completed": {
+        "description": "Поездка завершена"
+    },
+     "txt_security_deposit": "Залог",
+    "@txt_security_deposit": {
+        "description": "Залог"
+    },
+     "txt_complete_security_deposit_process": "Заполните процесс обеспечения депозита",
+    "@txt_complete_security_deposit_process": {
+        "description": "Заполните процесс обеспечения депозита"
+    },
+     "txt_checked_pay_later": "Вы проверили оплату труда в депозите позже",
+    "@txt_checked_pay_later": {
+        "description": "Вы проверили оплату труда в депозите позже"
+    },
+     "txt_already_done_online_payment": "Вы уже сделали онлайн -платеж",
+    "@txt_already_done_online_payment": {
+        "description": "Вы уже сделали онлайн -платеж"
+    },
+     "txt_choose_pay_menthod": "Выберите способ оплаты",
+    "@txt_choose_pay_menthod": {
+        "description": "Выберите способ оплаты"
+    },
+     "txt_pay_now": "Заплатить сейчас",
+    "@txt_pay_now": {
+        "description": "Заплатить сейчас"
+    },
+     "txt_do_later": "Я сделаю залог позже",
+    "@txt_do_later": {
+        "description": "Я сделаю залог позже"
+    },
+     "txt_gender_pref": "Гендерные предпочтения",
+    "@txt_gender_pref": {
+        "description": "Гендерные предпочтения"
+    },
+     "txt_gender_you_want_to_prefer": "(Выберите пол, который вы хотите предпочесть, чтобы пройти езду)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(Выберите пол, который вы хотите предпочесть, чтобы пройти езду)"
+    },
+     "txt_male": "Мужской",
+    "@txt_male": {
+        "description": "Мужской"
+    },
+     "txt_female": "Женский",
+    "@txt_female": {
+        "description": "Женский"
+    },
+     "txt_other": "Другой",
+    "@txt_other": {
+        "description": "Другой"
+    },
+     "txt_no_pref": "Нет предпочтений",
+    "@txt_no_pref": {
+        "description": "Нет предпочтений"
+    },
+     "txt_update_details_of_user": "Обновить детали вашего",
+    "@txt_update_details_of_user": {
+        "description": "Обновить детали вашего"
+    },
+     "txt_criminal_record_certificate": "Сертификат судимости",
+    "@txt_criminal_record_certificate": {
+        "description": "Сертификат судимости"
+    },
+     "txt_criminal_record": "Криминальная запись",
+    "@txt_criminal_record": {
+        "description": "Криминальная запись"
+    },
+     "txt_update_your": "Обновите свой",
+    "@txt_update_your": {
+        "description": "Обновите свой"
+    },
+     "txt_document": "документ",
+    "@txt_document": {
+        "description": "документ"
+    },
+      "txt_select_your_gender": "Выбери свой пол",
+    "@txt_select_your_gender": {
+        "description": "Выбери свой пол"
+    },
+      "txt_gender": "Пол",
+    "@txt_gender": {
+        "description": "Пол"
+    },
+      "txt_ride_type": "Тип езды",
+    "@txt_ride_type": {
+        "description": "Тип езды"
+    },
+      "txt_rejected": "Отклоненный",
+    "@txt_rejected": {
+        "description": "Отклоненный"
+    },
+      "txt_km": "км",
+    "@txt_km": {
+        "description": "км"
+    },
+      "txt_select_reason": "Выберите разум",
+    "@txt_select_reason": {
+        "description": "Выберите разум"
+    },
+      "txt_select_gender_pref": "Выберите гендерные предпочтения",
+    "@txt_select_gender_pref": {
+        "description": "Выберите гендерные предпочтения"
+    },
+      "txt_update_documents": "Обновить документы",
+    "@txt_update_documents": {
+        "description": "Обновить документы"
+    },
+      "txt_are_you_sure_to_logout": "Вы действительно хотите выйти?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "Вы действительно хотите выйти?"
+    },
+      "txt_my_rides": "Мои поездки",
+    "@txt_my_rides": {
+        "description": "Мои поездки"
+    },
+      "txt_rating": "Рейтинг",
+    "@txt_rating": {
+        "description": "Рейтинг"
+    },
+      "txt_daily_ride": "Ежедневная езда",
+    "@txt_daily_ride": {
+        "description": "Ежедневная езда"
+    },
+     "txt_rental_ride": "Аренда езды",
+    "@txt_rental_ride": {
+        "description": "Аренда езды"
+    },
+     "txt_enter_your_reason": "Пожалуйста, введите свою причину",
+    "@txt_enter_your_reason": {
+        "description": "Пожалуйста, введите свою причину"
+    },
+     "txt_select_ride_type": "Выберите тип поездки",
+    "@txt_select_ride_type": {
+        "description": "Выберите тип поездки"
+    },
+     "txt_profile_under_review": "Ваш профиль находится в рассмотрении, вы не можете ездить, пока администратор не активирует его.",
+    "@txt_profile_under_review": {
+        "description": "Ваш профиль находится в рассмотрении, вы не можете ездить, пока администратор не активирует его."
+    },
+     "txt_your_account_deactivateed": "Ваша учетная запись была отключена администратором, пожалуйста, свяжитесь с ними.",
+    "@txt_your_account_deactivateed": {
+        "description": "Ваша учетная запись была отключена администратором, пожалуйста, свяжитесь с ними."
+    },
+     "txt_accept_terms_privacy": "Подписавшись, вы принимаете условия услуг и политики конфиденциальности",
+    "@txt_accept_terms_privacy": {
+        "description": "Подписавшись, вы принимаете условия услуг и политики конфиденциальности"
+    },
+     "txt_please_accept_terms_privacy": "Примите условия услуг и политики конфиденциальности",
+    "@txt_please_accept_terms_privacy": {
+        "description": "Примите условия услуг и политики конфиденциальности"
+    },
+     "txt_thanks_for_registering": "Спасибо за регистрацию у нас",
+    "@txt_thanks_for_registering": {
+        "description": "Спасибо за регистрацию у нас"
+    },
+     "txt_application_under_review_check_status": "Ваша заявка находится под проверкой, вы можете проверить статус на верхней красной полосе на домашней странице.",
+    "@txt_application_under_review_check_status": {
+        "description": "Ваша заявка находится под проверкой, вы можете проверить статус на верхней красной полосе на домашней странице."
+    },
+     "txt_update_details": "Обновить детали",
+    "@txt_update_details": {
+        "description": "Обновить детали"
+    },
+     "txt_ride_details": "Детали езды",
+    "@txt_ride_details": {
+        "description": "Детали езды"
+    },
+     "txt_mpesa": "Лоза",
+    "@txt_mpesa": {
+        "description": "Лоза"
+    },
+     "txt_image": "Изображение",
+    "@txt_image": {
+        "description": "Изображение"
+    },
+     "txt_check_internet_try_again": "Пожалуйста, проверьте подключение к Интернету и попробуйте еще раз",
+    "@txt_check_internet_try_again": {
+        "description": "Пожалуйста, проверьте подключение к Интернету и попробуйте еще раз"
+    },
+     "txt_oops_no_internet": "Ой, нет подключения к Интернету",
+    "@txt_oops_no_internet": {
+        "description": "Ой, нет подключения к Интернету"
+    },
+     "txt_package_complete_renew": "Ваш пакет был завершен либо заполнить поездку, либо дождаться, пока пользователь обновит пакет",
+    "@txt_package_complete_renew": {
+        "description": "Ваш пакет был завершен либо заполнить поездку, либо дождаться, пока пользователь обновит пакет"
+    },
+     "txt_wait_for_response": "Жду ответа",
+    "@txt_wait_for_response": {
+        "description": "Жду ответа"
+    },
+     "txt_ride_complete_in": "Ездить в комплекте в",
+    "@txt_ride_complete_in": {
+        "description": "Ездить в комплекте в"
+    },
+     "txt_something_went_wrong": "Что-то пошло не так",
+    "@txt_something_went_wrong": {
+        "description": "Что-то пошло не так"
+    },
+     "txt_refresh_page_try_later": "Попробуйте обновить страницу или попробуйте позже.",
+    "@txt_refresh_page_try_later": {
+        "description": "Попробуйте обновить страницу или попробуйте позже."
+    },
+     "txt_permission_required": "Требуется разрешение",
+    "@txt_permission_required": {
+        "description": "Требуется разрешение"
+    },
+     "txt_enable_permission": "Включить разрешение",
+    "@txt_enable_permission": {
+        "description": "Включить разрешение"
+    },
+     "txt_pick_your_country": "Выберите свою страну",
+    "@txt_pick_your_country": {
+        "description": "Выберите свою страну"
+    },
+     "txt_cant_update_ride_type": "Вы не можете обновить свой тип поездки в постоянной поездке.",
+    "@txt_cant_update_ride_type": {
+        "description": "Вы не можете обновить свой тип поездки в постоянной поездке."
+    },
+     "txt_check_connect_timeout": "Проверьте время подключения !!",
+    "@txt_check_connect_timeout": {
+        "description": "Проверьте время подключения !!"
+    },
+     "txt_timeout_exception": "Тайм -исключение.",
+    "@txt_timeout_exception": {
+        "description": "Тайм -исключение."
+    },
+     "txt_request_cancel_from_user": "Запрос отменить от пользователя.",
+    "@txt_request_cancel_from_user": {
+        "description": "Запрос отменить от пользователя."
+    },
+     "txt_getting_wrong_response": "Мы получаем неправильный ответ.",
+    "@txt_getting_wrong_response": {
+        "description": "Мы получаем неправильный ответ."
+    },
+     "txt_connection_error": "Ошибка подключения.",
+    "@txt_connection_error": {
+        "description": "Ошибка подключения."
+    },
+     "txt_server_not_connected_contact_admin": "Сервер не подключен, пожалуйста, свяжитесь с Admin.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "Сервер не подключен, пожалуйста, свяжитесь с Admin."
+    },
+     "txt_socket_not_connect": "Сокет не подключен ...",
+    "@txt_socket_not_connect": {
+        "description": "Сокет не подключен ..."
+    },
+     "txt_user_renewed_package": "Пользователь обновил пакет!",
+    "@txt_user_renewed_package": {
+        "description": "Пользователь обновил пакет!"
+    },
+     "txt_bear_per_km": "Пользователь Медведь за км заряды!",
+    "@txt_bear_per_km": {
+        "description": "Пользователь Медведь за км заряды!"
+    },
+     "txt_wait_for_user": "Подождите пользователя",
+    "@txt_wait_for_user": {
+        "description": "Подождите пользователя"
+    },
+     "txt_bysigning_you_accept": "Подписавшись, вы принимаете",
+    "@txt_bysigning_you_accept": {
+        "description": "Подписавшись, вы принимаете"
+    },
+     "txt_terms_service": "Услуги услуг",
+    "@txt_terms_service": {
+        "description": "Услуги услуг"
+    },
+     "txt_and": "и",
+    "@txt_and": {
+        "description": "и"
+    },
+     "txt_privacy_policy": "политика конфиденциальности",
+    "@txt_privacy_policy": {
+        "description": "политика конфиденциальности"
+    },
+     "txt_cash_received": "Наличные получил",
+    "@txt_cash_received": {
+        "description": "Наличные получил"
+    },
+     "txt_click_to_take_photo": "Нажмите, чтобы сфотографировать",
+    "@txt_click_to_take_photo": {
+        "description": "Нажмите, чтобы сфотографировать"
+    },
+     "txt_camera_setting_permission": "Разрешение на камеру не включено, пожалуйста, включите разрешение",
+    "@txt_camera_setting_permission": {
+        "description": "Разрешение на камеру не включено, пожалуйста, включите разрешение"
+    },
+     "txt_gallery_setting_permission": "Разрешение на галерею не включено, пожалуйста, включите разрешение",
+    "@txt_gallery_setting_permission": {
+        "description": "Разрешение на галерею не включено, пожалуйста, включите разрешение"
+    },
+     "txt_unauthorized_login": "Несанкционировать вход в систему",
+    "@txt_unauthorized_login": {
+        "description": "Несанкционировать вход в систему"
+    },
+     "txt_login_detect": "Новый вход обнаруживается в другом устройстве, пожалуйста, войдите в систему, чтобы использовать на этом устройстве",
+    "@txt_login_detect": {
+        "description": "Новый вход обнаруживается в другом устройстве, пожалуйста, войдите в систему, чтобы использовать на этом устройстве"
+    },
+     "txt_location_setting_permission": "Разрешение на местоположение не включено, пожалуйста, включите разрешение",
+    "@txt_location_setting_permission": {
+        "description": "Разрешение на местоположение не включено, пожалуйста, включите разрешение"
+    },
+     "txt_delete_account": "Удалить аккаунт",
+    "@txt_delete_account": {
+        "description": "Удалить аккаунт"
+    },
+     "txt_sure_to_delete": "Вы уверены, что хотите удалить свою учетную запись?",
+    "@txt_sure_to_delete": {
+        "description": "Вы уверены, что хотите удалить свою учетную запись?"
+    },
+     "txt_open_with": "Открыть с",
+    "@txt_open_with": {
+        "description": "Открыть с"
+    },
+     "txt_new_request_from": "Новый запрос",
+    "@txt_new_request_from": {
+        "description": "Новый запрос"
+    },
+     "txt_vehicle_assign": "Транспортное средство, назначенное администратором,",
+    "@txt_vehicle_assign": {
+        "description": "Транспортное средство, назначенное администратором,"
+    },
+     "txt_admin_delete": "Админ удалил ваш аккаунт, дальше пользоваться приложением нельзя. Пожалуйста, свяжитесь с администратором.",
+    "@txt_admin_delete": {
+        "description": "Админ удалил ваш аккаунт, дальше пользоваться приложением нельзя. Пожалуйста, свяжитесь с администратором."
+    }
+ }

@@ -1,0 +1,1606 @@
+{
+    "txt_login": "Teken aan",
+    "@txt_login": {
+        "description": "Teken aan"
+    },
+    "txt_mobile_number": "Selfoon nommer",
+    "@txt_mobile_number": {
+        "description": "Selfoon nommer"
+    },
+    "txt_submit": "Indien",
+    "@txt_submit": {
+        "description": "Indien"
+    },
+    "txt_continue_with": "Of gaan voort met",
+    "@txt_continue_with": {
+        "description": "Of gaan voort met"
+    },
+    "txt_select_lng": "Kies taal",
+    "@txt_select_lng": {
+        "description": "Kies taal"
+    },
+    "txt_select_country": "Kies land",
+    "@txt_select_country": {
+        "description": "Kies land"
+    },
+    "txt_search": "Soek",
+    "@txt_search": {
+        "description": "Soek"
+    },
+    "txt_last_pick": "Laaste keuse",
+    "@txt_last_pick": {
+        "description": "Laaste keuse"
+    },
+    "txt_successfully": "suksesvol",
+    "@txt_successfully": {
+        "description": "suksesvol"
+    },
+    "txt_your_otp": "U OTP is",
+    "@txt_your_otp": {
+        "description": "U OTP is"
+    },
+    "txt_otp_sent_successfully": "OTP het suksesvol gestuur",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP het suksesvol gestuur"
+    },
+    "txt_verification": "Verifikasie",
+    "@txt_verification": {
+        "description": "Verifikasie"
+    },
+    "txt_enter_code_we_sent": "Voer die verifikasiekode in wat ons pas op u selfoonnommer gestuur het",
+    "@txt_enter_code_we_sent": {
+        "description": "Voer die verifikasiekode in wat ons pas op u selfoonnommer gestuur het"
+    },
+    "txt_resend_otp": "Resend OTP",
+    "@txt_resend_otp": {
+        "description": "Resend OTP"
+    },
+    "txt_verify": "Bevestig",
+    "@txt_verify": {
+        "description": "Bevestig"
+    },
+    "txt_error": "Fout",
+    "@txt_error": {
+        "description": "Fout"
+    },
+    "txt_ok": "Ok",
+    "@txt_ok": {
+        "description": "Ok"
+    },
+    "txt_upload_details": "Laai besonderhede op",
+    "@txt_upload_details": {
+        "description": "Laai besonderhede op"
+    },
+    "txt_vehicle_picture": "Voertuigfoto's",
+    "@txt_vehicle_picture": {
+        "description": "Voertuigfoto's"
+    },
+    "txt_vehicle_number": "Voertuignommer",
+    "@txt_vehicle_number": {
+        "description": "Voertuignommer"
+    },
+    "txt_upload_image": "Laai beeld op",
+    "@txt_upload_image": {
+        "description": "Laai beeld op"
+    },
+    "txt_front": "Voorkant",
+    "@txt_front": {
+        "description": "Voorkant"
+    },
+    "txt_back": "Rug",
+    "@txt_back": {
+        "description": "Rug"
+    },
+    "txt_driver_id_card": "Bestuurderidentifikasiekaart",
+    "@txt_driver_id_card": {
+        "description": "Bestuurderidentifikasiekaart"
+    },
+    "txt_id_number": "ID-nommer",
+    "@txt_id_number": {
+        "description": "ID-nommer"
+    },
+    "txt_valid_from": "Geldig vanaf",
+    "@txt_valid_from": {
+        "description": "Geldig vanaf"
+    },
+    "txt_valid_until": "Geldig tot",
+    "@txt_valid_until": {
+        "description": "Geldig tot"
+    },
+    "txt_driver_driving_license": "Bestuurderbestuurslisensie",
+    "@txt_driver_driving_license": {
+        "description": "Bestuurderbestuurslisensie"
+    },
+    "txt_license_number": "Lisensienommer",
+    "@txt_license_number": {
+        "description": "Lisensienommer"
+    },
+    "txt_vehicle_registration": "Voertuigregistrasie",
+    "@txt_vehicle_registration": {
+        "description": "Voertuigregistrasie"
+    },
+    "txt_registration_number": "Registrasienommer",
+    "@txt_registration_number": {
+        "description": "Registrasienommer"
+    },
+    "txt_next": "Vervolgens",
+    "@txt_next": {
+        "description": "Vervolgens"
+    },
+    "txt_vehicle_ownership": "Voertuigbesit",
+    "@txt_vehicle_ownership": {
+        "description": "Voertuigbesit"
+    },
+    "txt_ownership_number": "Eienaarnommer",
+    "@txt_ownership_number": {
+        "description": "Eienaarnommer"
+    },
+    "txt_vehicle_insurance": "Voertuigversekering",
+    "@txt_vehicle_insurance": {
+        "description": "Voertuigversekering"
+    },
+    "txt_vehicle_inspection": "Voertuiginspeksie",
+    "@txt_vehicle_inspection": {
+        "description": "Voertuiginspeksie"
+    },
+    "txt_insurance_number": "Versekeringsnommer",
+    "@txt_insurance_number": {
+        "description": "Versekeringsnommer"
+    },
+    "txt_inspection_number": "Inspeksienommer",
+    "@txt_inspection_number": {
+        "description": "Inspeksienommer"
+    },
+    "txt_vehicle_manifest": "Voertuig manifesteer",
+    "@txt_vehicle_manifest": {
+        "description": "Voertuig manifesteer"
+    },
+    "txt_manifest_number": "Manifeste nommer",
+    "@txt_manifest_number": {
+        "description": "Manifeste nommer"
+    },
+    "txt_vehicle_radio_tax": "Voertuigradiobelasting",
+    "@txt_vehicle_radio_tax": {
+        "description": "Voertuigradiobelasting"
+    },
+    "txt_radio_tax_number": "Radiobelastingnommer",
+    "@txt_radio_tax_number": {
+        "description": "Radiobelastingnommer"
+    },
+    "txt_done": "Gedoen",
+    "@txt_done": {
+        "description": "Gedoen"
+    },
+    "txt_almost_done": "Amper klaar! Voer mobiele nommer in om voort te gaan",
+    "@txt_almost_done": {
+        "description": "Amper klaar! Voer mobiele nommer in om voort te gaan"
+    },
+    "txt_menu": "SPYSKAART",
+    "@txt_menu": {
+        "description": "SPYSKAART"
+    },
+    "txt_driver_profile": "Bestuurderprofiel",
+    "@txt_driver_profile": {
+        "description": "Bestuurderprofiel"
+    },
+    "txt_upload_doc_info": "Opgelaaide dokument en motorinligting.",
+    "@txt_upload_doc_info": {
+        "description": "Opgelaaide dokument en motorinligting."
+    },
+    "txt_add_new_doc": "Voeg nuwe dokument by",
+    "@txt_add_new_doc": {
+        "description": "Voeg nuwe dokument by"
+    },
+    "txt_bank_info": "Bankinligting",
+    "@txt_bank_info": {
+        "description": "Bankinligting"
+    },
+    "txt_transaction": "Transaksie",
+    "@txt_transaction": {
+        "description": "Transaksie"
+    },
+    "txt_my_trip": "My reise",
+    "@txt_my_trip": {
+        "description": "My reise"
+    },
+    "txt_support": "Steunstuk",
+    "@txt_support": {
+        "description": "Steunstuk"
+    },
+    "txt_about_us": "Oor ons",
+    "@txt_about_us": {
+        "description": "Oor ons"
+    },
+    "txt_terms_condition": "Terme en voorwaarde",
+    "@txt_terms_condition": {
+        "description": "Terme en voorwaarde"
+    },
+    "txt_logout": "Teken uit",
+    "@txt_logout": {
+        "description": "Teken uit"
+    },
+    "txt_edit_profile": "WYSIG PROFIEL",
+    "@txt_edit_profile": {
+        "description": "WYSIG PROFIEL"
+    },
+    "txt_name": "Naam",
+    "@txt_name": {
+        "description": "Naam"
+    },
+    "txt_email": "E -pos",
+    "@txt_email": {
+        "description": "E -pos"
+    },
+    "txt_camera": "Kamera",
+    "@txt_camera": {
+        "description": "Kamera"
+    },
+    "txt_gallery": "Gallery",
+    "@txt_gallery": {
+        "description": "Gallery"
+    },
+    "txt_uploaded_documents_info": "Inligting opgelaai dokumente",
+    "@txt_uploaded_documents_info": {
+        "description": "Inligting opgelaai dokumente"
+    },
+    "txt_pending": "Hangende",
+    "@txt_pending": {
+        "description": "Hangende"
+    },
+    "txt_approved": "Goedgekeur",
+    "@txt_approved": {
+        "description": "Goedgekeur"
+    },
+    "txt_upload_detail": "Laai besonderhede op",
+    "@txt_upload_detail": {
+        "description": "Laai besonderhede op"
+    },
+    "txt_welcome": "welkom",
+    "@txt_welcome": {
+        "description": "welkom"
+    },
+    "txt_welcome_and_setup": "Hier is wat u moet doen om u rekening op te stel",
+    "@txt_welcome_and_setup": {
+        "description": "Hier is wat u moet doen om u rekening op te stel"
+    },
+    "txt_take_photo": "Neem 'n foto van u",
+    "@txt_take_photo": {
+        "description": "Neem 'n foto van u"
+    },
+    "val_upload_doc": "Laai asseblief dokumente op",
+    "@val_upload_doc": {
+        "description": "Laai asseblief dokumente op"
+    },
+    "txt_update_document": "Opdateringsdokument",
+    "@txt_update_document": {
+        "description": "Opdateringsdokument"
+    },
+    "txt_holder_name": "Bankhouer naam",
+    "@txt_holder_name": {
+        "description": "Bankhouer naam"
+    },
+    "txt_account_number": "Rekening nommer",
+    "@txt_account_number": {
+        "description": "Rekening nommer"
+    },
+    "txt_ifsc_code": "IFSC -kode",
+    "@txt_ifsc_code": {
+        "description": "IFSC -kode"
+    },
+    "txt_bank_name": "Bank Naam",
+    "@txt_bank_name": {
+        "description": "Bank Naam"
+    },
+    "txt_transaction_upr": "Transaksies",
+    "@txt_transaction_upr": {
+        "description": "Transaksies"
+    },
+    "txt_total_amt": "Totale bedrag",
+    "@txt_total_amt": {
+        "description": "Totale bedrag"
+    },
+    "txt_cash": "Kontant",
+    "@txt_cash": {
+        "description": "Kontant"
+    },
+    "txt_online": "Aanlyn",
+    "@txt_online": {
+        "description": "Aanlyn"
+    },
+    "txt_payment_history": "Betalingsgeskiedenis",
+    "@txt_payment_history": {
+        "description": "Betalingsgeskiedenis"
+    },
+    "txt_no_data_found": "Geen data is gevind nie",
+    "@txt_no_data_found": {
+        "description": "Geen data is gevind nie"
+    },
+    "txt_support_upr": "Steunstuk",
+    "@txt_support_upr": {
+        "description": "Steunstuk"
+    },
+    "txt_concern_queries": "Kommer en navrae",
+    "@txt_concern_queries": {
+        "description": "Kommer en navrae"
+    },
+    "txt_upload_pic_doc": "Laai u foto of dokument op",
+    "@txt_upload_pic_doc": {
+        "description": "Laai u foto of dokument op"
+    },
+    "txt_logout": "Teken uit",
+    "@txt_logout": {
+        "description": "Teken uit"
+    },
+    "txt_want_to_logout": "Wil u aanmeld",
+    "@txt_want_to_logout": {
+        "description": "Wil u aanmeld"
+    },
+    "txt_no": "Geen",
+    "@txt_no": {
+        "description": "Geen"
+    },
+    "txt_yes": "Ja",
+    "@txt_yes": {
+        "description": "Ja"
+    },
+    "txt_notification": "Kennisgewings",
+    "@txt_notification": {
+        "description": "Kennisgewings"
+    },
+    "txt_offline": "Jy is vanlyn",
+    "@txt_offline": {
+        "description": "Jy is vanlyn"
+    },
+    "txt_successfully_logged_in": "U is suksesvol aangemeld.",
+    "@txt_successfully_logged_in": {
+        "description": "U is suksesvol aangemeld."
+    },
+    "txt_distance": "Ditstans",
+    "@txt_distance": {
+        "description": "Ditstans"
+    },
+    "txt_estimate_time": "Skatte tyd",
+    "@txt_estimate_time": {
+        "description": "Skatte tyd"
+    },
+    "txt_from_upr": "VAN",
+    "@txt_from_upr": {
+        "description": "VAN"
+    },
+    "txt_to_upr": "Na",
+    "@txt_to_upr": {
+        "description": "Na"
+    },
+    "txt_call": "Oproep",
+    "@txt_call": {
+        "description": "Oproep"
+    },
+    "txt_chat": "Geselsie",
+    "@txt_chat": {
+        "description": "Geselsie"
+    },
+    "txt_price": "Prys",
+    "@txt_price": {
+        "description": "Prys"
+    },
+    "txt_decline": "Afsak",
+    "@txt_decline": {
+        "description": "Afsak"
+    },
+    "txt_accept": "Aanvaar",
+    "@txt_accept": {
+        "description": "Aanvaar"
+    },
+    "txt_customer_pickup": "Kliënt -afhaal?",
+    "@txt_customer_pickup": {
+        "description": "Kliënt -afhaal?"
+    },
+    "txt_navigate": "Navigeer",
+    "@txt_navigate": {
+        "description": "Navigeer"
+    },
+    "txt_enter_otp": "Voer OTP in",
+    "@txt_enter_otp": {
+        "description": "Voer OTP in"
+    },
+    "txt_start_ride": "Begin rit",
+    "@txt_start_ride": {
+        "description": "Begin rit"
+    },
+    "txt_ride_complete": "Ry volledig",
+    "@txt_ride_complete": {
+        "description": "Ry volledig"
+    },
+    "txt_wait_for_payment": "Wag vir betaling",
+    "@txt_wait_for_payment": {
+        "description": "Wag vir betaling"
+    },
+    "txt_ride_complete_upr": "Ry volledig",
+    "@txt_ride_complete_upr": {
+        "description": "Ry volledig"
+    },
+    "txt_your_ride_complete_upr": "U rit voltooi",
+    "@txt_your_ride_complete_upr": {
+        "description": "U rit voltooi"
+    },
+    "txt_payment_by": "Betaling deur",
+    "@txt_payment_by": {
+        "description": "Betaling deur"
+    },
+    "txt_type_of_service": "Tipe diens",
+    "@txt_type_of_service": {
+        "description": "Tipe diens"
+    },
+    "txt_total_km": "Totale KM",
+    "@txt_total_km": {
+        "description": "Totale KM"
+    },
+    "txt_duration": "Duur",
+    "@txt_duration": {
+        "description": "Duur"
+    },
+    "txt_reason_cancellation": "Rede vir kansellasie",
+    "@txt_reason_cancellation": {
+        "description": "Rede vir kansellasie"
+    },
+    "txt_driver_denied": "Bestuurder ontken om op te tel",
+    "@txt_driver_denied": {
+        "description": "Bestuurder ontken om op te tel"
+    },
+    "txt_expected_time": "Verwag 'n korter wagtyd",
+    "@txt_expected_time": {
+        "description": "Verwag 'n korter wagtyd"
+    },
+    "txt_unable_to_contact_user": "Kan nie die gebruiker kontak nie",
+    "@txt_unable_to_contact_user": {
+        "description": "Kan nie die gebruiker kontak nie"
+    },
+    "txt_reason_not_listed": "My rede word nie hier gelys nie",
+    "@txt_reason_not_listed": {
+        "description": "My rede word nie hier gelys nie"
+    },
+    "txt_cancel": "Kanselleer",
+    "@txt_cancel": {
+        "description": "Kanselleer"
+    },
+    "txt_check_internet": "Gaan u internetverbinding na",
+    "@txt_check_internet": {
+        "description": "Gaan u internetverbinding na"
+    },
+    "txt_english": "Engels",
+    "@txt_english": {
+        "description": "Engels"
+    },
+    "txt_portuguese": "Portugees",
+    "@txt_portuguese": {
+        "description": "Portugees"
+    },
+    "txt_arabic": "Arabies",
+    "@txt_arabic": {
+        "description": "Arabies"
+    },
+    "txt_urdu": "Urdu",
+    "@txt_urdu": {
+        "description": "Urdu"
+    },
+    "txt_hindi": "Hindi",
+    "@txt_hindi": {
+        "description": "Hindi"
+    },
+    "txt_spanish": "Spaans",
+    "@txt_spanish": {
+        "description": "Spaans"
+    },
+    "txt_mandarim": "Mandaryn",
+    "@txt_mandarim": {
+        "description": "Mandaryn"
+    },
+    "txt_french": "Frans",
+    "@txt_french": {
+        "description": "Frans"
+    },
+    "txt_afrikaans": "Afrikaans",
+    "@txt_afrikaans": {
+        "description": "Afrikaans"
+    },
+    "txt_bengali": "Bengali",
+    "@txt_bengali": {
+        "description": "Bengali"
+    },
+    "txt_russian": "Russies",
+    "@txt_russian": {
+        "description": "Russies"
+    },
+    "txt_japanese": "Japannees",
+    "@txt_japanese": {
+        "description": "Japannees"
+    },
+    "txt_turkish": "Turkse",
+    "@txt_turkish": {
+        "description": "Turkse"
+    },
+    "txt_swahili": "Swahili",
+    "@txt_swahili": {
+        "description": "Swahili"
+    },
+    "txt_italian": "Italiaans",
+    "@txt_italian": {
+        "description": "Italiaans"
+    },
+    "txt_edit": "Redigeer",
+    "@txt_edit": {
+        "description": "Redigeer"
+    },
+    "txt_delete": "Verwyder",
+    "@txt_delete": {
+        "description": "Verwyder"
+    },
+    "val_accept_term_condition": "Aanvaar asseblief bepalings en voorwaardes",
+    "@val_accept_term_condition": {
+        "description": "Aanvaar asseblief bepalings en voorwaardes"
+    },
+    "val_first_name": "Voer asseblief die voornaam in",
+    "@val_first_name": {
+        "description": "Voer asseblief die voornaam in"
+    },
+    "val_fullname_short": "Volle naam te kort",
+    "@val_fullname_short": {
+        "description": "Volle naam te kort"
+    },
+    "val_enter_userid_email": "Voer asseblief gebruikers -ID of e -pos in",
+    "@val_enter_userid_email": {
+        "description": "Voer asseblief gebruikers -ID of e -pos in"
+    },
+    "val_userid_email_short": "Gebruikers -ID of e -pos te kort",
+    "@val_userid_email_short": {
+        "description": "Gebruikers -ID of e -pos te kort"
+    },
+    "val_enter_last_name": "Voer asseblief van in",
+    "@val_enter_last_name": {
+        "description": "Voer asseblief van in"
+    },
+    "val_enter_userid": "Voer asseblief gebruikers -ID in",
+    "@val_enter_userid": {
+        "description": "Voer asseblief gebruikers -ID in"
+    },
+    "val_atleast_3char": "Voer asseblief ten minste 3 karakter in",
+    "@val_atleast_3char": {
+        "description": "Voer asseblief ten minste 3 karakter in"
+    },
+    "val_first_name_short": "Eerste naam te kort",
+    "@val_first_name_short": {
+        "description": "Eerste naam te kort"
+    },
+    "val_last_name_short": "Van te kort",
+    "@val_last_name_short": {
+        "description": "Van te kort"
+    },
+    "val_enter_email": "Voer asseblief e -pos in",
+    "@val_enter_email": {
+        "description": "Voer asseblief e -pos in"
+    },
+    "val_valid_enter": "Voer asseblief geldige e -pos in",
+    "@val_valid_enter": {
+        "description": "Voer asseblief geldige e -pos in"
+    },
+    "val_enter_password": "Voer asseblief die wagwoord in",
+    "@val_enter_password": {
+        "description": "Voer asseblief die wagwoord in"
+    },
+    "val_enter_old_pass": "Voer asseblief ou wagwoord in",
+    "@val_enter_old_pass": {
+        "description": "Voer asseblief ou wagwoord in"
+    },
+    "val_enter_new_pass": "Voer asseblief nuwe wagwoord in",
+    "@val_enter_new_pass": {
+        "description": "Voer asseblief nuwe wagwoord in"
+    },
+    "val_pass_short": "Wagwoord is te kort",
+    "@val_pass_short": {
+        "description": "Wagwoord is te kort"
+    },
+    "val_pass_not_match": "Wagwoorde stem nie ooreen nie",
+    "@val_pass_not_match": {
+        "description": "Wagwoorde stem nie ooreen nie"
+    },
+    "val_enter_name": "Voer asseblief die naam in",
+    "@val_enter_name": {
+        "description": "Voer asseblief die naam in"
+    },
+    "val_enter_query": "Voer asseblief die navraag in",
+    "@val_enter_query": {
+        "description": "Voer asseblief die navraag in"
+    },
+    "val_enter_confirm_pass": "Voer asseblief die Wagwoord in",
+    "@val_enter_confirm_pass": {
+        "description": "Voer asseblief die Wagwoord in"
+    },
+    "val_enter_address": "Voer asseblief die adres in",
+    "@val_enter_address": {
+        "description": "Voer asseblief die adres in"
+    },
+    "val_enter_mobile": "Voer asseblief die mobiele nommer in",
+    "@val_enter_mobile": {
+        "description": "Voer asseblief die mobiele nommer in"
+    },
+    "val_valid_number": "Voer asseblief geldige selfoonnommer in",
+    "@val_valid_number": {
+        "description": "Voer asseblief geldige selfoonnommer in"
+    },
+    "val_otp": "Voer asseblief OTP in",
+    "@val_otp": {
+        "description": "Voer asseblief OTP in"
+    },
+    "val_enter_postal_code": "Voer asseblief die poskode in",
+    "@val_enter_postal_code": {
+        "description": "Voer asseblief die poskode in"
+    },
+    "val_valid_postal_code": "Voer asseblief geldige poskode in",
+    "@val_valid_postal_code": {
+        "description": "Voer asseblief geldige poskode in"
+    },
+    "val_enter_landmark": "Voer asseblief die landmerk in",
+    "@val_enter_landmark": {
+        "description": "Voer asseblief die landmerk in"
+    },
+    "val_enter_city": "Gaan asseblief die stad in",
+    "@val_enter_city": {
+        "description": "Gaan asseblief die stad in"
+    },
+    "val_enter_state": "Voer asseblief die staat in",
+    "@val_enter_state": {
+        "description": "Voer asseblief die staat in"
+    },
+    "val_enter_address": "Voer asseblief die adres in",
+    "@val_enter_address": {
+        "description": "Voer asseblief die adres in"
+    },
+    "val_enter_specification": "Voer asseblief die spesifikasie in",
+    "@val_enter_specification": {
+        "description": "Voer asseblief die spesifikasie in"
+    },
+    "val_enter_message": "Voer 'n boodskap in",
+    "@val_enter_message": {
+        "description": "PVoer 'n boodskap in"
+    },
+    "txt_camera_permission": "Kamera -toestemming",
+    "@txt_camera_permission": {
+        "description": "Kamera -toestemming"
+    },
+    "txt_permission_camera": "Sonder hierdie toestemming sal hierdie app nie die foto kan kies nie. Is u seker dat u hierdie toestemming wil ontken?",
+    "@txt_permission_camera": {
+        "description": "Sonder hierdie toestemming sal hierdie app nie die foto kan kies nie. Is u seker dat u hierdie toestemming wil ontken?"
+    },
+    "txt_retry": "Herver hierdie",
+    "@txt_retry": {
+        "description": "Herver hierdie"
+    },
+    "txt_im_sure": "Ek is seker",
+    "@txt_im_sure": {
+        "description": "Ek is seker"
+    },
+    "txt_gallery_permission": "Gallery toestemming",
+    "@txt_gallery_permission": {
+        "description": "Gallery toestemming"
+    },
+    "txt_permision_gallery": "Sonder hierdie toestemming kan hierdie app nie foto's uit die gallery kry nie. Is u seker dat u hierdie toestemming wil ontken?",
+    "@txt_permision_gallery": {
+        "description": "Sonder hierdie toestemming kan hierdie app nie foto's uit die gallery kry nie. Is u seker dat u hierdie toestemming wil ontken?"
+    },
+    "txt_your_msg": "Jou boodskap...",
+    "@txt_your_msg": {
+        "description": "Jou boodskap..."
+    },
+    "txt_user_cancel_process": "Gebruiker kanselleer die proses",
+    "@txt_user_cancel_process": {
+        "description": "Gebruiker kanselleer die proses"
+    },
+    "txt_thank_for_reg": "Dankie vir registrasie",
+    "@txt_thank_for_reg": {
+        "description": "Dankie vir registrasie"
+    },
+    "txt_verify_your_doc": "Sodra ons u dokumente verifieer..",
+    "@txt_verify_your_doc": {
+        "description": "Sodra ons u dokumente verifieer.."
+    },
+     "txt_notify_you": "Ons stel u binnekort in kennis",
+    "@txt_notify_you": {
+        "description": "Ons stel u binnekort in kennis"
+    },
+    "txt_active_after_verification": "Na verifikasie sal u rekening aktief wees",
+    "@txt_active_after_verification": {
+        "description": "Na verifikasie sal u rekening aktief wees"
+    },
+    "val_enter_vehicle_num": "Voer asseblief die voertuignommer in",
+    "@val_enter_vehicle_num": {
+        "description": "Voer asseblief die voertuignommer in"
+    },
+     "val_upload_vehicle_front_img": "Laai asseblief die voorste beeld van die voertuig op",
+    "@val_upload_vehicle_front_img": {
+        "description": "Laai asseblief die voorste beeld van die voertuig op"
+    },
+     "val_upload_vehicle_back_img": "Laai asseblief die voertuig terug op die foto",
+    "@val_upload_vehicle_back_img": {
+        "description": "Laai asseblief die voertuig terug op die foto"
+    },
+     "val_enter_id_number": "Voer asseblief die identifikasiekaartnommer in",
+    "@val_enter_id_number": {
+        "description": "Voer asseblief die identifikasiekaartnommer in"
+    },
+     "val_upload_id_front_img": "Laai asseblief die voorbeeld van die identifikasiekaart op",
+    "@val_upload_id_front_img": {
+        "description": "Laai asseblief die voorbeeld van die identifikasiekaart op"
+    },
+     "val_upload_id_back_img": "Laai asseblief die Identification Card Back Image op",
+    "@val_upload_id_back_img": {
+        "description": "Laai asseblief die Identification Card Back Image op"
+    },
+     "val_select_id_start_date": "Kies asseblief die aanvangskaart van die identifikasiekaart",
+    "@val_select_id_start_date": {
+        "description": "Kies asseblief die aanvangskaart van die identifikasiekaart"
+    },
+     "val_select_id_end_date": "Kies die einddatum van identifikasiekaart",
+    "@val_select_id_end_date": {
+        "description": "Kies die einddatum van identifikasiekaart"
+    },
+     "val_enter_license_num": "Voer lisensienommer in",
+    "@val_enter_license_num": {
+        "description": "Voer lisensienommer in"
+    },
+     "val_upload_license_front_img": "Laai asseblief die voorste beeld op die lisensie op",
+    "@val_upload_license_front_img": {
+        "description": "Laai asseblief die voorste beeld op die lisensie op"
+    },
+     "val_upload_license_back_img": "Laai asseblief die lisensie -terugbeeld op",
+    "@val_upload_license_back_img": {
+        "description": "Laai asseblief die lisensie -terugbeeld op"
+    },
+     "val_select_license_start_date": "Kies lisensie -begindatum",
+    "@val_select_license_start_date": {
+        "description": "Kies lisensie -begindatum"
+    },
+     "val_select_license_end_date": "Kies lisensie -einddatum",
+    "@val_select_license_end_date": {
+        "description": "Kies lisensie -einddatum"
+    },
+     "val_enter_vehicle_reg_num": "Voer asseblief voertuigregistrasienommer in",
+    "@val_enter_vehicle_reg_num": {
+        "description": "Voer asseblief voertuigregistrasienommer in"
+    },
+     "val_upload_reg_front_img": "Laai asseblief voertuigregistrasie voorbeeld op",
+    "@val_upload_vehicle_front_img": {
+        "description": "Laai asseblief voertuigregistrasie voorbeeld op"
+    },
+     "val_upload_reg_back_img": "Laai asseblief voertuigregistrasie terug op die foto",
+    "@txt_your_msg": {
+        "description": "Laai asseblief voertuigregistrasie terug op die foto"
+    },
+     "val_enter_reg_start_date": "Kies asseblief die begindatum van voertuie",
+    "@val_enter_reg_start_date": {
+        "description": "Kies asseblief die begindatum van voertuie"
+    },
+     "val_enter_reg_end_date": "Kies die einddatum van voertuie",
+    "@val_enter_reg_end_date": {
+        "description": "Kies die einddatum van voertuie"
+    },
+    "val_enter_owner_num": "Voer asseblief voertuigbesit nommer in",
+    "@val_enter_owner_num": {
+        "description": "Voer asseblief voertuigbesit nommer in"
+    },
+     "val_upload_owner_front_img": "Laai asseblief die voorste beeld van voertuieienaar op",
+    "@val_upload_owner_front_img": {
+        "description": "Laai asseblief die voorste beeld van voertuieienaar op"
+    },
+     "val_upload_owner_back_img": "Laai asseblief die agterste beeld van voertuie se eienaarskap op",
+    "@val_upload_owner_back_img": {
+        "description": "Laai asseblief die agterste beeld van voertuie se eienaarskap op"
+    },
+     "val_enter_owner_start_date": "Kies asseblief die begindatum van voertuieienaarskap",
+    "@val_enter_owner_start_date": {
+        "description": "Kies asseblief die begindatum van voertuieienaarskap"
+    },
+     "val_enter_owner_end_date": "Kies die einddatum van voertuieienaarskap",
+    "@val_enter_owner_end_date": {
+        "description": "Kies die einddatum van voertuieienaarskap"
+    },
+     "val_enter_insurance_num": "Voer asseblief voertuigversekeringsnommer in",
+    "@val_enter_insurance_num": {
+        "description": "Voer asseblief voertuigversekeringsnommer in"
+    },
+      "val_upload_insurance_front_img": "Laai asseblief die voorste beeld van voertuie op",
+    "@val_upload_insurance_front_img": {
+        "description": "Laai asseblief die voorste beeld van voertuie op"
+    },
+      "val_upload_insurance_back_img": "Laai asseblief die terugfoto van die voertuigversekering op",
+    "@val_upload_insurance_back_img": {
+        "description": "Laai asseblief die terugfoto van die voertuigversekering op"
+    },
+      "val_insurance_start_date": "Kies asseblief die begindatum van voertuigversekering",
+    "@val_insurance_start_date": {
+        "description": "Kies asseblief die begindatum van voertuigversekering"
+    },
+      "val_insurance_end_date": "Kies asseblief die einddatum vir voertuigversekering",
+    "@val_insurance_end_date": {
+        "description": "Kies asseblief die einddatum vir voertuigversekering"
+    },
+      "val_inspection_num": "Voer die voertuiginspeksienommer in",
+    "@val_inspection_num": {
+        "description": "Voer die voertuiginspeksienommer in"
+    },
+      "val_inspection_front_img": "Laai asseblief die voorste beeld van die voertuiginspeksie op",
+    "@val_inspection_front_img": {
+        "description": "Laai asseblief die voorste beeld van die voertuiginspeksie op"
+    },
+      "val_inspection_back_img": "Laai asseblief die terugfoto van voertuie op oplaai",
+    "@val_inspection_back_img": {
+        "description": "Laai asseblief die terugfoto van voertuie op oplaai"
+    },
+     "val_inspection_start_date": "Kies asseblief voertuiginspeksie Begindatum",
+    "@val_inspection_start_date": {
+        "description": "Kies asseblief voertuiginspeksie Begindatum"
+    },
+     "val_inspection_end_date": "Kies die einddatum van die voertuiginspeksie",
+    "@val_inspection_end_date": {
+        "description": "Kies die einddatum van die voertuiginspeksie"
+    },
+     "val_manifest_num": "Voer die voertuig se manifesnommer in",
+    "@val_manifest_num": {
+        "description": "Voer die voertuig se manifesnommer in"
+    },
+     "val_manifest_front_img": "Laai asseblief die voorste beeld van die voertuig op",
+    "@val_manifest_front_img": {
+        "description": "Laai asseblief die voorste beeld van die voertuig op"
+    },
+     "val_manifest_back_img": "Laai asseblief die voertuig op",
+    "@val_manifest_back_img": {
+        "description": "Laai asseblief die voertuig op"
+    },
+     "val_manifest_start_date": "Kies die voertuig se manifeste begindatum",
+    "@val_manifest_start_date": {
+        "description": "Kies die voertuig se manifeste begindatum"
+    },
+     "val_manifest_end_date": "Kies asseblief die einddatum van die voertuig",
+    "@val_manifest_end_date": {
+        "description": "Kies asseblief die einddatum van die voertuig"
+    },
+     "val_radio_num": "Voer asseblief die radiobelastingnommer van die voertuig in",
+    "@val_radio_num": {
+        "description": "Voer asseblief die radiobelastingnommer van die voertuig in"
+    },
+     "val_radio_front_img": "Laai asseblief die voorste foto van die voertuigradio op",
+    "@val_radio_front_img": {
+        "description": "Laai asseblief die voorste foto van die voertuigradio op"
+    },
+     "val_radio_back_img": "Laai asseblief die radiobelasting van voertuie op oplaai",
+    "@val_radio_back_img": {
+        "description": "Laai asseblief die radiobelasting van voertuie op oplaai"
+    },
+     "val_radio_start_date": "Kies asseblief die begindatum van die voertuigradiobelasting",
+    "@val_radio_start_date": {
+        "description": "Kies asseblief die begindatum van die voertuigradiobelasting"
+    },
+     "val_radio_end_date": "Kies die einddatum van die voertuigradiobelasting",
+    "@val_radio_end_date": {
+        "description": "Kies die einddatum van die voertuigradiobelasting"
+    },
+      "txt_file_selected": "Lêer gekies",
+    "@txt_file_selected": {
+        "description": "Lêer gekies"
+    },
+       "txt_nofile_selected": "Geen lêer gekies nie",
+    "@txt_nofile_selected": {
+        "description": "Geen lêer gekies nie"
+    },
+    "txt_server_error": "Bedienerfout, probeer asseblief weer",
+    "@txt_server_error": {
+        "description": "Bedienerfout, probeer asseblief weer"
+    },
+     "val_valid_otp": "Voer asseblief geldige OTP in",
+    "@val_valid_otp": {
+        "description": "Voer asseblief geldige OTP in"
+    },
+     "txt_double_click": "Dubbelklik om die app te verlaat",
+    "@txt_double_click": {
+        "description": "Dubbelklik om die app te verlaat"
+    },
+      "txt_pick_from": "Afhaal van",
+    "@txt_pick_from": {
+        "description": "Afhaal van"
+    },
+      "txt_transaction_id": "Transaksie ID",
+    "@txt_pick_from": {
+        "description": "Transaksie ID"
+    },
+       "txt_total_price": "Totale prys",
+    "@txt_total_price": {
+        "description": "Totale prys"
+    },
+     "txt_complete": "Voltooi",
+    "@txt_complete": {
+        "description": "Voltooi"
+    },
+      "txt_date": "Datum",
+    "@txt_date": {
+        "description": "Datum"
+    },
+      "txt_by": "Per",
+    "@txt_by": {
+        "description": "Per"
+    },
+       "txt_cancelled": "Gekanselleer",
+    "@txt_cancelled": {
+        "description": "Gekanselleer"
+    },
+       "txt_phone_number": "Telefoon nommer",
+    "@txt_phone_number": {
+        "description": "Telefoon nommer"
+    },
+       "txt_upload": "Oplaai",
+    "@txt_upload": {
+        "description": "Oplaai"
+    },
+       "txt_valid_phone": "Voer asseblief geldige telefoon in",
+    "@txt_valid_phone": {
+        "description": "Voer asseblief geldige telefoon in"
+    },
+       "txt_maker_name": "Voer asseblief die detail van die motorvervaardiger in",
+    "@txt_maker_name": {
+        "description": "Voer asseblief die detail van die motorvervaardiger in"
+    },
+       "txt_model_name": "Voer asseblief die naam van die motormodel in",
+    "@txt_model_name": {
+        "description": "Voer asseblief die naam van die motormodel in"
+    },
+       "txt_color_name": "Voer asseblief die naam van die motor in",
+    "@txt_color_name": {
+        "description": "Voer asseblief die naam van die motor in"
+    },
+       "txt_select_passenger": "Kies asseblief Aantal passasier",
+    "@txt_select_passenger": {
+        "description": "Kies asseblief Aantal passasier"
+    },
+       "txt_valid_data": "Voer geldige data in",
+    "@txt_valid_data": {
+        "description": "Voer geldige data in"
+    },
+       "txt_select_vehicle_pic": "Kies asseblief voertuigfoto's",
+    "@txt_select_vehicle_pic": {
+        "description": "Kies asseblief voertuigfoto's"
+    },
+        "txt_location_permission": "Liggingstoestemming",
+    "@txt_location_permission": {
+        "description": "Liggingstoestemming"
+    },
+    "txt_permision_location": "Sonder hierdie toestemming, kan hierdie app nie die ligging en adres van u plek kry nie. Is u seker dat u hierdie toestemming wil ontken?",
+    "@txt_permision_location": {
+        "description": "Sonder hierdie toestemming, kan hierdie app nie die ligging en adres van u plek kry nie. Is u seker dat u hierdie toestemming wil ontken?"
+    },
+    "txt_permision_setting": "As u hierdie app wil gebruik, moet u toestemmings in die instelling van die stelseltoestemmings moontlik maak",
+    "@txt_permision_setting": {
+        "description": "As u hierdie app wil gebruik, moet u toestemmings in die instelling van die stelseltoestemmings moontlik maak"
+    },
+     "txt_setting": "Instellings",
+    "@txt_setting": {
+        "description": "Instellings"
+    },
+     "txt_exit": "Uitgaan",
+    "@txt_exit": {
+        "description": "Uitgaan"
+    },
+    "txt_select_max": "Kies Max 10 prente",
+    "@txt_exit": {
+        "description": "Kies Max 10 prente"
+    },
+    "txt_car_maker": "Motorvervaardiger",
+    "@txt_car_maker": {
+        "description": "Motorvervaardiger"
+    },
+     "txt_car_model": "Motormodel",
+    "@txt_car_model": {
+        "description": "Motormodel"
+    },
+     "txt_car_color": "Motorkleur",
+    "@txt_car_color": {
+        "description": "Motorkleur"
+    },
+     "txt_no_pass": "Aantal passasier",
+    "@txt_no_pass": {
+        "description": "Aantal passasier"
+    },
+     "txt_vehicle_pic": "Voertuigprent",
+    "@txt_vehicle_pic": {
+        "description": "Voertuigprent"
+    },
+     "txt_driver_id": "Bestuurderidentifikasiekaart",
+    "@txt_driver_id": {
+        "description": "Bestuurderidentifikasiekaart"
+    },
+     "txt_driver_driving": "Bestuurderbestuurslisensie",
+    "@txt_driver_driving": {
+        "description": "Bestuurderbestuurslisensie"
+    },
+     "txt_vehicle_reg": "Voertuigregistrasie",
+    "@txt_vehicle_reg": {
+        "description": "Voertuigregistrasie"
+    },
+     "txt_vehicle_owner": "Voertuigbesit",
+    "@txt_vehicle_owner": {
+        "description": "Voertuigbesit"
+    },
+     "txt_vehicle_insur": "Voertuigversekering",
+    "@txt_vehicle_insur": {
+        "description": "Voertuigversekering"
+    },
+      "txt_vehicle_inspec": "Voertuiginspeksie",
+    "@txt_vehicle_inspec": {
+        "description": "Voertuiginspeksie"
+    },
+      "txt_vehicle_mani": "Voertuig manifesteer",
+    "@txt_vehicle_mani": {
+        "description": "Voertuig manifesteer"
+    },
+     "txt_vehicle_radio": "Voertuigradiobelasting",
+    "@txt_vehicle_radio": {
+        "description": "Voertuigradiobelasting"
+    },
+      "txt_maker": "Vervaardiger",
+    "@txt_maker": {
+        "description": "Vervaardiger"
+    },
+      "txt_model": "Model",
+    "@txt_model": {
+        "description": "Model"
+    },
+      "txt_color": "Kleur",
+    "@txt_color": {
+        "description": "Kleur"
+    },
+       "txt_passenger": "Passasier",
+    "@txt_passenger": {
+        "description": "Passasier"
+    },
+      "txt_max_10": "(Max 10)",
+    "@txt_max_10": {
+        "description": "(Max 10)"
+    },
+    "txt_uploaded": "opgelaai",
+    "@txt_uploaded": {
+        "description": "opgelaai"
+    },
+     "val_name_len": "Voer geldige naam in",
+    "@val_name_len": {
+        "description": "Voer geldige naam in"
+    },
+    "val_driving_license": "Voer geldige bestuurslisensie in",
+    "@val_driving_license": {
+        "description": "Voer geldige bestuurslisensie in"
+    },
+    "txt_select": "Uitkies",
+    "@txt_select": {
+        "description": "Uitkies"
+    },
+    "val_IdCard": "Voer geldige ID -kaart in",
+    "@tval_IdCard": {
+        "description": "Voer geldige ID -kaart in"
+    },
+    "val_reg_len": "Registrasienommer moet nie meer as 10 alfanumeriese karakter oorskry nie",
+    "@val_reg_len": {
+        "description": "Registrasienommer moet nie meer as 10 alfanumeriese karakter oorskry nie"
+    },
+    "val_owner_len": "Voer geldige eienaarsnaam in",
+    "@val_owner_len": {
+        "description": "Voer geldige eienaarsnaam in"
+    },
+    "txt_insurance_len": "Versekeringsnommer moet nie meer as 30 alfanumeriese karakter oorskry nie",
+    "@txt_insurance_len": {
+        "description": "Versekeringsnommer moet nie meer as 30 alfanumeriese karakter oorskry nie"
+    },
+     "txt_change_lng": "Verander taal",
+    "@txt_change_lng": {
+        "description": "Verander taal"
+    },
+     "txt_pls_enter_queries": "Voer asseblief u navrae in",
+    "@txt_pls_enter_queries": {
+        "description": "Voer asseblief u navrae in"
+    },
+     "txt_query_length": "Die lengte van die navrae moet min 10 karakters wees",
+    "@txt_query_length": {
+        "description": "Die lengte van die navrae moet min 10 karakters wees"
+    },
+     "txt_take_live_photo": "Neem 'n regstreekse foto",
+    "@txt_take_live_photo": {
+        "description": "Neem 'n regstreekse foto"
+    },
+     "txt_loading_camera": "Laai kamera ...",
+    "@txt_loading_camera": {
+        "description": "Laai kamera ..."
+    },
+     "txt_retake": "Herneem",
+    "@txt_retake": {
+        "description": "Herneem"
+    },
+     "txt_confirm": "Bevestig",
+    "@txt_confirm": {
+        "description": "Bevestig"
+    },
+     "txt_no_booking_for_schedule": "Daar is geen bespreking vir skedule -rit nie",
+    "@txt_no_booking_for_schedule": {
+        "description": "Daar is geen bespreking vir skedule -rit nie"
+    },
+     "txt_schedule_ride": "Skedule rit",
+    "@txt_schedule_ride": {
+        "description": "Skedule rit"
+    },
+     "txt_scheduled_rides": "Geskeduleerde ritte",
+    "@txt_scheduled_rides": {
+        "description": "Geskeduleerde ritte"
+    },
+     "txt_cancel_ride": "Kanselleer rit",
+    "@txt_cancel_ride": {
+        "description": "Kanselleer rit"
+    },
+     "txt_payment_pending": "Betaling uitstaande",
+    "@txt_payment_pending": {
+        "description": "Betaling uitstaande"
+    },
+     "txt_accepted": "Aanvaar",
+    "@txt_accepted": {
+        "description": "Aanvaar"
+    },
+     "txt_ride_pending": "Ry hangende",
+    "@txt_ride_pending": {
+        "description": "Ry hangende"
+    },
+     "txt_wallet": "Beursie",
+    "@txt_wallet": {
+        "description": "Beursie"
+    },
+     "txt_send_request": "Stuur versoek",
+    "@txt_send_request": {
+        "description": "Stuur versoek"
+    },
+     "txt_note_remark": "Nota/Opmerking",
+    "@txt_note_remark": {
+        "description": "Nota/Opmerking"
+    },
+     "txt_withdrawal_amt": "Onttrekkingsbedrag",
+    "@txt_withdrawal_amt": {
+        "description": "Onttrekkingsbedrag"
+    },
+     "txt_history": "Geskiedenis",
+    "@txt_history": {
+        "description": "Geskiedenis"
+    },
+     "txt_skip": "Huppel",
+    "@txt_skip": {
+        "description": "Huppel"
+    },
+     "txt_success": "Sukses",
+    "@txt_success": {
+        "description": "Sukses"
+    },
+     "txt_enter_amt": "Voer bedrag in",
+    "@txt_": {
+        "description": "Voer bedrag in"
+    },
+     "txt_enter_valid_amt": "Voer geldige bedrag in",
+    "@txt_enter_valid_amt": {
+        "description": "Voer geldige bedrag in"
+    },
+     "txt_owner_name": "Eienaar naam",
+    "@txt_owner_name": {
+        "description": "Eienaar naam"
+    },
+     "txt_enter_owner_name": "Voer asseblief die naam van die eienaar in",
+    "@txt_enter_owner_name": {
+        "description": "Voer asseblief die naam van die eienaar in"
+    },
+     "txt_enter_valid_owner_name": "Voer geldige eienaarsnaam in",
+    "@txt_enter_valid_owner_name": {
+        "description": "Voer geldige eienaarsnaam in"
+    },
+     "txt_enter_valid_maker_name": "Voer geldige vervaardigernaam in",
+    "@txt_enter_valid_maker_name": {
+        "description": "Voer geldige vervaardigernaam in"
+    },
+     "txt_valid_color_name": "Voer geldige kleurnaam in",
+    "@txt_valid_color_name": {
+        "description": "Voer geldige kleurnaam in"
+    },
+     "txt_enter_color_name": "Voer asseblief kleurnaam in",
+    "@txt_enter_color_name": {
+        "description": "Voer asseblief kleurnaam in"
+    },
+     "txt_request_mode": "Versoekmodus",
+    "@txt_request_mode": {
+        "description": "Versoekmodus"
+    },
+     "txt_request_pending": "Versoek hangende",
+    "@txt_request_pending": {
+        "description": "Versoek hangende"
+    },
+     "txt_request_decline": "Versoek om te weier",
+    "@txt_request_decline": {
+        "description": "Versoek om te weier"
+    },
+     "txt_request_date": "versoekdatum",
+    "@txt_request_date": {
+        "description": "versoekdatum"
+    },
+     "txt_request_status": "Versoekstatus",
+    "@txt_request_status": {
+        "description": "Versoekstatus"
+    },
+     "txt_enter_vaild_name": "Voer geldige naam in",
+    "@txt_enter_vaild_name": {
+        "description": "Voer geldige naam in"
+    },
+     "txt_update": "Opdateer",
+    "@txt_update": {
+        "description": "Opdateer"
+    },
+     "txt_enter_details_of_your": "Voer besonderhede van u in",
+    "@txt_enter_details_of_your": {
+        "description": "Voer besonderhede van u in"
+    },
+     "txt_upload_photo_of_your": "Laai 'n foto van u op",
+    "@txt_upload_photo_of_your": {
+        "description": "Laai 'n foto van u op"
+    },
+     "txt_vehicle": "Voertuig",
+    "@txt_vehicle": {
+        "description": "Voertuig"
+    },
+     "txt_select_min_one_img": "Kies Min 1 Beeld",
+    "@txt_select_min_one_img": {
+        "description": "Kies Min 1 Beeld"
+    },
+     "txt_details": "Besonderheid",
+    "@txt_details": {
+        "description": "Besonderheid"
+    },
+     "txt_in_progress": "Aan die gang",
+    "@txt_in_progress": {
+        "description": "Aan die gang"
+    },
+     "txt_complete_ride": "Volledige rit",
+    "@txt_complete_ride": {
+        "description": "Volledige rit"
+    },
+     "txt_your_ride_completed": "U rit is voltooi",
+    "@txt_your_ride_completed": {
+        "description": "U rit is voltooi"
+    },
+     "txt_ride_completed": "Rit voltooi",
+    "@txt_ride_completed": {
+        "description": "Rit voltooi"
+    },
+     "txt_security_deposit": "Borg",
+    "@txt_security_deposit": {
+        "description": "Borg"
+    },
+     "txt_complete_security_deposit_process": "Voltooi die sekuriteitsdeposito -proses",
+    "@txt_complete_security_deposit_process": {
+        "description": "Voltooi die sekuriteitsdeposito -proses"
+    },
+     "txt_checked_pay_later": "U het die sekuriteitsdeposito later nagegaan",
+    "@txt_checked_pay_later": {
+        "description": "U het die sekuriteitsdeposito later nagegaan"
+    },
+     "txt_already_done_online_payment": "U het reeds aanlynbetaling gedoen",
+    "@txt_already_done_online_payment": {
+        "description": "U het reeds aanlynbetaling gedoen"
+    },
+     "txt_choose_pay_menthod": "Kies betaalmetode",
+    "@txt_choose_pay_menthod": {
+        "description": "Kies betaalmetode"
+    },
+     "txt_pay_now": "Betaal nou",
+    "@txt_pay_now": {
+        "description": "Betaal nou"
+    },
+     "txt_do_later": "Ek sal die sekuriteitsdeposito later doen",
+    "@txt_do_later": {
+        "description": "Ek sal die sekuriteitsdeposito later doen"
+    },
+     "txt_gender_pref": "Geslagsvoorkeure",
+    "@txt_gender_pref": {
+        "description": "Geslagsvoorkeure"
+    },
+     "txt_gender_you_want_to_prefer": "(Kies Geslag waarop u verkies om te ry)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(Kies Geslag waarop u verkies om te ry)"
+    },
+     "txt_male": "Manlik",
+    "@txt_male": {
+        "description": "Manlik"
+    },
+     "txt_female": "Vroulik",
+    "@txt_female": {
+        "description": "Vroulik"
+    },
+     "txt_other": "Ander",
+    "@txt_other": {
+        "description": "Ander"
+    },
+     "txt_no_pref": "Geen voorkeure nie",
+    "@txt_no_pref": {
+        "description": "Geen voorkeure nie"
+    },
+     "txt_update_details_of_user": "Dateer besonderhede op van u",
+    "@txt_update_details_of_user": {
+        "description": "Dateer besonderhede op van u"
+    },
+     "txt_criminal_record_certificate": "Kriminele rekordsertifikaat",
+    "@txt_criminal_record_certificate": {
+        "description": "Kriminele rekordsertifikaat"
+    },
+     "txt_criminal_record": "Kriminele rekord",
+    "@txt_criminal_record": {
+        "description": "Kriminele rekord"
+    },
+     "txt_update_your": "Dateer u",
+    "@txt_update_your": {
+        "description": "Dateer u"
+    },
+     "txt_document": "dokument",
+    "@txt_document": {
+        "description": "dokument"
+    },
+      "txt_select_your_gender": "Kies u geslag",
+    "@txt_select_your_gender": {
+        "description": "Kies u geslag"
+    },
+      "txt_gender": "Geslag",
+    "@txt_gender": {
+        "description": "Geslag"
+    },
+      "txt_ride_type": "Rit tipe",
+    "@txt_ride_type": {
+        "description": "Rit tipe"
+    },
+      "txt_rejected": "Verwerp",
+    "@txt_rejected": {
+        "description": "Verwerp"
+    },
+      "txt_km": "km",
+    "@txt_km": {
+        "description": "km"
+    },
+      "txt_select_reason": "Kies Rede",
+    "@txt_select_reason": {
+        "description": "Kies Rede"
+    },
+      "txt_select_gender_pref": "Kies geslagsvoorkeur",
+    "@txt_select_gender_pref": {
+        "description": "Kies geslagsvoorkeur"
+    },
+      "txt_update_documents": "Dateer dokumente op",
+    "@txt_update_documents": {
+        "description": "Dateer dokumente op"
+    },
+      "txt_are_you_sure_to_logout": "Is u seker dat u wil afmeld?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "Is u seker dat u wil afmeld?"
+    },
+      "txt_my_rides": "My ritte",
+    "@txt_my_rides": {
+        "description": "My ritte"
+    },
+      "txt_rating": "Gradering",
+    "@txt_rating": {
+        "description": "Gradering"
+    },
+      "txt_daily_ride": "Daaglikse rit",
+    "@txt_daily_ride": {
+        "description": "Daaglikse rit"
+    },
+     "txt_rental_ride": "Huurrit",
+    "@txt_rental_ride": {
+        "description": "Huurrit"
+    },
+     "txt_enter_your_reason": "Voer asseblief u rede in",
+    "@txt_enter_your_reason": {
+        "description": "Voer asseblief u rede in"
+    },
+     "txt_select_ride_type": "Kies rittipe",
+    "@txt_select_ride_type": {
+        "description": "Kies rittipe"
+    },
+     "txt_profile_under_review": "U profiel is onder die loep, u kan nie rit neem voordat Administrasie dit aktiveer nie.",
+    "@txt_profile_under_review": {
+        "description": "U profiel is onder die loep, u kan nie rit neem voordat Administrasie dit aktiveer nie."
+    },
+     "txt_your_account_deactivateed": "U rekening is deur admin gedeaktiveer, kontak hulle.",
+    "@txt_your_account_deactivateed": {
+        "description": "U rekening is deur admin gedeaktiveer, kontak hulle."
+    },
+     "txt_accept_terms_privacy": "Deur aan te meld, aanvaar u die bepalings van dienste en privaatheidsbeleid",
+    "@txt_accept_terms_privacy": {
+        "description": "Deur aan te meld, aanvaar u die bepalings van dienste en privaatheidsbeleid"
+    },
+     "txt_please_accept_terms_privacy": "Aanvaar asseblief die bepalings van dienste en privaatheidsbeleid",
+    "@txt_please_accept_terms_privacy": {
+        "description": "Aanvaar asseblief die bepalings van dienste en privaatheidsbeleid"
+    },
+     "txt_thanks_for_registering": "Dankie dat u by ons geregistreer het",
+    "@txt_thanks_for_registering": {
+        "description": "Dankie dat u by ons geregistreer het"
+    },
+     "txt_application_under_review_check_status": "U aansoek word hersien, u kan status op die boonste rooi balk op die tuisblad kontroleer.",
+    "@txt_application_under_review_check_status": {
+        "description": "U aansoek word hersien, u kan status op die boonste rooi balk op die tuisblad kontroleer."
+    },
+     "txt_update_details": "Opdateringsbesonderhede",
+    "@txt_update_details": {
+        "description": "Opdateringsbesonderhede"
+    },
+     "txt_ride_details": "Ry besonderhede",
+    "@txt_ride_details": {
+        "description": "Ry besonderhede"
+    },
+     "txt_mpesa": "Wingerdstok",
+    "@txt_mpesa": {
+        "description": "Wingerdstok"
+    },
+     "txt_image": "Beeld",
+    "@txt_image": {
+        "description": "Beeld"
+    },
+     "txt_check_internet_try_again": "Gaan u internetverbinding na en probeer weer",
+    "@txt_check_internet_try_again": {
+        "description": "Gaan u internetverbinding na en probeer weer"
+    },
+     "txt_oops_no_internet": "Oeps, geen internetverbinding nie",
+    "@txt_oops_no_internet": {
+        "description": "Oeps, geen internetverbinding nie"
+    },
+     "txt_package_complete_renew": "U pakket is voltooi of die rit voltooi, of wag vir die gebruiker om die pakket te hernu",
+    "@txt_package_complete_renew": {
+        "description": "U pakket is voltooi of die rit voltooi, of wag vir die gebruiker om die pakket te hernu"
+    },
+     "txt_wait_for_response": "Wag vir reaksie",
+    "@txt_wait_for_response": {
+        "description": "Wag vir reaksie"
+    },
+     "txt_ride_complete_in": "Ry voltooi in",
+    "@txt_ride_complete_in": {
+        "description": "Ry voltooi in"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+     "txt_something_went_wrong": "Iets het verkeerd geloop",
+    "@txt_something_went_wrong": {
+        "description": "Iets het verkeerd geloop"
+    },
+     "txt_refresh_page_try_later": "Probeer om die bladsy te verfris, of probeer later weer.",
+    "@txt_refresh_page_try_later": {
+        "description": "Probeer om die bladsy te verfris, of probeer later weer."
+    },
+     "txt_permission_required": "Toestemming vereis",
+    "@txt_permission_required": {
+        "description": "Toestemming vereis"
+    },
+     "txt_enable_permission": "Aktiveer toestemming",
+    "@txt_enable_permission": {
+        "description": "Aktiveer toestemming"
+    },
+     "txt_pick_your_country": "Kies u land",
+    "@txt_pick_your_country": {
+        "description": "Kies u land"
+    },
+     "txt_cant_update_ride_type": "U kan nie u rittipe opdateer nie.",
+    "@txt_cant_update_ride_type": {
+        "description": "U kan nie u rittipe opdateer nie."
+    },
+     "txt_check_connect_timeout": "Kyk na u ConnectionTimeout !!",
+    "@txt_check_connect_timeout": {
+        "description": "Kyk na u ConnectionTimeout !!"
+    },
+     "txt_timeout_exception": "Time -out -uitsondering.",
+    "@txt_timeout_exception": {
+        "description": "Time -out -uitsondering."
+    },
+     "txt_request_cancel_from_user": "Versoek kanselleer vanaf die gebruiker.",
+    "@txt_request_cancel_from_user": {
+        "description": "Versoek kanselleer vanaf die gebruiker."
+    },
+     "txt_getting_wrong_response": "Ons kry verkeerde reaksie.",
+    "@txt_getting_wrong_response": {
+        "description": "Ons kry verkeerde reaksie."
+    },
+     "txt_connection_error": "Konneksie fout.",
+    "@txt_connection_error": {
+        "description": "Konneksie fout."
+    },
+     "txt_server_not_connected_contact_admin": "Bediener nie gekoppel nie, kontak Admin.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "Bediener nie gekoppel nie, kontak Admin."
+    },
+     "txt_socket_not_connect": "Sok nie gekoppel nie ...",
+    "@txt_socket_not_connect": {
+        "description": "Sok nie gekoppel nie ..."
+    },
+     "txt_user_renewed_package": "Gebruiker het die pakket hernu!",
+    "@txt_user_renewed_package": {
+        "description": "Gebruiker het die pakket hernu!"
+    },
+     "txt_bear_per_km": "Gebruikersbeer per km -koste!",
+    "@txt_bear_per_km": {
+        "description": "Gebruikersbeer per km -koste!"
+    },
+     "txt_wait_for_user": "Wag vir die gebruiker",
+    "@txt_wait_for_user": {
+        "description": "Wag vir die gebruiker"
+    },
+     "txt_bysigning_you_accept": "Deur aan te meld, aanvaar u die",
+    "@txt_bysigning_you_accept": {
+        "description": "Deur aan te meld, aanvaar u die"
+    },
+     "txt_terms_service": "Voorwaardes van dienste",
+    "@txt_terms_service": {
+        "description": "Voorwaardes van dienste"
+    },
+     "txt_and": "en",
+    "@txt_and": {
+        "description": "en"
+    },
+     "txt_privacy_policy": "Privaatheidsbeleid",
+    "@txt_privacy_policy": {
+        "description": "Privaatheidsbeleid"
+    },
+     "txt_cash_received": "Kontant ontvang",
+    "@txt_cash_received": {
+        "description": "Kontant ontvang"
+    },
+     "txt_click_to_take_photo": "Klik om foto te neem",
+    "@txt_click_to_take_photo": {
+        "description": "Klik om foto te neem"
+    },
+     "txt_camera_setting_permission": "Kamera -toestemming is nie geaktiveer nie, stel die toestemming in",
+    "@txt_camera_setting_permission": {
+        "description": "Kamera -toestemming is nie geaktiveer nie, stel die toestemming in"
+    },
+     "txt_gallery_setting_permission": "Gallery -toestemming is nie geaktiveer nie, stel die toestemming in",
+    "@txt_gallery_setting_permission": {
+        "description": "Gallery -toestemming is nie geaktiveer nie, stel die toestemming in"
+    },
+     "txt_unauthorized_login": "Unauthorize login",
+    "@txt_unauthorized_login": {
+        "description": "Unauthorize login"
+    },
+     "txt_login_detect": "Nuwe aanmelding word op 'n ander toestel opgespoor, meld asseblief weer aan om op hierdie toestel te gebruik",
+    "@txt_login_detect": {
+        "description": "Nuwe aanmelding word op 'n ander toestel opgespoor, meld asseblief weer aan om op hierdie toestel te gebruik"
+    },
+     "txt_location_setting_permission": "Liggingstoestemming is nie geaktiveer nie, stel die toestemming in",
+    "@txt_location_setting_permission": {
+        "description": "Liggingstoestemming is nie geaktiveer nie, stel die toestemming in"
+    },
+     "txt_delete_account": "Skrap rekening",
+    "@txt_delete_account": {
+        "description": "Skrap rekening"
+    },
+     "txt_sure_to_delete": "Is jy seker jy wil jou rekening uitvee?",
+    "@txt_sure_to_delete": {
+        "description": "Is jy seker jy wil jou rekening uitvee?"
+    },
+     "txt_open_with": "Maak oop met",
+    "@txt_open_with": {
+        "description": "Maak oop met"
+    },
+     "txt_new_request_from": "Nuwe versoek",
+    "@txt_new_request_from": {
+        "description": "Nuwe versoek"
+    },
+     "txt_vehicle_assign": "Voertuig toewys deur admin is",
+    "@txt_vehicle_assign": {
+        "description": "Voertuig toewys deur admin is"
+    },
+    "txt_admin_delete": "Admin Het jou rekening uitgevee, jy kan nie die toepassing verder gebruik nie. Kontak asseblief admin.",
+    "@txt_admin_delete": {
+        "description": "Admin Het jou rekening uitgevee, jy kan nie die toepassing verder gebruik nie. Kontak asseblief admin."
+    }
+ }

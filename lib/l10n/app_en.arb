@@ -1,0 +1,1606 @@
+{
+    "txt_login": "Login",
+    "@txt_login": {
+        "description": "Login"
+    },
+    "txt_mobile_number": "Mobile Number",
+    "@txt_mobile_number": {
+        "description": "Mobile Number"
+    },
+    "txt_submit": "Submit",
+    "@txt_submit": {
+        "description": "Submit"
+    },
+    "txt_continue_with": "Or continue with",
+    "@txt_continue_with": {
+        "description": "Or continue with"
+    },
+    "txt_select_lng": "Select Language",
+    "@txt_select_lng": {
+        "description": "Select Language"
+    },
+    "txt_select_country": "Select Country",
+    "@txt_select_country": {
+        "description": "Select Country"
+    },
+    "txt_search": "Search",
+    "@txt_search": {
+        "description": "Search"
+    },
+    "txt_last_pick": "LAST PICK",
+    "@txt_last_pick": {
+        "description": "LAST PICK"
+    },
+    "txt_successfully": "Succesfully",
+    "@txt_successfully": {
+        "description": "Succesfully"
+    },
+    "txt_your_otp": "Your OTP is",
+    "@txt_your_otp": {
+        "description": "Your OTP is"
+    },
+    "txt_otp_sent_successfully": "OTP sent succesfully",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP sent succesfully"
+    },
+    "txt_verification": "Verification",
+    "@txt_verification": {
+        "description": "Verification"
+    },
+    "txt_enter_code_we_sent": "Enter the verification code we just sent you on your Mobile Number",
+    "@txt_enter_code_we_sent": {
+        "description": "Enter the verification code we just sent you on your Mobile Number"
+    },
+    "txt_resend_otp": "Resend OTP",
+    "@txt_resend_otp": {
+        "description": "Resend OTP"
+    },
+    "txt_verify": "Verify",
+    "@txt_verify": {
+        "description": "Verify"
+    },
+    "txt_error": "Error",
+    "@txt_error": {
+        "description": "Error"
+    },
+    "txt_ok": "Ok",
+    "@txt_ok": {
+        "description": "Ok"
+    },
+    "txt_upload_details": "Upload Details",
+    "@txt_upload_details": {
+        "description": "Upload Details"
+    },
+    "txt_vehicle_picture": "Vehicle Pictures",
+    "@txt_vehicle_picture": {
+        "description": "Vehicle Pictures"
+    },
+    "txt_vehicle_number": "Vehicle Number",
+    "@txt_vehicle_number": {
+        "description": "Vehicle Number"
+    },
+    "txt_upload_image": "Upload Image",
+    "@txt_upload_image": {
+        "description": "Upload Image"
+    },
+    "txt_front": "Front",
+    "@txt_front": {
+        "description": "Front"
+    },
+    "txt_back": "Back",
+    "@txt_back": {
+        "description": "Back"
+    },
+    "txt_driver_id_card": "Driver Identification Card",
+    "@txt_driver_id_card": {
+        "description": "Driver Identification Card"
+    },
+    "txt_id_number": "ID Number",
+    "@txt_id_number": {
+        "description": "ID Number"
+    },
+    "txt_valid_from": "Valid From",
+    "@txt_valid_from": {
+        "description": "Valid From"
+    },
+    "txt_valid_until": "Valid Until",
+    "@txt_valid_until": {
+        "description": "Valid Until"
+    },
+    "txt_driver_driving_license": "Driver Driving License",
+    "@txt_driver_driving_license": {
+        "description": "Driver Driving License"
+    },
+    "txt_license_number": "License Number",
+    "@txt_license_number": {
+        "description": "License Number"
+    },
+    "txt_vehicle_registration": "Vehicle Registration",
+    "@txt_vehicle_registration": {
+        "description": "Vehicle Registration"
+    },
+    "txt_registration_number": "Registration Number",
+    "@txt_registration_number": {
+        "description": "Registration Number"
+    },
+    "txt_next": "Next",
+    "@txt_next": {
+        "description": "Next"
+    },
+    "txt_vehicle_ownership": "Vehicle Ownership",
+    "@txt_vehicle_ownership": {
+        "description": "Vehicle Ownership"
+    },
+    "txt_ownership_number": "Ownership Number",
+    "@txt_ownership_number": {
+        "description": "Ownership Number"
+    },
+    "txt_vehicle_insurance": "Vehicle Insurance",
+    "@txt_vehicle_insurance": {
+        "description": "Vehicle Insurance"
+    },
+    "txt_vehicle_inspection": "Vehicle Inspection",
+    "@txt_vehicle_inspection": {
+        "description": "Vehicle Inspection"
+    },
+    "txt_insurance_number": "Insurance Number",
+    "@txt_insurance_number": {
+        "description": "Insurance Number"
+    },
+    "txt_inspection_number": "Inspection Number",
+    "@txt_inspection_number": {
+        "description": "Inspection Number"
+    },
+    "txt_vehicle_manifest": "Vehicle Manifest",
+    "@txt_vehicle_manifest": {
+        "description": "Vehicle Manifest"
+    },
+    "txt_manifest_number": "Manifest Number",
+    "@txt_manifest_number": {
+        "description": "Manifest Number"
+    },
+    "txt_vehicle_radio_tax": "Vehicle Radio Tax",
+    "@txt_vehicle_radio_tax": {
+        "description": "Vehicle Radio Tax"
+    },
+    "txt_radio_tax_number": "Radio Tax Number",
+    "@txt_radio_tax_number": {
+        "description": "Radio Tax Number"
+    },
+    "txt_done": "Done",
+    "@txt_done": {
+        "description": "Done"
+    },
+    "txt_almost_done": "Almost done! Enter mobile number to continue",
+    "@txt_almost_done": {
+        "description": "Almost done! Enter mobile number to continue"
+    },
+    "txt_menu": "MENU",
+    "@txt_menu": {
+        "description": "MENU"
+    },
+    "txt_driver_profile": "Driver profile",
+    "@txt_driver_profile": {
+        "description": "Driver profile"
+    },
+    "txt_upload_doc_info": "Uploaded Doc. and Car info.",
+    "@txt_upload_doc_info": {
+        "description": "Uploaded Doc. and Car info."
+    },
+    "txt_add_new_doc": "Add New Document",
+    "@txt_add_new_doc": {
+        "description": "Add New Document"
+    },
+    "txt_bank_info": "Bank Information",
+    "@txt_bank_info": {
+        "description": "Bank Information"
+    },
+    "txt_transaction": "Transaction",
+    "@txt_transaction": {
+        "description": "Transaction"
+    },
+    "txt_my_trip": "My Trips",
+    "@txt_my_trip": {
+        "description": "My Trips"
+    },
+    "txt_support": "Support",
+    "@txt_support": {
+        "description": "Support"
+    },
+    "txt_about_us": "About us",
+    "@txt_about_us": {
+        "description": "About us"
+    },
+    "txt_terms_condition": "Terms And Condition",
+    "@txt_terms_condition": {
+        "description": "Terms And Condition"
+    },
+    "txt_logout": "Logout",
+    "@txt_logout": {
+        "description": "Logout"
+    },
+    "txt_edit_profile": "EDIT PROFILE",
+    "@txt_edit_profile": {
+        "description": "EDIT PROFILE"
+    },
+    "txt_name": "Name",
+    "@txt_name": {
+        "description": "Name"
+    },
+    "txt_email": "Email",
+    "@txt_email": {
+        "description": "Email"
+    },
+    "txt_camera": "Camera",
+    "@txt_camera": {
+        "description": "Camera"
+    },
+    "txt_gallery": "Gallery",
+    "@txt_gallery": {
+        "description": "Gallery"
+    },
+    "txt_uploaded_documents_info": "UPLOADED DOCUMENTS INFO",
+    "@txt_uploaded_documents_info": {
+        "description": "UPLOADED DOCUMENTS INFO"
+    },
+    "txt_pending": "Pending",
+    "@txt_pending": {
+        "description": "Pending"
+    },
+    "txt_approved": "Approved",
+    "@txt_approved": {
+        "description": "Approved"
+    },
+    "txt_upload_detail": "UPLOAD DETAILS",
+    "@txt_upload_detail": {
+        "description": "UPLOAD DETAILS"
+    },
+    "txt_welcome": "welcome",
+    "@txt_welcome": {
+        "description": "welcome"
+    },
+    "txt_welcome_and_setup": "Here's what you need to do set up your account",
+    "@txt_welcome_and_setup": {
+        "description": "Here's what you need to do set up your account"
+    },
+    "txt_take_photo": "Take a photo of your",
+    "@txt_take_photo": {
+        "description": "Take a photo of your"
+    },
+    "val_upload_doc": "Please upload documents",
+    "@val_upload_doc": {
+        "description": "Please upload documents"
+    },
+    "txt_update_document": "Update document",
+    "@txt_update_document": {
+        "description": "Update document"
+    },
+    "txt_holder_name": "Bank Holder name",
+    "@txt_holder_name": {
+        "description": "Bank Holder name"
+    },
+    "txt_account_number": "Account Number",
+    "@txt_account_number": {
+        "description": "Account number"
+    },
+    "txt_ifsc_code": "IFSC code",
+    "@txt_ifsc_code": {
+        "description": "IFSC code"
+    },
+    "txt_bank_name": "Bank Name",
+    "@txt_bank_name": {
+        "description": "Bank Name"
+    },
+    "txt_transaction_upr": "TRANSACTIONS",
+    "@txt_transaction_upr": {
+        "description": "TRANSACTIONS"
+    },
+    "txt_total_amt": "Total Amount",
+    "@txt_total_amt": {
+        "description": "Total Amount"
+    },
+    "txt_cash": "Cash",
+    "@txt_cash": {
+        "description": "Cash"
+    },
+    "txt_online": "Online",
+    "@txt_online": {
+        "description": "Online"
+    },
+    "txt_payment_history": "PAYMENT HISTORY",
+    "@txt_payment_history": {
+        "description": "PAYMENT HISTORY"
+    },
+    "txt_no_data_found": "No Data Found",
+    "@txt_no_data_found": {
+        "description": "No Data Found"
+    },
+    "txt_support_upr": "SUPPORT",
+    "@txt_support_upr": {
+        "description": "SUPPORT"
+    },
+    "txt_concern_queries": "Concerns and Queries",
+    "@txt_concern_queries": {
+        "description": "Concerns and Queries"
+    },
+    "txt_upload_pic_doc": "Upload your Picture or Document",
+    "@txt_upload_pic_doc": {
+        "description": "Upload your Picture or Document"
+    },
+    "txt_logout": "Log Out",
+    "@txt_logout": {
+        "description": "Log Out"
+    },
+    "txt_want_to_logout": "Do you want to Log Out",
+    "@txt_want_to_logout": {
+        "description": "Do you want to Log Out"
+    },
+    "txt_no": "No",
+    "@txt_no": {
+        "description": "No"
+    },
+    "txt_yes": "Yes",
+    "@txt_yes": {
+        "description": "Yes"
+    },
+    "txt_notification": "NOTIFICATIONS",
+    "@txt_notification": {
+        "description": "NOTIFICATIONS"
+    },
+    "txt_offline": "You are Offline",
+    "@txt_offline": {
+        "description": "You are Offline"
+    },
+    "txt_successfully_logged_in": "you are successfully logged in.",
+    "@txt_successfully_logged_in": {
+        "description": "you are successfully logged in."
+    },
+    "txt_distance": "Distance",
+    "@txt_distance": {
+        "description": "Distance"
+    },
+    "txt_estimate_time": "Estimate time",
+    "@txt_estimate_time": {
+        "description": "Estimate time"
+    },
+    "txt_from_upr": "FROM",
+    "@txt_from_upr": {
+        "description": "FROM"
+    },
+    "txt_to_upr": "TO",
+    "@txt_to_upr": {
+        "description": "TO"
+    },
+    "txt_call": "Call",
+    "@txt_call": {
+        "description": "Call"
+    },
+    "txt_chat": "Chat",
+    "@txt_chat": {
+        "description": "Chat"
+    },
+    "txt_price": "Price",
+    "@txt_price": {
+        "description": "Price"
+    },
+    "txt_decline": "Decline",
+    "@txt_decline": {
+        "description": "Decline"
+    },
+    "txt_accept": "Accept",
+    "@txt_accept": {
+        "description": "Accept"
+    },
+    "txt_customer_pickup": "Customer Pickup?",
+    "@txt_customer_pickup": {
+        "description": "Customer Pickup?"
+    },
+    "txt_navigate": "Navigate",
+    "@txt_navigate": {
+        "description": "Navigate"
+    },
+    "txt_enter_otp": "Enter OTP",
+    "@txt_enter_otp": {
+        "description": "Enter OTP"
+    },
+    "txt_start_ride": "Start Ride",
+    "@txt_start_ride": {
+        "description": "Start Ride"
+    },
+    "txt_ride_complete": "Ride Complete",
+    "@txt_ride_complete": {
+        "description": "Ride Complete"
+    },
+    "txt_wait_for_payment": "Wait for Payment",
+    "@txt_wait_for_payment": {
+        "description": "Wait for Payment"
+    },
+    "txt_ride_complete_upr": "RIDE COMPLETE",
+    "@txt_ride_complete_upr": {
+        "description": "RIDE COMPLETE"
+    },
+    "txt_your_ride_complete_upr": "YOUR RIDE COMPLETE",
+    "@txt_your_ride_complete_upr": {
+        "description": "YOUR RIDE COMPLETE"
+    },
+    "txt_payment_by": "Payment By",
+    "@txt_payment_by": {
+        "description": "Payment By"
+    },
+    "txt_type_of_service": "Type of Service",
+    "@txt_type_of_service": {
+        "description": "Type of Service"
+    },
+    "txt_total_km": "Total Km",
+    "@txt_total_km": {
+        "description": "Total Km"
+    },
+    "txt_duration": "Duration",
+    "@txt_duration": {
+        "description": "Duration"
+    },
+    "txt_reason_cancellation": "Reason for Cancellation",
+    "@txt_reason_cancellation": {
+        "description": "Reason for Cancellation"
+    },
+    "txt_driver_denied": "Driver Denied to pick-up",
+    "@txt_driver_denied": {
+        "description": "Driver Denied to pick-up"
+    },
+    "txt_expected_time": "Expected a shorter wait time",
+    "@txt_expected_time": {
+        "description": "Expected a shorter wait time"
+    },
+    "txt_unable_to_contact_user": "Unable to contact user",
+    "@txt_unable_to_contact_user": {
+        "description": "Unable to contact user"
+    },
+    "txt_reason_not_listed": "My reason is not listed here",
+    "@txt_reason_not_listed": {
+        "description": "My reason is not listed here"
+    },
+    "txt_cancel": "Cancel",
+    "@txt_cancel": {
+        "description": "Cancel"
+    },
+    "txt_check_internet": "Please check your internet connection",
+    "@txt_check_internet": {
+        "description": "Please check your internet connection"
+    },
+    "txt_english": "English",
+    "@txt_english": {
+        "description": "English"
+    },
+    "txt_portuguese": "Portuguese",
+    "@txt_portuguese": {
+        "description": "Portuguese"
+    },
+    "txt_arabic": "Arabic",
+    "@txt_arabic": {
+        "description": "Arabic"
+    },
+    "txt_urdu": "Urdu",
+    "@txt_urdu": {
+        "description": "Urdu"
+    },
+    "txt_hindi": "Hindi",
+    "@txt_hindi": {
+        "description": "Hindi"
+    },
+    "txt_spanish": "Spanish",
+    "@txt_spanish": {
+        "description": "Spanish"
+    },
+    "txt_mandarim": "Mandarim",
+    "@txt_mandarim": {
+        "description": "Mandarim"
+    },
+    "txt_french": "French",
+    "@txt_french": {
+        "description": "French"
+    },
+    "txt_afrikaans": "Afrikaans",
+    "@txt_afrikaans": {
+        "description": "Afrikaans"
+    },
+    "txt_bengali": "Bengali",
+    "@txt_bengali": {
+        "description": "Bengali"
+    },
+    "txt_russian": "Russian",
+    "@txt_russian": {
+        "description": "Russian"
+    },
+    "txt_japanese": "Japanese",
+    "@txt_japanese": {
+        "description": "Japanese"
+    },
+    "txt_turkish": "Turkish",
+    "@txt_turkish": {
+        "description": "Turkish"
+    },
+    "txt_swahili": "Swahili",
+    "@txt_swahili": {
+        "description": "Swahili"
+    },
+    "txt_italian": "Italian",
+    "@txt_italian": {
+        "description": "Italian"
+    },
+    "txt_edit": "Edit",
+    "@txt_edit": {
+        "description": "Edit"
+    },
+    "txt_delete": "Delete",
+    "@txt_delete": {
+        "description": "Delete"
+    },
+    "val_accept_term_condition": "Please accept Terms & Conditions",
+    "@val_accept_term_condition": {
+        "description": "Please accept Terms & Conditions"
+    },
+    "val_first_name": "Please enter first name",
+    "@val_first_name": {
+        "description": "Please enter first name"
+    },
+    "val_fullname_short": "Full name too short",
+    "@val_fullname_short": {
+        "description": "Full name too short"
+    },
+    "val_enter_userid_email": "Please enter user id or email",
+    "@val_enter_userid_email": {
+        "description": "Please enter user id or email"
+    },
+    "val_userid_email_short": "User id or email too short",
+    "@val_userid_email_short": {
+        "description": "User id or email too short"
+    },
+    "val_enter_last_name": "Please enter last name",
+    "@val_enter_last_name": {
+        "description": "Please enter last name"
+    },
+    "val_enter_userid": "Please enter user id",
+    "@val_enter_userid": {
+        "description": "Please enter user id"
+    },
+    "val_atleast_3char": "Please enter atleast 3 character",
+    "@val_atleast_3char": {
+        "description": "Please enter atleast 3 character"
+    },
+    "val_first_name_short": "First name too short",
+    "@val_first_name_short": {
+        "description": "First name too short"
+    },
+    "val_last_name_short": "Last name too short",
+    "@val_last_name_short": {
+        "description": "Last name too short"
+    },
+    "val_enter_email": "Please enter email",
+    "@val_enter_email": {
+        "description": "Please enter email"
+    },
+    "val_valid_enter": "Please enter valid email",
+    "@val_valid_enter": {
+        "description": "Please enter valid email"
+    },
+    "val_enter_password": "Please enter password",
+    "@val_enter_password": {
+        "description": "Please enter password"
+    },
+    "val_enter_old_pass": "Please enter old password",
+    "@val_enter_old_pass": {
+        "description": "Please enter old password"
+    },
+    "val_enter_new_pass": "Please enter new password",
+    "@val_enter_new_pass": {
+        "description": "Please enter new password"
+    },
+    "val_pass_short": "Password is too short",
+    "@val_pass_short": {
+        "description": "Password is too short"
+    },
+    "val_pass_not_match": "Passwords don't match",
+    "@val_pass_not_match": {
+        "description": "Passwords don't match"
+    },
+    "val_enter_name": "Please enter name",
+    "@val_enter_name": {
+        "description": "Please enter name"
+    },
+    "val_enter_query": "Please enter query",
+    "@val_enter_query": {
+        "description": "Please enter query"
+    },
+    "val_enter_confirm_pass": "Please enter Confirm Password",
+    "@val_enter_confirm_pass": {
+        "description": "Please enter Confirm Password"
+    },
+    "val_enter_address": "Please enter address",
+    "@val_enter_address": {
+        "description": "Please enter address"
+    },
+    "val_enter_mobile": "Please enter mobile number",
+    "@val_enter_mobile": {
+        "description": "Please enter mobile number"
+    },
+    "val_valid_number": "Please enter valid mobile number",
+    "@val_valid_number": {
+        "description": "Please enter valid mobile number"
+    },
+    "val_otp": "Please Enter OTP",
+    "@val_otp": {
+        "description": "Please Enter OTP"
+    },
+    "val_enter_postal_code": "Please enter postal code",
+    "@val_enter_postal_code": {
+        "description": "Please enter postal code"
+    },
+    "val_valid_postal_code": "Please enter valid postal code",
+    "@val_valid_postal_code": {
+        "description": "Please enter valid postal code"
+    },
+    "val_enter_landmark": "Please enter landmark",
+    "@val_enter_landmark": {
+        "description": "Please enter landmark"
+    },
+    "val_enter_city": "Please enter city",
+    "@val_enter_city": {
+        "description": "Please enter city"
+    },
+    "val_enter_state": "Please enter state",
+    "@val_enter_state": {
+        "description": "Please enter state"
+    },
+    "val_enter_address": "Please enter address",
+    "@val_enter_address": {
+        "description": "Please enter address"
+    },
+    "val_enter_specification": "Please enter specification",
+    "@val_enter_specification": {
+        "description": "Please enter specification"
+    },
+    "val_enter_message": "Enter a message",
+    "@val_enter_message": {
+        "description": "PEnter a message"
+    },
+    "txt_camera_permission": "Camera Permission",
+    "@txt_camera_permission": {
+        "description": "Camera Permission"
+    },
+    "txt_permission_camera": "Without this permission, this app will be unable to pick photo. Are you sure you want to deny this permission?",
+    "@txt_permission_camera": {
+        "description": "Without this permission, this app will be unable to pick photo. Are you sure you want to deny this permission?"
+    },
+    "txt_retry": "Retry",
+    "@txt_retry": {
+        "description": "Retry"
+    },
+    "txt_im_sure": "I'm Sure",
+    "@txt_im_sure": {
+        "description": "I'm Sure"
+    },
+    "txt_gallery_permission": "Gallery Permission",
+    "@txt_gallery_permission": {
+        "description": "Gallery Permission"
+    },
+    "txt_permision_gallery": "Without this permission, this app will be unable to get photos from gallery. Are you sure you want to deny this permission?",
+    "@txt_permision_gallery": {
+        "description": "Without this permission, this app will be unable to get photos from gallery. Are you sure you want to deny this permission?"
+    },
+    "txt_your_msg": "Your Message...",
+    "@txt_your_msg": {
+        "description": "Your Message..."
+    },
+    "txt_user_cancel_process": "User cancel the process",
+    "@txt_user_cancel_process": {
+        "description": "User cancel the process"
+    },
+    "txt_thank_for_reg": "Thank you for Registration",
+    "@txt_thank_for_reg": {
+        "description": "Thank you for Registration"
+    },
+    "txt_verify_your_doc": "Once we verify your documents.",
+    "@txt_verify_your_doc": {
+        "description": "Once we verify your documents."
+    },
+     "txt_notify_you": "we notify you soon",
+    "@txt_notify_you": {
+        "description": "we notify you soon"
+    },
+    "txt_active_after_verification": "After verification your account will active",
+    "@txt_active_after_verification": {
+        "description": "After verification your account will active"
+    },
+    "val_enter_vehicle_num": "Please enter vehicle number",
+    "@val_enter_vehicle_num": {
+        "description": "Please enter vehicle number"
+    },
+     "val_upload_vehicle_front_img": "Please upload vehicle front image",
+    "@val_upload_vehicle_front_img": {
+        "description": "Please upload vehicle front image"
+    },
+     "val_upload_vehicle_back_img": "Please upload vehicle back image",
+    "@val_upload_vehicle_back_img": {
+        "description": "Please upload vehicle back image"
+    },
+     "val_enter_id_number": "Please enter Identification card number",
+    "@val_enter_id_number": {
+        "description": "Please enter Identification card number"
+    },
+     "val_upload_id_front_img": "Please upload Identification card front image",
+    "@val_upload_id_front_img": {
+        "description": "Please upload Identification card front image"
+    },
+     "val_upload_id_back_img": "Please upload Identification card back image",
+    "@val_upload_id_back_img": {
+        "description": "Please upload Identification card back image"
+    },
+     "val_select_id_start_date": "Please select Identification card start date",
+    "@val_select_id_start_date": {
+        "description": "Please select Identification card start date"
+    },
+     "val_select_id_end_date": "Please select Identification card end date",
+    "@val_select_id_end_date": {
+        "description": "Please select Identification card end date"
+    },
+     "val_enter_license_num": "Please enter license number",
+    "@val_enter_license_num": {
+        "description": "Please enter license number"
+    },
+     "val_upload_license_front_img": "Please upload license front image",
+    "@val_upload_license_front_img": {
+        "description": "Please upload license front image"
+    },
+     "val_upload_license_back_img": "Please upload license back image",
+    "@val_upload_license_back_img": {
+        "description": "Please upload license back image"
+    },
+     "val_select_license_start_date": "Please select license start date",
+    "@val_select_license_start_date": {
+        "description": "Please select license start date"
+    },
+     "val_select_license_end_date": "Please select license end date",
+    "@val_select_license_end_date": {
+        "description": "Please select license end date"
+    },
+     "val_enter_vehicle_reg_num": "Please enter vehicle registration number",
+    "@val_enter_vehicle_reg_num": {
+        "description": "Please enter vehicle registration number"
+    },
+     "val_upload_reg_front_img": "Please upload vehicle registration front image",
+    "@val_upload_vehicle_front_img": {
+        "description": "Please upload vehicle registration front image"
+    },
+     "val_upload_reg_back_img": "Please upload vehicle registration back image",
+    "@txt_your_msg": {
+        "description": "Please upload vehicle registration back image"
+    },
+     "val_enter_reg_start_date": "Please select vehicle registration start date",
+    "@val_enter_reg_start_date": {
+        "description": "Please select vehicle registration start date"
+    },
+     "val_enter_reg_end_date": "Please select vehicle registration end date",
+    "@val_enter_reg_end_date": {
+        "description": "Please select vehicle registration end date"
+    },
+    "val_enter_owner_num": "Please enter vehicle ownership number",
+    "@val_enter_owner_num": {
+        "description": "Please enter vehicle ownership number"
+    },
+     "val_upload_owner_front_img": "Please upload vehicle ownership front image",
+    "@val_upload_owner_front_img": {
+        "description": "Please upload vehicle ownership front image"
+    },
+     "val_upload_owner_back_img": "Please upload vehicle ownership back image",
+    "@val_upload_owner_back_img": {
+        "description": "Please upload vehicle ownership back image"
+    },
+     "val_enter_owner_start_date": "Please select vehicle ownership start date",
+    "@val_enter_owner_start_date": {
+        "description": "Please select vehicle ownership start date"
+    },
+     "val_enter_owner_end_date": "Please select vehicle ownership end date",
+    "@val_enter_owner_end_date": {
+        "description": "Please select vehicle ownership end date"
+    },
+     "val_enter_insurance_num": "Please enter vehicle insurance number",
+    "@val_enter_insurance_num": {
+        "description": "Please enter vehicle insurance number"
+    },
+      "val_upload_insurance_front_img": "Please upload vehicle insurance front image",
+    "@val_upload_insurance_front_img": {
+        "description": "Please upload vehicle insurance front image"
+    },
+      "val_upload_insurance_back_img": "Please upload vehicle insurance back image",
+    "@val_upload_insurance_back_img": {
+        "description": "Please upload vehicle insurance back image"
+    },
+      "val_insurance_start_date": "Please select vehicle insurance start date",
+    "@val_insurance_start_date": {
+        "description": "Please select vehicle insurance start date"
+    },
+      "val_insurance_end_date": "Please select vehicle insurance end date",
+    "@val_insurance_end_date": {
+        "description": "Please select vehicle insurance end date"
+    },
+      "val_inspection_num": "Please enter vehicle inspection number",
+    "@val_inspection_num": {
+        "description": "Please enter vehicle inspection number"
+    },
+      "val_inspection_front_img": "Please upload vehicle inspection front image",
+    "@val_inspection_front_img": {
+        "description": "Please upload vehicle inspection front image"
+    },
+      "val_inspection_back_img": "Please upload vehicle inspection back image",
+    "@val_inspection_back_img": {
+        "description": "Please upload vehicle inspection back image"
+    },
+     "val_inspection_start_date": "Please select vehicle inspection start date",
+    "@val_inspection_start_date": {
+        "description": "Please select vehicle inspection start date"
+    },
+     "val_inspection_end_date": "Please select vehicle inspection end date",
+    "@val_inspection_end_date": {
+        "description": "Please select vehicle inspection end date"
+    },
+     "val_manifest_num": "Please enter vehicle manifest number",
+    "@val_manifest_num": {
+        "description": "Please enter vehicle manifest number"
+    },
+     "val_manifest_front_img": "Please upload vehicle manifest front image",
+    "@val_manifest_front_img": {
+        "description": "Please upload vehicle manifest front image"
+    },
+     "val_manifest_back_img": "Please upload vehicle manifest back image",
+    "@val_manifest_back_img": {
+        "description": "Please upload vehicle manifest back image"
+    },
+     "val_manifest_start_date": "Please select vehicle manifest start date",
+    "@val_manifest_start_date": {
+        "description": "Please select vehicle manifest start date"
+    },
+     "val_manifest_end_date": "Please select vehicle manifest end date",
+    "@val_manifest_end_date": {
+        "description": "Please select vehicle manifest end date"
+    },
+     "val_radio_num": "Please enter vehicle radio tax number",
+    "@val_radio_num": {
+        "description": "Please enter vehicle radio tax number"
+    },
+     "val_radio_front_img": "Please upload vehicle radio tax front image",
+    "@val_radio_front_img": {
+        "description": "Please upload vehicle radio tax front image"
+    },
+     "val_radio_back_img": "Please upload vehicle radio tax back image",
+    "@val_radio_back_img": {
+        "description": "Please upload vehicle radio tax back image"
+    },
+     "val_radio_start_date": "Please select vehicle radio tax start date",
+    "@val_radio_start_date": {
+        "description": "Please select vehicle radio tax start date"
+    },
+     "val_radio_end_date": "Please select vehicle radio tax end date",
+    "@val_radio_end_date": {
+        "description": "Please select vehicle radio tax end date"
+    },
+      "txt_file_selected": "File Selected",
+    "@txt_file_selected": {
+        "description": "File Selected"
+    },
+       "txt_nofile_selected": "No file Selected",
+    "@txt_nofile_selected": {
+        "description": "No file Selected"
+    },
+    "txt_server_error": "Server Error, Please Try again",
+    "@txt_server_error": {
+        "description": "Server Error, Please Try again"
+    },
+     "val_valid_otp": "Please Enter Valid OTP",
+    "@val_valid_otp": {
+        "description": "Please Enter Valid OTP"
+    },
+     "txt_double_click": "Double click to exit app",
+    "@txt_double_click": {
+        "description": "Double click to exit app"
+    },
+      "txt_pick_from": "Pickup from",
+    "@txt_pick_from": {
+        "description": "Pickup from"
+    },
+      "txt_transaction_id": "Transaction id",
+    "@txt_pick_from": {
+        "description": "Transaction id"
+    },
+       "txt_total_price": "Total Price",
+    "@txt_total_price": {
+        "description": "Total Price"
+    },
+     "txt_complete": "Completed",
+    "@txt_complete": {
+        "description": "Completed"
+    },
+      "txt_date": "Date",
+    "@txt_date": {
+        "description": "Date"
+    },
+      "txt_by": "By",
+    "@txt_by": {
+        "description": "By"
+    },
+       "txt_cancelled": "Cancelled",
+    "@txt_cancelled": {
+        "description": "Cancelled"
+    },
+       "txt_phone_number": "Phone number",
+    "@txt_phone_number": {
+        "description": "Phone number"
+    },
+       "txt_upload": "Upload",
+    "@txt_upload": {
+        "description": "Upload"
+    },
+       "txt_valid_phone": "Please Enter valid Phone No",
+    "@txt_valid_phone": {
+        "description": "Please Enter valid Phone No"
+    },
+       "txt_maker_name": "Please Enter Car Maker detail",
+    "@txt_maker_name": {
+        "description": "Please Enter Car Maker detail"
+    },
+       "txt_model_name": "Please Enter Car Model name",
+    "@txt_model_name": {
+        "description": "Please Enter Car Model name"
+    },
+       "txt_color_name": "Please Enter Car Color name",
+    "@txt_color_name": {
+        "description": "Please Enter Car Color name"
+    },
+       "txt_select_passenger": "Please Select No. of Passenger",
+    "@txt_select_passenger": {
+        "description": "Please Select No. of Passenger"
+    },
+       "txt_valid_data": "Enter Valid data",
+    "@txt_valid_data": {
+        "description": "Enter Valid data"
+    },
+       "txt_select_vehicle_pic": "Please Select Vehicle Pictures",
+    "@txt_select_vehicle_pic": {
+        "description": "Please Select Vehicle Pictures"
+    },
+        "txt_location_permission": "Location Permission",
+    "@txt_location_permission": {
+        "description": "Location Permission"
+    },
+    "txt_permision_location": "Without this permission, this app will be unable to get yours location and address. Are you sure you want to deny this permission?",
+    "@txt_permision_location": {
+        "description": "Without this permission, this app will be unable to get yours location and address. Are you sure you want to deny this permission?"
+    },
+    "txt_permision_setting": "If you want to use this app you must enable permissions in system permissions setting",
+    "@txt_permision_setting": {
+        "description": "If you want to use this app you must enable permissions in system permissions setting"
+    },
+     "txt_setting": "Settings",
+    "@txt_setting": {
+        "description": "Settings"
+    },
+     "txt_exit": "Exit",
+    "@txt_exit": {
+        "description": "Exit"
+    },
+    "txt_select_max": "Select Max 10 Images",
+    "@txt_exit": {
+        "description": "Select Max 10 Images"
+    },
+    "txt_car_maker": "Car Maker",
+    "@txt_car_maker": {
+        "description": "Car Maker"
+    },
+     "txt_car_model": "Car Model",
+    "@txt_car_model": {
+        "description": "Car Model"
+    },
+     "txt_car_color": "Car Color",
+    "@txt_car_color": {
+        "description": "Car Color"
+    },
+     "txt_no_pass": "No. Of Passenger",
+    "@txt_no_pass": {
+        "description": "No. Of Passenger"
+    },
+     "txt_vehicle_pic": "Vehicle Picture",
+    "@txt_vehicle_pic": {
+        "description": "Vehicle Picture"
+    },
+     "txt_driver_id": "Driver Identification card",
+    "@txt_driver_id": {
+        "description": "Driver Identification card"
+    },
+     "txt_driver_driving": "Driver driving license",
+    "@txt_driver_driving": {
+        "description": "Driver driving license"
+    },
+     "txt_vehicle_reg": "Vehicle registration",
+    "@txt_vehicle_reg": {
+        "description": "Vehicle registration"
+    },
+     "txt_vehicle_owner": "Vehicle ownership",
+    "@txt_vehicle_owner": {
+        "description": "Vehicle ownership"
+    },
+     "txt_vehicle_insur": "Vehicle Insurance",
+    "@txt_vehicle_insur": {
+        "description": "Vehicle Insurance"
+    },
+      "txt_vehicle_inspec": "Vehicle Inspection",
+    "@txt_vehicle_inspec": {
+        "description": "Vehicle Inspection"
+    },
+      "txt_vehicle_mani": "Vehicle manifest",
+    "@txt_vehicle_mani": {
+        "description": "Vehicle manifest"
+    },
+     "txt_vehicle_radio": "Vehicle radio tax",
+    "@txt_vehicle_radio": {
+        "description": "Vehicle radio tax"
+    },
+      "txt_maker": "Maker",
+    "@txt_maker": {
+        "description": "Maker"
+    },
+      "txt_model": "Model",
+    "@txt_model": {
+        "description": "Model"
+    },
+      "txt_color": "Color",
+    "@txt_color": {
+        "description": "Color"
+    },
+       "txt_passenger": "Passenger",
+    "@txt_passenger": {
+        "description": "Passenger"
+    },
+      "txt_max_10": "(max 10)",
+    "@txt_max_10": {
+        "description": "(max 10)"
+    },
+    "txt_uploaded": "Uploaded",
+    "@txt_uploaded": {
+        "description": "Uploaded"
+    },
+     "val_name_len": "Enter valid name",
+    "@val_name_len": {
+        "description": "Enter valid name"
+    },
+    "val_driving_license": "Enter valid driving license",
+    "@val_driving_license": {
+        "description": "Enter valid driving license"
+    },
+    "txt_select": "Select",
+    "@txt_select": {
+        "description": "Select"
+    },
+    "val_IdCard": "Enter valid ID Card",
+    "@val_IdCard": {
+        "description": "Enter valid ID Card"
+    },
+     "val_reg_len": "Registration Number should not exceed more than 10 alphanumeric character",
+    "@val_reg_len": {
+        "description": "Registration Number should not exceed more than 10 alphanumeric character"
+    },
+     "val_owner_len": "Enter Valid Owner Name",
+    "@val_owner_len": {
+        "description": "Enter Valid Owner Name"
+    },
+     "txt_insurance_len": "Insurance Number should not exceed more than 30 alphanumeric character",
+    "@txt_insurance_len": {
+        "description": "Insurance Number should not exceed more than 30 alphanumeric character"
+    },
+     "txt_change_lng": "Change Language",
+    "@txt_change_lng": {
+        "description": "Change Language"
+    },
+     "txt_pls_enter_queries": "Please enter your queries",
+    "@txt_pls_enter_queries": {
+        "description": "Please enter your queries"
+    },
+     "txt_query_length": "Queries length must be Min 10 Characters",
+    "@txt_query_length": {
+        "description": "Queries length must be Min 10 Characters"
+    },
+     "txt_take_live_photo": "Take a live photo",
+    "@txt_take_live_photo": {
+        "description": "Take a live photo"
+    },
+     "txt_loading_camera": "Loading Camera...",
+    "@txt_loading_camera": {
+        "description": "Loading Camera..."
+    },
+     "txt_retake": "Retake",
+    "@txt_retake": {
+        "description": "Retake"
+    },
+     "txt_confirm": "Confirm",
+    "@txt_confirm": {
+        "description": "Confirm"
+    },
+     "txt_no_booking_for_schedule": "There is no booking for schedule ride",
+    "@txt_no_booking_for_schedule": {
+        "description": "There is no booking for schedule ride"
+    },
+     "txt_schedule_ride": "Schedule Ride",
+    "@txt_schedule_ride": {
+        "description": "Schedule Ride"
+    },
+     "txt_scheduled_rides": "Scheduled Rides",
+    "@txt_scheduled_rides": {
+        "description": "Scheduled Rides"
+    },
+     "txt_cancel_ride": "Cancel Ride",
+    "@txt_cancel_ride": {
+        "description": "Cancel Ride"
+    },
+     "txt_payment_pending": "Payment Pending",
+    "@txt_payment_pending": {
+        "description": "Payment Pending"
+    },
+     "txt_accepted": "Accepted",
+    "@txt_accepted": {
+        "description": "Accepted"
+    },
+     "txt_ride_pending": "Ride Pending",
+    "@txt_ride_pending": {
+        "description": "Ride Pending"
+    },
+     "txt_wallet": "Wallet",
+    "@txt_wallet": {
+        "description": "Wallet"
+    },
+     "txt_send_request": "Send Request",
+    "@txt_send_request": {
+        "description": "Send Request"
+    },
+     "txt_note_remark": "Note/Remark",
+    "@txt_note_remark": {
+        "description": "Note/Remark"
+    },
+     "txt_withdrawal_amt": "Withdrawal Amount",
+    "@txt_withdrawal_amt": {
+        "description": "Withdrawal Amount"
+    },
+     "txt_history": "History",
+    "@txt_history": {
+        "description": "History"
+    },
+     "txt_skip": "Skip",
+    "@txt_skip": {
+        "description": "Skip"
+    },
+     "txt_success": "Success",
+    "@txt_success": {
+        "description": "Success"
+    },
+     "txt_enter_amt": "Enter Amount",
+    "@txt_": {
+        "description": "Enter Amount"
+    },
+     "txt_enter_valid_amt": "Enter Valid Amount",
+    "@txt_enter_valid_amt": {
+        "description": "Enter Valid Amount"
+    },
+     "txt_owner_name": "Owner Name",
+    "@txt_owner_name": {
+        "description": "Owner Name"
+    },
+     "txt_enter_owner_name": "Please Enter Owner Name",
+    "@txt_enter_owner_name": {
+        "description": "Please Enter Owner Name"
+    },
+     "txt_enter_valid_owner_name": "Enter Valid Owner Name",
+    "@txt_enter_valid_owner_name": {
+        "description": "Enter Valid Owner Name"
+    },
+     "txt_enter_valid_maker_name": "Enter Valid Maker Name",
+    "@txt_enter_valid_maker_name": {
+        "description": "Enter Valid Maker Name"
+    },
+     "txt_valid_color_name": "Enter Valid Color Name",
+    "@txt_valid_color_name": {
+        "description": "Enter Valid Color Name"
+    },
+     "txt_enter_color_name": "Please Enter Color Name",
+    "@txt_enter_color_name": {
+        "description": "Please Enter Color Name"
+    },
+     "txt_request_mode": "Request Mode",
+    "@txt_request_mode": {
+        "description": "Request Mode"
+    },
+     "txt_request_pending": "Request Pending",
+    "@txt_request_pending": {
+        "description": "Request Pending"
+    },
+     "txt_request_decline": "Request Decline",
+    "@txt_request_decline": {
+        "description": "Request Decline"
+    },
+     "txt_request_date": "Request Date",
+    "@txt_request_date": {
+        "description": "Request Date"
+    },
+     "txt_request_status": "Request Status",
+    "@txt_request_status": {
+        "description": "Request Status"
+    },
+     "txt_enter_vaild_name": "Enter valid name",
+    "@txt_enter_vaild_name": {
+        "description": "Enter valid name"
+    },
+     "txt_update": "Update",
+    "@txt_update": {
+        "description": "Update"
+    },
+     "txt_enter_details_of_your": "Enter details of your",
+    "@txt_enter_details_of_your": {
+        "description": "Enter details of your"
+    },
+     "txt_upload_photo_of_your": "Upload a photo of your",
+    "@txt_upload_photo_of_your": {
+        "description": "Upload a photo of your"
+    },
+     "txt_vehicle": "Vehicle",
+    "@txt_vehicle": {
+        "description": "Vehicle"
+    },
+     "txt_select_min_one_img": "Select minimum 1 image",
+    "@txt_select_min_one_img": {
+        "description": "Select minimum 1 image"
+    },
+     "txt_details": "Details",
+    "@txt_details": {
+        "description": "Details"
+    },
+     "txt_in_progress": "In-Progress",
+    "@txt_in_progress": {
+        "description": "In-Progress"
+    },
+     "txt_complete_ride": "Complete Ride",
+    "@txt_complete_ride": {
+        "description": "Complete Ride"
+    },
+     "txt_your_ride_completed": "YOUR RIDE IS COMPLETED",
+    "@txt_your_ride_completed": {
+        "description": "YOUR RIDE IS COMPLETED"
+    },
+     "txt_ride_completed": "RIDE COMPLETED",
+    "@txt_ride_completed": {
+        "description": "RIDE COMPLETED"
+    },
+     "txt_security_deposit": "Security Deposit",
+    "@txt_security_deposit": {
+        "description": "Security Deposit"
+    },
+     "txt_complete_security_deposit_process": "Complete the Security Deposit Process",
+    "@txt_complete_security_deposit_process": {
+        "description": "Complete the Security Deposit Process"
+    },
+     "txt_checked_pay_later": "You have checked the security deposit pay later",
+    "@txt_checked_pay_later": {
+        "description": "You have checked the security deposit pay later"
+    },
+     "txt_already_done_online_payment": "You have already done online payment",
+    "@txt_already_done_online_payment": {
+        "description": "You have already done online payment"
+    },
+     "txt_choose_pay_menthod": "Choose Payment Method",
+    "@txt_choose_pay_menthod": {
+        "description": "Choose Payment Method"
+    },
+     "txt_pay_now": "Pay Now",
+    "@txt_pay_now": {
+        "description": "Pay Now"
+    },
+     "txt_do_later": "I will do the security deposit later",
+    "@txt_do_later": {
+        "description": "I will do the security deposit later"
+    },
+     "txt_gender_pref": "Gender Preferences",
+    "@txt_gender_pref": {
+        "description": "Gender Preferences"
+    },
+     "txt_gender_you_want_to_prefer": "(Select Gender you want to prefer to take ride of)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(Select Gender you want to prefer to take ride of)"
+    },
+     "txt_male": "Male",
+    "@txt_male": {
+        "description": "Male"
+    },
+     "txt_female": "Female",
+    "@txt_female": {
+        "description": "Female"
+    },
+     "txt_other": "Other",
+    "@txt_other": {
+        "description": "Other"
+    },
+     "txt_no_pref": "No Preferences",
+    "@txt_no_pref": {
+        "description": "No Preferences"
+    },
+     "txt_update_details_of_user": "Update Details of your",
+    "@txt_update_details_of_user": {
+        "description": "Update Details of your"
+    },
+     "txt_criminal_record_certificate": "Criminal Record Certificate",
+    "@txt_criminal_record_certificate": {
+        "description": "Criminal Record Certificate"
+    },
+     "txt_criminal_record": "Criminal Record",
+    "@txt_criminal_record": {
+        "description": "Criminal Record"
+    },
+     "txt_update_your": "Update your",
+    "@txt_update_your": {
+        "description": "Update your"
+    },
+     "txt_document": "document",
+    "@txt_document": {
+        "description": "document"
+    },
+      "txt_select_your_gender": "Select your gender",
+    "@txt_select_your_gender": {
+        "description": "Select your gender"
+    },
+      "txt_gender": "Gender",
+    "@txt_gender": {
+        "description": "Gender"
+    },
+      "txt_ride_type": "Ride Type",
+    "@txt_ride_type": {
+        "description": "Ride Type"
+    },
+      "txt_rejected": "Rejected",
+    "@txt_rejected": {
+        "description": "Rejected"
+    },
+      "txt_km": "km",
+    "@txt_km": {
+        "description": "km"
+    },
+      "txt_select_reason": "Select Reason",
+    "@txt_select_reason": {
+        "description": "Select Reason"
+    },
+      "txt_select_gender_pref": "Select gender preference",
+    "@txt_select_gender_pref": {
+        "description": "Select gender preference"
+    },
+      "txt_update_documents": "Update Documents",
+    "@txt_update_documents": {
+        "description": "Update Documents"
+    },
+      "txt_are_you_sure_to_logout": "Are you sure you want to Log Out?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "Are you sure you want to Log Out?"
+    },
+      "txt_my_rides": "My Rides",
+    "@txt_my_rides": {
+        "description": "My Rides"
+    },
+      "txt_rating": "Rating",
+    "@txt_rating": {
+        "description": "Rating"
+    },
+      "txt_daily_ride": "Daily Ride",
+    "@txt_daily_ride": {
+        "description": "Daily Ride"
+    },
+     "txt_rental_ride": "Rental Ride",
+    "@txt_rental_ride": {
+        "description": "Rental Ride"
+    },
+     "txt_enter_your_reason": "Please enter your reason",
+    "@txt_enter_your_reason": {
+        "description": "Please enter your reason"
+    },
+     "txt_select_ride_type": "Select Ride Type",
+    "@txt_select_ride_type": {
+        "description": "Select Ride Type"
+    },
+     "txt_profile_under_review": "Your profile is under review, you can't take ride until admin activates it.",
+    "@txt_profile_under_review": {
+        "description": "Your profile is under review, you can't take ride until admin activates it."
+    },
+     "txt_your_account_deactivateed": "Your account has been deactivated by admin, please contact them.",
+    "@txt_your_account_deactivateed": {
+        "description": "Your account has been deactivated by admin, please contact them."
+    },
+     "txt_accept_terms_privacy": "By signing up you accept the Terms of Services and Privacy Policy",
+    "@txt_accept_terms_privacy": {
+        "description": "By signing up you accept the Terms of Services and Privacy Policy"
+    },
+     "txt_please_accept_terms_privacy": "Please accept the Terms of Services and Privacy Policy",
+    "@txt_please_accept_terms_privacy": {
+        "description": "Please accept the Terms of Services and Privacy Policy"
+    },
+     "txt_thanks_for_registering": "Thanks for registering with us",
+    "@txt_thanks_for_registering": {
+        "description": "Thanks for registering with us"
+    },
+     "txt_application_under_review_check_status": "Your application is under review, you can check status on the top red bar in the homepage.",
+    "@txt_application_under_review_check_status": {
+        "description": "Your application is under review, you can check status on the top red bar in the homepage."
+    },
+     "txt_update_details": "Update Details",
+    "@txt_update_details": {
+        "description": "Update Details"
+    },
+     "txt_ride_details": "Ride Details",
+    "@txt_ride_details": {
+        "description": "Ride Details"
+    },
+     "txt_mpesa": "Mpesa",
+    "@txt_mpesa": {
+        "description": "Mpesa"
+    },
+     "txt_image": "Image",
+    "@txt_image": {
+        "description": "Image"
+    },
+     "txt_check_internet_try_again": "Please check your internet connectivity and try again",
+    "@txt_check_internet_try_again": {
+        "description": "Please check your internet connectivity and try again"
+    },
+     "txt_oops_no_internet": "Oops, No Internet Connection",
+    "@txt_oops_no_internet": {
+        "description": "Oops, No Internet Connection"
+    },
+     "txt_package_complete_renew": "Your package has been completed either complete the ride, or wait for user to renew package",
+    "@txt_package_complete_renew": {
+        "description": "Your package has been completed either complete the ride, or wait for user to renew package"
+    },
+     "txt_wait_for_response": "Waiting For Response",
+    "@txt_wait_for_response": {
+        "description": "Waiting For Response"
+    },
+     "txt_ride_complete_in": "Ride Complete In",
+    "@txt_ride_complete_in": {
+        "description": "Ride Complete In"
+    },
+    "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+     "txt_something_went_wrong": "Something went wrong",
+    "@txt_something_went_wrong": {
+        "description": "Something went wrong"
+    },
+     "txt_refresh_page_try_later": "Try refreshing the page, or try again later.",
+    "@txt_refresh_page_try_later": {
+        "description": "Try refreshing the page, or try again later."
+    },
+     "txt_permission_required": "Permission Required",
+    "@txt_permission_required": {
+        "description": "Permission Required"
+    },
+     "txt_enable_permission": "Enable Permission",
+    "@txt_enable_permission": {
+        "description": "Enable Permission"
+    },
+     "txt_pick_your_country": "Pick your country",
+    "@txt_pick_your_country": {
+        "description": "Pick your country"
+    },
+     "txt_cant_update_ride_type": "You can't update your ride type in ongoing ride.",
+    "@txt_cant_update_ride_type": {
+        "description": "You can't update your ride type in ongoing ride."
+    },
+     "txt_check_connect_timeout": "Check Your connection time out !!",
+    "@txt_check_connect_timeout": {
+        "description": "Check Your connection time out !!"
+    },
+     "txt_timeout_exception": "Timeout Exception.",
+    "@txt_timeout_exception": {
+        "description": "Timeout Exception."
+    },
+     "txt_request_cancel_from_user": "Request Cancel From The User.",
+    "@txt_request_cancel_from_user": {
+        "description": "Request Cancel From The User."
+    },
+     "txt_getting_wrong_response": "We are getting wrong response.",
+    "@txt_getting_wrong_response": {
+        "description": "We are getting wrong response."
+    },
+     "txt_connection_error": "Connection error.",
+    "@txt_connection_error": {
+        "description": "Connection error."
+    },
+     "txt_server_not_connected_contact_admin": "Server not connected, please contact admin.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "Server not connected, please contact admin."
+    },
+     "txt_socket_not_connect": "Socket not connected...",
+    "@txt_socket_not_connect": {
+        "description": "Socket not connected..."
+    },
+     "txt_user_renewed_package": "User renewed the package!",
+    "@txt_user_renewed_package": {
+        "description": "User renewed the package!"
+    },
+     "txt_bear_per_km": "User bear per km charges!",
+    "@txt_bear_per_km": {
+        "description": "User bear per km charges!"
+    },
+     "txt_wait_for_user": "Wait for User",
+    "@txt_wait_for_user": {
+        "description": "Wait for User"
+    },
+     "txt_bysigning_you_accept": "By Signing up you accept the",
+    "@txt_bysigning_you_accept": {
+        "description": "By Signing up you accept the"
+    },
+     "txt_terms_service": "Terms of Services",
+    "@txt_terms_service": {
+        "description": "Terms of Services"
+    },
+     "txt_and": "and",
+    "@txt_and": {
+        "description": "and"
+    },
+     "txt_privacy_policy": "Privacy Policy",
+    "@txt_privacy_policy": {
+        "description": "Privacy Policy"
+    },
+     "txt_cash_received": "Cash Received",
+    "@txt_cash_received": {
+        "description": "Cash Received"
+    },
+     "txt_click_to_take_photo": "Click to take photo",
+    "@txt_click_to_take_photo": {
+        "description": "Click to take photo"
+    },
+     "txt_camera_setting_permission": "Camera Permission is not enable, please enable the permission",
+    "@txt_camera_setting_permission": {
+        "description": "Camera Permission is not enable, please enable the permission"
+    },
+     "txt_gallery_setting_permission": "Gallery Permission is not enable, please enable the permission",
+    "@txt_gallery_setting_permission": {
+        "description": "Gallery Permission is not enable, please enable the permission"
+    },
+     "txt_unauthorized_login": "Unauthorize Login",
+    "@txt_unauthorized_login": {
+        "description": "Unauthorize Login"
+    },
+     "txt_login_detect": "New login is detected in another device, please login again to use on this device",
+    "@txt_login_detect": {
+        "description": "New login is detected in another device, please login again to use on this device"
+    },
+     "txt_location_setting_permission": "Location Permission is not enable, please enable the permission",
+    "@txt_location_setting_permission": {
+        "description": "Location Permission is not enable, please enable the permission"
+    },
+     "txt_delete_account": "Delete Account",
+    "@txt_delete_account": {
+        "description": "Delete Account"
+    },
+     "txt_sure_to_delete": "Are you sure you want to delete your account?",
+    "@txt_sure_to_delete": {
+        "description": "Are you sure you want to delete your account?"
+    },
+     "txt_open_with": "Open with",
+    "@txt_open_with": {
+        "description": "Open with"
+    },
+     "txt_new_request_from": "New Request",
+    "@txt_new_request_from": {
+        "description": "New Request"
+    },
+     "txt_vehicle_assign": "Vehicle assign by admin is",
+    "@txt_vehicle_assign": {
+        "description": "Vehicle assign by admin is"
+    },
+    "txt_admin_delete": "Admin Deleted your account, you can't use the app further. Please contact admin.",
+    "@txt_admin_delete": {
+        "description": "Admin Deleted your account, you can't use the app further. Please contact admin."
+    }
+ }

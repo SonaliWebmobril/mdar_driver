@@ -1,0 +1,1606 @@
+{
+    "txt_login": "Ingia",
+    "@txt_login": {
+        "description": "Ingia"
+    },
+    "txt_mobile_number": "Namba ya simu ya mkononi",
+    "@txt_mobile_number": {
+        "description": "Namba ya simu ya mkononi"
+    },
+    "txt_submit": "Wasilisha",
+    "@txt_submit": {
+        "description": "Wasilisha"
+    },
+    "txt_continue_with": "Au endelea na",
+    "@txt_continue_with": {
+        "description": "Au endelea na"
+    },
+    "txt_select_lng": "Chagua lugha",
+    "@txt_select_lng": {
+        "description": "Chagua lugha"
+    },
+    "txt_select_country": "Chagua nchi",
+    "@txt_select_country": {
+        "description": "Chagua nchi"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "Tafuta",
+    "@txt_search": {
+        "description": "Tafuta "
+    },
+    "txt_last_pick": "Chaguo la mwisho",
+    "@txt_last_pick": {
+        "description": "Chaguo la mwisho"
+    },
+    "txt_successfully": "kwa mafanikio",
+    "@txt_successfully": {
+        "description": "kwa mafanikio"
+    },
+    "txt_your_otp": "OTP yako ni",
+    "@txt_your_otp": {
+        "description": "OTP yako ni"
+    },
+    "txt_otp_sent_successfully": "OTP ilituma kwa nguvu",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP ilituma kwa nguvu"
+    },
+    "txt_verification": "Uthibitishaji",
+    "@txt_verification": {
+        "description": "Uthibitishaji"
+    },
+    "txt_enter_code_we_sent": "Ingiza nambari ya uthibitishaji tumekutumia tu kwenye nambari yako ya rununu",
+    "@txt_enter_code_we_sent": {
+        "description": "Ingiza nambari ya uthibitishaji tumekutumia tu kwenye nambari yako ya rununu"
+    },
+    "txt_resend_otp": "Rejesha OTP",
+    "@txt_resend_otp": {
+        "description": "Rejesha OTP"
+    },
+    "txt_verify": "Thibitisha",
+    "@txt_verify": {
+        "description": "Thibitisha"
+    },
+    "txt_error": "Kosa",
+    "@txt_error": {
+        "description": "Kosa"
+    },
+    "txt_ok": "Sawa",
+    "@txt_ok": {
+        "description": "Sawa"
+    },
+    "txt_upload_details": "Pakia maelezo",
+    "@txt_upload_details": {
+        "description": "Pakia maelezo"
+    },
+    "txt_vehicle_picture": "Picha za gari",
+    "@txt_vehicle_picture": {
+        "description": "Picha za gari"
+    },
+    "txt_vehicle_number": "Nambari ya gari",
+    "@txt_vehicle_number": {
+        "description": "Nambari ya gari"
+    },
+    "txt_upload_image": "Pakia picha",
+    "@txt_upload_image": {
+        "description": "Pakia picha"
+    },
+    "txt_front": "Mbele",
+    "@txt_front": {
+        "description": "Mbele"
+    },
+    "txt_back": "Nyuma",
+    "@txt_back": {
+        "description": "Nyuma"
+    },
+    "txt_driver_id_card": "Kadi ya kitambulisho cha dereva",
+    "@txt_driver_id_card": {
+        "description": "Kadi ya kitambulisho cha dereva"
+    },
+    "txt_id_number": "Nambari ya kitambulisho",
+    "@txt_id_number": {
+        "description": "Nambari ya kitambulisho"
+    },
+    "txt_valid_from": "Halali kutoka",
+    "@txt_valid_from": {
+        "description": "Halali kutoka"
+    },
+    "txt_valid_until": "Halali mpaka",
+    "@txt_valid_until": {
+        "description": "Halali mpaka"
+    },
+    "txt_driver_driving_license": "Leseni ya Kuendesha Dereva",
+    "@txt_driver_driving_license": {
+        "description": "Leseni ya Kuendesha Dereva"
+    },
+    "txt_license_number": "Nambari ya leseni",
+    "@txt_license_number": {
+        "description": "Nambari ya leseni"
+    },
+    "txt_vehicle_registration": "Usajili wa gari",
+    "@txt_vehicle_registration": {
+        "description": "Usajili wa gari"
+    },
+    "txt_registration_number": "Nambari ya usajili",
+    "@txt_registration_number": {
+        "description": "Nambari ya usajili"
+    },
+    "txt_next": "Ifuatayo",
+    "@txt_next": {
+        "description": "Ifuatayo"
+    },
+    "txt_vehicle_ownership": "Umiliki wa gari",
+    "@txt_vehicle_ownership": {
+        "description": "Umiliki wa gari"
+    },
+    "txt_ownership_number": "Nambari ya umiliki",
+    "@txt_ownership_number": {
+        "description": "Nambari ya umiliki"
+    },
+    "txt_vehicle_insurance": "Bima ya gari",
+    "@txt_vehicle_insurance": {
+        "description": "Bima ya gari"
+    },
+    "txt_vehicle_inspection": "Ukaguzi wa gari",
+    "@txt_vehicle_inspection": {
+        "description": "Ukaguzi wa gari"
+    },
+    "txt_insurance_number": "Nambari ya bima",
+    "@txt_insurance_number": {
+        "description": "Nambari ya bima"
+    },
+    "txt_inspection_number": "Nambari ya ukaguzi",
+    "@txt_inspection_number": {
+        "description": "Nambari ya ukaguzi"
+    },
+    "txt_vehicle_manifest": "Maonyesho ya gari",
+    "@txt_vehicle_manifest": {
+        "description": "Maonyesho ya gari"
+    },
+    "txt_manifest_number": "Nambari ya wazi",
+    "@txt_manifest_number": {
+        "description": "Nambari ya wazi"
+    },
+    "txt_vehicle_radio_tax": "Ushuru wa Redio ya Gari",
+    "@txt_vehicle_radio_tax": {
+        "description": "Ushuru wa Redio ya Gari"
+    },
+    "txt_radio_tax_number": "Nambari ya ushuru ya redio",
+    "@txt_radio_tax_number": {
+        "description": "Nambari ya ushuru ya redio"
+    },
+    "txt_done": "Imekamilika",
+    "@txt_done": {
+        "description": "Imekamilika"
+    },
+    "txt_almost_done": "Karibu umekamilika! Ingiza nambari ya rununu kuendelea",
+    "@txt_almost_done": {
+        "description": "Karibu umekamilika! Ingiza nambari ya rununu kuendelea"
+    },
+    "txt_menu": "Mechi",
+    "@txt_menu": {
+        "description": "Mechi"
+    },
+    "txt_driver_profile": "Profaili ya Dereva",
+    "@txt_driver_profile": {
+        "description": "Profaili ya Dereva"
+    },
+    "txt_upload_doc_info": "Hati iliyopakiwa na habari ya gari.",
+    "@txt_upload_doc_info": {
+        "description": "Hati iliyopakiwa na habari ya gari."
+    },
+    "txt_add_new_doc": "Ongeza hati mpya",
+    "@txt_add_new_doc": {
+        "description": "Ongeza hati mpya"
+    },
+    "txt_bank_info": "Habari ya Benki",
+    "@txt_bank_info": {
+        "description": "Habari ya Benki"
+    },
+    "txt_transaction": "Shughuli",
+    "@txt_transaction": {
+        "description": "Shughuli"
+    },
+    "txt_my_trip": "Safari zangu",
+    "@txt_my_trip": {
+        "description": "Safari zangu"
+    },
+    "txt_support": "Msaada",
+    "@txt_support": {
+        "description": "Msaada"
+    },
+    "txt_about_us": "Kuhusu sisi",
+    "@txt_about_us": {
+        "description": "Kuhusu sisi"
+    },
+    "txt_terms_condition": "Masharti na hali",
+    "@txt_terms_condition": {
+        "description": "Masharti na hali"
+    },
+    "txt_logout": "Kuingia",
+    "@txt_logout": {
+        "description": "Kuingia"
+    },
+    "txt_edit_profile": "Hariri wasifu",
+    "@txt_edit_profile": {
+        "description": "Hariri wasifu"
+    },
+    "txt_name": "Jina",
+    "@txt_name": {
+        "description": "Jina"
+    },
+    "txt_email": "Barua pepe",
+    "@txt_email": {
+        "description": "Barua pepe"
+    },
+    "txt_camera": "Kamera",
+    "@txt_camera": {
+        "description": "Kamera"
+    },
+    "txt_gallery": "Matunzio",
+    "@txt_gallery": {
+        "description": "Matunzio"
+    },
+    "txt_uploaded_documents_info": "Maelezo ya hati zilizopakiwa",
+    "@txt_uploaded_documents_info": {
+        "description": "Maelezo ya hati zilizopakiwa"
+    },
+    "txt_pending": "Inasubiri",
+    "@txt_pending": {
+        "description": "Inasubiri"
+    },
+    "txt_approved": "Kupitishwa",
+    "@txt_approved": {
+        "description": "Kupitishwa"
+    },
+    "txt_upload_detail": "Pakia maelezo",
+    "@txt_upload_detail": {
+        "description": "Pakia maelezo"
+    },
+    "txt_welcome": "Karibu",
+    "@txt_welcome": {
+        "description": "Karibu"
+    },
+    "txt_welcome_and_setup": "Hapa ndio unahitaji kufanya kuanzisha akaunti yako",
+    "@txt_welcome_and_setup": {
+        "description": "Hapa ndio unahitaji kufanya kuanzisha akaunti yako"
+    },
+    "txt_take_photo": "Chukua picha yako",
+    "@txt_take_photo": {
+        "description": "Chukua picha yako"
+    },
+    "val_upload_doc": "Tafadhali pakia hati",
+    "@val_upload_doc": {
+        "description": "Tafadhali pakia hati"
+    },
+    "txt_update_document": "Sasisha hati",
+    "@txt_update_document": {
+        "description": "Sasisha hati"
+    },
+    "txt_holder_name": "Jina la Mmiliki wa Benki",
+    "@txt_holder_name": {
+        "description": "Jina la Mmiliki wa Benki"
+    },
+    "txt_account_number": "Nambari ya akaunti",
+    "@txt_account_number": {
+        "description": "Nambari ya akaunti"
+    },
+    "txt_ifsc_code": "Nambari ya IFSC",
+    "@txt_ifsc_code": {
+        "description": "Nambari ya IFSC"
+    },
+    "txt_bank_name": "Jina la benki",
+    "@txt_bank_name": {
+        "description": "Jina la benki"
+    },
+    "txt_transaction_upr": "Shughuli",
+    "@txt_transaction_upr": {
+        "description": "Shughuli"
+    },
+    "txt_total_amt": "Jumla",
+    "@txt_total_amt": {
+        "description": "Jumla"
+    },
+    "txt_cash": "Fedha",
+    "@txt_cash": {
+        "description": "Fedha"
+    },
+    "txt_online": "Mkondoni",
+    "@txt_online": {
+        "description": "Mkondoni"
+    },
+    "txt_payment_history": "Historia ya malipo",
+    "@txt_payment_history": {
+        "description": "Historia ya malipo"
+    },
+    "txt_no_data_found": "Hakuna data iliyopatikana",
+    "@txt_no_data_found": {
+        "description": "Hakuna data iliyopatikana"
+    },
+    "txt_support_upr": "Msaada",
+    "@txt_support_upr": {
+        "description": "Msaada"
+    },
+    "txt_concern_queries": "Wasiwasi na maswali",
+    "@txt_concern_queries": {
+        "description": "Wasiwasi na maswali"
+    },
+    "txt_upload_pic_doc": "Pakia picha yako au hati",
+    "@txt_upload_pic_doc": {
+        "description": "Pakia picha yako au hati"
+    },
+    "txt_logout": "Ingia",
+    "@txt_logout": {
+        "description": "Ingia"
+    },
+    "txt_want_to_logout": "Je! Unataka kutoka",
+    "@txt_want_to_logout": {
+        "description": "Je! Unataka kutoka"
+    },
+    "txt_no": "Hapana",
+    "@txt_no": {
+        "description": "Hapana"
+    },
+    "txt_yes": "Ndio",
+    "@txt_yes": {
+        "description": "Ndio"
+    },
+    "txt_notification": "Arifa",
+    "@txt_notification": {
+        "description": "Arifa"
+    },
+    "txt_offline": "Uko nje ya mtandao",
+    "@txt_offline": {
+        "description": "Uko nje ya mtandao"
+    },
+    "txt_successfully_logged_in": "Umefanikiwa kuingia.",
+    "@txt_successfully_logged_in": {
+        "description": "Umefanikiwa kuingia."
+    },
+    "txt_distance": "umbali",
+    "@txt_distance": {
+        "description": "umbali"
+    },
+    "txt_estimate_time": "Kukadiria wakati",
+    "@txt_estimate_time": {
+        "description": "Kukadiria wakati"
+    },
+    "txt_from_upr": "Kutoka",
+    "@txt_from_upr": {
+        "description": "Kutoka"
+    },
+    "txt_to_upr": "Kwa",
+    "@txt_to_upr": {
+        "description": "Kwa"
+    },
+    "txt_call": "Wito",
+    "@txt_call": {
+        "description": "Wito"
+    },
+    "txt_chat": "Ongea",
+    "@txt_chat": {
+        "description": "Ongea"
+    },
+    "txt_price": "Bei",
+    "@txt_price": {
+        "description": "Bei"
+    },
+    "txt_decline": "Kukataa",
+    "@txt_decline": {
+        "description": "Kukataa"
+    },
+    "txt_accept": "Kukubali",
+    "@txt_accept": {
+        "description": "Kukubali"
+    },
+    "txt_customer_pickup": "kuchukua wateja",
+    "@txt_customer_pickup": {
+        "description": "kuchukua wateja"
+    },
+    "txt_navigate": "Nenda",
+    "@txt_navigate": {
+        "description": "Nenda"
+    },
+    "txt_enter_otp": "Ingiza OTP",
+    "@txt_enter_otp": {
+        "description": "Ingiza OTP"
+    },
+    "txt_start_ride": "Anza safari",
+    "@txt_start_ride": {
+        "description": "Anza safari"
+    },
+    "txt_ride_complete": "Panda kamili",
+    "@txt_ride_complete": {
+        "description": "Panda kamili"
+    },
+    "txt_wait_for_payment": "Subiri malipo",
+    "@txt_wait_for_payment": {
+        "description": "Subiri malipo"
+    },
+    "txt_ride_complete_upr": "Panda kamili",
+    "@txt_ride_complete_upr": {
+        "description": "Panda kamili"
+    },
+    "txt_your_ride_complete_upr": "Safari yako imekamilika",
+    "@txt_your_ride_complete_upr": {
+        "description": "Safari yako imekamilika"
+    },
+    "txt_payment_by": "Malipo na",
+    "@txt_payment_by": {
+        "description": "Malipo na"
+    },
+    "txt_type_of_service": "Aina ya huduma",
+    "@txt_type_of_service": {
+        "description": "Aina ya huduma"
+    },
+    "txt_total_km": "Jumla ya km",
+    "@txt_total_km": {
+        "description": "Jumla ya km"
+    },
+    "txt_duration": "Muda",
+    "@txt_duration": {
+        "description": "Muda"
+    },
+    "txt_reason_cancellation": "Sababu ya kufutwa",
+    "@txt_reason_cancellation": {
+        "description": "Sababu ya kufutwa"
+    },
+    "txt_driver_denied": "Dereva alikataa kuchukua",
+    "@txt_driver_denied": {
+        "description": "Dereva alikataa kuchukua"
+    },
+    "txt_expected_time": "Inatarajiwa muda mfupi wa kusubiri",
+    "@txt_expected_time": {
+        "description": "Inatarajiwa muda mfupi wa kusubiri"
+    },
+    "txt_unable_to_contact_user": "Haiwezi kuwasiliana na mtumiaji",
+    "@txt_unable_to_contact_user": {
+        "description": "Haiwezi kuwasiliana na mtumiaji"
+    },
+    "txt_reason_not_listed": "Sababu yangu haijaorodheshwa hapa",
+    "@txt_reason_not_listed": {
+        "description": "Sababu yangu haijaorodheshwa hapa"
+    },
+    "txt_cancel": "Ghairi",
+    "@txt_cancel": {
+        "description": "Ghairi"
+    },
+    "txt_check_internet": "Tafadhali angalia muunganisho wako wa mtandao",
+    "@txt_check_internet": {
+        "description": "Tafadhali angalia muunganisho wako wa mtandao"
+    },
+    "txt_english": "Kiingereza",
+    "@txt_english": {
+        "description": "Kiingereza"
+    },
+    "txt_portuguese": "Kireno",
+    "@txt_portuguese": {
+        "description": "Kireno"
+    },
+    "txt_arabic": "Kiarabu",
+    "@txt_arabic": {
+        "description": "Kiarabu"
+    },
+    "txt_urdu": "Urdu",
+    "@txt_urdu": {
+        "description": "Urdu"
+    },
+    "txt_hindi": "Kihindi",
+    "@txt_hindi": {
+        "description": "Kihindi"
+    },
+    "txt_spanish": "Kihispania",
+    "@txt_spanish": {
+        "description": "Kihispania"
+    },
+    "txt_mandarim": "Mandarin",
+    "@txt_mandarim": {
+        "description": "Mandarin"
+    },
+    "txt_french": "Kifaransa",
+    "@txt_french": {
+        "description": "Kifaransa"
+    },
+    "txt_afrikaans": "Mwafrika",
+    "@txt_afrikaans": {
+        "description": "Mwafrika"
+    },
+    "txt_bengali": "Kibengali",
+    "@txt_bengali": {
+        "description": "Kibengali"
+    },
+    "txt_russian": "Kirusi",
+    "@txt_russian": {
+        "description": "Kirusi"
+    },
+    "txt_japanese": "Kijapani",
+    "@txt_japanese": {
+        "description": "Kijapani"
+    },
+    "txt_turkish": "Kituruki",
+    "@txt_turkish": {
+        "description": "Kituruki"
+    },
+    "txt_swahili": "Kiswahili",
+    "@txt_swahili": {
+        "description": "Kiswahili"
+    },
+    "txt_italian": "Italia",
+    "@txt_italian": {
+        "description": "Italia"
+    },
+    "txt_edit": "Hariri",
+    "@txt_edit": {
+        "description": "Hariri"
+    },
+    "txt_delete": "Futa",
+    "@txt_delete": {
+        "description": "Futa"
+    },
+    "val_accept_term_condition": "Tafadhali kubali masharti na masharti",
+    "@val_accept_term_condition": {
+        "description": "Tafadhali kubali masharti na masharti"
+    },
+    "val_first_name": "Tafadhali ingiza jina la kwanza",
+    "@val_first_name": {
+        "description": "Tafadhali ingiza jina la kwanza"
+    },
+    "val_fullname_short": "Jina kamili fupi sana",
+    "@val_fullname_short": {
+        "description": "Jina kamili fupi sana"
+    },
+    "val_enter_userid_email": "Tafadhali ingiza kitambulisho cha mtumiaji au barua pepe",
+    "@val_enter_userid_email": {
+        "description": "Tafadhali ingiza kitambulisho cha mtumiaji au barua pepe"
+    },
+    "val_userid_email_short": "Kitambulisho cha mtumiaji au barua pepe fupi sana",
+    "@val_userid_email_short": {
+        "description": "Kitambulisho cha mtumiaji au barua pepe fupi sana"
+    },
+    "val_enter_last_name": "Tafadhali ingiza jina la mwisho",
+    "@val_enter_last_name": {
+        "description": "Tafadhali ingiza jina la mwisho"
+    },
+    "val_enter_userid": "Tafadhali ingiza kitambulisho cha mtumiaji",
+    "@val_enter_userid": {
+        "description": "Tafadhali ingiza kitambulisho cha mtumiaji"
+    },
+    "val_atleast_3char": "Tafadhali ingiza mhusika 3",
+    "@val_atleast_3char": {
+        "description": "Tafadhali ingiza mhusika 3"
+    },
+    "val_first_name_short": "Jina la kwanza ni fupi sana",
+    "@val_first_name_short": {
+        "description": "Jina la kwanza ni fupi sana"
+    },
+    "val_last_name_short": "Jina la mwisho ni fupi sana",
+    "@val_last_name_short": {
+        "description": "Jina la mwisho ni fupi sana"
+    },
+    "val_enter_email": "Tafadhali ingiza barua pepe",
+    "@val_enter_email": {
+        "description": "Tafadhali ingiza barua pepe"
+    },
+    "val_valid_enter": "Tafadhali ingiza barua pepe halali",
+    "@val_valid_enter": {
+        "description": "Tafadhali ingiza barua pepe halali"
+    },
+    "val_enter_password": "Tafadhali ingiza nywila",
+    "@val_enter_password": {
+        "description": "Tafadhali ingiza nywila"
+    },
+    "val_enter_old_pass": "Tafadhali ingiza nywila ya zamani",
+    "@val_enter_old_pass": {
+        "description": "Tafadhali ingiza nywila ya zamani"
+    },
+    "val_enter_new_pass": "Tafadhali ingiza nywila mpya",
+    "@val_enter_new_pass": {
+        "description": "Tafadhali ingiza nywila mpya"
+    },
+    "val_pass_short": "Nenosiri ni fupi sana",
+    "@val_pass_short": {
+        "description": "Nenosiri ni fupi sana"
+    },
+    "val_pass_not_match": "Nywila hazilingani",
+    "@val_pass_not_match": {
+        "description": "Nywila hazilingani"
+    },
+    "val_enter_name": "Tafadhali ingiza jina",
+    "@val_enter_name": {
+        "description": "Tafadhali ingiza jina"
+    },
+    "val_enter_query": "Tafadhali ingiza swala",
+    "@val_enter_query": {
+        "description": "Tafadhali ingiza swala"
+    },
+    "val_enter_confirm_pass": "Tafadhali ingiza thibitisha nywila",
+    "@val_enter_confirm_pass": {
+        "description": "Tafadhali ingiza thibitisha nywila"
+    },
+    "val_enter_address": "Tafadhali ingiza anwani",
+    "@val_enter_address": {
+        "description": "Tafadhali ingiza anwani"
+    },
+    "val_enter_mobile": "Tafadhali ingiza nambari ya rununu",
+    "@val_enter_mobile": {
+        "description": "Tafadhali ingiza nambari ya rununu"
+    },
+    "val_valid_number": "Tafadhali ingiza nambari halali ya rununu",
+    "@val_valid_number": {
+        "description": "Tafadhali ingiza nambari halali ya rununu"
+    },
+    "val_otp": "Tafadhali ingiza OTP",
+    "@val_otp": {
+        "description": "Tafadhali ingiza OTP"
+    },
+    "val_enter_postal_code": "Tafadhali ingiza nambari ya posta",
+    "@val_enter_postal_code": {
+        "description": "Tafadhali ingiza nambari ya posta"
+    },
+    "val_valid_postal_code": "Tafadhali ingiza nambari halali ya posta",
+    "@val_valid_postal_code": {
+        "description": "Tafadhali ingiza nambari halali ya posta"
+    },
+    "val_enter_landmark": "Tafadhali ingiza alama",
+    "@val_enter_landmark": {
+        "description": "Tafadhali ingiza alama"
+    },
+    "val_enter_city": "Tafadhali ingiza jiji",
+    "@val_enter_city": {
+        "description": "Tafadhali ingiza jiji"
+    },
+    "val_enter_state": "Tafadhali ingiza jimbo",
+    "@val_enter_state": {
+        "description": "Tafadhali ingiza jimbo"
+    },
+    "val_enter_address": "Tafadhali ingiza anwani",
+    "@val_enter_address": {
+        "description": "Tafadhali ingiza anwani"
+    },
+    "val_enter_specification": "Tafadhali ingiza vipimo",
+    "@val_enter_specification": {
+        "description": "Tafadhali ingiza vipimo"
+    },
+    "val_enter_message": "Ingiza ujumbe",
+    "@val_enter_message": {
+        "description": "PIngiza ujumbe"
+    },
+    "txt_camera_permission": "Ruhusa ya kamera",
+    "@txt_camera_permission": {
+        "description": "Ruhusa ya kamera"
+    },
+    "txt_permission_camera": "Bila ruhusa hii, programu hii haitaweza kuchagua picha. Je! Una uhakika unataka kukataa ruhusa hii?",
+    "@txt_permission_camera": {
+        "description": "Bila ruhusa hii, programu hii haitaweza kuchagua picha. Je! Una uhakika unataka kukataa ruhusa hii?"
+    },
+    "txt_retry": "Jaribu tena",
+    "@txt_retry": {
+        "description": "Jaribu tena"
+    },
+    "txt_im_sure": "Nina uhakika",
+    "@txt_im_sure": {
+        "description": "Nina uhakika"
+    },
+    "txt_gallery_permission": "Ruhusa ya Matunzio",
+    "@txt_gallery_permission": {
+        "description": "Ruhusa ya Matunzio"
+    },
+    "txt_permision_gallery": "Bila ruhusa hii, programu hii haitaweza kupata picha kutoka kwa nyumba ya sanaa. Je! Una uhakika unataka kukataa ruhusa hii?",
+    "@txt_permision_gallery": {
+        "description": "Bila ruhusa hii, programu hii haitaweza kupata picha kutoka kwa nyumba ya sanaa. Je! Una uhakika unataka kukataa ruhusa hii?"
+    },
+    "txt_your_msg": "Ujumbe wako...",
+    "@txt_your_msg": {
+        "description": "Ujumbe wako..."
+    },
+    "txt_user_cancel_process": "Mtumiaji Ghairi Mchakato",
+    "@txt_user_cancel_process": {
+        "description": "Mtumiaji Ghairi Mchakato"
+    },
+    "txt_thank_for_reg": "Asante kwa usajili",
+    "@txt_thank_for_reg": {
+        "description": "Asante kwa usajili"
+    },
+    "txt_verify_your_doc": "Mara tu tunapothibitisha hati zako.",
+    "@txt_verify_your_doc": {
+        "description": "Mara tu tunapothibitisha hati zako."
+    },
+     "txt_notify_you": "Tunakujulisha hivi karibuni",
+    "@txt_notify_you": {
+        "description": "Tunakujulisha hivi karibuni"
+    },
+    "txt_active_after_verification": "Baada ya uthibitisho akaunti yako itafanya kazi",
+    "@txt_active_after_verification": {
+        "description": "Baada ya uthibitisho akaunti yako itafanya kazi"
+    },
+    "val_enter_vehicle_num": "Tafadhali ingiza nambari ya gari",
+    "@val_enter_vehicle_num": {
+        "description": "Tafadhali ingiza nambari ya gari"
+    },
+     "val_upload_vehicle_front_img": "Tafadhali pakia picha ya mbele ya gari",
+    "@val_upload_vehicle_front_img": {
+        "description": "Tafadhali pakia picha ya mbele ya gari"
+    },
+     "val_upload_vehicle_back_img": "Tafadhali pakia picha ya gari nyuma",
+    "@val_upload_vehicle_back_img": {
+        "description": "Tafadhali pakia picha ya gari nyuma"
+    },
+     "val_enter_id_number": "Tafadhali ingiza nambari ya kadi ya kitambulisho",
+    "@val_enter_id_number": {
+        "description": "Tafadhali ingiza nambari ya kadi ya kitambulisho"
+    },
+     "val_upload_id_front_img": "Tafadhali pakia picha ya kitambulisho cha kadi ya mbele",
+    "@val_upload_id_front_img": {
+        "description": "Tafadhali pakia picha ya kitambulisho cha kadi ya mbele"
+    },
+     "val_upload_id_back_img": "Tafadhali pakia picha ya kitambulisho",
+    "@val_upload_id_back_img": {
+        "description": "Tafadhali pakia picha ya kitambulisho"
+    },
+     "val_select_id_start_date": "Tafadhali chagua tarehe ya kuanza kadi ya kitambulisho",
+    "@val_select_id_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza kadi ya kitambulisho"
+    },
+     "val_select_id_end_date": "Tafadhali chagua tarehe ya mwisho ya kadi ya kitambulisho",
+    "@val_select_id_end_date": {
+        "description": "Tafadhali chagua tarehe ya mwisho ya kadi ya kitambulisho"
+    },
+     "val_enter_license_num": "Tafadhali ingiza nambari ya leseni",
+    "@val_enter_license_num": {
+        "description": "Tafadhali ingiza nambari ya leseni"
+    },
+     "val_upload_license_front_img": "Tafadhali pakia picha ya mbele ya leseni",
+    "@val_upload_license_front_img": {
+        "description": "Tafadhali pakia picha ya mbele ya leseni"
+    },
+     "val_upload_license_back_img": "Tafadhali pakia picha ya nyuma ya leseni",
+    "@val_upload_license_back_img": {
+        "description": "Tafadhali pakia picha ya nyuma ya leseni"
+    },
+     "val_select_license_start_date": "Tafadhali chagua tarehe ya kuanza leseni",
+    "@val_select_license_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza leseni"
+    },
+     "val_select_license_end_date": "Tafadhali chagua tarehe ya mwisho ya leseni",
+    "@val_select_license_end_date": {
+        "description": "Tafadhali chagua tarehe ya mwisho ya leseni"
+    },
+     "val_enter_vehicle_reg_num": "Tafadhali ingiza nambari ya usajili wa gari",
+    "@val_enter_vehicle_reg_num": {
+        "description": "Tafadhali ingiza nambari ya usajili wa gari"
+    },
+     "val_upload_reg_front_img": "Tafadhali pakia picha ya usajili wa gari",
+    "@val_upload_vehicle_front_img": {
+        "description": "Tafadhali pakia picha ya usajili wa gari"
+    },
+     "val_upload_reg_back_img": "Tafadhali pakia picha ya usajili wa gari",
+    "@txt_your_msg": {
+        "description": "Tafadhali pakia picha ya usajili wa gari"
+    },
+     "val_enter_reg_start_date": "Tafadhali chagua tarehe ya kuanza usajili wa gari",
+    "@val_enter_reg_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza usajili wa gari"
+    },
+     "val_enter_reg_end_date": "Tafadhali chagua tarehe ya usajili wa gari",
+    "@val_enter_reg_end_date": {
+        "description": "Tafadhali chagua tarehe ya usajili wa gari"
+    },
+    "val_enter_owner_num": "Tafadhali ingiza nambari ya umiliki wa gari",
+    "@val_enter_owner_num": {
+        "description": "Tafadhali ingiza nambari ya umiliki wa gari"
+    },
+     "val_upload_owner_front_img": "Please upload vehicle ownership front image",
+    "@val_upload_owner_front_img": {
+        "description": "Please upload vehicle ownership front image"
+    },
+     "val_upload_owner_back_img": "Tafadhali pakia umiliki wa gari picha ya mbele",
+    "@val_upload_owner_back_img": {
+        "description": "Tafadhali pakia umiliki wa gari picha ya mbele"
+    },
+     "val_enter_owner_start_date": "Tafadhali chagua tarehe ya kuanza umiliki wa gari",
+    "@val_enter_owner_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza umiliki wa gari"
+    },
+     "val_enter_owner_end_date": "Tafadhali chagua tarehe ya mwisho ya umiliki wa gari",
+    "@val_enter_owner_end_date": {
+        "description": "Tafadhali chagua tarehe ya mwisho ya umiliki wa gari"
+    },
+     "val_enter_insurance_num": "Tafadhali ingiza nambari ya bima ya gari",
+    "@val_enter_insurance_num": {
+        "description": "Tafadhali ingiza nambari ya bima ya gari"
+    },
+      "val_upload_insurance_front_img": "Tafadhali pakia picha ya mbele ya bima ya gari",
+    "@val_upload_insurance_front_img": {
+        "description": "Tafadhali pakia picha ya mbele ya bima ya gari"
+    },
+      "val_upload_insurance_back_img": "Tafadhali pakia picha ya bima ya gari nyuma",
+    "@val_upload_insurance_back_img": {
+        "description": "Tafadhali pakia picha ya bima ya gari nyuma"
+    },
+      "val_insurance_start_date": "Tafadhali chagua tarehe ya kuanza bima ya gari",
+    "@val_insurance_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza bima ya gari"
+    },
+      "val_insurance_end_date": "Tafadhali chagua tarehe ya mwisho ya bima ya gari",
+    "@val_insurance_end_date": {
+        "description": "Tafadhali chagua tarehe ya mwisho ya bima ya gari"
+    },
+      "val_inspection_num": "Tafadhali ingiza nambari ya ukaguzi wa gari",
+    "@val_inspection_num": {
+        "description": "Tafadhali ingiza nambari ya ukaguzi wa gari"
+    },
+      "val_inspection_front_img": "Tafadhali pakia ukaguzi wa gari la mbele",
+    "@val_inspection_front_img": {
+        "description": "Tafadhali pakia ukaguzi wa gari la mbele"
+    },
+      "val_inspection_back_img": "Tafadhali pakia ukaguzi wa gari nyuma",
+    "@val_inspection_back_img": {
+        "description": "Tafadhali pakia ukaguzi wa gari nyuma"
+    },
+     "val_inspection_start_date": "Tafadhali chagua tarehe ya kuanza ukaguzi wa gari",
+    "@val_inspection_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza ukaguzi wa gari"
+    },
+     "val_inspection_end_date": "Tafadhali chagua tarehe ya ukaguzi wa gari",
+    "@val_inspection_end_date": {
+        "description": "Tafadhali chagua tarehe ya ukaguzi wa gari"
+    },
+     "val_manifest_num": "Tafadhali ingiza nambari ya Maonyesho ya Gari",
+    "@val_manifest_num": {
+        "description": "Tafadhali ingiza nambari ya Maonyesho ya Gari"
+    },
+     "val_manifest_front_img": "Tafadhali pakia picha ya mbele ya gari",
+    "@val_manifest_front_img": {
+        "description": "Tafadhali pakia picha ya mbele ya gari"
+    },
+     "val_manifest_back_img": "Tafadhali pakia picha ya nyuma ya gari",
+    "@val_manifest_back_img": {
+        "description": "Tafadhali pakia picha ya nyuma ya gari"
+    },
+     "val_manifest_start_date": "Tafadhali chagua tarehe ya kuanza ya gari",
+    "@val_manifest_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza ya gari"
+    },
+     "val_manifest_end_date": "Tafadhali chagua tarehe ya mwisho ya gari",
+    "@val_manifest_end_date": {
+        "description": "Tafadhali chagua tarehe ya mwisho ya gari"
+    },
+     "val_radio_num": "Tafadhali ingiza nambari ya ushuru ya gari",
+    "@val_radio_num": {
+        "description": "Tafadhali ingiza nambari ya ushuru ya gari"
+    },
+     "val_radio_front_img": "Tafadhali pakia picha ya redio ya gari la mbele",
+    "@val_radio_front_img": {
+        "description": "Tafadhali pakia picha ya redio ya gari la mbele"
+    },
+     "val_radio_back_img": "Tafadhali pakia picha ya redio ya gari",
+    "@val_radio_back_img": {
+        "description": "Tafadhali pakia picha ya redio ya gari"
+    },
+     "val_radio_start_date": "Tafadhali chagua tarehe ya kuanza ushuru wa gari",
+    "@val_radio_start_date": {
+        "description": "Tafadhali chagua tarehe ya kuanza ushuru wa gari"
+    },
+     "val_radio_end_date": "Tafadhali chagua tarehe ya mwisho ya ushuru wa gari",
+    "@val_radio_end_date": {
+        "description": "Tafadhali chagua tarehe ya mwisho ya ushuru wa gari"
+    },
+      "txt_file_selected": "Faili iliyochaguliwa",
+    "@txt_file_selected": {
+        "description": "Faili iliyochaguliwa"
+    },
+       "txt_nofile_selected": "Hakuna faili iliyochaguliwa",
+    "@txt_nofile_selected": {
+        "description": "Hakuna faili iliyochaguliwa"
+    },
+    "txt_server_error": "Kosa la seva, tafadhali jaribu tena",
+    "@txt_server_error": {
+        "description": "Kosa la seva, tafadhali jaribu tena"
+    },
+     "val_valid_otp": "Tafadhali ingiza OTP halali",
+    "@val_valid_otp": {
+        "description": "Tafadhali ingiza OTP halali"
+    },
+     "txt_double_click": "Bonyeza mara mbili ili kutoka kwa programu",
+    "@txt_double_click": {
+        "description": "Bonyeza mara mbili ili kutoka kwa programu"
+    },
+      "txt_pick_from": "Pickup kutoka",
+    "@txt_pick_from": {
+        "description": "Pickup kutoka"
+    },
+      "txt_transaction_id": "Kitambulisho cha manunuzi",
+    "@txt_pick_from": {
+        "description": "Kitambulisho cha manunuzi"
+    },
+       "txt_total_price": "Bei jumla",
+    "@txt_total_price": {
+        "description": "Bei jumla"
+    },
+     "txt_complete": "Imekamilika",
+    "@txt_complete": {
+        "description": "Imekamilika"
+    },
+      "txt_date": "Tarehe",
+    "@txt_date": {
+        "description": "Tarehe"
+    },
+      "txt_by": "Na",
+    "@txt_by": {
+        "description": "Na"
+    },
+       "txt_cancelled": "Kufutwa",
+    "@txt_cancelled": {
+        "description": "Kufutwa"
+    },
+       "txt_phone_number": "Nambari ya simu",
+    "@txt_phone_number": {
+        "description": "Nambari ya simu"
+    },
+       "txt_upload": "Pakia",
+    "@txt_upload": {
+        "description": "Pakia"
+    },
+       "txt_valid_phone": "Tafadhali ingiza simu halali hapana",
+    "@txt_valid_phone": {
+        "description": "Tafadhali ingiza simu halali hapana"
+    },
+       "txt_maker_name": "Tafadhali ingiza maelezo ya mtengenezaji wa gari",
+    "@txt_maker_name": {
+        "description": "Tafadhali ingiza maelezo ya mtengenezaji wa gari"
+    },
+       "txt_model_name": "Tafadhali ingiza jina la mfano wa gari",
+    "@txt_model_name": {
+        "description": "Tafadhali ingiza jina la mfano wa gari"
+    },
+       "txt_color_name": "Tafadhali ingiza jina la rangi ya gari",
+    "@txt_color_name": {
+        "description": "Tafadhali ingiza jina la rangi ya gari"
+    },
+       "txt_select_passenger": "Tafadhali chagua Hapana ya Abiria",
+    "@txt_select_passenger": {
+        "description": "Tafadhali chagua Hapana ya Abiria"
+    },
+       "txt_valid_data": "Ingiza data halali",
+    "@txt_valid_data": {
+        "description": "Ingiza data halali"
+    },
+       "txt_select_vehicle_pic": "Tafadhali chagua picha za gari",
+    "@txt_select_vehicle_pic": {
+        "description": "Tafadhali chagua picha za gari"
+    },
+        "txt_location_permission": "Ruhusa ya eneo",
+    "@txt_location_permission": {
+        "description": "Ruhusa ya eneo"
+    },
+    "txt_permision_location": "Bila ruhusa hii, programu hii haitaweza kupata eneo lako na anwani. Je! Una uhakika unataka kukataa ruhusa hii?",
+    "@txt_permision_location": {
+        "description": "Bila ruhusa hii, programu hii haitaweza kupata eneo lako na anwani. Je! Una uhakika unataka kukataa ruhusa hii?"
+    },
+    "txt_permision_setting": "Ikiwa unataka kutumia programu hii lazima uwezeshe ruhusa katika mpangilio wa ruhusa za mfumo",
+    "@txt_permision_setting": {
+        "description": "Ikiwa unataka kutumia programu hii lazima uwezeshe ruhusa katika mpangilio wa ruhusa za mfumo"
+    },
+     "txt_setting": "Mipangilio",
+    "@txt_setting": {
+        "description": "Mipangilio"
+    },
+     "txt_exit": "Utgång",
+    "@txt_exit": {
+        "description": "Utgång"
+    },
+    "txt_select_max": "Chagua picha za Max 10",
+    "@txt_exit": {
+        "description": "Chagua picha za Max 10"
+    },
+    "txt_car_maker": "Mtengenezaji wa gari",
+    "@txt_car_maker": {
+        "description": "Mtengenezaji wa gari"
+    },
+     "txt_car_model": "Mfano wa gari",
+    "@txt_car_model": {
+        "description": "Mfano wa gari"
+    },
+     "txt_car_color": "Rangi ya gari",
+    "@txt_car_color": {
+        "description": "Rangi ya gari"
+    },
+     "txt_no_pass": "Hapana. Ya abiria",
+    "@txt_no_pass": {
+        "description": "Hapana. Ya abiria"
+    },
+     "txt_vehicle_pic": "Picha ya gari",
+    "@txt_vehicle_pic": {
+        "description": "Picha ya gari"
+    },
+     "txt_driver_id": "Kadi ya kitambulisho cha dereva",
+    "@txt_driver_id": {
+        "description": "Kadi ya kitambulisho cha dereva"
+    },
+     "txt_driver_driving": "Leseni ya Kuendesha Dereva",
+    "@txt_driver_driving": {
+        "description": "Leseni ya Kuendesha Dereva"
+    },
+     "txt_vehicle_reg": "Usajili wa gari",
+    "@txt_vehicle_reg": {
+        "description": "Usajili wa gari"
+    },
+     "txt_vehicle_owner": "Umiliki wa gari",
+    "@txt_vehicle_owner": {
+        "description": "Umiliki wa gari"
+    },
+     "txt_vehicle_insur": "Bima ya gari",
+    "@txt_vehicle_insur": {
+        "description": "Bima ya gari"
+    },
+      "txt_vehicle_inspec": "Ukaguzi wa gari",
+    "@txt_vehicle_inspec": {
+        "description": "Ukaguzi wa gari"
+    },
+      "txt_vehicle_mani": "Maonyesho ya gari",
+    "@txt_vehicle_mani": {
+        "description": "Maonyesho ya gari"
+    },
+     "txt_vehicle_radio": "Ushuru wa Redio ya Gari",
+    "@txt_vehicle_radio": {
+        "description": "Ushuru wa Redio ya Gari"
+    },
+      "txt_maker": "Mtengenezaji",
+    "@txt_maker": {
+        "description": "Mtengenezaji"
+    },
+      "txt_model": "Mfano",
+    "@txt_model": {
+        "description": "Mfano"
+    },
+      "txt_color": "Rangi",
+    "@txt_color": {
+        "description": "Rangi"
+    },
+       "txt_passenger": "Abiria",
+    "@txt_passenger": {
+        "description": "Abiria"
+    },
+      "txt_max_10": "(max 10)",
+    "@txt_max_10": {
+        "description": "(max 10)"
+    },
+    "txt_uploaded": "Imepakiwa",
+    "@txt_uploaded": {
+        "description": "Imepakiwa"
+    },
+    "val_name_len": "Ingiza jina halali",
+      "@val_name_len": {
+        "description": "Ingiza jina halali"
+    },
+    "val_driving_license": "Ingiza leseni halali ya kuendesha",
+    "@val_driving_license": {
+        "description": "Ingiza leseni halali ya kuendesha"
+    },
+    "txt_select": "Chagua",
+    "@txt_select": {
+        "description": "Chagua"
+    },
+    "val_IdCard": "Ingiza kadi halali ya kitambulisho",
+    "@tval_IdCard": {
+        "description": "Ingiza kadi halali ya kitambulisho"
+    },
+    "val_reg_len": "Nambari ya usajili haipaswi kuzidi zaidi ya tabia 10 ya alphanumeric",
+    "@val_reg_len": {
+        "description": "Nambari ya usajili haipaswi kuzidi zaidi ya tabia 10 ya alphanumeric"
+    },
+    "val_owner_len": "Ingiza jina halali la mmiliki",
+    "@val_owner_len": {
+        "description": "Ingiza jina halali la mmiliki"
+    },
+    "txt_insurance_len": "Nambari ya bima haipaswi kuzidi zaidi ya tabia 30 ya alphanumeric",
+    "@txt_insurance_len": {
+        "description": "Nambari ya bima haipaswi kuzidi zaidi ya tabia 30 ya alphanumeric"
+    },
+     "txt_change_lng": "Badilisha lugha",
+    "@txt_change_lng": {
+        "description": "Badilisha lugha"
+    },
+     "txt_pls_enter_queries": "Tafadhali ingiza maswali yako",
+    "@txt_pls_enter_queries": {
+        "description": "Tafadhali ingiza maswali yako"
+    },
+     "txt_query_length": "Urefu wa maswali lazima uwe wahusika 10",
+    "@txt_query_length": {
+        "description": "Urefu wa maswali lazima uwe wahusika 10"
+    },
+     "txt_take_live_photo": "Chukua picha ya moja kwa moja",
+    "@txt_take_live_photo": {
+        "description": "Chukua picha ya moja kwa moja"
+    },
+     "txt_loading_camera": "Kupakia kamera ...",
+    "@txt_loading_camera": {
+        "description": "Kupakia kamera ..."
+    },
+     "txt_retake": "Rudisha tena",
+    "@txt_retake": {
+        "description": "Rudisha tena"
+    },
+     "txt_confirm": "Thibitisha",
+    "@txt_confirm": {
+        "description": "Thibitisha"
+    },
+     "txt_no_booking_for_schedule": "Hakuna uhifadhi wa safari ya ratiba",
+    "@txt_no_booking_for_schedule": {
+        "description": "Hakuna uhifadhi wa safari ya ratiba"
+    },
+     "txt_schedule_ride": "Ratiba ya safari",
+    "@txt_schedule_ride": {
+        "description": "Ratiba ya safari"
+    },
+     "txt_scheduled_rides": "Wapanda farasi waliopangwa",
+    "@txt_scheduled_rides": {
+        "description": "Wapanda farasi waliopangwa"
+    },
+     "txt_cancel_ride": "Ghairi safari",
+    "@txt_cancel_ride": {
+        "description": "Ghairi safari"
+    },
+     "txt_payment_pending": "Malipo yanasubiri",
+    "@txt_payment_pending": {
+        "description": "Malipo yanasubiri"
+    },
+     "txt_accepted": "Kukubalika",
+    "@txt_accepted": {
+        "description": "Kukubalika"
+    },
+     "txt_ride_pending": "Panda inasubiri",
+    "@txt_ride_pending": {
+        "description": "Panda inasubiri"
+    },
+     "txt_wallet": "Mkoba",
+    "@txt_wallet": {
+        "description": "Mkoba"
+    },
+     "txt_send_request": "Tuma ombi",
+    "@txt_send_request": {
+        "description": "Tuma ombi"
+    },
+     "txt_note_remark": "Kumbuka/Kumbukumbu",
+    "@txt_note_remark": {
+        "description": "Kumbuka/Kumbukumbu"
+    },
+     "txt_withdrawal_amt": "Kiasi cha kujiondoa",
+    "@txt_withdrawal_amt": {
+        "description": "Kiasi cha kujiondoa"
+    },
+     "txt_history": "Historia",
+    "@txt_history": {
+        "description": "Historia"
+    },
+     "txt_skip": "Ruka",
+    "@txt_skip": {
+        "description": "Ruka"
+    },
+     "txt_success": "Mafanikio",
+    "@txt_success": {
+        "description": "Mafanikio"
+    },
+     "txt_enter_amt": "Ingiza kiasi",
+    "@txt_": {
+        "description": "Ingiza kiasi"
+    },
+     "txt_enter_valid_amt": "Ingiza kiasi halali",
+    "@txt_enter_valid_amt": {
+        "description": "Ingiza kiasi halali"
+    },
+     "txt_owner_name": "Jina la mmiliki",
+    "@txt_owner_name": {
+        "description": "Jina la mmiliki"
+    },
+     "txt_enter_owner_name": "Tafadhali ingiza jina la mmiliki",
+    "@txt_enter_owner_name": {
+        "description": "Tafadhali ingiza jina la mmiliki"
+    },
+     "txt_enter_valid_owner_name": "Ingiza jina halali la mmiliki",
+    "@txt_enter_valid_owner_name": {
+        "description": "Ingiza jina halali la mmiliki"
+    },
+     "txt_enter_valid_maker_name": "Ingiza jina halali la mtengenezaji",
+    "@txt_enter_valid_maker_name": {
+        "description": "Ingiza jina halali la mtengenezaji"
+    },
+     "txt_valid_color_name": "Ingiza jina halali la rangi",
+    "@txt_valid_color_name": {
+        "description": "Ingiza jina halali la rangi"
+    },
+     "txt_enter_color_name": "Tafadhali ingiza jina la rangi",
+    "@txt_enter_color_name": {
+        "description": "Tafadhali ingiza jina la rangi"
+    },
+     "txt_request_mode": "Hali ya ombi",
+    "@txt_request_mode": {
+        "description": "Hali ya ombi"
+    },
+     "txt_request_pending": "Ombi linasubiri",
+    "@txt_request_pending": {
+        "description": "Ombi linasubiri"
+    },
+     "txt_request_decline": "Ombi kupungua",
+    "@txt_request_decline": {
+        "description": "Ombi kupungua"
+    },
+     "txt_request_date": "Tarehe ya ombi",
+    "@txt_request_date": {
+        "description": "Tarehe ya ombi"
+    },
+     "txt_request_status": "Hali ya ombi",
+    "@txt_request_status": {
+        "description": "Hali ya ombi"
+    },
+     "txt_enter_vaild_name": "Ingiza jina halali",
+    "@txt_enter_vaild_name": {
+        "description": "Ingiza jina halali"
+    },
+     "txt_update": "Sasisha",
+    "@txt_update": {
+        "description": "Sasisha"
+    },
+     "txt_enter_details_of_your": "Ingiza maelezo yako",
+    "@txt_enter_details_of_your": {
+        "description": "Ingiza maelezo yako"
+    },
+     "txt_upload_photo_of_your": "Pakia picha yako",
+    "@txt_upload_photo_of_your": {
+        "description": "Pakia picha yako"
+    },
+     "txt_vehicle": "Gari",
+    "@txt_vehicle": {
+        "description": "Gari"
+    },
+     "txt_select_min_one_img": "Chagua picha ya chini 1",
+    "@txt_select_min_one_img": {
+        "description": "Chagua picha ya chini 1"
+    },
+     "txt_details": "Maelezo",
+    "@txt_details": {
+        "description": "Maelezo"
+    },
+     "txt_in_progress": "Inaendelea",
+    "@txt_in_progress": {
+        "description": "Inaendelea"
+    },
+     "txt_complete_ride": "Safari kamili",
+    "@txt_complete_ride": {
+        "description": "Safari kamili"
+    },
+     "txt_your_ride_completed": "Safari yako imekamilika",
+    "@txt_your_ride_completed": {
+        "description": "Safari yako imekamilika"
+    },
+     "txt_ride_completed": "Safari imekamilika",
+    "@txt_ride_completed": {
+        "description": "Safari imekamilika"
+    },
+     "txt_security_deposit": "Amana ya usalama",
+    "@txt_security_deposit": {
+        "description": "Amana ya usalama"
+    },
+     "txt_complete_security_deposit_process": "Kamilisha mchakato wa amana ya usalama",
+    "@txt_complete_security_deposit_process": {
+        "description": "Kamilisha mchakato wa amana ya usalama"
+    },
+     "txt_checked_pay_later": "Umeangalia malipo ya amana ya usalama baadaye",
+    "@txt_checked_pay_later": {
+        "description": "Umeangalia malipo ya amana ya usalama baadaye"
+    },
+     "txt_already_done_online_payment": "Umeshafanya malipo mkondoni",
+    "@txt_already_done_online_payment": {
+        "description": "Umeshafanya malipo mkondoni"
+    },
+     "txt_choose_pay_menthod": "Chagua njia ya malipo",
+    "@txt_choose_pay_menthod": {
+        "description": "Chagua njia ya malipo"
+    },
+     "txt_pay_now": "LIPA sasa",
+    "@txt_pay_now": {
+        "description": "LIPA sasa"
+    },
+     "txt_do_later": "Nitafanya amana ya usalama baadaye",
+    "@txt_do_later": {
+        "description": "Nitafanya amana ya usalama baadaye"
+    },
+     "txt_gender_pref": "Upendeleo wa kijinsia",
+    "@txt_gender_pref": {
+        "description": "Upendeleo wa kijinsia"
+    },
+     "txt_gender_you_want_to_prefer": "(Chagua jinsia unayotaka kuchukua safari ya)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(Chagua jinsia unayotaka kuchukua safari ya)"
+    },
+     "txt_male": "Kiume",
+    "@txt_male": {
+        "description": "Kiume"
+    },
+     "txt_female": "Mwanamke",
+    "@txt_female": {
+        "description": "Mwanamke"
+    },
+     "txt_other": "Nyingine",
+    "@txt_other": {
+        "description": "Nyingine"
+    },
+     "txt_no_pref": "Hakuna upendeleo",
+    "@txt_no_pref": {
+        "description": "Hakuna upendeleo"
+    },
+     "txt_update_details_of_user": "Sasisha maelezo yako",
+    "@txt_update_details_of_user": {
+        "description": "Sasisha maelezo yako"
+    },
+     "txt_criminal_record_certificate": "Cheti cha rekodi ya uhalifu",
+    "@txt_criminal_record_certificate": {
+        "description": "Cheti cha rekodi ya uhalifu"
+    },
+     "txt_criminal_record": "Rekodi ya uhalifu",
+    "@txt_criminal_record": {
+        "description": "Rekodi ya uhalifu"
+    },
+     "txt_update_your": "Sasisha yako",
+    "@txt_update_your": {
+        "description": "Sasisha yako"
+    },
+     "txt_document": "Hati",
+    "@txt_document": {
+        "description": "Hati"
+    },
+      "txt_select_your_gender": "Chagua jinsia yako",
+    "@txt_select_your_gender": {
+        "description": "Chagua jinsia yako"
+    },
+      "txt_gender": "Jinsia",
+    "@txt_gender": {
+        "description": "Jinsia"
+    },
+      "txt_ride_type": "Aina ya safari",
+    "@txt_ride_type": {
+        "description": "Aina ya safari"
+    },
+      "txt_rejected": "Kukataliwa",
+    "@txt_rejected": {
+        "description": "Kukataliwa"
+    },
+      "txt_km": "km",
+    "@txt_km": {
+        "description": "km"
+    },
+      "txt_select_reason": "Chagua Sababu",
+    "@txt_select_reason": {
+        "description": "Chagua Sababu"
+    },
+      "txt_select_gender_pref": "Chagua upendeleo wa kijinsia",
+    "@txt_select_gender_pref": {
+        "description": "Chagua upendeleo wa kijinsia"
+    },
+      "txt_update_documents": "Sasisha hati",
+    "@txt_update_documents": {
+        "description": "Sasisha hati"
+    },
+      "txt_are_you_sure_to_logout": "Je! Una uhakika unataka kutoka?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "Je! Una uhakika unataka kutoka?"
+    },
+      "txt_my_rides": "Wapanda farasi wangu",
+    "@txt_my_rides": {
+        "description": "Wapanda farasi wangu"
+    },
+      "txt_rating": "Ukadiriaji",
+    "@txt_rating": {
+        "description": "Ukadiriaji"
+    },
+      "txt_daily_ride": "Safari ya kila siku",
+    "@txt_daily_ride": {
+        "description": "Safari ya kila siku"
+    },
+     "txt_rental_ride": "Safari ya kukodisha",
+    "@txt_rental_ride": {
+        "description": "Safari ya kukodisha"
+    },
+     "txt_enter_your_reason": "Tafadhali ingiza sababu yako",
+    "@txt_enter_your_reason": {
+        "description": "Tafadhali ingiza sababu yako"
+    },
+     "txt_select_ride_type": "Chagua Aina ya Ride",
+    "@txt_select_ride_type": {
+        "description": "Chagua Aina ya Ride"
+    },
+     "txt_profile_under_review": "Profaili yako iko chini ya kukaguliwa, huwezi kuchukua safari hadi admin itakapowasha.",
+    "@txt_profile_under_review": {
+        "description": "Profaili yako iko chini ya kukaguliwa, huwezi kuchukua safari hadi admin itakapowasha."
+    },
+     "txt_your_account_deactivateed": "Akaunti yako imezuiliwa na admin, tafadhali wasiliana nao.",
+    "@txt_your_account_deactivateed": {
+        "description": "Akaunti yako imezuiliwa na admin, tafadhali wasiliana nao."
+    },
+     "txt_accept_terms_privacy": "Kwa kujiandikisha unakubali Masharti ya Huduma na Sera ya faragha",
+    "@txt_accept_terms_privacy": {
+        "description": "Kwa kujiandikisha unakubali Masharti ya Huduma na Sera ya faragha"
+    },
+     "txt_please_accept_terms_privacy": "Tafadhali kubali masharti ya huduma na sera ya faragha",
+    "@txt_please_accept_terms_privacy": {
+        "description": "Tafadhali kubali masharti ya huduma na sera ya faragha"
+    },
+     "txt_thanks_for_registering": "Asante kwa kusajili na sisi",
+    "@txt_thanks_for_registering": {
+        "description": "Asante kwa kusajili na sisi"
+    },
+     "txt_application_under_review_check_status": "Maombi yako yanakaguliwa, unaweza kuangalia hali kwenye bar nyekundu ya juu kwenye ukurasa wa nyumbani.",
+    "@txt_application_under_review_check_status": {
+        "description": "Maombi yako yanakaguliwa, unaweza kuangalia hali kwenye bar nyekundu ya juu kwenye ukurasa wa nyumbani."
+    },
+     "txt_update_details": "Sasisha maelezo",
+    "@txt_update_details": {
+        "description": "Sasisha maelezo"
+    },
+     "txt_ride_details": "Maelezo ya safari",
+    "@txt_ride_details": {
+        "description": "Maelezo ya safari"
+    },
+     "txt_mpesa": "Mzabibu",
+    "@txt_mpesa": {
+        "description": "Mzabibu"
+    },
+     "txt_image": "Picha",
+    "@txt_image": {
+        "description": "Picha"
+    },
+     "txt_check_internet_try_again": "Tafadhali angalia muunganisho wako wa mtandao na ujaribu tena",
+    "@txt_check_internet_try_again": {
+        "description": "Tafadhali angalia muunganisho wako wa mtandao na ujaribu tena"
+    },
+     "txt_oops_no_internet": "Lo, hakuna muunganisho wa mtandao",
+    "@txt_oops_no_internet": {
+        "description": "Lo, hakuna muunganisho wa mtandao"
+    },
+     "txt_package_complete_renew": "Kifurushi chako kimekamilishwa ama kukamilisha safari, au subiri kwa mtumiaji upya kifurushi",
+    "@txt_package_complete_renew": {
+        "description": "Kifurushi chako kimekamilishwa ama kukamilisha safari, au subiri kwa mtumiaji upya kifurushi"
+    },
+     "txt_wait_for_response": "Kusubiri majibu",
+    "@txt_wait_for_response": {
+        "description": "Kusubiri majibu"
+    },
+     "txt_ride_complete_in": "Panda kamili ndani",
+    "@txt_ride_complete_in": {
+        "description": "Panda kamili ndani"
+    },
+     "txt_something_went_wrong": "Kitu kilienda vibaya",
+    "@txt_something_went_wrong": {
+        "description": "Kitu kilienda vibaya"
+    },
+     "txt_refresh_page_try_later": "Jaribu kuburudisha ukurasa, au jaribu tena baadaye.",
+    "@txt_refresh_page_try_later": {
+        "description": "Jaribu kuburudisha ukurasa, au jaribu tena baadaye."
+    },
+     "txt_permission_required": "Ruhusa inahitajika",
+    "@txt_permission_required": {
+        "description": "Ruhusa inahitajika"
+    },
+     "txt_enable_permission": "Wezesha ruhusa",
+    "@txt_enable_permission": {
+        "description": "Wezesha ruhusa"
+    },
+     "txt_pick_your_country": "Chagua nchi yako",
+    "@txt_pick_your_country": {
+        "description": "Chagua nchi yako"
+    },
+     "txt_cant_update_ride_type": "Hauwezi kusasisha aina yako ya safari katika safari inayoendelea.",
+    "@txt_cant_update_ride_type": {
+        "description": "Hauwezi kusasisha aina yako ya safari katika safari inayoendelea."
+    },
+     "txt_check_connect_timeout": "Angalia wakati wako wa unganisho !!",
+    "@txt_check_connect_timeout": {
+        "description": "Angalia wakati wako wa unganisho !!"
+    },
+     "txt_timeout_exception": "Ubaguzi wa muda.",
+    "@txt_timeout_exception": {
+        "description": "Ubaguzi wa muda."
+    },
+     "txt_request_cancel_from_user": "Omba Ghairi kutoka kwa mtumiaji.",
+    "@txt_request_cancel_from_user": {
+        "description": "Omba Ghairi kutoka kwa mtumiaji."
+    },
+     "txt_getting_wrong_response": "Tunapata majibu mabaya.",
+    "@txt_getting_wrong_response": {
+        "description": "Tunapata majibu mabaya."
+    },
+     "txt_connection_error": "Kosa la Uunganisho.",
+    "@txt_connection_error": {
+        "description": "Kosa la Uunganisho."
+    },
+     "txt_server_not_connected_contact_admin": "Seva haijaunganishwa, tafadhali wasiliana na admin.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "Seva haijaunganishwa, tafadhali wasiliana na admin."
+    },
+     "txt_socket_not_connect": "Tundu halijaunganishwa ...",
+    "@txt_socket_not_connect": {
+        "description": "Tundu halijaunganishwa ..."
+    },
+     "txt_user_renewed_package": "Mtumiaji aliboresha kifurushi!",
+    "@txt_user_renewed_package": {
+        "description": "Mtumiaji aliboresha kifurushi!"
+    },
+     "txt_bear_per_km": "Mtumiaji Bear kwa Km Malipo!",
+    "@txt_bear_per_km": {
+        "description": "Mtumiaji Bear kwa Km Malipo!"
+    },
+     "txt_wait_for_user": "Subiri mtumiaji",
+    "@txt_wait_for_user": {
+        "description": "Subiri mtumiaji"
+    },
+     "txt_bysigning_you_accept": "Kwa kujiandikisha unakubali",
+    "@txt_bysigning_you_accept": {
+        "description": "Kwa kujiandikisha unakubali"
+    },
+     "txt_terms_service": "Masharti ya Huduma",
+    "@txt_terms_service": {
+        "description": "Masharti ya Huduma"
+    },
+     "txt_and": "na",
+    "@txt_and": {
+        "description": "na"
+    },
+     "txt_privacy_policy": "Sera ya faragha",
+    "@txt_privacy_policy": {
+        "description": "Sera ya faragha"
+    },
+     "txt_cash_received": "Fedha imepokelewa",
+    "@txt_cash_received": {
+        "description": "Fedha imepokelewa"
+    },
+     "txt_click_to_take_photo": "Bonyeza kuchukua picha",
+    "@txt_click_to_take_photo": {
+        "description": "Bonyeza kuchukua picha"
+    },
+     "txt_camera_setting_permission": "Ruhusa ya kamera haiwezekani, tafadhali wezesha ruhusa",
+    "@txt_camera_setting_permission": {
+        "description": "Ruhusa ya kamera haiwezekani, tafadhali wezesha ruhusa"
+    },
+     "txt_gallery_setting_permission": "Ruhusa ya Matunzio haiwezekani, tafadhali wezesha ruhusa",
+    "@txt_gallery_setting_permission": {
+        "description": "Ruhusa ya Matunzio haiwezekani, tafadhali wezesha ruhusa"
+    },
+     "txt_unauthorized_login": "Kuingia kwa ruhusa",
+    "@txt_unauthorized_login": {
+        "description": "Kuingia kwa ruhusa"
+    },
+     "txt_login_detect": "Kuingia mpya hugunduliwa kwenye kifaa kingine, tafadhali ingia tena ili utumie kwenye kifaa hiki",
+    "@txt_login_detect": {
+        "description": "Kuingia mpya hugunduliwa kwenye kifaa kingine, tafadhali ingia tena ili utumie kwenye kifaa hiki"
+    },
+     "txt_location_setting_permission": "Ruhusa ya eneo haiwezekani, tafadhali wezesha ruhusa",
+    "@txt_location_setting_permission": {
+        "description": "Ruhusa ya eneo haiwezekani, tafadhali wezesha ruhusa"
+    },
+     "txt_delete_account": "Futa Akaunti",
+    "@txt_delete_account": {
+        "description": "Futa Akaunti"
+    },
+     "txt_sure_to_delete": "Je, una uhakika unataka kufuta akaunti yako?",
+    "@txt_sure_to_delete": {
+        "description": "Je, una uhakika unataka kufuta akaunti yako?"
+    },
+     "txt_open_with": "Fungua na",
+    "@txt_open_with": {
+        "description": "Fungua na"
+    },
+     "txt_new_request_from": "Ombi Jipya",
+    "@txt_new_request_from": {
+        "description": "Ombi Jipya"
+    },
+     "txt_vehicle_assign": "Gari iliyokabidhiwa na msimamizi ni",
+    "@txt_vehicle_assign": {
+        "description": "Gari iliyokabidhiwa na msimamizi ni"
+    },
+     "txt_admin_delete": "Msimamizi Amefuta akaunti yako, huwezi kutumia programu zaidi. Tafadhali wasiliana na msimamizi.",
+    "@txt_admin_delete": {
+        "description": "Msimamizi Amefuta akaunti yako, huwezi kutumia programu zaidi. Tafadhali wasiliana na msimamizi."
+    }
+ }

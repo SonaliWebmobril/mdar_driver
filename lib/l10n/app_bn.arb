@@ -1,0 +1,1606 @@
+{
+    "txt_login": "প্রবেশ করুন",
+    "@txt_login": {
+        "description": "প্রবেশ করুন"
+    },
+    "txt_mobile_number": "মোবাইল নম্বর",
+    "@txt_mobile_number": {
+        "description": "মোবাইল নম্বর"
+    },
+    "txt_submit": "জমা দিন",
+    "@txt_submit": {
+        "description": "জমা দিন"
+    },
+    "txt_continue_with": "বা চালিয়ে যান",
+    "@txt_continue_with": {
+        "description": "বা চালিয়ে যান"
+    },
+    "txt_select_lng": "ভাষা নির্বাচন কর",
+    "@txt_select_lng": {
+        "description": "ভাষা নির্বাচন কর"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_select_country": "দেশ নির্বাচন করুন",
+    "@txt_select_country": {
+        "description": "দেশ নির্বাচন করুন"
+    },
+    "txt_search": "অনুসন্ধান",
+    "@txt_search": {
+        "description": "অনুসন্ধান"
+    },
+    "txt_last_pick": "শেষ নির্বাচন",
+    "@txt_last_pick": {
+        "description": "শেষ নির্বাচন"
+    },
+    "txt_successfully": "সফলভাবে",
+    "@txt_successfully": {
+        "description": "সফলভাবে"
+    },
+    "txt_your_otp": "আপনার ওটিপি হয়",
+    "@txt_your_otp": {
+        "description": "আপনার ওটিপি হয়"
+    },
+    "txt_otp_sent_successfully": "ওটিপি সফলভাবে পাঠিয়েছে",
+    "@txt_otp_sent_successfully": {
+        "description": "ওটিপি সফলভাবে পাঠিয়েছে"
+    },
+    "txt_verification": "প্রতিপাদন",
+    "@txt_verification": {
+        "description": "প্রতিপাদন"
+    },
+    "txt_enter_code_we_sent": "যাচাইকরণ কোডটি প্রবেশ করান আমরা আপনাকে কেবল আপনার মোবাইল নম্বরটিতে প্রেরণ করেছি",
+    "@txt_enter_code_we_sent": {
+        "description": "যাচাইকরণ কোডটি প্রবেশ করান আমরা আপনাকে কেবল আপনার মোবাইল নম্বরটিতে প্রেরণ করেছি"
+    },
+    "txt_resend_otp": "ওটিপি পুনরায় পাঠানো",
+    "@txt_resend_otp": {
+        "description": "ওটিপি পুনরায় পাঠানো"
+    },
+    "txt_verify": "যাচাই করুন",
+    "@txt_verify": {
+        "description": "যাচাই করুন"
+    },
+    "txt_error": "ত্রুটি",
+    "@txt_error": {
+        "description": "ত্রুটি"
+    },
+    "txt_ok": "ঠিক আছে",
+    "@txt_ok": {
+        "description": "ঠিক আছে"
+    },
+    "txt_upload_details": "বিশদ আপলোড করুন",
+    "@txt_upload_details": {
+        "description": "বিশদ আপলোড করুন"
+    },
+    "txt_vehicle_picture": "গাড়ির ছবি",
+    "@txt_vehicle_picture": {
+        "description": "গাড়ির ছবি"
+    },
+    "txt_vehicle_number": "যানবাহন নম্বর",
+    "@txt_vehicle_number": {
+        "description": "যানবাহন নম্বর"
+    },
+    "txt_upload_image": "ছবি আপলাড",
+    "@txt_upload_image": {
+        "description": "ছবি আপলাড"
+    },
+    "txt_front": "সামনে",
+    "@txt_front": {
+        "description": "সামনে"
+    },
+    "txt_back": "পেছনে",
+    "@txt_back": {
+        "description": "পেছনে"
+    },
+    "txt_driver_id_card": "ড্রাইভার সনাক্তকরণ কার্ড",
+    "@txt_driver_id_card": {
+        "description": "ড্রাইভার সনাক্তকরণ কার্ড"
+    },
+    "txt_id_number": "আইডি নাম্বার",
+    "@txt_id_number": {
+        "description": "আইডি নাম্বার"
+    },
+    "txt_valid_from": "বৈধ হবে",
+    "@txt_valid_from": {
+        "description": "বৈধ হবে"
+    },
+    "txt_valid_until": "বৈধতার সীমা",
+    "@txt_valid_until": {
+        "description": "বৈধতার সীমা"
+    },
+    "txt_driver_driving_license": "ড্রাইভার ড্রাইভিং লাইসেন্স",
+    "@txt_driver_driving_license": {
+        "description": "ড্রাইভার ড্রাইভিং লাইসেন্স"
+    },
+    "txt_license_number": "লাইসেন্স সংখ্যা",
+    "@txt_license_number": {
+        "description": "লাইসেন্স সংখ্যা"
+    },
+    "txt_vehicle_registration": "যানবাহন নিবন্ধন",
+    "@txt_vehicle_registration": {
+        "description": "যানবাহন নিবন্ধন"
+    },
+    "txt_registration_number": "নিবন্ধন নম্বর",
+    "@txt_registration_number": {
+        "description": "নিবন্ধন নম্বর"
+    },
+    "txt_next": "পরবর্তী",
+    "@txt_next": {
+        "description": "পরবর্তী"
+    },
+    "txt_vehicle_ownership": "গাড়ির মালিকানা",
+    "@txt_vehicle_ownership": {
+        "description": "গাড়ির মালিকানা"
+    },
+    "txt_ownership_number": "মালিকানা নম্বর",
+    "@txt_ownership_number": {
+        "description": "মালিকানা নম্বর"
+    },
+    "txt_vehicle_insurance": "যানবাহন বীমা",
+    "@txt_vehicle_insurance": {
+        "description": "যানবাহন বীমা"
+    },
+    "txt_vehicle_inspection": "যানবাহন পরিদর্শন",
+    "@txt_vehicle_inspection": {
+        "description": "যানবাহন পরিদর্শন"
+    },
+    "txt_insurance_number": "বীমা নম্বর",
+    "@txt_insurance_number": {
+        "description": "বীমা নম্বর"
+    },
+    "txt_inspection_number": "পরিদর্শন নম্বর",
+    "@txt_inspection_number": {
+        "description": "পরিদর্শন নম্বর"
+    },
+    "txt_vehicle_manifest": "যানবাহন প্রকাশ",
+    "@txt_vehicle_manifest": {
+        "description": "যানবাহন প্রকাশ"
+    },
+    "txt_manifest_number": "ম্যানিফেস্ট নম্বর",
+    "@txt_manifest_number": {
+        "description": "ম্যানিফেস্ট নম্বর"
+    },
+    "txt_vehicle_radio_tax": "যানবাহন রেডিও ট্যাক্স",
+    "@txt_vehicle_radio_tax": {
+        "description": "যানবাহন রেডিও ট্যাক্স"
+    },
+    "txt_radio_tax_number": "রেডিও ট্যাক্স নম্বর",
+    "@txt_radio_tax_number": {
+        "description": "রেডিও ট্যাক্স নম্বর"
+    },
+    "txt_done": "সম্পন্ন",
+    "@txt_done": {
+        "description": "সম্পন্ন"
+    },
+    "txt_almost_done": "প্রায় শেষ! চালিয়ে যেতে মোবাইল নম্বর প্রবেশ করান",
+    "@txt_almost_done": {
+        "description": "প্রায় শেষ! চালিয়ে যেতে মোবাইল নম্বর প্রবেশ করান"
+    },
+    "txt_menu": "তালিকা",
+    "@txt_menu": {
+        "description": "তালিকা"
+    },
+    "txt_driver_profile": "ড্রাইভার প্রোফাইল",
+    "@txt_driver_profile": {
+        "description": "ড্রাইভার প্রোফাইল"
+    },
+    "txt_upload_doc_info": "আপলোড করা নথি এবং গাড়ী তথ্য।",
+    "@txt_upload_doc_info": {
+        "description": "আপলোড করা নথি এবং গাড়ী তথ্য।"
+    },
+    "txt_add_new_doc": "নতুন নথি যুক্ত করুন",
+    "@txt_add_new_doc": {
+        "description": "নতুন নথি যুক্ত করুন"
+    },
+    "txt_bank_info": "ব্যাংক তথ্য",
+    "@txt_bank_info": {
+        "description": "ব্যাংক তথ্য"
+    },
+    "txt_transaction": "লেনদেন",
+    "@txt_transaction": {
+        "description": "লেনদেন"
+    },
+    "txt_my_trip": "আমার ট্রিপস",
+    "@txt_my_trip": {
+        "description": "আমার ট্রিপস"
+    },
+    "txt_support": "সমর্থন",
+    "@txt_support": {
+        "description": "সমর্থন"
+    },
+    "txt_about_us": "আমাদের সম্পর্কে",
+    "@txt_about_us": {
+        "description": "আমাদের সম্পর্কে"
+    },
+    "txt_terms_condition": "শর্তাবলী",
+    "@txt_terms_condition": {
+        "description": "শর্তাবলী"
+    },
+    "txt_logout": "প্রস্থান",
+    "@txt_logout": {
+        "description": "প্রস্থান"
+    },
+    "txt_edit_profile": "জীবন বৃত্তান্ত সম্পাদনা",
+    "@txt_edit_profile": {
+        "description": "জীবন বৃত্তান্ত সম্পাদনা"
+    },
+    "txt_name": "নাম",
+    "@txt_name": {
+        "description": "নাম"
+    },
+    "txt_email": "ইমেল",
+    "@txt_email": {
+        "description": "ইমেল"
+    },
+    "txt_camera": "ক্যামেরা",
+    "@txt_camera": {
+        "description": "ক্যামেরা"
+    },
+    "txt_gallery": "গ্যালারী",
+    "@txt_gallery": {
+        "description": "গ্যালারী"
+    },
+    "txt_uploaded_documents_info": "আপলোড করা নথি তথ্য",
+    "@txt_uploaded_documents_info": {
+        "description": "আপলোড করা নথি তথ্য"
+    },
+    "txt_pending": "বিচারাধীন",
+    "@txt_pending": {
+        "description": "বিচারাধীন"
+    },
+    "txt_approved": "অনুমোদিত",
+    "@txt_approved": {
+        "description": "অনুমোদিত"
+    },
+    "txt_upload_detail": "বিশদ আপলোড করুন",
+    "@txt_upload_detail": {
+        "description": "বিশদ আপলোড করুন"
+    },
+    "txt_welcome": "স্বাগত",
+    "@txt_welcome": {
+        "description": "স্বাগত"
+    },
+    "txt_welcome_and_setup": "আপনার অ্যাকাউন্ট সেট আপ করতে আপনার যা দরকার তা এখানে",
+    "@txt_welcome_and_setup": {
+        "description": "আপনার অ্যাকাউন্ট সেট আপ করতে আপনার যা দরকার তা এখানে"
+    },
+    "txt_take_photo": "আপনার একটি ছবি নিন",
+    "@txt_take_photo": {
+        "description": "আপনার একটি ছবি নিন"
+    },
+    "val_upload_doc": "নথি আপলোড করুন",
+    "@val_upload_doc": {
+        "description": "নথি আপলোড করুন"
+    },
+    "txt_update_document": "ডকুমেন্ট আপডেট করুন",
+    "@txt_update_document": {
+        "description": "ডকুমেন্ট আপডেট করুন"
+    },
+    "txt_holder_name": "ব্যাংক ধারকের নাম",
+    "@txt_holder_name": {
+        "description": "ব্যাংক ধারকের নাম"
+    },
+    "txt_account_number": "হিসাব নাম্বার",
+    "@txt_account_number": {
+        "description": "হিসাব নাম্বার"
+    },
+    "txt_ifsc_code": "আইএফএসসি কোড",
+    "@txt_ifsc_code": {
+        "description": "আইএফএসসি কোড"
+    },
+    "txt_bank_name": "ব্যাংকের নাম",
+    "@txt_bank_name": {
+        "description": "ব্যাংকের নাম"
+    },
+    "txt_transaction_upr": "লেনদেন",
+    "@txt_transaction_upr": {
+        "description": "লেনদেন"
+    },
+    "txt_total_amt": "সর্বমোট পরিমাণ",
+    "@txt_total_amt": {
+        "description": "সর্বমোট পরিমাণ"
+    },
+    "txt_cash": "নগদ",
+    "@txt_cash": {
+        "description": "নগদ"
+    },
+    "txt_online": "অনলাইন",
+    "@txt_online": {
+        "description": "অনলাইন"
+    },
+    "txt_payment_history": "অর্থ প্রদান ইতিহাস",
+    "@txt_payment_history": {
+        "description": "অর্থ প্রদান ইতিহাস"
+    },
+    "txt_no_data_found": "কোনও ডেটা পাওয়া যায় নি",
+    "@txt_no_data_found": {
+        "description": "কোনও ডেটা পাওয়া যায় নি"
+    },
+    "txt_support_upr": "সমর্থন",
+    "@txt_support_upr": {
+        "description": "সমর্থন"
+    },
+    "txt_concern_queries": "উদ্বেগ এবং প্রশ্ন",
+    "@txt_concern_queries": {
+        "description": "উদ্বেগ এবং প্রশ্ন"
+    },
+    "txt_upload_pic_doc": "আপনার ছবি বা নথি আপলোড করুন",
+    "@txt_upload_pic_doc": {
+        "description": "আপনার ছবি বা নথি আপলোড করুন"
+    },
+    "txt_logout": "প্রস্থান",
+    "@txt_logout": {
+        "description": "প্রস্থান"
+    },
+    "txt_want_to_logout": "আপনি কি লগ আউট করতে চান?",
+    "@txt_want_to_logout": {
+        "description": "আপনি কি লগ আউট করতে চান?"
+    },
+    "txt_no": "না",
+    "@txt_no": {
+        "description": "না"
+    },
+    "txt_yes": "হ্যাঁ",
+    "@txt_yes": {
+        "description": "হ্যাঁ"
+    },
+    "txt_notification": "বিজ্ঞপ্তি",
+    "@txt_notification": {
+        "description": "বিজ্ঞপ্তি"
+    },
+    "txt_offline": "আপনি অফলাইনে",
+    "@txt_offline": {
+        "description": "আপনি অফলাইনে"
+    },
+    "txt_successfully_logged_in": "আপনি সফলভাবে লগ ইন করা হয়।",
+    "@txt_successfully_logged_in": {
+        "description": "আপনি সফলভাবে লগ ইন করা হয়।"
+    },
+    "txt_distance": "দূরত্ব",
+    "@txt_distance": {
+        "description": "দূরত্ব"
+    },
+    "txt_estimate_time": "সময় অনুমান",
+    "@txt_estimate_time": {
+        "description": "সময় অনুমান"
+    },
+    "txt_from_upr": "থেকে",
+    "@txt_from_upr": {
+        "description": "থেকে"
+    },
+    "txt_to_upr": "প্রতি",
+    "@txt_to_upr": {
+        "description": "প্রতি"
+    },
+    "txt_call": "কল",
+    "@txt_call": {
+        "description": "কল"
+    },
+    "txt_chat": "চ্যাট",
+    "@txt_chat": {
+        "description": "চ্যাট"
+    },
+    "txt_price": "দাম",
+    "@txt_price": {
+        "description": "দাম"
+    },
+    "txt_decline": "পতন",
+    "@txt_decline": {
+        "description": "পতন"
+    },
+    "txt_accept": "গ্রহণ",
+    "@txt_accept": {
+        "description": "গ্রহণ"
+    },
+    "txt_customer_pickup": "গ্রাহক পিকআপ?",
+    "@txt_customer_pickup": {
+        "description": "গ্রাহক পিকআপ?"
+    },
+    "txt_navigate": "নেভিগেট",
+    "@txt_navigate": {
+        "description": "নেভিগেট"
+    },
+    "txt_enter_otp": "ওটিপি প্রবেশ করান",
+    "@txt_enter_otp": {
+        "description": "ওটিপি প্রবেশ করান"
+    },
+    "txt_start_ride": "যাত্রা শুরু করুন",
+    "@txt_start_ride": {
+        "description": "যাত্রা শুরু করুন"
+    },
+    "txt_ride_complete": "সম্পূর্ণ যাত্রা",
+    "@txt_ride_complete": {
+        "description": "সম্পূর্ণ যাত্রা"
+    },
+    "txt_wait_for_payment": "অর্থ প্রদানের জন্য অপেক্ষা করুন",
+    "@txt_wait_for_payment": {
+        "description": "অর্থ প্রদানের জন্য অপেক্ষা করুন"
+    },
+    "txt_ride_complete_upr": "সম্পূর্ণ যাত্রা",
+    "@txt_ride_complete_upr": {
+        "description": "সম্পূর্ণ যাত্রা"
+    },
+    "txt_your_ride_complete_upr": "আপনার যাত্রা সম্পূর্ণ",
+    "@txt_your_ride_complete_upr": {
+        "description": "আপনার যাত্রা সম্পূর্ণ"
+    },
+    "txt_payment_by": "দ্বারা পেমেন্ট",
+    "@txt_payment_by": {
+        "description": "দ্বারা পেমেন্ট"
+    },
+    "txt_type_of_service": "সেবার ধরণ",
+    "@txt_type_of_service": {
+        "description": "সেবার ধরণ"
+    },
+    "txt_total_km": "মোট কিমি",
+    "@txt_total_km": {
+        "description": "মোট কিমি"
+    },
+    "txt_duration": "সময়কাল",
+    "@txt_duration": {
+        "description": "সময়কাল"
+    },
+    "txt_reason_cancellation": "বাতিল করার কারণ",
+    "@txt_reason_cancellation": {
+        "description": "বাতিল করার কারণ"
+    },
+    "txt_driver_denied": "ড্রাইভার পিক-আপ অস্বীকার করেছে",
+    "@txt_driver_denied": {
+        "description": "ড্রাইভার পিক-আপ অস্বীকার করেছে"
+    },
+    "txt_expected_time": "একটি সংক্ষিপ্ত অপেক্ষা সময় প্রত্যাশিত",
+    "@txt_expected_time": {
+        "description": "একটি সংক্ষিপ্ত অপেক্ষা সময় প্রত্যাশিত"
+    },
+    "txt_unable_to_contact_user": "ব্যবহারকারীর সাথে যোগাযোগ করতে অক্ষম",
+    "@txt_unable_to_contact_user": {
+        "description": "ব্যবহারকারীর সাথে যোগাযোগ করতে অক্ষম"
+    },
+    "txt_reason_not_listed": "আমার কারণ এখানে তালিকাভুক্ত নয়",
+    "@txt_reason_not_listed": {
+        "description": "আমার কারণ এখানে তালিকাভুক্ত নয়"
+    },
+    "txt_cancel": "বাতিল",
+    "@txt_cancel": {
+        "description": "বাতিল"
+    },
+    "txt_check_internet": "আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন",
+    "@txt_check_internet": {
+        "description": "আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন"
+    },
+    "txt_english": "ইংরেজি",
+    "@txt_english": {
+        "description": "ইংরেজি"
+    },
+    "txt_portuguese": "পর্তুগীজ",
+    "@txt_portuguese": {
+        "description": "পর্তুগীজ"
+    },
+    "txt_arabic": "আরবি",
+    "@txt_arabic": {
+        "description": "আরবি"
+    },
+    "txt_urdu": "উর্দু",
+    "@txt_urdu": {
+        "description": "উর্দু"
+    },
+    "txt_hindi": "হিন্দি",
+    "@txt_hindi": {
+        "description": "হিন্দি"
+    },
+    "txt_spanish": "স্পেনীয়",
+    "@txt_spanish": {
+        "description": "স্পেনীয়"
+    },
+    "txt_mandarim": "ম্যান্ডারিন",
+    "@txt_mandarim": {
+        "description": "ম্যান্ডারিন"
+    },
+    "txt_french": "ফরাসি",
+    "@txt_french": {
+        "description": "ফরাসি"
+    },
+    "txt_afrikaans": "আফ্রিকান",
+    "@txt_afrikaans": {
+        "description": "আফ্রিকান"
+    },
+    "txt_bengali": "বাংলা",
+    "@txt_bengali": {
+        "description": "বাংলা"
+    },
+    "txt_russian": "রাশিয়ান",
+    "@txt_russian": {
+        "description": "রাশিয়ান"
+    },
+    "txt_japanese": "জাপানি",
+    "@txt_japanese": {
+        "description": "জাপানি"
+    },
+    "txt_turkish": "তুর্কি",
+    "@txt_turkish": {
+        "description": "তুর্কি"
+    },
+    "txt_swahili": "সোয়াহিলি",
+    "@txt_swahili": {
+        "description": "সোয়াহিলি"
+    },
+    "txt_italian": "ইতালিয়ান",
+    "@txt_italian": {
+        "description": "ইতালিয়ান"
+    },
+    "txt_edit": "সম্পাদনা",
+    "@txt_edit": {
+        "description": "সম্পাদনা"
+    },
+    "txt_delete": "মুছে ফেলা",
+    "@txt_delete": {
+        "description": "মুছে ফেলা"
+    },
+    "val_accept_term_condition": "শর্তাদি এবং শর্তাদি গ্রহণ করুন",
+    "@val_accept_term_condition": {
+        "description": "শর্তাদি এবং শর্তাদি গ্রহণ করুন"
+    },
+    "val_first_name": "প্রথম নাম লিখুন দয়া করে",
+    "@val_first_name": {
+        "description": "প্রথম নাম লিখুন দয়া করে"
+    },
+    "val_fullname_short": "পুরো নাম খুব ছোট",
+    "@val_fullname_short": {
+        "description": "পুরো নাম খুব ছোট"
+    },
+    "val_enter_userid_email": "ব্যবহারকারী আইডি বা ইমেল লিখুন",
+    "@val_enter_userid_email": {
+        "description": "ব্যবহারকারী আইডি বা ইমেল লিখুন"
+    },
+    "val_userid_email_short": "ব্যবহারকারী আইডি বা ইমেল খুব সংক্ষিপ্ত",
+    "@val_userid_email_short": {
+        "description": "ব্যবহারকারী আইডি বা ইমেল খুব সংক্ষিপ্ত"
+    },
+    "val_enter_last_name": "শেষ নাম লিখুন দয়া করে",
+    "@val_enter_last_name": {
+        "description": "শেষ নাম লিখুন দয়া করে"
+    },
+    "val_enter_userid": "ব্যবহারকারী আইডি লিখুন",
+    "@val_enter_userid": {
+        "description": "ব্যবহারকারী আইডি লিখুন"
+    },
+    "val_atleast_3char": "কমপক্ষে 3 টি চরিত্র লিখুন",
+    "@val_atleast_3char": {
+        "description": "কমপক্ষে 3 টি চরিত্র লিখুন"
+    },
+    "val_first_name_short": "প্রথম নাম খুব সংক্ষিপ্ত",
+    "@val_first_name_short": {
+        "description": "প্রথম নাম খুব সংক্ষিপ্ত"
+    },
+    "val_last_name_short": "শেষ নাম খুব সংক্ষিপ্ত",
+    "@val_last_name_short": {
+        "description": "শেষ নাম খুব সংক্ষিপ্ত"
+    },
+    "val_enter_email": "ইমেল লিখুন দয়া করে",
+    "@val_enter_email": {
+        "description": "ইমেল লিখুন দয়া করে"
+    },
+    "val_valid_enter": "অনুগ্রহ করে আপনার সঠিক মেইল ​​আইডি প্রবেশ করান",
+    "@val_valid_enter": {
+        "description": "অনুগ্রহ করে আপনার সঠিক মেইল ​​আইডি প্রবেশ করান"
+    },
+    "val_enter_password": "দয়া করে পাসওয়ার্ড লিখুন",
+    "@val_enter_password": {
+        "description": "দয়া করে পাসওয়ার্ড লিখুন"
+    },
+    "val_enter_old_pass": "পুরানো পাসওয়ার্ড লিখুন দয়া করে",
+    "@val_enter_old_pass": {
+        "description": "পুরানো পাসওয়ার্ড লিখুন দয়া করে"
+    },
+    "val_enter_new_pass": "নতুন পাসওয়ার্ড লিখুন দয়া করে",
+    "@val_enter_new_pass": {
+        "description": "নতুন পাসওয়ার্ড লিখুন দয়া করে"
+    },
+    "val_pass_short": "পাসওয়ার্ড অত্যন্ত ছোট",
+    "@val_pass_short": {
+        "description": "পাসওয়ার্ড অত্যন্ত ছোট"
+    },
+    "val_pass_not_match": "পাসওয়ার্ড মেলে না",
+    "@val_pass_not_match": {
+        "description": "পাসওয়ার্ড মেলে না"
+    },
+    "val_enter_name": "নাম লিখুন দয়া করে",
+    "@val_enter_name": {
+        "description": "নাম লিখুন দয়া করে"
+    },
+    "val_enter_query": "দয়া করে ক্যোয়ারী প্রবেশ করুন",
+    "@val_enter_query": {
+        "description": "দয়া করে ক্যোয়ারী প্রবেশ করুন"
+    },
+    "val_enter_confirm_pass": "দয়া করে পাসওয়ার্ড নিশ্চিত করুন",
+    "@val_enter_confirm_pass": {
+        "description": "দয়া করে পাসওয়ার্ড নিশ্চিত করুন"
+    },
+    "val_enter_address": "ঠিকানা লিখুন দয়া করে",
+    "@val_enter_address": {
+        "description": "ঠিকানা লিখুন দয়া করে"
+    },
+    "val_enter_mobile": "দয়া করে মোবাইল নম্বর লিখুন",
+    "@val_enter_mobile": {
+        "description": "দয়া করে মোবাইল নম্বর লিখুন"
+    },
+    "val_valid_number": "বৈধ মোবাইল নম্বর লিখুন দয়া করে",
+    "@val_valid_number": {
+        "description": "বৈধ মোবাইল নম্বর লিখুন দয়া করে"
+    },
+    "val_otp": "ওটিপি প্রবেশ করুন",
+    "@val_otp": {
+        "description": "ওটিপি প্রবেশ করুন"
+    },
+    "val_enter_postal_code": "ডাক কোড লিখুন দয়া করে",
+    "@val_enter_postal_code": {
+        "description": "ডাক কোড লিখুন দয়া করে"
+    },
+    "val_valid_postal_code": "বৈধ ডাক কোড লিখুন দয়া করে",
+    "@val_valid_postal_code": {
+        "description": "বৈধ ডাক কোড লিখুন দয়া করে"
+    },
+    "val_enter_landmark": "ল্যান্ডমার্ক প্রবেশ করুন",
+    "@val_enter_landmark": {
+        "description": "ল্যান্ডমার্ক প্রবেশ করুন"
+    },
+    "val_enter_city": "শহরে প্রবেশ করুন",
+    "@val_enter_city": {
+        "description": "শহরে প্রবেশ করুন"
+    },
+    "val_enter_state": "দয়া করে রাজ্য প্রবেশ করুন",
+    "@val_enter_state": {
+        "description": "দয়া করে রাজ্য প্রবেশ করুন"
+    },
+    "val_enter_address": "ঠিকানা লিখুন দয়া করে",
+    "@val_enter_address": {
+        "description": "ঠিকানা লিখুন দয়া করে"
+    },
+    "val_enter_specification": "নির্দিষ্টকরণ লিখুন",
+    "@val_enter_specification": {
+        "description": "নির্দিষ্টকরণ লিখুন"
+    },
+    "val_enter_message": "একটি বার্তা লিখুন",
+    "@val_enter_message": {
+        "description": "Pএকটি বার্তা লিখুন"
+    },
+    "txt_camera_permission": "ক্যামেরা অনুমতি",
+    "@txt_camera_permission": {
+        "description": "ক্যামেরা অনুমতি"
+    },
+    "txt_permission_camera": "এই অনুমতি ব্যতীত, এই অ্যাপ্লিকেশনটি ফটো বাছাই করতে অক্ষম হবে। আপনি কি নিশ্চিত যে আপনি এই অনুমতি অস্বীকার করতে চান?",
+    "@txt_permission_camera": {
+        "description": "এই অনুমতি ব্যতীত, এই অ্যাপ্লিকেশনটি ফটো বাছাই করতে অক্ষম হবে। আপনি কি নিশ্চিত যে আপনি এই অনুমতি অস্বীকার করতে চান?"
+    },
+    "txt_retry": "পুনরায় চেষ্টা করা",
+    "@txt_retry": {
+        "description": "পুনরায় চেষ্টা করা"
+    },
+    "txt_im_sure": "আমি নিশ্চিত",
+    "@txt_im_sure": {
+        "description": "আমি নিশ্চিত"
+    },
+    "txt_gallery_permission": "গ্যালারী অনুমতি",
+    "@txt_gallery_permission": {
+        "description": "গ্যালারী অনুমতি"
+    },
+    "txt_permision_gallery": "এই অনুমতি ব্যতীত, এই অ্যাপ্লিকেশনটি গ্যালারী থেকে ফটো পেতে অক্ষম হবে। আপনি কি নিশ্চিত যে আপনি এই অনুমতি অস্বীকার করতে চান?",
+    "@txt_permision_gallery": {
+        "description": "এই অনুমতি ব্যতীত, এই অ্যাপ্লিকেশনটি গ্যালারী থেকে ফটো পেতে অক্ষম হবে। আপনি কি নিশ্চিত যে আপনি এই অনুমতি অস্বীকার করতে চান?"
+    },
+    "txt_your_msg": "তোমার বার্তা...",
+    "@txt_your_msg": {
+        "description": "তোমার বার্তা..."
+    },
+    "txt_user_cancel_process": "ব্যবহারকারী প্রক্রিয়া বাতিল",
+    "@txt_user_cancel_process": {
+        "description": "ব্যবহারকারী প্রক্রিয়া বাতিল"
+    },
+    "txt_thank_for_reg": "নিবন্ধনের জন্য আপনাকে ধন্যবাদ",
+    "@txt_thank_for_reg": {
+        "description": "নিবন্ধনের জন্য আপনাকে ধন্যবাদ"
+    },
+    "txt_verify_your_doc": "একবার আমরা আপনার নথি যাচাই করি।",
+    "@txt_verify_your_doc": {
+        "description": "একবার আমরা আপনার নথি যাচাই করি।"
+    },
+     "txt_notify_you": "আমরা শীঘ্রই আপনাকে অবহিত করি",
+    "@txt_notify_you": {
+        "description": "আমরা শীঘ্রই আপনাকে অবহিত করি"
+    },
+    "txt_active_after_verification": "যাচাইয়ের পরে আপনার অ্যাকাউন্ট সক্রিয় হবে",
+    "@txt_active_after_verification": {
+        "description": "যাচাইয়ের পরে আপনার অ্যাকাউন্ট সক্রিয় হবে"
+    },
+    "val_enter_vehicle_num": "যানবাহন নম্বর লিখুন",
+    "@val_enter_vehicle_num": {
+        "description": "যানবাহন নম্বর লিখুন"
+    },
+     "val_upload_vehicle_front_img": "যানবাহনের সামনের চিত্র আপলোড করুন",
+    "@val_upload_vehicle_front_img": {
+        "description": "যানবাহনের সামনের চিত্র আপলোড করুন"
+    },
+     "val_upload_vehicle_back_img": "দয়া করে যানবাহন ব্যাক ইমেজ আপলোড করুন",
+    "@val_upload_vehicle_back_img": {
+        "description": "দয়া করে যানবাহন ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_enter_id_number": "সনাক্তকরণ কার্ড নম্বর লিখুন দয়া করে",
+    "@val_enter_id_number": {
+        "description": "সনাক্তকরণ কার্ড নম্বর লিখুন দয়া করে"
+    },
+     "val_upload_id_front_img": "দয়া করে সনাক্তকরণ কার্ডের সামনের চিত্র আপলোড করুন",
+    "@val_upload_id_front_img": {
+        "description": "দয়া করে সনাক্তকরণ কার্ডের সামনের চিত্র আপলোড করুন"
+    },
+     "val_upload_id_back_img": "দয়া করে আইডেন্টিফিকেশন কার্ড ব্যাক ইমেজ আপলোড করুন",
+    "@val_upload_id_back_img": {
+        "description": "দয়া করে আইডেন্টিফিকেশন কার্ড ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_select_id_start_date": "দয়া করে সনাক্তকরণ কার্ড শুরুর তারিখ নির্বাচন করুন",
+    "@val_select_id_start_date": {
+        "description": "দয়া করে সনাক্তকরণ কার্ড শুরুর তারিখ নির্বাচন করুন"
+    },
+     "val_select_id_end_date": "দয়া করে সনাক্তকরণ কার্ডের শেষ তারিখটি নির্বাচন করুন",
+    "@val_select_id_end_date": {
+        "description": "দয়া করে সনাক্তকরণ কার্ডের শেষ তারিখটি নির্বাচন করুন"
+    },
+     "val_enter_license_num": "লাইসেন্স নম্বর লিখুন",
+    "@val_enter_license_num": {
+        "description": "লাইসেন্স নম্বর লিখুন"
+    },
+     "val_upload_license_front_img": "লাইসেন্স সামনের চিত্র আপলোড করুন",
+    "@val_upload_license_front_img": {
+        "description": "লাইসেন্স সামনের চিত্র আপলোড করুন"
+    },
+     "val_upload_license_back_img": "লাইসেন্স ব্যাক ইমেজ আপলোড করুন",
+    "@val_upload_license_back_img": {
+        "description": "লাইসেন্স ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_select_license_start_date": "লাইসেন্স শুরুর তারিখ নির্বাচন করুন",
+    "@val_select_license_start_date": {
+        "description": "লাইসেন্স শুরুর তারিখ নির্বাচন করুন"
+    },
+     "val_select_license_end_date": "লাইসেন্স শেষ তারিখ নির্বাচন করুন",
+    "@val_select_license_end_date": {
+        "description": "লাইসেন্স শেষ তারিখ নির্বাচন করুন"
+    },
+     "val_enter_vehicle_reg_num": "যানবাহন নিবন্ধকরণ নম্বর লিখুন",
+    "@val_enter_vehicle_reg_num": {
+        "description": "যানবাহন নিবন্ধকরণ নম্বর লিখুন"
+    },
+     "val_upload_reg_front_img": "দয়া করে যানবাহন নিবন্ধকরণ সামনের চিত্র আপলোড করুন",
+    "@val_upload_vehicle_front_img": {
+        "description": "দয়া করে যানবাহন নিবন্ধকরণ সামনের চিত্র আপলোড করুন"
+    },
+     "val_upload_reg_back_img": "দয়া করে যানবাহন নিবন্ধকরণ ব্যাক ইমেজ আপলোড করুন",
+    "@txt_your_msg": {
+        "description": "দয়া করে যানবাহন নিবন্ধকরণ ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_enter_reg_start_date": "যানবাহন নিবন্ধকরণ শুরু তারিখ নির্বাচন করুন",
+    "@val_enter_reg_start_date": {
+        "description": "যানবাহন নিবন্ধকরণ শুরু তারিখ নির্বাচন করুন"
+    },
+     "val_enter_reg_end_date": "যানবাহন নিবন্ধকরণ শেষ তারিখ নির্বাচন করুন",
+    "@val_enter_reg_end_date": {
+        "description": "যানবাহন নিবন্ধকরণ শেষ তারিখ নির্বাচন করুন"
+    },
+    "val_enter_owner_num": "দয়া করে যানবাহনের মালিকানা নম্বর লিখুন",
+    "@val_enter_owner_num": {
+        "description": "দয়া করে যানবাহনের মালিকানা নম্বর লিখুন"
+    },
+     "val_upload_owner_front_img": "দয়া করে গাড়ির মালিকানা সামনের চিত্র আপলোড করুন",
+    "@val_upload_owner_front_img": {
+        "description": "দয়া করে গাড়ির মালিকানা সামনের চিত্র আপলোড করুন"
+    },
+     "val_upload_owner_back_img": "দয়া করে গাড়ির মালিকানা ব্যাক ইমেজ আপলোড করুন",
+    "@val_upload_owner_back_img": {
+        "description": "দয়া করে গাড়ির মালিকানা ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_enter_owner_start_date": "দয়া করে যানবাহনের মালিকানা শুরুর তারিখ নির্বাচন করুন",
+    "@val_enter_owner_start_date": {
+        "description": "দয়া করে যানবাহনের মালিকানা শুরুর তারিখ নির্বাচন করুন"
+    },
+     "val_enter_owner_end_date": "দয়া করে যানবাহনের মালিকানা শেষ তারিখ নির্বাচন করুন",
+    "@val_enter_owner_end_date": {
+        "description": "দয়া করে যানবাহনের মালিকানা শেষ তারিখ নির্বাচন করুন"
+    },
+     "val_enter_insurance_num": "যানবাহন বীমা নম্বর লিখুন",
+    "@val_enter_insurance_num": {
+        "description": "যানবাহন বীমা নম্বর লিখুন"
+    },
+      "val_upload_insurance_front_img": "যানবাহন বীমা সামনের চিত্র আপলোড করুন",
+    "@val_upload_insurance_front_img": {
+        "description": "যানবাহন বীমা সামনের চিত্র আপলোড করুন"
+    },
+      "val_upload_insurance_back_img": "দয়া করে যানবাহন বীমা ব্যাক ইমেজ আপলোড করুন",
+    "@val_upload_insurance_back_img": {
+        "description": "দয়া করে যানবাহন বীমা ব্যাক ইমেজ আপলোড করুন"
+    },
+      "val_insurance_start_date": "যানবাহন বীমা শুরুর তারিখ নির্বাচন করুন",
+    "@val_insurance_start_date": {
+        "description": "যানবাহন বীমা শুরুর তারিখ নির্বাচন করুন"
+    },
+      "val_insurance_end_date": "যানবাহন বীমা শেষ তারিখ নির্বাচন করুন",
+    "@val_insurance_end_date": {
+        "description": "যানবাহন বীমা শেষ তারিখ নির্বাচন করুন"
+    },
+      "val_inspection_num": "যানবাহন পরিদর্শন নম্বর লিখুন",
+    "@val_inspection_num": {
+        "description": "যানবাহন পরিদর্শন নম্বর লিখুন"
+    },
+      "val_inspection_front_img": "দয়া করে যানবাহন পরিদর্শন সামনের চিত্র আপলোড করুন",
+    "@val_inspection_front_img": {
+        "description": "দয়া করে যানবাহন পরিদর্শন সামনের চিত্র আপলোড করুন"
+    },
+      "val_inspection_back_img": "দয়া করে যানবাহন পরিদর্শন ব্যাক ইমেজ আপলোড করুন",
+    "@val_inspection_back_img": {
+        "description": "দয়া করে যানবাহন পরিদর্শন ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_inspection_start_date": "যানবাহন পরিদর্শন শুরু তারিখ নির্বাচন করুন",
+    "@val_inspection_start_date": {
+        "description": "যানবাহন পরিদর্শন শুরু তারিখ নির্বাচন করুন"
+    },
+     "val_inspection_end_date": "যানবাহন পরিদর্শন শেষ তারিখ নির্বাচন করুন",
+    "@val_inspection_end_date": {
+        "description": "যানবাহন পরিদর্শন শেষ তারিখ নির্বাচন করুন"
+    },
+     "val_manifest_num": "যানবাহন ম্যানিফেস্ট নম্বর লিখুন",
+    "@val_manifest_num": {
+        "description": "যানবাহন ম্যানিফেস্ট নম্বর লিখুন"
+    },
+     "val_manifest_front_img": "দয়া করে যানবাহন ম্যানিফেস্ট ফ্রন্ট ইমেজ আপলোড করুন",
+    "@val_manifest_front_img": {
+        "description": "দয়া করে যানবাহন ম্যানিফেস্ট ফ্রন্ট ইমেজ আপলোড করুন"
+    },
+     "val_manifest_back_img": "দয়া করে যানবাহন ম্যানিফেস্ট ব্যাক ইমেজ আপলোড করুন",
+    "@val_manifest_back_img": {
+        "description": "দয়া করে যানবাহন ম্যানিফেস্ট ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_manifest_start_date": "যানবাহন ম্যানিফেস্ট শুরুর তারিখ নির্বাচন করুন",
+    "@val_manifest_start_date": {
+        "description": "যানবাহন ম্যানিফেস্ট শুরুর তারিখ নির্বাচন করুন"
+    },
+     "val_manifest_end_date": "যানবাহন ম্যানিফেস্ট শেষ তারিখ নির্বাচন করুন",
+    "@val_manifest_end_date": {
+        "description": "যানবাহন ম্যানিফেস্ট শেষ তারিখ নির্বাচন করুন"
+    },
+     "val_radio_num": "যানবাহন রেডিও ট্যাক্স নম্বর লিখুন",
+    "@val_radio_num": {
+        "description": "যানবাহন রেডিও ট্যাক্স নম্বর লিখুন"
+    },
+     "val_radio_front_img": "দয়া করে যানবাহন রেডিও ট্যাক্স ফ্রন্ট ইমেজ আপলোড করুন",
+    "@val_radio_front_img": {
+        "description": "দয়া করে যানবাহন রেডিও ট্যাক্স ফ্রন্ট ইমেজ আপলোড করুন"
+    },
+     "val_radio_back_img": "দয়া করে যানবাহন রেডিও ট্যাক্স ব্যাক ইমেজ আপলোড করুন",
+    "@val_radio_back_img": {
+        "description": "দয়া করে যানবাহন রেডিও ট্যাক্স ব্যাক ইমেজ আপলোড করুন"
+    },
+     "val_radio_start_date": "যানবাহন রেডিও ট্যাক্স শুরুর তারিখ নির্বাচন করুন",
+    "@val_radio_start_date": {
+        "description": "যানবাহন রেডিও ট্যাক্স শুরুর তারিখ নির্বাচন করুন"
+    },
+     "val_radio_end_date": "যানবাহন রেডিও ট্যাক্স শেষ তারিখ নির্বাচন করুন",
+    "@val_radio_end_date": {
+        "description": "যানবাহন রেডিও ট্যাক্স শেষ তারিখ নির্বাচন করুন"
+    },
+      "txt_file_selected": "ফাইল নির্বাচিত",
+    "@txt_file_selected": {
+        "description": "ফাইল নির্বাচিত"
+    },
+       "txt_nofile_selected": "নির্বাচিত কোন ফাইল",
+    "@txt_nofile_selected": {
+        "description": "নির্বাচিত কোন ফাইল"
+    },
+    "txt_server_error": "সার্ভার ত্রুটি, আবার চেষ্টা করুন",
+    "@txt_server_error": {
+        "description": "সার্ভার ত্রুটি, আবার চেষ্টা করুন"
+    },
+     "val_valid_otp": "বৈধ ওটিপি লিখুন দয়া করে",
+    "@val_valid_otp": {
+        "description": "বৈধ ওটিপি লিখুন দয়া করে"
+    },
+     "txt_double_click": "অ্যাপ্লিকেশন থেকে প্রস্থান করতে ডাবল ক্লিক করুন",
+    "@txt_double_click": {
+        "description": "অ্যাপ্লিকেশন থেকে প্রস্থান করতে ডাবল ক্লিক করুন"
+    },
+      "txt_pick_from": "থেকে পিকআপ",
+    "@txt_pick_from": {
+        "description": "থেকে পিকআপ"
+    },
+      "txt_transaction_id": "লেনদেন নাম্বার",
+    "@txt_pick_from": {
+        "description": "লেনদেন নাম্বার"
+    },
+       "txt_total_price": "মোট দাম",
+    "@txt_total_price": {
+        "description": "মোট দাম"
+    },
+     "txt_complete": "সম্পূর্ণ",
+    "@txt_complete": {
+        "description": "সম্পূর্ণ"
+    },
+      "txt_date": "তারিখ",
+    "@txt_date": {
+        "description": "তারিখ"
+    },
+      "txt_by": "দ্বারা",
+    "@txt_by": {
+        "description": "দ্বারা"
+    },
+       "txt_cancelled": "বাতিল",
+    "@txt_cancelled": {
+        "description": "বাতিল"
+    },
+       "txt_phone_number": "ফোন নম্বর",
+    "@txt_phone_number": {
+        "description": "ফোন নম্বর"
+    },
+       "txt_upload": "আপলোড",
+    "@txt_upload": {
+        "description": "আপলোড"
+    },
+       "txt_valid_phone": "বৈধ ফোন নং লিখুন দয়া করে",
+    "@txt_valid_phone": {
+        "description": "বৈধ ফোন নং লিখুন দয়া করে"
+    },
+       "txt_maker_name": "গাড়ি প্রস্তুতকারক বিশদ লিখুন দয়া করে",
+    "@txt_maker_name": {
+        "description": "গাড়ি প্রস্তুতকারক বিশদ লিখুন দয়া করে"
+    },
+       "txt_model_name": "গাড়ী মডেল নাম লিখুন দয়া করে",
+    "@txt_model_name": {
+        "description": "গাড়ী মডেল নাম লিখুন দয়া করে"
+    },
+       "txt_color_name": "গাড়ির রঙের নাম লিখুন দয়া করে",
+    "@txt_color_name": {
+        "description": "গাড়ির রঙের নাম লিখুন দয়া করে"
+    },
+       "txt_select_passenger": "যাত্রী নম্বর নির্বাচন করুন",
+    "@txt_select_passenger": {
+        "description": "যাত্রী নম্বর নির্বাচন করুন"
+    },
+       "txt_valid_data": "বৈধ ডেটা লিখুন",
+    "@txt_valid_data": {
+        "description": "বৈধ ডেটা লিখুন"
+    },
+       "txt_select_vehicle_pic": "গাড়ির ছবি নির্বাচন করুন",
+    "@txt_select_vehicle_pic": {
+        "description": "গাড়ির ছবি নির্বাচন করুন"
+    },
+        "txt_location_permission": "অবস্থান অনুমতি",
+    "@txt_location_permission": {
+        "description": "অবস্থান অনুমতি"
+    },
+    "txt_permision_location": "এই অনুমতি ব্যতীত, এই অ্যাপ্লিকেশনটি আপনার অবস্থান এবং ঠিকানা পেতে অক্ষম হবে। আপনি কি নিশ্চিত যে আপনি এই অনুমতি অস্বীকার করতে চান?",
+    "@txt_permision_location": {
+        "description": "এই অনুমতি ব্যতীত, এই অ্যাপ্লিকেশনটি আপনার অবস্থান এবং ঠিকানা পেতে অক্ষম হবে। আপনি কি নিশ্চিত যে আপনি এই অনুমতি অস্বীকার করতে চান?"
+    },
+    "txt_permision_setting": "আপনি যদি এই অ্যাপ্লিকেশনটি ব্যবহার করতে চান তবে আপনাকে অবশ্যই সিস্টেম অনুমতি সেটিংয়ে অনুমতি সক্ষম করতে হবে",
+    "@txt_permision_setting": {
+        "description": "আপনি যদি এই অ্যাপ্লিকেশনটি ব্যবহার করতে চান তবে আপনাকে অবশ্যই সিস্টেম অনুমতি সেটিংয়ে অনুমতি সক্ষম করতে হবে"
+    },
+     "txt_setting": "সেটিংস",
+    "@txt_setting": {
+        "description": "সেটিংস"
+    },
+     "txt_exit": "প্রস্থান",
+    "@txt_exit": {
+        "description": "প্রস্থান"
+    },
+    "txt_select_max": "সর্বোচ্চ 10 চিত্র নির্বাচন করুন",
+    "@txt_exit": {
+        "description": "সর্বোচ্চ 10 চিত্র নির্বাচন করুন"
+    },
+    "txt_car_maker": "গাড়ি প্রস্তুতকারক",
+    "@txt_car_maker": {
+        "description": "গাড়ি প্রস্তুতকারক"
+    },
+     "txt_car_model": "গাড়ী মডেল",
+    "@txt_car_model": {
+        "description": "গাড়ী মডেল"
+    },
+     "txt_car_color": "গাড়ির রঙ",
+    "@txt_car_color": {
+        "description": "গাড়ির রঙ"
+    },
+     "txt_no_pass": "যাত্রী সংখ্যা",
+    "@txt_no_pass": {
+        "description": "যাত্রী সংখ্যা"
+    },
+     "txt_vehicle_pic": "গাড়ির ছবি",
+    "@txt_vehicle_pic": {
+        "description": "গাড়ির ছবি"
+    },
+     "txt_driver_id": "ড্রাইভার সনাক্তকরণ কার্ড",
+    "@txt_driver_id": {
+        "description": "ড্রাইভার সনাক্তকরণ কার্ড"
+    },
+     "txt_driver_driving": "ড্রাইভার ড্রাইভিং লাইসেন্স",
+    "@txt_driver_driving": {
+        "description": "ড্রাইভার ড্রাইভিং লাইসেন্স"
+    },
+     "txt_vehicle_reg": "যানবাহন নিবন্ধন",
+    "@txt_vehicle_reg": {
+        "description": "যানবাহন নিবন্ধন"
+    },
+     "txt_vehicle_owner": "গাড়ির মালিকানা",
+    "@txt_vehicle_owner": {
+        "description": "গাড়ির মালিকানা"
+    },
+     "txt_vehicle_insur": "যানবাহন বীমা",
+    "@txt_vehicle_insur": {
+        "description": "যানবাহন বীমা"
+    },
+      "txt_vehicle_inspec": "যানবাহন পরিদর্শন",
+    "@txt_vehicle_inspec": {
+        "description": "যানবাহন পরিদর্শন"
+    },
+      "txt_vehicle_mani": "যানবাহন প্রকাশ",
+    "@txt_vehicle_mani": {
+        "description": "যানবাহন প্রকাশ"
+    },
+     "txt_vehicle_radio": "যানবাহন রেডিও ট্যাক্স",
+    "@txt_vehicle_radio": {
+        "description": "যানবাহন রেডিও ট্যাক্স"
+    },
+      "txt_maker": "নির্মাতা",
+    "@txt_maker": {
+        "description": "নির্মাতা"
+    },
+      "txt_model": "মডেল",
+    "@txt_model": {
+        "description": "মডেল"
+    },
+      "txt_color": "রঙ",
+    "@txt_color": {
+        "description": "রঙ"
+    },
+       "txt_passenger": "যাত্রী",
+    "@txt_passenger": {
+        "description": "যাত্রী"
+    },
+      "txt_max_10": "(সর্বোচ্চ 10)",
+    "@txt_max_10": {
+        "description": "(সর্বোচ্চ 10)"
+    },
+    "txt_uploaded": "আপলোড",
+    "@txt_uploaded": {
+        "description": "আপলোড"
+    },
+     "val_name_len": "বৈধ নাম লিখুন",
+    "@val_name_len": {
+        "description": "বৈধ নাম লিখুন"
+    },
+    "val_driving_license": "বৈধ ড্রাইভিং লাইসেন্স লিখুন",
+    "@val_driving_license": {
+        "description": "বৈধ ড্রাইভিং লাইসেন্স লিখুন"
+    },
+    "txt_select": "নির্বাচন করুন",
+    "@txt_select": {
+        "description": "নির্বাচন করুন"
+    },
+    "val_IdCard": "বৈধ আইডি কার্ড লিখুন",
+    "@tval_IdCard": {
+        "description": "বৈধ আইডি কার্ড লিখুন"
+    },
+    "val_reg_len": "নিবন্ধকরণ নম্বর 10 টির বেশি আলফানিউমেরিক চরিত্রের বেশি হওয়া উচিত নয়",
+    "@val_reg_len": {
+        "description": "নিবন্ধকরণ নম্বর 10 টির বেশি আলফানিউমেরিক চরিত্রের বেশি হওয়া উচিত নয়"
+    },
+    "val_owner_len": "বৈধ মালিকের নাম লিখুন",
+    "@val_owner_len": {
+        "description": "বৈধ মালিকের নাম লিখুন"
+    },
+    "txt_insurance_len": "বীমা নম্বর 30 টির বেশি আলফানিউমেরিক চরিত্রের বেশি হওয়া উচিত নয়",
+    "@txt_insurance_len": {
+        "description": "বীমা নম্বর 30 টির বেশি আলফানিউমেরিক চরিত্রের বেশি হওয়া উচিত নয়"
+    },
+     "txt_change_lng": "ভাষা পরিবর্তন করুন",
+    "@txt_change_lng": {
+        "description": "ভাষা পরিবর্তন করুন"
+    },
+     "txt_pls_enter_queries": "আপনার প্রশ্ন প্রবেশ করুন",
+    "@txt_pls_enter_queries": {
+        "description": "আপনার প্রশ্ন প্রবেশ করুন"
+    },
+     "txt_query_length": "প্রশ্নের দৈর্ঘ্য অবশ্যই মিনিট 10 অক্ষর হতে হবে",
+    "@txt_query_length": {
+        "description": "প্রশ্নের দৈর্ঘ্য অবশ্যই মিনিট 10 অক্ষর হতে হবে"
+    },
+     "txt_take_live_photo": "একটি লাইভ ছবি নিন",
+    "@txt_take_live_photo": {
+        "description": "একটি লাইভ ছবি নিন"
+    },
+     "txt_loading_camera": "লোডিং ক্যামেরা ...",
+    "@txt_loading_camera": {
+        "description": "লোডিং ক্যামেরা ..."
+    },
+     "txt_retake": "পুনরায় গ্রহণ",
+    "@txt_retake": {
+        "description": "পুনরায় গ্রহণ"
+    },
+     "txt_confirm": "নিশ্চিত করুন",
+    "@txt_confirm": {
+        "description": "নিশ্চিত করুন"
+    },
+     "txt_no_booking_for_schedule": "তফসিল যাত্রার জন্য কোনও বুকিং নেই",
+    "@txt_no_booking_for_schedule": {
+        "description": "তফসিল যাত্রার জন্য কোনও বুকিং নেই"
+    },
+     "txt_schedule_ride": "শিডিউল রাইড",
+    "@txt_schedule_ride": {
+        "description": "শিডিউল রাইড"
+    },
+     "txt_scheduled_rides": "নির্ধারিত রাইডস",
+    "@txt_scheduled_rides": {
+        "description": "নির্ধারিত রাইডস"
+    },
+     "txt_cancel_ride": "যাত্রা বাতিল করুন",
+    "@txt_cancel_ride": {
+        "description": "যাত্রা বাতিল করুন"
+    },
+     "txt_payment_pending": "পেমেন্ট মুলতুবি",
+    "@txt_payment_pending": {
+        "description": "পেমেন্ট মুলতুবি"
+    },
+     "txt_accepted": "গৃহীত",
+    "@txt_accepted": {
+        "description": "গৃহীত"
+    },
+     "txt_ride_pending": "রাইড মুলতুবি",
+    "@txt_ride_pending": {
+        "description": "রাইড মুলতুবি"
+    },
+     "txt_wallet": "ওয়ালেট",
+    "@txt_wallet": {
+        "description": "ওয়ালেট"
+    },
+     "txt_send_request": "অনুরোধ প্রেরণ করুন",
+    "@txt_send_request": {
+        "description": "অনুরোধ প্রেরণ করুন"
+    },
+     "txt_note_remark": "নোট/মন্তব্য",
+    "@txt_note_remark": {
+        "description": "নোট/মন্তব্য"
+    },
+     "txt_withdrawal_amt": "তোলা টাকার পরিমান",
+    "@txt_withdrawal_amt": {
+        "description": "তোলা টাকার পরিমান"
+    },
+     "txt_history": "ইতিহাস",
+    "@txt_history": {
+        "description": "ইতিহাস"
+    },
+     "txt_skip": "এড়িয়ে যান",
+    "@txt_skip": {
+        "description": "এড়িয়ে যান"
+    },
+     "txt_success": "সাফল্য",
+    "@txt_success": {
+        "description": "সাফল্য"
+    },
+     "txt_enter_amt": "পরিমান লিখুন",
+    "@txt_": {
+        "description": "পরিমান লিখুন"
+    },
+     "txt_enter_valid_amt": "বৈধ পরিমাণ লিখুন",
+    "@txt_enter_valid_amt": {
+        "description": "বৈধ পরিমাণ লিখুন"
+    },
+     "txt_owner_name": "মালিকের নাম",
+    "@txt_owner_name": {
+        "description": "মালিকের নাম"
+    },
+     "txt_enter_owner_name": "দয়া করে মালিকের নাম লিখুন",
+    "@txt_enter_owner_name": {
+        "description": "দয়া করে মালিকের নাম লিখুন"
+    },
+     "txt_enter_valid_owner_name": "বৈধ মালিকের নাম লিখুন",
+    "@txt_enter_valid_owner_name": {
+        "description": "বৈধ মালিকের নাম লিখুন"
+    },
+     "txt_enter_valid_maker_name": "বৈধ নির্মাতার নাম লিখুন",
+    "@txt_enter_valid_maker_name": {
+        "description": "বৈধ নির্মাতার নাম লিখুন"
+    },
+     "txt_valid_color_name": "বৈধ রঙের নাম লিখুন",
+    "@txt_valid_color_name": {
+        "description": "বৈধ রঙের নাম লিখুন"
+    },
+     "txt_enter_color_name": "রঙের নাম লিখুন দয়া করে",
+    "@txt_enter_color_name": {
+        "description": "রঙের নাম লিখুন দয়া করে"
+    },
+     "txt_request_mode": "অনুরোধ মোড",
+    "@txt_request_mode": {
+        "description": "অনুরোধ মোড"
+    },
+     "txt_request_pending": "অনুরোধ অনিষ্পন্ন",
+    "@txt_request_pending": {
+        "description": "অনুরোধ অনিষ্পন্ন"
+    },
+     "txt_request_decline": "অনুরোধ হ্রাস",
+    "@txt_request_decline": {
+        "description": "অনুরোধ হ্রাস"
+    },
+     "txt_request_date": "অনুরোধ তারিখ",
+    "@txt_request_date": {
+        "description": "অনুরোধ তারিখ"
+    },
+     "txt_request_status": "অনুরোধ স্থিতি",
+    "@txt_request_status": {
+        "description": "অনুরোধ স্থিতি"
+    },
+     "txt_enter_vaild_name": "বৈধ নাম লিখুন",
+    "@txt_enter_vaild_name": {
+        "description": "বৈধ নাম লিখুন"
+    },
+     "txt_update": "হালনাগাদ",
+    "@txt_update": {
+        "description": "হালনাগাদ"
+    },
+     "txt_enter_details_of_your": "আপনার বিশদ লিখুন",
+    "@txt_enter_details_of_your": {
+        "description": "আপনার বিশদ লিখুন"
+    },
+     "txt_upload_photo_of_your": "আপনার একটি ছবি আপলোড করুন",
+    "@txt_upload_photo_of_your": {
+        "description": "আপনার একটি ছবি আপলোড করুন"
+    },
+     "txt_vehicle": "যানবাহন",
+    "@txt_vehicle": {
+        "description": "যানবাহন"
+    },
+     "txt_select_min_one_img": "সর্বনিম্ন 1 চিত্র নির্বাচন করুন",
+    "@txt_select_min_one_img": {
+        "description": "সর্বনিম্ন 1 চিত্র নির্বাচন করুন"
+    },
+     "txt_details": "বিশদ",
+    "@txt_details": {
+        "description": "বিশদ"
+    },
+     "txt_in_progress": "চলমান",
+    "@txt_in_progress": {
+        "description": "চলমান"
+    },
+     "txt_complete_ride": "সম্পূর্ণ যাত্রা",
+    "@txt_complete_ride": {
+        "description": "সম্পূর্ণ যাত্রা"
+    },
+     "txt_your_ride_completed": "আপনার যাত্রা শেষ হয়েছে",
+    "@txt_your_ride_completed": {
+        "description": "আপনার যাত্রা শেষ হয়েছে"
+    },
+     "txt_ride_completed": "যাত্রা সম্পূর্ণ",
+    "@txt_ride_completed": {
+        "description": "যাত্রা সম্পূর্ণ"
+    },
+     "txt_security_deposit": "নিরাপত্তা আমানত",
+    "@txt_security_deposit": {
+        "description": "নিরাপত্তা আমানত"
+    },
+     "txt_complete_security_deposit_process": "সুরক্ষা আমানত প্রক্রিয়া সম্পূর্ণ করুন",
+    "@txt_complete_security_deposit_process": {
+        "description": "সুরক্ষা আমানত প্রক্রিয়া সম্পূর্ণ করুন"
+    },
+     "txt_checked_pay_later": "আপনি পরে সুরক্ষা আমানত বেতন পরীক্ষা করেছেন",
+    "@txt_checked_pay_later": {
+        "description": "আপনি পরে সুরক্ষা আমানত বেতন পরীক্ষা করেছেন"
+    },
+     "txt_already_done_online_payment": "আপনি ইতিমধ্যে অনলাইন পেমেন্ট করেছেন",
+    "@txt_already_done_online_payment": {
+        "description": "আপনি ইতিমধ্যে অনলাইন পেমেন্ট করেছেন"
+    },
+     "txt_choose_pay_menthod": "পরিশোধের পদ্ধতি নির্বাচন করুন",
+    "@txt_choose_pay_menthod": {
+        "description": "পরিশোধের পদ্ধতি নির্বাচন করুন"
+    },
+     "txt_pay_now": "এখন পরিশোধ করুন",
+    "@txt_pay_now": {
+        "description": "এখন পরিশোধ করুন"
+    },
+     "txt_do_later": "আমি পরে সিকিউরিটি ডিপোজিট করব",
+    "@txt_do_later": {
+        "description": "আমি পরে সিকিউরিটি ডিপোজিট করব"
+    },
+     "txt_gender_pref": "লিঙ্গ পছন্দ",
+    "@txt_gender_pref": {
+        "description": "লিঙ্গ পছন্দ"
+    },
+     "txt_gender_you_want_to_prefer": "(আপনি যে লিঙ্গটি যাত্রা করতে পছন্দ করতে চান তা নির্বাচন করুন)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(আপনি যে লিঙ্গটি যাত্রা করতে পছন্দ করতে চান তা নির্বাচন করুন)"
+    },
+     "txt_male": "পুরুষ",
+    "@txt_male": {
+        "description": "পুরুষ"
+    },
+     "txt_female": "মহিলা",
+    "@txt_female": {
+        "description": "মহিলা"
+    },
+     "txt_other": "অন্য",
+    "@txt_other": {
+        "description": "অন্য"
+    },
+     "txt_no_pref": "কোন পছন্দ",
+    "@txt_no_pref": {
+        "description": "কোন পছন্দ"
+    },
+     "txt_update_details_of_user": "আপনার বিশদ আপডেট",
+    "@txt_update_details_of_user": {
+        "description": "আপনার বিশদ আপডেট"
+    },
+     "txt_criminal_record_certificate": "ফৌজদারি রেকর্ড শংসাপত্র",
+    "@txt_criminal_record_certificate": {
+        "description": "ফৌজদারি রেকর্ড শংসাপত্র"
+    },
+     "txt_criminal_record": "অপরাধমূলক রেকর্ড",
+    "@txt_criminal_record": {
+        "description": "অপরাধমূলক রেকর্ড"
+    },
+     "txt_update_your": "আপনার আপডেট করুন",
+    "@txt_update_your": {
+        "description": "আপনার আপডেট করুন"
+    },
+     "txt_document": "নথি",
+    "@txt_document": {
+        "description": "নথি"
+    },
+      "txt_select_your_gender": "আপনার লিঙ্গ নির্বাচন",
+    "@txt_select_your_gender": {
+        "description": "আপনার লিঙ্গ নির্বাচন"
+    },
+      "txt_gender": "লিঙ্গ",
+    "@txt_gender": {
+        "description": "লিঙ্গ"
+    },
+      "txt_ride_type": "রাইড টাইপ",
+    "@txt_ride_type": {
+        "description": "রাইড টাইপ"
+    },
+      "txt_rejected": "প্রত্যাখ্যাত",
+    "@txt_rejected": {
+        "description": "প্রত্যাখ্যাত"
+    },
+      "txt_km": "কিমি",
+    "@txt_km": {
+        "description": "কিমি"
+    },
+      "txt_select_reason": "কারণ নির্বাচন করুন",
+    "@txt_select_reason": {
+        "description": "কারণ নির্বাচন করুন"
+    },
+      "txt_select_gender_pref": "লিঙ্গ পছন্দ নির্বাচন করুন",
+    "@txt_select_gender_pref": {
+        "description": "লিঙ্গ পছন্দ নির্বাচন করুন"
+    },
+      "txt_update_documents": "ডকুমেন্ট আপডেট করুন",
+    "@txt_update_documents": {
+        "description": "ডকুমেন্ট আপডেট করুন"
+    },
+      "txt_are_you_sure_to_logout": "আপনি লগ আউট করতে চান?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "আপনি লগ আউট করতে চান?"
+    },
+      "txt_my_rides": "আমার রাইডস",
+    "@txt_my_rides": {
+        "description": "আমার রাইডস"
+    },
+      "txt_rating": "রেটিং",
+    "@txt_rating": {
+        "description": "রেটিং"
+    },
+      "txt_daily_ride": "দৈনিক যাত্রা",
+    "@txt_daily_ride": {
+        "description": "দৈনিক যাত্রা"
+    },
+     "txt_rental_ride": "ভাড়া রাইড",
+    "@txt_rental_ride": {
+        "description": "ভাড়া রাইড"
+    },
+     "txt_enter_your_reason": "আপনার কারণ লিখুন দয়া করে",
+    "@txt_enter_your_reason": {
+        "description": "আপনার কারণ লিখুন দয়া করে"
+    },
+     "txt_select_ride_type": "রাইড টাইপ নির্বাচন করুন",
+    "@txt_select_ride_type": {
+        "description": "রাইড টাইপ নির্বাচন করুন"
+    },
+     "txt_profile_under_review": "আপনার প্রোফাইল পর্যালোচনাধীন রয়েছে, অ্যাডমিন এটি সক্রিয় না করা পর্যন্ত আপনি যাত্রা নিতে পারবেন না।",
+    "@txt_profile_under_review": {
+        "description": "আপনার প্রোফাইল পর্যালোচনাধীন রয়েছে, অ্যাডমিন এটি সক্রিয় না করা পর্যন্ত আপনি যাত্রা নিতে পারবেন না।"
+    },
+     "txt_your_account_deactivateed": "আপনার অ্যাকাউন্ট অ্যাডমিন দ্বারা নিষ্ক্রিয় করা হয়েছে, দয়া করে তাদের সাথে যোগাযোগ করুন।",
+    "@txt_your_account_deactivateed": {
+        "description": "আপনার অ্যাকাউন্ট অ্যাডমিন দ্বারা নিষ্ক্রিয় করা হয়েছে, দয়া করে তাদের সাথে যোগাযোগ করুন।"
+    },
+     "txt_accept_terms_privacy": "সাইন আপ করে আপনি পরিষেবা এবং গোপনীয়তা নীতিমালা গ্রহণ করুন",
+    "@txt_accept_terms_privacy": {
+        "description": "সাইন আপ করে আপনি পরিষেবা এবং গোপনীয়তা নীতিমালা গ্রহণ করুন"
+    },
+     "txt_please_accept_terms_privacy": "পরিষেবাগুলি এবং গোপনীয়তা নীতিমালা গ্রহণ করুন",
+    "@txt_please_accept_terms_privacy": {
+        "description": "পরিষেবাগুলি এবং গোপনীয়তা নীতিমালা গ্রহণ করুন"
+    },
+     "txt_thanks_for_registering": "আমাদের সাথে নিবন্ধনের জন্য ধন্যবাদ",
+    "@txt_thanks_for_registering": {
+        "description": "আমাদের সাথে নিবন্ধনের জন্য ধন্যবাদ"
+    },
+     "txt_application_under_review_check_status": "আপনার অ্যাপ্লিকেশনটি পর্যালোচনাধীন রয়েছে, আপনি হোমপেজের শীর্ষ লাল বারে স্থিতি পরীক্ষা করতে পারেন।",
+    "@txt_application_under_review_check_status": {
+        "description": "আপনার অ্যাপ্লিকেশনটি পর্যালোচনাধীন রয়েছে, আপনি হোমপেজের শীর্ষ লাল বারে স্থিতি পরীক্ষা করতে পারেন।"
+    },
+     "txt_update_details": "আপডেট বিশদ",
+    "@txt_update_details": {
+        "description": "আপডেট বিশদ"
+    },
+     "txt_ride_details": "রাইড বিশদ",
+    "@txt_ride_details": {
+        "description": "রাইড বিশদ"
+    },
+     "txt_mpesa": "দ্রাক্ষালতা",
+    "@txt_mpesa": {
+        "description": "দ্রাক্ষালতা"
+    },
+     "txt_image": "চিত্র",
+    "@txt_image": {
+        "description": "চিত্র"
+    },
+     "txt_check_internet_try_again": "আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন",
+    "@txt_check_internet_try_again": {
+        "description": "আপনার ইন্টারনেট সংযোগ পরীক্ষা করুন এবং আবার চেষ্টা করুন"
+    },
+     "txt_oops_no_internet": "উফ, কোনও ইন্টারনেট সংযোগ নেই",
+    "@txt_oops_no_internet": {
+        "description": "উফ, কোনও ইন্টারনেট সংযোগ নেই"
+    },
+     "txt_package_complete_renew": "আপনার প্যাকেজটি সম্পূর্ণ হয়ে গেছে হয় যাত্রা সম্পূর্ণ করুন, বা ব্যবহারকারী প্যাকেজ পুনর্নবীকরণের জন্য অপেক্ষা করুন",
+    "@txt_package_complete_renew": {
+        "description": "আপনার প্যাকেজটি সম্পূর্ণ হয়ে গেছে হয় যাত্রা সম্পূর্ণ করুন, বা ব্যবহারকারী প্যাকেজ পুনর্নবীকরণের জন্য অপেক্ষা করুন"
+    },
+     "txt_wait_for_response": "প্রতিক্রিয়ার জন্য অপেক্ষা",
+    "@txt_wait_for_response": {
+        "description": "প্রতিক্রিয়ার জন্য অপেক্ষা"
+    },
+     "txt_ride_complete_in": "সম্পূর্ণ রাইড",
+    "@txt_ride_complete_in": {
+        "description": "সম্পূর্ণ রাইড"
+    },
+     "txt_something_went_wrong": "কিছু ভুল হয়েছে",
+    "@txt_something_went_wrong": {
+        "description": "কিছু ভুল হয়েছে"
+    },
+     "txt_refresh_page_try_later": "পৃষ্ঠাটি সতেজ করার চেষ্টা করুন, বা পরে আবার চেষ্টা করুন।",
+    "@txt_refresh_page_try_later": {
+        "description": "পৃষ্ঠাটি সতেজ করার চেষ্টা করুন, বা পরে আবার চেষ্টা করুন।"
+    },
+     "txt_permission_required": "অনুমতি প্রয়োজন",
+    "@txt_permission_required": {
+        "description": "অনুমতি প্রয়োজন"
+    },
+     "txt_enable_permission": "অনুমতি সক্ষম করুন",
+    "@txt_enable_permission": {
+        "description": "অনুমতি সক্ষম করুন"
+    },
+     "txt_pick_your_country": "আপনার দেশ বাছাই করুন",
+    "@txt_pick_your_country": {
+        "description": "আপনার দেশ বাছাই করুন"
+    },
+     "txt_cant_update_ride_type": "আপনি চলমান যাত্রায় আপনার রাইডের ধরণটি আপডেট করতে পারবেন না।",
+    "@txt_cant_update_ride_type": {
+        "description": "আপনি চলমান যাত্রায় আপনার রাইডের ধরণটি আপডেট করতে পারবেন না।"
+    },
+     "txt_check_connect_timeout": "আপনার সংযোগ সময় পরীক্ষা করে দেখুন !!",
+    "@txt_check_connect_timeout": {
+        "description": "আপনার সংযোগ সময় পরীক্ষা করে দেখুন !!"
+    },
+     "txt_timeout_exception": "সময়সীমা ব্যতিক্রম।",
+    "@txt_timeout_exception": {
+        "description": "সময়সীমা ব্যতিক্রম।"
+    },
+     "txt_request_cancel_from_user": "অনুরোধ ব্যবহারকারীর কাছ থেকে বাতিল।",
+    "@txt_request_cancel_from_user": {
+        "description": "অনুরোধ ব্যবহারকারীর কাছ থেকে বাতিল।"
+    },
+     "txt_getting_wrong_response": "আমরা ভুল প্রতিক্রিয়া পাচ্ছি।",
+    "@txt_getting_wrong_response": {
+        "description": "আমরা ভুল প্রতিক্রিয়া পাচ্ছি।"
+    },
+     "txt_connection_error": "সংযোগ ত্রুটি.",
+    "@txt_connection_error": {
+        "description": "সংযোগ ত্রুটি."
+    },
+     "txt_server_not_connected_contact_admin": "সার্ভার সংযুক্ত নয়, দয়া করে প্রশাসকের সাথে যোগাযোগ করুন।",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "সার্ভার সংযুক্ত নয়, দয়া করে প্রশাসকের সাথে যোগাযোগ করুন।"
+    },
+     "txt_socket_not_connect": "সকেট সংযুক্ত নয় ...",
+    "@txt_socket_not_connect": {
+        "description": "সকেট সংযুক্ত নয় ..."
+    },
+     "txt_user_renewed_package": "ব্যবহারকারী প্যাকেজটি পুনর্নবীকরণ করলেন!",
+    "@txt_user_renewed_package": {
+        "description": "ব্যবহারকারী প্যাকেজটি পুনর্নবীকরণ করলেন!"
+    },
+     "txt_bear_per_km": "ব্যবহারকারী ভালুক প্রতি কিলোমিটার চার্জ!",
+    "@txt_bear_per_km": {
+        "description": "ব্যবহারকারী ভালুক প্রতি কিলোমিটার চার্জ!"
+    },
+     "txt_wait_for_user": "ব্যবহারকারীর জন্য অপেক্ষা করুন",
+    "@txt_wait_for_user": {
+        "description": "ব্যবহারকারীর জন্য অপেক্ষা করুন"
+    },
+     "txt_bysigning_you_accept": "সাইন আপ করে আপনি গ্রহণ করুন",
+    "@txt_bysigning_you_accept": {
+        "description": "সাইন আপ করে আপনি গ্রহণ করুন"
+    },
+     "txt_terms_service": "পরিষেবার শর্তাদি",
+    "@txt_terms_service": {
+        "description": "পরিষেবার শর্তাদি"
+    },
+     "txt_and": "এবং",
+    "@txt_and": {
+        "description": "এবং"
+    },
+     "txt_privacy_policy": "গোপনীয়তা নীতি",
+    "@txt_privacy_policy": {
+        "description": "গোপনীয়তা নীতি"
+    },
+     "txt_cash_received": "নগদ গ্রহন",
+    "@txt_cash_received": {
+        "description": "নগদ গ্রহন"
+    },
+     "txt_click_to_take_photo": "ছবি তুলতে ক্লিক করুন",
+    "@txt_click_to_take_photo": {
+        "description": "ছবি তুলতে ক্লিক করুন"
+    },
+     "txt_camera_setting_permission": "ক্যামেরার অনুমতি সক্ষম হয় না, দয়া করে অনুমতি সক্ষম করুন",
+    "@txt_camera_setting_permission": {
+        "description": "ক্যামেরার অনুমতি সক্ষম হয় না, দয়া করে অনুমতি সক্ষম করুন"
+    },
+     "txt_gallery_setting_permission": "গ্যালারী অনুমতি সক্ষম হয় না, দয়া করে অনুমতি সক্ষম করুন",
+    "@txt_gallery_setting_permission": {
+        "description": "গ্যালারী অনুমতি সক্ষম হয় না, দয়া করে অনুমতি সক্ষম করুন"
+    },
+     "txt_unauthorized_login": "অননুমোদিত লগইন",
+    "@txt_unauthorized_login": {
+        "description": "অননুমোদিত লগইন"
+    },
+     "txt_login_detect": "নতুন লগইন অন্য ডিভাইসে সনাক্ত করা হয়েছে, দয়া করে এই ডিভাইসে ব্যবহার করতে আবার লগইন করুন",
+    "@txt_login_detect": {
+        "description": "নতুন লগইন অন্য ডিভাইসে সনাক্ত করা হয়েছে, দয়া করে এই ডিভাইসে ব্যবহার করতে আবার লগইন করুন"
+    },
+     "txt_location_setting_permission": "অবস্থানের অনুমতি সক্ষম হয় না, দয়া করে অনুমতি সক্ষম করুন",
+    "@txt_location_setting_permission": {
+        "description": "অবস্থানের অনুমতি সক্ষম হয় না, দয়া করে অনুমতি সক্ষম করুন"
+    },
+     "txt_delete_account": "হিসাব মুছে ফেলা",
+    "@txt_delete_account": {
+        "description": "হিসাব মুছে ফেলা"
+    },
+     "txt_sure_to_delete": "আপনি আপনার অ্যাকাউন্ট মুছে ফেলতে চান আপনি কি নিশ্চিত?",
+    "@txt_sure_to_delete": {
+        "description": "আপনি আপনার অ্যাকাউন্ট মুছে ফেলতে চান আপনি কি নিশ্চিত?"
+    },
+     "txt_open_with": "সঙ্গে খোলা",
+    "@txt_open_with": {
+        "description": "সঙ্গে খোলা"
+    },
+     "txt_new_request_from": "নতুন অনুরোধ",
+    "@txt_new_request_from": {
+        "description": "নতুন অনুরোধ"
+    },
+     "txt_vehicle_assign": "অ্যাডমিন দ্বারা যানবাহন বরাদ্দ করা হয়",
+    "@txt_vehicle_assign": {
+        "description": "অ্যাডমিন দ্বারা যানবাহন বরাদ্দ করা হয়"
+    },
+    "txt_admin_delete": "অ্যাডমিন আপনার অ্যাকাউন্ট মুছে দিয়েছে, আপনি আর অ্যাপটি ব্যবহার করতে পারবেন না। অ্যাডমিনের সাথে যোগাযোগ করুন.",
+    "@txt_admin_delete": {
+        "description": "অ্যাডমিন আপনার অ্যাকাউন্ট মুছে দিয়েছে, আপনি আর অ্যাপটি ব্যবহার করতে পারবেন না। অ্যাডমিনের সাথে যোগাযোগ করুন."
+    }
+ }

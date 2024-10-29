@@ -1,0 +1,1606 @@
+{
+    "txt_login": "Accedere",
+    "@txt_login": {
+        "description": "Accedere"
+    },
+    "txt_mobile_number": "Numero di cellulare",
+    "@txt_mobile_number": {
+        "description": "Numero di cellulare"
+    },
+    "txt_submit": "Invia",
+    "@txt_submit": {
+        "description": "Invia"
+    },
+    "txt_continue_with": "O continuare con",
+    "@txt_continue_with": {
+        "description": "O continuare con"
+    },
+    "txt_select_lng": "Seleziona la lingua",
+    "@txt_select_lng": {
+        "description": "Seleziona la lingua"
+    },
+    "txt_select_country": "Seleziona il paese",
+    "@txt_select_country": {
+        "description": "Seleziona il paese"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "Ricerca",
+    "@txt_search": {
+        "description": "Ricerca"
+    },
+    "txt_last_pick": "ULTIMA SCELTA",
+    "@txt_last_pick": {
+        "description": "ULTIMA SCELTA"
+    },
+    "txt_successfully": "con successo",
+    "@txt_successfully": {
+        "description": "con successo"
+    },
+    "txt_your_otp": "Il tuo OTP è",
+    "@txt_your_otp": {
+        "description": "Il tuo OTP è"
+    },
+    "txt_otp_sent_successfully": "OTP ha inviato con successo",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP ha inviato con successo"
+    },
+    "txt_verification": "Verifica",
+    "@txt_verification": {
+        "description": "Verifica"
+    },
+    "txt_enter_code_we_sent": "Inserisci il codice di verifica che ti abbiamo appena inviato sul tuo numero di cellulare",
+    "@txt_enter_code_we_sent": {
+        "description": "Inserisci il codice di verifica che ti abbiamo appena inviato sul tuo numero di cellulare"
+    },
+    "txt_resend_otp": "rispedisci otp",
+    "@txt_resend_otp": {
+        "description": "rispedisci otp"
+    },
+    "txt_verify": "Verificare",
+    "@txt_verify": {
+        "description": "Verificare"
+    },
+    "txt_error": "Errore",
+    "@txt_error": {
+        "description": "Errore"
+    },
+    "txt_ok": "Ok",
+    "@txt_ok": {
+        "description": "Ok"
+    },
+    "txt_upload_details": "Carica i dettagli",
+    "@txt_upload_details": {
+        "description": "Carica i dettagli"
+    },
+    "txt_vehicle_picture": "Immagini del veicolo",
+    "@txt_vehicle_picture": {
+        "description": "Immagini del veicolo"
+    },
+    "txt_vehicle_number": "Numero del veicolo",
+    "@txt_vehicle_number": {
+        "description": "Numero del veicolo"
+    },
+    "txt_upload_image": "Carica immagine",
+    "@txt_upload_image": {
+        "description": "Carica immagine"
+    },
+    "txt_front": "Davanti",
+    "@txt_front": {
+        "description": "Davanti"
+    },
+    "txt_back": "Di ritorno",
+    "@txt_back": {
+        "description": "Di ritorno"
+    },
+    "txt_driver_id_card": "Scheda di identificazione del driver",
+    "@txt_driver_id_card": {
+        "description": "Scheda di identificazione del driver"
+    },
+    "txt_id_number": "Numero ID",
+    "@txt_id_number": {
+        "description": "Numero ID"
+    },
+    "txt_valid_from": "Valido dal",
+    "@txt_valid_from": {
+        "description": "Valido dal"
+    },
+    "txt_valid_until": "Valido fino a",
+    "@txt_valid_until": {
+        "description": "Valido fino a"
+    },
+    "txt_driver_driving_license": "Patente di guida conducente",
+    "@txt_driver_driving_license": {
+        "description": "Patente di guida conducente"
+    },
+    "txt_license_number": "Numero di licenza",
+    "@txt_license_number": {
+        "description": "Numero di licenza"
+    },
+    "txt_vehicle_registration": "Registrazione del veicolo",
+    "@txt_vehicle_registration": {
+        "description": "Registrazione del veicolo"
+    },
+    "txt_registration_number": "Numero di registrazione",
+    "@txt_registration_number": {
+        "description": "Numero di registrazione"
+    },
+    "txt_next": "Prossimo",
+    "@txt_next": {
+        "description": "Prossimo"
+    },
+    "txt_vehicle_ownership": "Proprietà del veicolo",
+    "@txt_vehicle_ownership": {
+        "description": "Proprietà del veicolo"
+    },
+    "txt_ownership_number": "Numero di proprietà",
+    "@txt_ownership_number": {
+        "description": "Numero di proprietà"
+    },
+    "txt_vehicle_insurance": "Assicurazione del veicolo",
+    "@txt_vehicle_insurance": {
+        "description": "Assicurazione del veicolo"
+    },
+    "txt_vehicle_inspection": "Ispezione del veicolo",
+    "@txt_vehicle_inspection": {
+        "description": "Ispezione del veicolo"
+    },
+    "txt_insurance_number": "Numero di polizza",
+    "@txt_insurance_number": {
+        "description": "Numero di polizza"
+    },
+    "txt_inspection_number": "Numero di ispezione",
+    "@txt_inspection_number": {
+        "description": "Numero di ispezione"
+    },
+    "txt_vehicle_manifest": "Manifesto del veicolo",
+    "@txt_vehicle_manifest": {
+        "description": "Manifesto del veicolo"
+    },
+    "txt_manifest_number": "Numero manifesto",
+    "@txt_manifest_number": {
+        "description": "Numero manifesto"
+    },
+    "txt_vehicle_radio_tax": "Tassa radio del veicolo",
+    "@txt_vehicle_radio_tax": {
+        "description": "Tassa radio del veicolo"
+    },
+    "txt_radio_tax_number": "Numero fiscale radio",
+    "@txt_radio_tax_number": {
+        "description": "Numero fiscale radio"
+    },
+    "txt_done": "Fatto",
+    "@txt_done": {
+        "description": "Fatto"
+    },
+    "txt_almost_done": "Quasi fatto! Inserisci il numero di cellulare per continuare",
+    "@txt_almost_done": {
+        "description": "Quasi fatto! Inserisci il numero di cellulare per continuare"
+    },
+    "txt_menu": "MENÙ",
+    "@txt_menu": {
+        "description": "MENÙ"
+    },
+    "txt_driver_profile": "Profilo del driver",
+    "@txt_driver_profile": {
+        "description": "Profilo del driver"
+    },
+    "txt_upload_doc_info": "Documento caricato e informazioni sull'auto.",
+    "@txt_upload_doc_info": {
+        "description": "Documento caricato e informazioni sull'auto."
+    },
+    "txt_add_new_doc": "Aggiungi nuovo documento",
+    "@txt_add_new_doc": {
+        "description": "Aggiungi nuovo documento"
+    },
+    "txt_bank_info": "Informazioni bancarie",
+    "@txt_bank_info": {
+        "description": "Informazioni bancarie"
+    },
+    "txt_transaction": "Transazione",
+    "@txt_transaction": {
+        "description": "Transazione"
+    },
+    "txt_my_trip": "I miei viaggi",
+    "@txt_my_trip": {
+        "description": "I miei viaggi"
+    },
+    "txt_support": "Supporto",
+    "@txt_support": {
+        "description": "Supporto"
+    },
+    "txt_about_us": "Chi siamo",
+    "@txt_about_us": {
+        "description": "Chi siamo"
+    },
+    "txt_terms_condition": "Termini e condizioni",
+    "@txt_terms_condition": {
+        "description": "Termini e condizioni"
+    },
+    "txt_logout": "Disconnettersi",
+    "@txt_logout": {
+        "description": "Disconnettersi"
+    },
+    "txt_edit_profile": "MODIFICA PROFILO",
+    "@txt_edit_profile": {
+        "description": "MODIFICA PROFILO"
+    },
+    "txt_name": "Nome",
+    "@txt_name": {
+        "description": "Nome"
+    },
+    "txt_email": "E-mail",
+    "@txt_email": {
+        "description": "E-mail"
+    },
+    "txt_camera": "Telecamera",
+    "@txt_camera": {
+        "description": "Telecamera"
+    },
+    "txt_gallery": "Galleria",
+    "@txt_gallery": {
+        "description": "Galleria"
+    },
+    "txt_uploaded_documents_info": "Informazioni sui documenti caricati",
+    "@txt_uploaded_documents_info": {
+        "description": "Informazioni sui documenti caricati"
+    },
+    "txt_pending": "In attesa di",
+    "@txt_pending": {
+        "description": "In attesa di"
+    },
+    "txt_approved": "Approvato",
+    "@txt_approved": {
+        "description": "Approvato"
+    },
+    "txt_upload_detail": "Carica i dettagli",
+    "@txt_upload_detail": {
+        "description": "Carica i dettagli"
+    },
+    "txt_welcome": "Benvenuto",
+    "@txt_welcome": {
+        "description": "Benvenuto"
+    },
+    "txt_welcome_and_setup": "Ecco cosa devi fare per impostare il tuo account",
+    "@txt_welcome_and_setup": {
+        "description": "Ecco cosa devi fare per impostare il tuo account"
+    },
+    "txt_take_photo": "Scatta una foto del tuo",
+    "@txt_take_photo": {
+        "description": "Scatta una foto del tuo"
+    },
+    "val_upload_doc": "Carica documenti",
+    "@val_upload_doc": {
+        "description": "Carica documenti"
+    },
+    "txt_update_document": "Documento di aggiornamento",
+    "@txt_update_document": {
+        "description": "Documento di aggiornamento"
+    },
+    "txt_holder_name": "Nome detentore della banca",
+    "@txt_holder_name": {
+        "description": "Nome detentore della banca"
+    },
+    "txt_account_number": "Numero di conto",
+    "@txt_account_number": {
+        "description": "Numero di conto"
+    },
+    "txt_ifsc_code": "Codice IFSC",
+    "@txt_ifsc_code": {
+        "description": "Codice IFSC"
+    },
+    "txt_bank_name": "Nome della banca",
+    "@txt_bank_name": {
+        "description": "Nome della banca"
+    },
+    "txt_transaction_upr": "Transazioni",
+    "@txt_transaction_upr": {
+        "description": "Transazioni"
+    },
+    "txt_total_amt": "Importo totale",
+    "@txt_total_amt": {
+        "description": "Importo totale"
+    },
+    "txt_cash": "Contanti",
+    "@txt_cash": {
+        "description": "Contanti"
+    },
+    "txt_online": "in linea",
+    "@txt_online": {
+        "description": "in linea"
+    },
+    "txt_payment_history": "STORICO DEI PAGAMENTI",
+    "@txt_payment_history": {
+        "description": "STORICO DEI PAGAMENTI"
+    },
+    "txt_no_data_found": "Nessun dato trovato",
+    "@txt_no_data_found": {
+        "description": "Nessun dato trovato"
+    },
+    "txt_support_upr": "SOSTEGNO",
+    "@txt_support_upr": {
+        "description": "SOSTEGNO"
+    },
+    "txt_concern_queries": "Preoccupazioni e domande",
+    "@txt_concern_queries": {
+        "description": "Preoccupazioni e domande"
+    },
+    "txt_upload_pic_doc": "Carica la tua foto o il tuo documento",
+    "@txt_upload_pic_doc": {
+        "description": "Carica la tua foto o il tuo documento"
+    },
+    "txt_logout": "Disconnettersi",
+    "@txt_logout": {
+        "description": "Disconnettersi"
+    },
+    "txt_want_to_logout": "Vuoi disconnetterti",
+    "@txt_want_to_logout": {
+        "description": "Vuoi disconnetterti"
+    },
+    "txt_no": "No",
+    "@txt_no": {
+        "description": "No"
+    },
+    "txt_yes": "sì",
+    "@txt_yes": {
+        "description": "sì"
+    },
+    "txt_notification": "Notifiche",
+    "@txt_notification": {
+        "description": "Notifiche"
+    },
+    "txt_offline": "Sei offline",
+    "@txt_offline": {
+        "description": "Sei offline"
+    },
+    "txt_successfully_logged_in": "Hai effettuato l'accesso con successo.",
+    "@txt_successfully_logged_in": {
+        "description": "Hai effettuato l'accesso con successo."
+    },
+    "txt_distance": "distanza",
+    "@txt_distance": {
+        "description": "distanza"
+    },
+    "txt_estimate_time": "Tempo stimato",
+    "@txt_estimate_time": {
+        "description": "Tempo stimato"
+    },
+    "txt_from_upr": "A PARTIRE DAL",
+    "@txt_from_upr": {
+        "description": "A PARTIRE DAL"
+    },
+    "txt_to_upr": "A",
+    "@txt_to_upr": {
+        "description": "A"
+    },
+    "txt_call": "Chiamata",
+    "@txt_call": {
+        "description": "Chiamata"
+    },
+    "txt_chat": "Chiacchierata",
+    "@txt_chat": {
+        "description": "Chiacchierata"
+    },
+    "txt_price": "Prezzo",
+    "@txt_price": {
+        "description": "Prezzo"
+    },
+    "txt_decline": "Declino",
+    "@txt_decline": {
+        "description": "Declino"
+    },
+    "txt_accept": "Accettare",
+    "@txt_accept": {
+        "description": "Accettare"
+    },
+    "txt_customer_pickup": "Pickup del cliente?",
+    "@txt_customer_pickup": {
+        "description": "Pickup del cliente?"
+    },
+    "txt_navigate": "Navigare",
+    "@txt_navigate": {
+        "description": "Navigare"
+    },
+    "txt_enter_otp": "Immettere OTP",
+    "@txt_enter_otp": {
+        "description": "Immettere OTP"
+    },
+    "txt_start_ride": "Inizia a cavalcare",
+    "@txt_start_ride": {
+        "description": "Inizia a cavalcare"
+    },
+    "txt_ride_complete": "Cavalca completa",
+    "@txt_ride_complete": {
+        "description": "Cavalca completa"
+    },
+    "txt_wait_for_payment": "Aspetta il pagamento",
+    "@txt_wait_for_payment": {
+        "description": "Aspetta il pagamento"
+    },
+    "txt_ride_complete_upr": "Cavalca completa",
+    "@txt_ride_complete_upr": {
+        "description": "Cavalca completa"
+    },
+    "txt_your_ride_complete_upr": "La tua corsa completa",
+    "@txt_your_ride_complete_upr": {
+        "description": "La tua corsa completa"
+    },
+    "txt_payment_by": "Pagamento da",
+    "@txt_payment_by": {
+        "description": "Pagamento da"
+    },
+    "txt_type_of_service": "Tipo di servizio",
+    "@txt_type_of_service": {
+        "description": "Tipo di servizio"
+    },
+    "txt_total_km": "Totale km",
+    "@txt_total_km": {
+        "description": "Totale km"
+    },
+    "txt_duration": "Durata",
+    "@txt_duration": {
+        "description": "Durata"
+    },
+    "txt_reason_cancellation": "Motivo della cancellazione",
+    "@txt_reason_cancellation": {
+        "description": "Motivo della cancellazione"
+    },
+    "txt_driver_denied": "L'autista ha negato di ritirare",
+    "@txt_driver_denied": {
+        "description": "L'autista ha negato di ritirare"
+    },
+    "txt_expected_time": "Si aspettava un tempo di attesa più breve",
+    "@txt_expected_time": {
+        "description": "Si aspettava un tempo di attesa più breve"
+    },
+    "txt_unable_to_contact_user": "Impossibile contattare l'utente",
+    "@txt_unable_to_contact_user": {
+        "description": "Impossibile contattare l'utente"
+    },
+    "txt_reason_not_listed": "Il mio motivo non è elencato qui",
+    "@txt_reason_not_listed": {
+        "description": "Il mio motivo non è elencato qui"
+    },
+    "txt_cancel": "Annulla",
+    "@txt_cancel": {
+        "description": "Annulla"
+    },
+    "txt_check_internet": "Per favore controlla la tua connessione Internet",
+    "@txt_check_internet": {
+        "description": "Per favore controlla la tua connessione Internet"
+    },
+    "txt_english": "inglese",
+    "@txt_english": {
+        "description": "inglese"
+    },
+    "txt_portuguese": "portoghese",
+    "@txt_portuguese": {
+        "description": "portoghese"
+    },
+    "txt_arabic": "Arabo",
+    "@txt_arabic": {
+        "description": "Arabo"
+    },
+    "txt_urdu": "Urdu",
+    "@txt_urdu": {
+        "description": "Urdu"
+    },
+    "txt_hindi": "Hindi",
+    "@txt_hindi": {
+        "description": "Hindi"
+    },
+    "txt_spanish": "spagnolo",
+    "@txt_spanish": {
+        "description": "spagnolo"
+    },
+    "txt_mandarim": "Mandarino",
+    "@txt_mandarim": {
+        "description": "Mandarino"
+    },
+    "txt_french": "francese",
+    "@txt_french": {
+        "description": "francese"
+    },
+    "txt_afrikaans": "africano",
+    "@txt_afrikaans": {
+        "description": "africano"
+    },
+    "txt_bengali": "bengalese",
+    "@txt_bengali": {
+        "description": "bengalese"
+    },
+    "txt_russian": "russo",
+    "@txt_russian": {
+        "description": "russo"
+    },
+    "txt_japanese": "giapponese",
+    "@txt_japanese": {
+        "description": "giapponese"
+    },
+    "txt_turkish": "Turco",
+    "@txt_turkish": {
+        "description": "Turco"
+    },
+    "txt_swahili": "Swahili",
+    "@txt_swahili": {
+        "description": "Swahili"
+    },
+    "txt_italian": "Italiano",
+    "@txt_italian": {
+        "description": "Italiano"
+    },
+    "txt_edit": "Modificare",
+    "@txt_edit": {
+        "description": "Modificare"
+    },
+    "txt_delete": "Elimina",
+    "@txt_delete": {
+        "description": "Elimina"
+    },
+    "val_accept_term_condition": "Si prega di accettare termini e condizioni",
+    "@val_accept_term_condition": {
+        "description": "Si prega di accettare termini e condizioni"
+    },
+    "val_first_name": "Inserisci il nome",
+    "@val_first_name": {
+        "description": "Inserisci il nome"
+    },
+    "val_fullname_short": "Nome completo troppo corto",
+    "@val_fullname_short": {
+        "description": "Nome completo troppo corto"
+    },
+    "val_enter_userid_email": "Inserisci l'ID utente o l'email",
+    "@val_enter_userid_email": {
+        "description": "Inserisci l'ID utente o l'email"
+    },
+    "val_userid_email_short": "ID utente o e -mail troppo corto",
+    "@val_userid_email_short": {
+        "description": "ID utente o e -mail troppo corto"
+    },
+    "val_enter_last_name": "Inserisci il cognome",
+    "@val_enter_last_name": {
+        "description": "Inserisci il cognome"
+    },
+    "val_enter_userid": "Immettere l'ID utente",
+    "@val_enter_userid": {
+        "description": "Immettere l'ID utente"
+    },
+    "val_atleast_3char": "Inserisci il personaggio di Atleast 3",
+    "@val_atleast_3char": {
+        "description": "Inserisci il personaggio di Atleast 3"
+    },
+    "val_first_name_short": "Nome troppo corto",
+    "@val_first_name_short": {
+        "description": "Nome troppo corto"
+    },
+    "val_last_name_short": "Cognome troppo corto",
+    "@val_last_name_short": {
+        "description": "Cognome troppo corto"
+    },
+    "val_enter_email": "Inserisci e -mail",
+    "@val_enter_email": {
+        "description": "Inserisci e -mail"
+    },
+    "val_valid_enter": "perfavore Inserisci un'email valida",
+    "@val_valid_enter": {
+        "description": "perfavore Inserisci un'email valida"
+    },
+    "val_enter_password": "Per favore, inserisci la password",
+    "@val_enter_password": {
+        "description": "Per favore, inserisci la password"
+    },
+    "val_enter_old_pass": "Inserisci la vecchia password",
+    "@val_enter_old_pass": {
+        "description": "Inserisci la vecchia password"
+    },
+    "val_enter_new_pass": "Inserisci una nuova password",
+    "@val_enter_new_pass": {
+        "description": "Inserisci una nuova password"
+    },
+    "val_pass_short": "La password è troppo corta",
+    "@val_pass_short": {
+        "description": "La password è troppo corta"
+    },
+    "val_pass_not_match": "Le password non corrispondono",
+    "@val_pass_not_match": {
+        "description": "Le password non corrispondono"
+    },
+    "val_enter_name": "Inserisci il nome",
+    "@val_enter_name": {
+        "description": "Inserisci il nome"
+    },
+    "val_enter_query": "Inserisci query",
+    "@val_enter_query": {
+        "description": "Inserisci query"
+    },
+    "val_enter_confirm_pass": "Inserisci Conferma la password",
+    "@val_enter_confirm_pass": {
+        "description": "Inserisci Conferma la password"
+    },
+    "val_enter_address": "Inserisci l'indirizzo",
+    "@val_enter_address": {
+        "description": "Inserisci l'indirizzo"
+    },
+    "val_enter_mobile": "Inserisci il numero di cellulare",
+    "@val_enter_mobile": {
+        "description": "Inserisci il numero di cellulare"
+    },
+    "val_valid_number": "Immettere il numero di cellulare valido",
+    "@val_valid_number": {
+        "description": "Immettere il numero di cellulare valido"
+    },
+    "val_otp": "Inserisci OTP",
+    "@val_otp": {
+        "description": "Inserisci OTP"
+    },
+    "val_enter_postal_code": "Inserisci il codice postale",
+    "@val_enter_postal_code": {
+        "description": "Inserisci il codice postale"
+    },
+    "val_valid_postal_code": "Immettere il codice postale valido",
+    "@val_valid_postal_code": {
+        "description": "Immettere il codice postale valido"
+    },
+    "val_enter_landmark": "Inserisci il punto di riferimento",
+    "@val_enter_landmark": {
+        "description": "Inserisci il punto di riferimento"
+    },
+    "val_enter_city": "Inserisci la città",
+    "@val_enter_city": {
+        "description": "Inserisci la città"
+    },
+    "val_enter_state": "Inserisci lo stato",
+    "@val_enter_state": {
+        "description": "Inserisci lo stato"
+    },
+    "val_enter_address": "Inserisci l'indirizzo",
+    "@val_enter_address": {
+        "description": "Inserisci l'indirizzo"
+    },
+    "val_enter_specification": "Inserisci le specifiche",
+    "@val_enter_specification": {
+        "description": "Inserisci le specifiche"
+    },
+    "val_enter_message": "Immettere un messaggio",
+    "@val_enter_message": {
+        "description": "PImmettere un messaggio"
+    },
+    "txt_camera_permission": "Autorizzazione della fotocamera",
+    "@txt_camera_permission": {
+        "description": "Autorizzazione della fotocamera"
+    },
+    "txt_permission_camera": "Senza questo permesso, questa app non sarà in grado di scegliere la foto. Sei sicuro di voler negare questo permesso?",
+    "@txt_permission_camera": {
+        "description": "Senza questo permesso, questa app non sarà in grado di scegliere la foto. Sei sicuro di voler negare questo permesso?"
+    },
+    "txt_retry": "Riprovare",
+    "@txt_retry": {
+        "description": "Riprovare"
+    },
+    "txt_im_sure": "Sono sicuro che",
+    "@txt_im_sure": {
+        "description": "Sono sicuro che"
+    },
+    "txt_gallery_permission": "Autorizzazione della galleria",
+    "@txt_gallery_permission": {
+        "description": "Autorizzazione della galleria"
+    },
+    "txt_permision_gallery": "Senza questo permesso, questa app non sarà in grado di ottenere foto dalla galleria. Sei sicuro di voler negare questo permesso?",
+    "@txt_permision_gallery": {
+        "description": "Senza questo permesso, questa app non sarà in grado di ottenere foto dalla galleria. Sei sicuro di voler negare questo permesso?"
+    },
+    "txt_your_msg": "Il tuo messaggio...",
+    "@txt_your_msg": {
+        "description": "Il tuo messaggio..."
+    },
+    "txt_user_cancel_process": "Utente Annulla il processo",
+    "@txt_user_cancel_process": {
+        "description": "Utente Annulla il processo"
+    },
+    "txt_thank_for_reg": "Grazie per la registrazione",
+    "@txt_thank_for_reg": {
+        "description": "Grazie per la registrazione"
+    },
+    "txt_verify_your_doc": "Una volta verificati i tuoi documenti.",
+    "@txt_verify_your_doc": {
+        "description": "Una volta verificati i tuoi documenti."
+    },
+     "txt_notify_you": "Ti avvisiamo presto",
+    "@txt_notify_you": {
+        "description": "Ti avvisiamo presto"
+    },
+    "txt_active_after_verification": "Dopo la verifica, il tuo account sarà attivo",
+    "@txt_active_after_verification": {
+        "description": "Dopo la verifica, il tuo account sarà attivo"
+    },
+    "val_enter_vehicle_num": "Inserisci il numero del veicolo",
+    "@val_enter_vehicle_num": {
+        "description": "Inserisci il numero del veicolo"
+    },
+     "val_upload_vehicle_front_img": "Carica l'immagine anteriore del veicolo",
+    "@val_upload_vehicle_front_img": {
+        "description": "Carica l'immagine anteriore del veicolo"
+    },
+     "val_upload_vehicle_back_img": "Carica l'immagine del retro del veicolo",
+    "@val_upload_vehicle_back_img": {
+        "description": "Carica l'immagine del retro del veicolo"
+    },
+     "val_enter_id_number": "Immettere il numero della scheda di identificazione",
+    "@val_enter_id_number": {
+        "description": "Immettere il numero della scheda di identificazione"
+    },
+     "val_upload_id_front_img": "Carica l'immagine frontale della scheda di identificazione",
+    "@val_upload_id_front_img": {
+        "description": "Carica l'immagine frontale della scheda di identificazione"
+    },
+     "val_upload_id_back_img": "Carica l'immagine della scheda di identificazione",
+    "@val_upload_id_back_img": {
+        "description": "Carica l'immagine della scheda di identificazione"
+    },
+     "val_select_id_start_date": "Seleziona Data di inizio della scheda di identificazione",
+    "@val_select_id_start_date": {
+        "description": "Seleziona Data di inizio della scheda di identificazione"
+    },
+     "val_select_id_end_date": "Seleziona la data di fine della scheda di identificazione",
+    "@val_select_id_end_date": {
+        "description": "Seleziona la data di fine della scheda di identificazione"
+    },
+     "val_enter_license_num": "Immettere il numero di licenza",
+    "@val_enter_license_num": {
+        "description": "Immettere il numero di licenza"
+    },
+     "val_upload_license_front_img": "Carica l'immagine frontale della licenza",
+    "@val_upload_license_front_img": {
+        "description": "Carica l'immagine frontale della licenza"
+    },
+     "val_upload_license_back_img": "Carica l'immagine della licenza",
+    "@val_upload_license_back_img": {
+        "description": "Carica l'immagine della licenza"
+    },
+     "val_select_license_start_date": "Selezionare la data di inizio della licenza",
+    "@val_select_license_start_date": {
+        "description": "Selezionare la data di inizio della licenza"
+    },
+     "val_select_license_end_date": "Seleziona la data di fine della licenza",
+    "@val_select_license_end_date": {
+        "description": "Seleziona la data di fine della licenza"
+    },
+     "val_enter_vehicle_reg_num": "Immettere il numero di registrazione del veicolo",
+    "@val_enter_vehicle_reg_num": {
+        "description": "Immettere il numero di registrazione del veicolo"
+    },
+     "val_upload_reg_front_img": "Carica l'immagine anteriore della registrazione del veicolo",
+    "@val_upload_vehicle_front_img": {
+        "description": "Carica l'immagine anteriore della registrazione del veicolo"
+    },
+     "val_upload_reg_back_img": "Carica l'immagine di registrazione del veicolo",
+    "@txt_your_msg": {
+        "description": "Carica l'immagine di registrazione del veicolo"
+    },
+     "val_enter_reg_start_date": "Selezionare la data di inizio della registrazione del veicolo",
+    "@val_enter_reg_start_date": {
+        "description": "Selezionare la data di inizio della registrazione del veicolo"
+    },
+     "val_enter_reg_end_date": "Selezionare la data di fine della registrazione del veicolo",
+    "@val_enter_reg_end_date": {
+        "description": "Selezionare la data di fine della registrazione del veicolo"
+    },
+    "val_enter_owner_num": "Inserisci il numero di proprietà del veicolo",
+    "@val_enter_owner_num": {
+        "description": "Inserisci il numero di proprietà del veicolo"
+    },
+     "val_upload_owner_front_img": "Carica l'immagine anteriore della proprietà del veicolo",
+    "@val_upload_owner_front_img": {
+        "description": "Carica l'immagine anteriore della proprietà del veicolo"
+    },
+     "val_upload_owner_back_img": "Carica l'immagine della proprietà del veicolo",
+    "@val_upload_owner_back_img": {
+        "description": "Carica l'immagine della proprietà del veicolo"
+    },
+     "val_enter_owner_start_date": "Seleziona Data di inizio della proprietà del veicolo",
+    "@val_enter_owner_start_date": {
+        "description": "Seleziona Data di inizio della proprietà del veicolo"
+    },
+     "val_enter_owner_end_date": "Seleziona la data di fine della proprietà del veicolo",
+    "@val_enter_owner_end_date": {
+        "description": "Seleziona la data di fine della proprietà del veicolo"
+    },
+     "val_enter_insurance_num": "Inserisci il numero di assicurazione del veicolo",
+    "@val_enter_insurance_num": {
+        "description": "Inserisci il numero di assicurazione del veicolo"
+    },
+      "val_upload_insurance_front_img": "Carica l'immagine anteriore dell'assicurazione del veicolo",
+    "@val_upload_insurance_front_img": {
+        "description": "Carica l'immagine anteriore dell'assicurazione del veicolo"
+    },
+      "val_upload_insurance_back_img": "Carica l'immagine del retro dell'assicurazione del veicolo",
+    "@val_upload_insurance_back_img": {
+        "description": "Carica l'immagine del retro dell'assicurazione del veicolo"
+    },
+      "val_insurance_start_date": "Seleziona Data di inizio dell'assicurazione del veicolo",
+    "@val_insurance_start_date": {
+        "description": "Seleziona Data di inizio dell'assicurazione del veicolo"
+    },
+      "val_insurance_end_date": "Seleziona la data di fine assicurazione del veicolo",
+    "@val_insurance_end_date": {
+        "description": "Seleziona la data di fine assicurazione del veicolo"
+    },
+      "val_inspection_num": "Inserisci il numero di ispezione del veicolo",
+    "@val_inspection_num": {
+        "description": "Inserisci il numero di ispezione del veicolo"
+    },
+      "val_inspection_front_img": "Carica l'immagine anteriore dell'ispezione del veicolo",
+    "@val_inspection_front_img": {
+        "description": "Carica l'immagine anteriore dell'ispezione del veicolo"
+    },
+      "val_inspection_back_img": "Si prega di caricare l'immagine di ispezione del veicolo",
+    "@val_inspection_back_img": {
+        "description": "Si prega di caricare l'immagine di ispezione del veicolo"
+    },
+     "val_inspection_start_date": "Seleziona la data di inizio dell'ispezione del veicolo",
+    "@val_inspection_start_date": {
+        "description": "Seleziona la data di inizio dell'ispezione del veicolo"
+    },
+     "val_inspection_end_date": "Seleziona la data di fine dell'ispezione del veicolo",
+    "@val_inspection_end_date": {
+        "description": "Seleziona la data di fine dell'ispezione del veicolo"
+    },
+     "val_manifest_num": "Inserisci il numero manifest del veicolo",
+    "@val_manifest_num": {
+        "description": "Inserisci il numero manifest del veicolo"
+    },
+     "val_manifest_front_img": "Carica l'immagine anteriore manifest del veicolo",
+    "@val_manifest_front_img": {
+        "description": "Carica l'immagine anteriore manifest del veicolo"
+    },
+     "val_manifest_back_img": "Si prega di caricare l'immagine del manifest del veicolo",
+    "@val_manifest_back_img": {
+        "description": "Si prega di caricare l'immagine del manifest del veicolo"
+    },
+     "val_manifest_start_date": "Seleziona la data di inizio manifest del veicolo",
+    "@val_manifest_start_date": {
+        "description": "Seleziona la data di inizio manifest del veicolo"
+    },
+     "val_manifest_end_date": "Seleziona la data di fine del manifest del veicolo",
+    "@val_manifest_end_date": {
+        "description": "Seleziona la data di fine del manifest del veicolo"
+    },
+     "val_radio_num": "Inserisci il numero fiscale radio del veicolo",
+    "@val_radio_num": {
+        "description": "Inserisci il numero fiscale radio del veicolo"
+    },
+     "val_radio_front_img": "Carica l'immagine anteriore fiscale radio del veicolo",
+    "@val_radio_front_img": {
+        "description": "Carica l'immagine anteriore fiscale radio del veicolo"
+    },
+     "val_radio_back_img": "Carica l'immagine del retro delle tasse radio del veicolo",
+    "@val_radio_back_img": {
+        "description": "Carica l'immagine del retro delle tasse radio del veicolo"
+    },
+     "val_radio_start_date": "Seleziona la data di inizio della radio del veicolo",
+    "@val_radio_start_date": {
+        "description": "Seleziona la data di inizio della radio del veicolo"
+    },
+     "val_radio_end_date": "Seleziona la data di fine delle tasse radio del veicolo",
+    "@val_radio_end_date": {
+        "description": "Seleziona la data di fine delle tasse radio del veicolo"
+    },
+      "txt_file_selected": "File selezionato",
+    "@txt_file_selected": {
+        "description": "File selezionato"
+    },
+       "txt_nofile_selected": "Nessun file selezionato",
+    "@txt_nofile_selected": {
+        "description": "Nessun file selezionato"
+    },
+    "txt_server_error": "Errore del server, riprova",
+    "@txt_server_error": {
+        "description": "Errore del server, riprova"
+    },
+     "val_valid_otp": "Inserisci OTP valido",
+    "@val_valid_otp": {
+        "description": "Inserisci OTP valido"
+    },
+     "txt_double_click": "Fare doppio clic per uscire dall'app",
+    "@txt_double_click": {
+        "description": "Fare doppio clic per uscire dall'app"
+    },
+      "txt_pick_from": "Pickup da",
+    "@txt_pick_from": {
+        "description": "Pickup da"
+    },
+      "txt_transaction_id": "ID transazione",
+    "@txt_pick_from": {
+        "description": "ID transazione"
+    },
+       "txt_total_price": "Prezzo totale",
+    "@txt_total_price": {
+        "description": "Prezzo totale"
+    },
+     "txt_complete": "Completato",
+    "@txt_complete": {
+        "description": "Completato"
+    },
+      "txt_date": "Data",
+    "@txt_date": {
+        "description": "Data"
+    },
+      "txt_by": "Di",
+    "@txt_by": {
+        "description": "Di"
+    },
+       "txt_cancelled": "Annullato",
+    "@txt_cancelled": {
+        "description": "Annullato"
+    },
+       "txt_phone_number": "Numero di telefono",
+    "@txt_phone_number": {
+        "description": "Numero di telefono"
+    },
+       "txt_upload": "Caricamento",
+    "@txt_upload": {
+        "description": "Caricamento"
+    },
+       "txt_valid_phone": "Inserisci il telefono valido no",
+    "@txt_valid_phone": {
+        "description": "Inserisci il telefono valido no"
+    },
+       "txt_maker_name": "Inserisci i dettagli del produttore di automobili",
+    "@txt_maker_name": {
+        "description": "Inserisci i dettagli del produttore di automobili"
+    },
+       "txt_model_name": "Inserisci il nome del modello di auto",
+    "@txt_model_name": {
+        "description": "Inserisci il nome del modello di auto"
+    },
+       "txt_color_name": "Inserisci il nome del colore dell'auto",
+    "@txt_color_name": {
+        "description": "Inserisci il nome del colore dell'auto"
+    },
+       "txt_select_passenger": "Seleziona il numero di passeggero",
+    "@txt_select_passenger": {
+        "description": "Seleziona il numero di passeggero"
+    },
+       "txt_valid_data": "Immettere dati validi",
+    "@txt_valid_data": {
+        "description": "Immettere dati validi"
+    },
+       "txt_select_vehicle_pic": "Seleziona le immagini del veicolo",
+    "@txt_select_vehicle_pic": {
+        "description": "Seleziona le immagini del veicolo"
+    },
+        "txt_location_permission": "Autorizzazione di posizione",
+    "@txt_location_permission": {
+        "description": "Autorizzazione di posizione"
+    },
+    "txt_permision_location": "Senza questa autorizzazione, questa app non sarà in grado di ottenere la tua posizione e indirizzo. Sei sicuro di voler negare questo permesso?",
+    "@txt_permision_location": {
+        "description": "Senza questa autorizzazione, questa app non sarà in grado di ottenere la tua posizione e indirizzo. Sei sicuro di voler negare questo permesso?"
+    },
+    "txt_permision_setting": "Se si desidera utilizzare questa app è necessario abilitare le autorizzazioni nell'impostazione delle autorizzazioni di sistema",
+    "@txt_permision_setting": {
+        "description": "Se si desidera utilizzare questa app è necessario abilitare le autorizzazioni nell'impostazione delle autorizzazioni di sistema"
+    },
+     "txt_setting": "Impostazioni",
+    "@txt_setting": {
+        "description": "Impostazioni"
+    },
+     "txt_exit": "Uscita",
+    "@txt_exit": {
+        "description": "Uscita"
+    },
+    "txt_select_max": "Seleziona Max 10 Immagini",
+    "@txt_exit": {
+        "description": "Seleziona Max 10 Immagini"
+    },
+    "txt_car_maker": "Maker di automobili",
+    "@txt_car_maker": {
+        "description": "Maker di automobili"
+    },
+     "txt_car_model": "Modello d'auto",
+    "@txt_car_model": {
+        "description": "Modello d'auto"
+    },
+     "txt_car_color": "Colore dell'auto",
+    "@txt_car_color": {
+        "description": "Colore dell'auto"
+    },
+     "txt_no_pass": "No. di passeggero",
+    "@txt_no_pass": {
+        "description": "No. di passeggero"
+    },
+     "txt_vehicle_pic": "Immagine del veicolo",
+    "@txt_vehicle_pic": {
+        "description": "Immagine del veicolo"
+    },
+     "txt_driver_id": "Scheda di identificazione del driver",
+    "@txt_driver_id": {
+        "description": "Scheda di identificazione del driver"
+    },
+     "txt_driver_driving": "Patente di guida conducente",
+    "@txt_driver_driving": {
+        "description": "Patente di guida conducente"
+    },
+     "txt_vehicle_reg": "Registrazione del veicolo",
+    "@txt_vehicle_reg": {
+        "description": "Registrazione del veicolo"
+    },
+     "txt_vehicle_owner": "Proprietà del veicolo",
+    "@txt_vehicle_owner": {
+        "description": "Proprietà del veicolo"
+    },
+     "txt_vehicle_insur": "Assicurazione del veicolo",
+    "@txt_vehicle_insur": {
+        "description": "Assicurazione del veicolo"
+    },
+      "txt_vehicle_inspec": "Ispezione del veicolo",
+    "@txt_vehicle_inspec": {
+        "description": "Ispezione del veicolo"
+    },
+      "txt_vehicle_mani": "Manifesto del veicolo",
+    "@txt_vehicle_mani": {
+        "description": "Manifesto del veicolo"
+    },
+     "txt_vehicle_radio": "Tassa radio del veicolo",
+    "@txt_vehicle_radio": {
+        "description": "Tassa radio del veicolo"
+    },
+      "txt_maker": "Creatore",
+    "@txt_maker": {
+        "description": "Creatore"
+    },
+      "txt_model": "Modello",
+    "@txt_model": {
+        "description": "Modello"
+    },
+      "txt_color": "Colore",
+    "@txt_color": {
+        "description": "Colore"
+    },
+       "txt_passenger": "Passeggeri",
+    "@txt_passenger": {
+        "description": "Passeggeri"
+    },
+      "txt_max_10": "(Max 10)",
+    "@txt_max_10": {
+        "description": "(Max 10)"
+    },
+    "txt_uploaded": "Caricato",
+    "@txt_uploaded": {
+        "description": "Caricato"
+    },
+     "val_name_len": "Immettere il nome valido",
+    "@val_name_len": {
+        "description": "Immettere il nome valido"
+    },
+    "val_driving_license": "Immettere la patente di guida valida",
+    "@val_driving_license": {
+        "description": "Immettere la patente di guida valida"
+    },
+    "txt_select": "Selezionare",
+    "@txt_select": {
+        "description": "Selezionare"
+    },
+    "val_IdCard": "Immettere la scheda ID valida",
+    "@tval_IdCard": {
+        "description": "Immettere la scheda ID valida"
+    },
+    "val_reg_len": "Il numero di registrazione non deve superare più di 10 carattere alfanumerico",
+    "@val_reg_len": {
+        "description": "Il numero di registrazione non deve superare più di 10 carattere alfanumerico"
+    },
+    "val_owner_len": "Immettere il nome del proprietario valido",
+    "@val_owner_len": {
+        "description": "Immettere il nome del proprietario valido"
+    },
+    "txt_insurance_len": "Il numero di assicurazione non deve superare più di 30 carattere alfanumerico",
+    "@txt_insurance_len": {
+        "description": "Il numero di assicurazione non deve superare più di 30 carattere alfanumerico"
+    },
+     "txt_change_lng": "Cambia lingua",
+    "@txt_change_lng": {
+        "description": "Cambia lingua"
+    },
+     "txt_pls_enter_queries": "Inserisci le tue domande",
+    "@txt_pls_enter_queries": {
+        "description": "Inserisci le tue domande"
+    },
+     "txt_query_length": "La lunghezza delle query deve essere Min 10 caratteri",
+    "@txt_query_length": {
+        "description": "La lunghezza delle query deve essere Min 10 caratteri"
+    },
+     "txt_take_live_photo": "Scattare una foto dal vivo",
+    "@txt_take_live_photo": {
+        "description": "Scattare una foto dal vivo"
+    },
+     "txt_loading_camera": "Caricamento della fotocamera ...",
+    "@txt_loading_camera": {
+        "description": "Caricamento della fotocamera ..."
+    },
+     "txt_retake": "Riprendere",
+    "@txt_retake": {
+        "description": "Riprendere"
+    },
+     "txt_confirm": "Confermare",
+    "@txt_confirm": {
+        "description": "Confermare"
+    },
+     "txt_no_booking_for_schedule": "Non ci sono prenotazioni per il viaggio di programmazione",
+    "@txt_no_booking_for_schedule": {
+        "description": "Non ci sono prenotazioni per il viaggio di programmazione"
+    },
+     "txt_schedule_ride": "Pianifica",
+    "@txt_schedule_ride": {
+        "description": "Pianifica"
+    },
+     "txt_scheduled_rides": "Giostre programmate",
+    "@txt_scheduled_rides": {
+        "description": "Giostre programmate"
+    },
+     "txt_cancel_ride": "Annulla Ride",
+    "@txt_cancel_ride": {
+        "description": "Annulla Ride"
+    },
+     "txt_payment_pending": "Pagamento in sospeso",
+    "@txt_payment_pending": {
+        "description": "Pagamento in sospeso"
+    },
+     "txt_accepted": "Accettato",
+    "@txt_accepted": {
+        "description": "Accettato"
+    },
+     "txt_ride_pending": "Cavalcare in sospeso",
+    "@txt_ride_pending": {
+        "description": "Cavalcare in sospeso"
+    },
+     "txt_wallet": "Portafoglio",
+    "@txt_wallet": {
+        "description": "Portafoglio"
+    },
+     "txt_send_request": "Invia richiesta",
+    "@txt_send_request": {
+        "description": "Invia richiesta"
+    },
+     "txt_note_remark": "Nota/Nota",
+    "@txt_note_remark": {
+        "description": "Nota/Nota"
+    },
+     "txt_withdrawal_amt": "Importo di prelievo",
+    "@txt_withdrawal_amt": {
+        "description": "Importo di prelievo"
+    },
+     "txt_history": "Storia",
+    "@txt_history": {
+        "description": "Storia"
+    },
+     "txt_skip": "Saltare",
+    "@txt_skip": {
+        "description": "Saltare"
+    },
+     "txt_success": "Successo",
+    "@txt_success": {
+        "description": "Successo"
+    },
+     "txt_enter_amt": "Inserire l'importo",
+    "@txt_": {
+        "description": "Inserire l'importo"
+    },
+     "txt_enter_valid_amt": "Immettere l'importo valido",
+    "@txt_enter_valid_amt": {
+        "description": "Immettere l'importo valido"
+    },
+     "txt_owner_name": "Nome del proprietario",
+    "@txt_owner_name": {
+        "description": "Nome del proprietario"
+    },
+     "txt_enter_owner_name": "Inserisci il nome del proprietario",
+    "@txt_enter_owner_name": {
+        "description": "Inserisci il nome del proprietario"
+    },
+     "txt_enter_valid_owner_name": "Immettere il nome del proprietario valido",
+    "@txt_enter_valid_owner_name": {
+        "description": "Immettere il nome del proprietario valido"
+    },
+     "txt_enter_valid_maker_name": "Immettere il nome del produttore valido",
+    "@txt_enter_valid_maker_name": {
+        "description": "Immettere il nome del produttore valido"
+    },
+     "txt_valid_color_name": "Immettere il nome del colore valido",
+    "@txt_valid_color_name": {
+        "description": "Immettere il nome del colore valido"
+    },
+     "txt_enter_color_name": "Inserisci il nome del colore",
+    "@txt_enter_color_name": {
+        "description": "Inserisci il nome del colore"
+    },
+     "txt_request_mode": "Modalità richiesta",
+    "@txt_request_mode": {
+        "description": "Modalità richiesta"
+    },
+     "txt_request_pending": "Richiesta in sospeso",
+    "@txt_request_pending": {
+        "description": "Richiesta in sospeso"
+    },
+     "txt_request_decline": "Richiedere un declino",
+    "@txt_request_decline": {
+        "description": "Richiedere un declino"
+    },
+     "txt_request_date": "Data di richiesta",
+    "@txt_request_date": {
+        "description": "Data di richiesta"
+    },
+     "txt_request_status": "Stato della richiesta",
+    "@txt_request_status": {
+        "description": "Stato della richiesta"
+    },
+     "txt_enter_vaild_name": "Immettere il nome valido",
+    "@txt_enter_vaild_name": {
+        "description": "Immettere il nome valido"
+    },
+     "txt_update": "Aggiornamento",
+    "@txt_update": {
+        "description": "Aggiornamento"
+    },
+     "txt_enter_details_of_your": "Inserisci i dettagli del tuo ",
+    "@txt_enter_details_of_your": {
+        "description": "Inserisci i dettagli del tuo    "
+    },
+     "txt_upload_photo_of_your": "Carica una foto del tuo",
+    "@txt_upload_photo_of_your": {
+        "description": "Carica una foto del tuo"
+    },
+     "txt_vehicle": "Veicolo",
+    "@txt_vehicle": {
+        "description": "Veicolo"
+    },
+     "txt_select_min_one_img": "Seleziona un'immagine minima 1",
+    "@txt_select_min_one_img": {
+        "description": "Seleziona un'immagine minima 1"
+    },
+     "txt_details": "Dettagli",
+    "@txt_details": {
+        "description": "Dettagli"
+    },
+     "txt_in_progress": "In corso",
+    "@txt_in_progress": {
+        "description": "In corso"
+    },
+     "txt_complete_ride": "Viaggio completo",
+    "@txt_complete_ride": {
+        "description": "Viaggio completo"
+    },
+     "txt_your_ride_completed": "La tua corsa è completata",
+    "@txt_your_ride_completed": {
+        "description": "La tua corsa è completata"
+    },
+     "txt_ride_completed": "Cavalcare completato",
+    "@txt_ride_completed": {
+        "description": "Cavalcare completato"
+    },
+     "txt_security_deposit": "Deposito di sicurezza",
+    "@txt_security_deposit": {
+        "description": "Deposito di sicurezza"
+    },
+     "txt_complete_security_deposit_process": "Completa il processo di deposito cauzionale",
+    "@txt_complete_security_deposit_process": {
+        "description": "Completa il processo di deposito cauzionale"
+    },
+     "txt_checked_pay_later": "Hai controllato la retribuzione del deposito cauzionale in seguito",
+    "@txt_checked_pay_later": {
+        "description": "Hai controllato la retribuzione del deposito cauzionale in seguito"
+    },
+     "txt_already_done_online_payment": "Hai già effettuato il pagamento online",
+    "@txt_already_done_online_payment": {
+        "description": "Hai già effettuato il pagamento online"
+    },
+     "txt_choose_pay_menthod": "Scegli il metodo di pagamento",
+    "@txt_choose_pay_menthod": {
+        "description": "Scegli il metodo di pagamento"
+    },
+     "txt_pay_now": "Paga ora",
+    "@txt_pay_now": {
+        "description": "Paga ora"
+    },
+     "txt_do_later": "Farò il deposito cauzionale più tardi",
+    "@txt_do_later": {
+        "description": "Farò il deposito cauzionale più tardi"
+    },
+     "txt_gender_pref": "Preferenze di genere",
+    "@txt_gender_pref": {
+        "description": "Preferenze di genere"
+    },
+     "txt_gender_you_want_to_prefer": "(Seleziona il genere che vuoi preferire andare a fare)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(Seleziona il genere che vuoi preferire andare a fare)"
+    },
+     "txt_male": "Maschio",
+    "@txt_male": {
+        "description": "Maschio"
+    },
+     "txt_female": "Femmina",
+    "@txt_female": {
+        "description": "Femmina"
+    },
+     "txt_other": "Altro",
+    "@txt_other": {
+        "description": "Altro"
+    },
+     "txt_no_pref": "Nessuna preferenze",
+    "@txt_no_pref": {
+        "description": "Nessuna preferenze"
+    },
+     "txt_update_details_of_user": "Aggiorna i dettagli del tuo",
+    "@txt_update_details_of_user": {
+        "description": "Aggiorna i dettagli del tuo"
+    },
+     "txt_criminal_record_certificate": "Certificato di documentazione penale",
+    "@txt_criminal_record_certificate": {
+        "description": "Certificato di documentazione penale"
+    },
+     "txt_criminal_record": "Fedina penale",
+    "@txt_criminal_record": {
+        "description": "Fedina penale"
+    },
+     "txt_update_your": "Aggiorna il tuo",
+    "@txt_update_your": {
+        "description": "Aggiorna il tuo"
+    },
+     "txt_document": "documento",
+    "@txt_document": {
+        "description": "documento"
+    },
+      "txt_select_your_gender": "Seleziona il tuo genere",
+    "@txt_select_your_gender": {
+        "description": "Seleziona il tuo genere"
+    },
+      "txt_gender": "Genere",
+    "@txt_gender": {
+        "description": "Genere"
+    },
+      "txt_ride_type": "Tipo di guida",
+    "@txt_ride_type": {
+        "description": "Tipo di guida"
+    },
+      "txt_rejected": "Respinto",
+    "@txt_rejected": {
+        "description": "Respinto"
+    },
+      "txt_km": "km",
+    "@txt_km": {
+        "description": "km"
+    },
+      "txt_select_reason": "Seleziona la ragione",
+    "@txt_select_reason": {
+        "description": "Seleziona la ragione"
+    },
+      "txt_select_gender_pref": "Seleziona la preferenza di genere",
+    "@txt_select_gender_pref": {
+        "description": "Seleziona la preferenza di genere"
+    },
+      "txt_update_documents": "Aggiorna i documenti",
+    "@txt_update_documents": {
+        "description": "Aggiorna i documenti"
+    },
+      "txt_are_you_sure_to_logout": "Sei sicuro di voler uscire?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "Sei sicuro di voler uscire?"
+    },
+      "txt_my_rides": "Le mie corse",
+    "@txt_my_rides": {
+        "description": "Le mie corse"
+    },
+      "txt_rating": "Valutazione",
+    "@txt_rating": {
+        "description": "Valutazione"
+    },
+      "txt_daily_ride": "Ride quotidiano",
+    "@txt_daily_ride": {
+        "description": "Ride quotidiano"
+    },
+     "txt_rental_ride": "Corsa in affitto",
+    "@txt_rental_ride": {
+        "description": "Corsa in affitto"
+    },
+     "txt_enter_your_reason": "Inserisci il motivo",
+    "@txt_enter_your_reason": {
+        "description": "Inserisci il motivo"
+    },
+     "txt_select_ride_type": "Seleziona il tipo di corsa",
+    "@txt_select_ride_type": {
+        "description": "Seleziona il tipo di corsa"
+    },
+     "txt_profile_under_review": "Il tuo profilo è in fase di revisione, non puoi fare un giro fino a quando l'amministratore non lo attiva.",
+    "@txt_profile_under_review": {
+        "description": "Il tuo profilo è in fase di revisione, non puoi fare un giro fino a quando l'amministratore non lo attiva."
+    },
+     "txt_your_account_deactivateed": "Il tuo account è stato disattivato da amministratore, contattali.",
+    "@txt_your_account_deactivateed": {
+        "description": "Il tuo account è stato disattivato da amministratore, contattali."
+    },
+     "txt_accept_terms_privacy": "Registrandoti accetti i termini dei servizi e l'informativa sulla privacy",
+    "@txt_accept_terms_privacy": {
+        "description": "Registrandoti accetti i termini dei servizi e l'informativa sulla privacy"
+    },
+     "txt_please_accept_terms_privacy": "Si prega di accettare i termini dei servizi e l'informativa sulla privacy",
+    "@txt_please_accept_terms_privacy": {
+        "description": "Si prega di accettare i termini dei servizi e l'informativa sulla privacy"
+    },
+     "txt_thanks_for_registering": "Grazie per esserci registrati con noi",
+    "@txt_thanks_for_registering": {
+        "description": "Grazie per esserci registrati con noi"
+    },
+     "txt_application_under_review_check_status": "La tua applicazione è in fase di revisione, puoi controllare lo stato sulla barra rossa superiore nella homepage.",
+    "@txt_application_under_review_check_status": {
+        "description": "La tua applicazione è in fase di revisione, puoi controllare lo stato sulla barra rossa superiore nella homepage."
+    },
+     "txt_update_details": "Aggiorna i dettagli",
+    "@txt_update_details": {
+        "description": "Aggiorna i dettagli"
+    },
+     "txt_ride_details": "Dettagli di guida",
+    "@txt_ride_details": {
+        "description": "Dettagli di guida"
+    },
+     "txt_mpesa": "Vite",
+    "@txt_mpesa": {
+        "description": "Vite"
+    },
+     "txt_image": "Immagine",
+    "@txt_image": {
+        "description": "Immagine"
+    },
+     "txt_check_internet_try_again": "Si prega di controllare la tua connettività Internet e riprovareरें",
+    "@txt_check_internet_try_again": {
+        "description": "Si prega di controllare la tua connettività Internet e riprovareरें"
+    },
+     "txt_oops_no_internet": "Oops, nessuna connessione Internet",
+    "@txt_oops_no_internet": {
+        "description": "Oops, nessuna connessione Internet"
+    },
+     "txt_package_complete_renew": "Il pacchetto è stato completato completa la corsa o attendi che l'utente rinnova il pacchetto",
+    "@txt_package_complete_renew": {
+        "description": "Il pacchetto è stato completato completa la corsa o attendi che l'utente rinnova il pacchetto"
+    },
+     "txt_wait_for_response": "Aspettando una risposta",
+    "@txt_wait_for_response": {
+        "description": "Aspettando una risposta"
+    },
+     "txt_ride_complete_in": "Cavalca completa",
+    "@txt_ride_complete_in": {
+        "description": "Cavalca completa"
+    },
+     "txt_something_went_wrong": "Qualcosa è andato storto",
+    "@txt_something_went_wrong": {
+        "description": "Qualcosa è andato storto"
+    },
+     "txt_refresh_page_try_later": "Prova a rinfrescare la pagina o riprova più tardi.",
+    "@txt_refresh_page_try_later": {
+        "description": "Prova a rinfrescare la pagina o riprova più tardi."
+    },
+     "txt_permission_required": "Autorizzazione richiesta",
+    "@txt_permission_required": {
+        "description": "Autorizzazione richiesta"
+    },
+     "txt_enable_permission": "Abilita il permesso",
+    "@txt_enable_permission": {
+        "description": "Abilita il permesso"
+    },
+     "txt_pick_your_country": "Scegli il tuo paese",
+    "@txt_pick_your_country": {
+        "description": "Scegli il tuo paese"
+    },
+     "txt_cant_update_ride_type": "Non è possibile aggiornare il tuo tipo di corsa in giro in corso.",
+    "@txt_cant_update_ride_type": {
+        "description": "Non è possibile aggiornare il tuo tipo di corsa in giro in corso."
+    },
+     "txt_check_connect_timeout": "Controlla il tuo tempo di connessione !!",
+    "@txt_check_connect_timeout": {
+        "description": "Controlla il tuo tempo di connessione !!"
+    },
+     "txt_timeout_exception": "Eccezione timeout.",
+    "@txt_timeout_exception": {
+        "description": "Eccezione timeout."
+    },
+     "txt_request_cancel_from_user": "Richiedi Annulla dall'utente.",
+    "@txt_request_cancel_from_user": {
+        "description": "Richiedi Annulla dall'utente."
+    },
+     "txt_getting_wrong_response": "Stiamo ottenendo una risposta sbagliata.",
+    "@txt_getting_wrong_response": {
+        "description": "Stiamo ottenendo una risposta sbagliata."
+    },
+     "txt_connection_error": "Errore di connessione.",
+    "@txt_connection_error": {
+        "description": "Errore di connessione."
+    },
+     "txt_server_not_connected_contact_admin": "Server non connesso, contattare l'amministratore.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "Server non connesso, contattare l'amministratore."
+    },
+     "txt_socket_not_connect": "Socket non connesso ...",
+    "@txt_socket_not_connect": {
+        "description": "Socket non connesso ..."
+    },
+     "txt_user_renewed_package": "L'utente ha rinnovato il pacchetto!",
+    "@txt_user_renewed_package": {
+        "description": "L'utente ha rinnovato il pacchetto!"
+    },
+     "txt_bear_per_km": "Orso utente per km addebiti!",
+    "@txt_bear_per_km": {
+        "description": "Orso utente per km addebiti!"
+    },
+     "txt_wait_for_user": "Aspetta l'utente",
+    "@txt_wait_for_user": {
+        "description": "Aspetta l'utente"
+    },
+     "txt_bysigning_you_accept": "Registrandoti accetti il",
+    "@txt_bysigning_you_accept": {
+        "description": "Registrandoti accetti il"
+    },
+     "txt_terms_service": "Termini di servizio",
+    "@txt_terms_service": {
+        "description": "Termini di servizio"
+    },
+     "txt_and": "E",
+    "@txt_and": {
+        "description": "E"
+    },
+     "txt_privacy_policy": "politica sulla riservatezza",
+    "@txt_privacy_policy": {
+        "description": "politica sulla riservatezza"
+    },
+     "txt_cash_received": "Soldi ricevuti",
+    "@txt_cash_received": {
+        "description": "Soldi ricevuti"
+    },
+     "txt_click_to_take_photo": "Clicca per scattare foto",
+    "@txt_click_to_take_photo": {
+        "description": "Clicca per scattare foto"
+    },
+     "txt_camera_setting_permission": "L'autorizzazione della fotocamera non è abilita, abilita l'autorizzazione",
+    "@txt_camera_setting_permission": {
+        "description": "L'autorizzazione della fotocamera non è abilita, abilita l'autorizzazione"
+    },
+     "txt_gallery_setting_permission": "L'autorizzazione della galleria non è abilitata, abilita l'autorizzazione",
+    "@txt_gallery_setting_permission": {
+        "description": "L'autorizzazione della galleria non è abilitata, abilita l'autorizzazione"
+    },
+     "txt_unauthorized_login": "Non autorizzare l'accesso",
+    "@txt_unauthorized_login": {
+        "description": "Non autorizzare l'accesso"
+    },
+     "txt_login_detect": "Nuovo accesso viene rilevato in un altro dispositivo, accedi di nuovo per l'utilizzo su questo dispositivo",
+    "@txt_login_detect": {
+        "description": "Nuovo accesso viene rilevato in un altro dispositivo, accedi di nuovo per l'utilizzo su questo dispositivo"
+    },
+     "txt_location_setting_permission": "L'autorizzazione della posizione non è abilitata, abilita l'autorizzazione",
+    "@txt_location_setting_permission": {
+        "description": "L'autorizzazione della posizione non è abilitata, abilita l'autorizzazione"
+    },
+     "txt_delete_account": "Eliminare l'account",
+    "@txt_delete_account": {
+        "description": "Eliminare l'account"
+    },
+     "txt_sure_to_delete": "Sei sicuro di voler eliminare il tuo account?",
+    "@txt_sure_to_delete": {
+        "description": "Sei sicuro di voler eliminare il tuo account?"
+    },
+     "txt_open_with": "Aperta con",
+    "@txt_open_with": {
+        "description": "Aperta con"
+    },
+     "txt_new_request_from": "Nuova richiesta",
+    "@txt_new_request_from": {
+        "description": "Nuova richiesta"
+    },
+     "txt_vehicle_assign": "L'assegnazione del veicolo da parte dell'amministratore è",
+    "@txt_vehicle_assign": {
+        "description": "L'assegnazione del veicolo da parte dell'amministratore è"
+    },
+     "txt_admin_delete": "L'amministratore ha eliminato il tuo account, non puoi utilizzare ulteriormente l'app. Si prega di contattare l'amministratore.",
+    "@txt_admin_delete": {
+        "description": "L'amministratore ha eliminato il tuo account, non puoi utilizzare ulteriormente l'app. Si prega di contattare l'amministratore."
+    }
+ }

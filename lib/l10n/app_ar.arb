@@ -1,0 +1,1609 @@
+{
+    "txt_login": "تسجيل الدخول",
+    "@txt_login": {
+        "description": "تسجيل الدخول"
+    },
+    "txt_mobile_number": "رقم الهاتف المحمول",
+    "@txt_mobile_number": {
+        "description": "رقم الهاتف المحمول"
+    },
+    "txt_submit": "إرسال",
+    "@txt_submit": {
+        "description": "إرسال"
+    },
+    "txt_continue_with": "أو متابعة",
+    "@txt_continue_with": {
+        "description": "أو متابعة"
+    },
+    "txt_select_lng": "اختار اللغة",
+    "@txt_select_lng": {
+        "description": "اختار اللغة"
+    },
+    "txt_select_country": "حدد الدولة",
+    "@txt_select_country": {
+        "description": "حدد الدولة"
+    },
+    "txt_search": "يبحث",
+    "@txt_search": {
+        "description": "يبحث"
+    },
+    "txt_last_pick": "اخر قطفة",
+    "@txt_last_pick": {
+        "description": "اخر قطفة"
+    },
+    "txt_successfully": "بنجاح",
+    "@txt_successfully": {
+        "description": "بنجاح"
+    },
+    "txt_your_otp": "OTP الخاص بك هو",
+    "@txt_your_otp": {
+        "description": "OTP الخاص بك هو"
+    },
+    "txt_otp_sent_successfully": "أرسلت OTP بنجاح",
+    "@txt_otp_sent_successfully": {
+        "description": "أرسلت OTP بنجاح"
+    },
+    "txt_verification": "تَحَقّق",
+    "@txt_verification": {
+        "description": "تَحَقّق"
+    },
+    "txt_enter_code_we_sent": "أدخل رمز التحقق الذي أرسلناه لك للتو على رقم هاتفك المحمول",
+    "@txt_enter_code_we_sent": {
+        "description": "أدخل رمز التحقق الذي أرسلناه لك للتو على رقم هاتفك المحمول"
+    },
+    "txt_resend_otp": "إعادة إرسال OTP",
+    "@txt_resend_otp": {
+        "description": "إعادة إرسال OTP"
+    },
+    "txt_verify": "تحقق",
+    "@txt_verify": {
+        "description": "تحقق"
+    },
+    "txt_error": "خطأ",
+    "@txt_error": {
+        "description": "خطأ"
+    },
+    "txt_ok": "موافق",
+    "@txt_ok": {
+        "description": "موافق"
+    },
+    "txt_upload_details": "تحميل التفاصيل",
+    "@txt_upload_details": {
+        "description": "تحميل التفاصيل"
+    },
+    "txt_vehicle_picture": "صور المركبات",
+    "@txt_vehicle_picture": {
+        "description": "صور المركبات"
+    },
+    "txt_vehicle_number": "عدد المركبات",
+    "@txt_vehicle_number": {
+        "description": "عدد المركبات"
+    },
+    "txt_upload_image": "تحميل الصور",
+    "@txt_upload_image": {
+        "description": "تحميل الصور"
+    },
+    "txt_front": "أمام",
+    "@txt_front": {
+        "description": "أمام"
+    },
+    "txt_back": "خلف",
+    "@txt_back": {
+        "description": "خلف"
+    },
+    "txt_driver_id_card": "بطاقة تعريف السائق",
+    "@txt_driver_id_card": {
+        "description": "بطاقة تعريف السائق"
+    },
+    "txt_id_number": "رقم الهوية",
+    "@txt_id_number": {
+        "description": "رقم الهوية"
+    },
+    "txt_valid_from": "صالح من تاريخ",
+    "@txt_valid_from": {
+        "description": "صالح من تاريخ"
+    },
+    "txt_valid_until": "صالح حتى",
+    "@txt_valid_until": {
+        "description": "صالح حتى"
+    },
+    "txt_driver_driving_license": "رخصة قيادة القيادة",
+    "@txt_driver_driving_license": {
+        "description": "رخصة قيادة القيادة"
+    },
+    "txt_license_number": "رقم الرخصة",
+    "@txt_license_number": {
+        "description": "رقم الرخصة"
+    },
+    "txt_vehicle_registration": "استمارة المركبة",
+    "@txt_vehicle_registration": {
+        "description": "استمارة المركبة"
+    },
+    "txt_registration_number": "رقم التسجيل",
+    "@txt_registration_number": {
+        "description": "رقم التسجيل"
+    },
+    "txt_next": "التالي",
+    "@txt_next": {
+        "description": "التالي"
+    },
+    "txt_vehicle_ownership": "ملكية المركبات",
+    "@txt_vehicle_ownership": {
+        "description": "ملكية المركبات"
+    },
+    "txt_ownership_number": "رقم الملكية",
+    "@txt_ownership_number": {
+        "description": "رقم الملكية"
+    },
+    "txt_vehicle_insurance": "التأمين على المركبات",
+    "@txt_vehicle_insurance": {
+        "description": "التأمين على المركبات"
+    },
+    "txt_vehicle_inspection": "فحص المركبة",
+    "@txt_vehicle_inspection": {
+        "description": "فحص المركبة"
+    },
+    "txt_insurance_number": "رقم التأمين",
+    "@txt_insurance_number": {
+        "description": "رقم التأمين"
+    },
+    "txt_inspection_number": "رقم التفتيش",
+    "@txt_inspection_number": {
+        "description": "رقم التفتيش"
+    },
+    "txt_vehicle_manifest": "بيان السيارة",
+    "@txt_vehicle_manifest": {
+        "description": "بيان السيارة"
+    },
+    "txt_manifest_number": "رقم واضح",
+    "@txt_manifest_number": {
+        "description": "رقم واضح"
+    },
+    "txt_vehicle_radio_tax": "ضريبة راديو السيارة",
+    "@txt_vehicle_radio_tax": {
+        "description": "ضريبة راديو السيارة"
+    },
+    "txt_radio_tax_number": "رقم ضريبة الراديو",
+    "@txt_radio_tax_number": {
+        "description": "رقم ضريبة الراديو"
+    },
+    "txt_done": "فعله",
+    "@txt_done": {
+        "description": "فعله"
+    },
+    "txt_almost_done": "يكاد ينتهي! أدخل رقم الهاتف المحمول للمتابعة",
+    "@txt_almost_done": {
+        "description": "يكاد ينتهي! أدخل رقم الهاتف المحمول للمتابعة"
+    },
+    "txt_menu": "قائمة",
+    "@txt_menu": {
+        "description": "قائمة"
+    },
+    "txt_driver_profile": "ملف تعريف السائق",
+    "@txt_driver_profile": {
+        "description": "ملف تعريف السائق"
+    },
+    "txt_upload_doc_info": "تم تحميلها وثيقة ومعلومات السيارة.",
+    "@txt_upload_doc_info": {
+        "description": "تم تحميلها وثيقة ومعلومات السيارة."
+    },
+    "txt_add_new_doc": "أضف وثيقة جديدة",
+    "@txt_add_new_doc": {
+        "description": "أضف وثيقة جديدة"
+    },
+    "txt_bank_info": "المعلومات المصرفية",
+    "@txt_bank_info": {
+        "description": "المعلومات المصرفية"
+    },
+    "txt_transaction": "عملية",
+    "@txt_transaction": {
+        "description": "عملية"
+    },
+    "txt_my_trip": "رحلاتي",
+    "@txt_my_trip": {
+        "description": "رحلاتي"
+    },
+    "txt_support": "الدعم",
+    "@txt_support": {
+        "description": "الدعم"
+    },
+    "txt_about_us": "معلومات عنا",
+    "@txt_about_us": {
+        "description": "معلومات عنا"
+    },
+    "txt_terms_condition": "أحكام وشروط",
+    "@txt_terms_condition": {
+        "description": "أحكام وشروط"
+    },
+    "txt_logout": "تسجيل خروج",
+    "@txt_logout": {
+        "description": "تسجيل خروج"
+    },
+    "txt_edit_profile": "تعديل الملف الشخصي",
+    "@txt_edit_profile": {
+        "description": "تعديل الملف الشخصي"
+    },
+    "txt_name": "اسم",
+    "@txt_name": {
+        "description": "اسم"
+    },
+    "txt_email": "بريد إلكتروني",
+    "@txt_email": {
+        "description": "بريد إلكتروني"
+    },
+    "txt_camera": "آلة تصوير",
+    "@txt_camera": {
+        "description": "آلة تصوير"
+    },
+    "txt_gallery": "صالة عرض",
+    "@txt_gallery": {
+        "description": "صالة عرض"
+    },
+    "txt_uploaded_documents_info": "معلومات تم تحميلها",
+    "@txt_uploaded_documents_info": {
+        "description": "معلومات تم تحميلها"
+    },
+    "txt_pending": "قيد الانتظار",
+    "@txt_pending": {
+        "description": "قيد الانتظار"
+    },
+    "txt_approved": "وافق",
+    "@txt_approved": {
+        "description": "وافق"
+    },
+    "txt_upload_detail": "تحميل التفاصيل",
+    "@txt_upload_detail": {
+        "description": "تحميل التفاصيل"
+    },
+    "txt_welcome": "أهلا بك",
+    "@txt_welcome": {
+        "description": "أهلا بك"
+    },
+    "txt_welcome_and_setup": "إليك ما تحتاجه للقيام بإعداد حسابك",
+    "@txt_welcome_and_setup": {
+        "description": "إليك ما تحتاجه للقيام بإعداد حسابك"
+    },
+    "txt_take_photo": "التقط صورة لك",
+    "@txt_take_photo": {
+        "description": "التقط صورة لك"
+    },
+    "val_upload_doc": "يرجى تحميل المستندات",
+    "@val_upload_doc": {
+        "description": "يرجى تحميل المستندات"
+    },
+    "txt_update_document": "مستند تحديث",
+    "@txt_update_document": {
+        "description": "مستند تحديث"
+    },
+    "txt_holder_name": "اسم حامل البنك",
+    "@txt_holder_name": {
+        "description": "اسم حامل البنك"
+    },
+    "txt_account_number": "رقم حساب",
+    "@txt_account_number": {
+        "description": "رقم حساب"
+    },
+    "txt_ifsc_code": "رمز IFSC",
+    "@txt_ifsc_code": {
+        "description": "رمز IFSC"
+    },
+    "txt_bank_name": "اسم البنك",
+    "@txt_bank_name": {
+        "description": "اسم البنك"
+    },
+    "txt_transaction_upr": "المعاملات",
+    "@txt_transaction_upr": {
+        "description": "المعاملات"
+    },
+    "txt_total_amt": "المبلغ الإجمالي",
+    "@txt_total_amt": {
+        "description": "المبلغ الإجمالي"
+    },
+    "txt_cash": "نقدي",
+    "@txt_cash": {
+        "description": "نقدي"
+    },
+    "txt_online": "متصل",
+    "@txt_online": {
+        "description": "متصل"
+    },
+    "txt_payment_history": "سجل الدفع",
+    "@txt_payment_history": {
+        "description": "سجل الدفع"
+    },
+    "txt_no_data_found": "لاتوجد بيانات",
+    "@txt_no_data_found": {
+        "description": "لاتوجد بيانات"
+    },
+    "txt_support_upr": "الدعم",
+    "@txt_support_upr": {
+        "description": "الدعم"
+    },
+    "txt_concern_queries": "المخاوف والاستعلامات",
+    "@txt_concern_queries": {
+        "description": "المخاوف والاستعلامات"
+    },
+    "txt_upload_pic_doc": "قم بتحميل صورتك أو المستند",
+    "@txt_upload_pic_doc": {
+        "description": "قم بتحميل صورتك أو المستند"
+    },
+    "txt_logout": "تسجيل خروج",
+    "@txt_logout": {
+        "description": "تسجيل خروج"
+    },
+    "txt_want_to_logout": "هل ترغب بالخروج",
+    "@txt_want_to_logout": {
+        "description": "هل ترغب بالخروج"
+    },
+    "txt_no": "رقم",
+    "@txt_no": {
+        "description": "رقم"
+    },
+    "txt_yes": "نعم",
+    "@txt_yes": {
+        "description": "نعم"
+    },
+    "txt_notification": "إشعارات",
+    "@txt_notification": {
+        "description": "إشعارات"
+    },
+    "txt_offline": "انت غير متصل",
+    "@txt_offline": {
+        "description": "انت غير متصل"
+    },
+    "txt_successfully_logged_in": "تم تسجيل الدخول بنجاح.",
+    "@txt_successfully_logged_in": {
+        "description": "تم تسجيل الدخول بنجاح."
+    },
+    "txt_distance": "مسافه",
+    "@txt_distance": {
+        "description": "مسافه"
+    },
+    "txt_estimate_time": "الوقت المتوقع",
+    "@txt_estimate_time": {
+        "description": "الوقت المتوقع"
+    },
+    "txt_from_upr": "من",
+    "@txt_from_upr": {
+        "description": "من"
+    },
+    "txt_to_upr": "ل",
+    "@txt_to_upr": {
+        "description": "ل"
+    },
+    "txt_call": "يتصل",
+    "@txt_call": {
+        "description": "يتصل"
+    },
+    "txt_chat": "دردشة",
+    "@txt_chat": {
+        "description": "دردشة"
+    },
+    "txt_price": "السعر",
+    "@txt_price": {
+        "description": "السعر"
+    },
+    "txt_decline": "يتناقص",
+    "@txt_decline": {
+        "description": "يتناقص"
+    },
+    "txt_accept": "قبول",
+    "@txt_accept": {
+        "description": "قبول"
+    },
+    "txt_customer_pickup": "العملاء تلتقط؟",
+    "@txt_customer_pickup": {
+        "description": "العملاء تلتقط؟"
+    },
+    "txt_navigate": "التنقل",
+    "@txt_navigate": {
+        "description": "التنقل"
+    },
+    "txt_enter_otp": "أدخل OTP",
+    "@txt_enter_otp": {
+        "description": "أدخل OTP"
+    },
+    "txt_start_ride": "ابدأ الركوب",
+    "@txt_start_ride": {
+        "description": "ابدأ الركوب"
+    },
+    "txt_ride_complete": "ركوب كاملة",
+    "@txt_ride_complete": {
+        "description": "ركوب كاملة"
+    },
+    "txt_write_comment": "اكتب تعليقك",
+    "@txt_write_comment": {
+        "description": "اكتب تعليقك"
+    },
+   
+
+
+    "txt_wait_for_payment": "انتظر الدفع",
+    "@txt_wait_for_payment": {
+        "description": "انتظر الدفع"
+    },
+    "txt_ride_complete_upr": "ركوب كاملة",
+    "@txt_ride_complete_upr": {
+        "description": "ركوب كاملة"
+    },
+    "txt_your_ride_complete_upr": "رحلتك كاملة",
+    "@txt_your_ride_complete_upr": {
+        "description": "رحلتك كاملة"
+    },
+    "txt_payment_by": "الدفع بواسطة",
+    "@txt_payment_by": {
+        "description": "الدفع بواسطة"
+    },
+    "txt_type_of_service": "نوع الخدمة",
+    "@txt_type_of_service": {
+        "description": "نوع الخدمة"
+    },
+    "txt_total_km": "إجمالي كيلومتر",
+    "@txt_total_km": {
+        "description": "إجمالي كيلومتر"
+    },
+    "txt_duration": "مدة",
+    "@txt_duration": {
+        "description": "مدة"
+    },
+    "txt_reason_cancellation": "سبب الالغاء",
+    "@txt_reason_cancellation": {
+        "description": "سبب الالغاء"
+    },
+    "txt_driver_denied": "نفى السائق التقاط",
+    "@txt_driver_denied": {
+        "description": "نفى السائق التقاط"
+    },
+    "txt_expected_time": "توقع وقت انتظار أقصر",
+    "@txt_expected_time": {
+        "description": "توقع وقت انتظار أقصر"
+    },
+    "txt_unable_to_contact_user": "غير قادر على الاتصال بالمستخدم",
+    "@txt_unable_to_contact_user": {
+        "description": "غير قادر على الاتصال بالمستخدم"
+    },
+    "txt_reason_not_listed": "السبب الخاص بي غير مدرج هنا",
+    "@txt_reason_not_listed": {
+        "description": "السبب الخاص بي غير مدرج هنا"
+    },
+    "txt_cancel": "يلغي",
+    "@txt_cancel": {
+        "description": "يلغي"
+    },
+    "txt_check_internet": "الرجاء التحقق من اتصال الانترنت الخاص بك",
+    "@txt_check_internet": {
+        "description": "الرجاء التحقق من اتصال الانترنت الخاص بك"
+    },
+    "txt_english": "إنجليزي",
+    "@txt_english": {
+        "description": "إنجليزي"
+    },
+    "txt_portuguese": "البرتغالية",
+    "@txt_portuguese": {
+        "description": "البرتغالية"
+    },
+    "txt_arabic": "عربي",
+    "@txt_arabic": {
+        "description": "عربي"
+    },
+    "txt_urdu": "الأردية",
+    "@txt_urdu": {
+        "description": "الأردية"
+    },
+    "txt_hindi": "هندي",
+    "@txt_hindi": {
+        "description": "هندي"
+    },
+    "txt_spanish": "الأسبانية",
+    "@txt_spanish": {
+        "description": "الأسبانية"
+    },
+    "txt_mandarim": "الماندرين",
+    "@txt_mandarim": {
+        "description": "الماندرين"
+    },
+    "txt_french": "فرنسي",
+    "@txt_french": {
+        "description": "فرنسي"
+    },
+    "txt_afrikaans": "الأفريقي",
+    "@txt_afrikaans": {
+        "description": "الأفريقي"
+    },
+    "txt_bengali": "البنغالية",
+    "@txt_bengali": {
+        "description": "البنغالية"
+    },
+    "txt_russian": "الروسية",
+    "@txt_russian": {
+        "description": "الروسية"
+    },
+    "txt_japanese": "اليابانية",
+    "@txt_japanese": {
+        "description": "اليابانية"
+    },
+    "txt_turkish": "اللغة التركية",
+    "@txt_turkish": {
+        "description": "اللغة التركية"
+    },
+    "txt_swahili": "السواحيلية",
+    "@txt_swahili": {
+        "description": "السواحيلية"
+    },
+    "txt_italian": "إيطالي",
+    "@txt_italian": {
+        "description": "إيطالي"
+    },
+    "txt_edit": "تعديل",
+    "@txt_edit": {
+        "description": "تعديل"
+    },
+    "txt_delete": "حذف",
+    "@txt_delete": {
+        "description": "حذف"
+    },
+    "val_accept_term_condition": "يرجى قبول الشروط والأحكام",
+    "@val_accept_term_condition": {
+        "description": "يرجى قبول الشروط والأحكام"
+    },
+    "val_first_name": "الرجاء إدخال الاسم الأول",
+    "@val_first_name": {
+        "description": "الرجاء إدخال الاسم الأول"
+    },
+    "val_fullname_short": "الاسم الكامل قصير جدا",
+    "@val_fullname_short": {
+        "description": "الاسم الكامل قصير جدا"
+    },
+    "val_enter_userid_email": "الرجاء إدخال معرف المستخدم أو البريد الإلكتروني",
+    "@val_enter_userid_email": {
+        "description": "الرجاء إدخال معرف المستخدم أو البريد الإلكتروني"
+    },
+    "val_userid_email_short": "معرف المستخدم أو البريد الإلكتروني قصير جدًاUser id or email too short",
+    "@val_userid_email_short": {
+        "description": "معرف المستخدم أو البريد الإلكتروني قصير جدًا"
+    },
+    "val_enter_last_name": "الرجاء إدخال الاسم الأخير",
+    "@val_enter_last_name": {
+        "description": "الرجاء إدخال الاسم الأخير"
+    },
+    "val_enter_userid": "الرجاء إدخال معرف المستخدم",
+    "@val_enter_userid": {
+        "description": "الرجاء إدخال معرف المستخدم"
+    },
+    "val_atleast_3char": "الرجاء إدخال شخصية على الأقل 3",
+    "@val_atleast_3char": {
+        "description": "الرجاء إدخال شخصية على الأقل 3"
+    },
+    "val_first_name_short": "الاسم الأول قصير جدا",
+    "@val_first_name_short": {
+        "description": "الاسم الأول قصير جدا"
+    },
+    "val_last_name_short": "اسم العائلة قصير جدا",
+    "@val_last_name_short": {
+        "description": "اسم العائلة قصير جدا"
+    },
+    "val_enter_email": "الرجاء إدخال البريد الإلكتروني",
+    "@val_enter_email": {
+        "description": "الرجاء إدخال البريد الإلكتروني"
+    },
+    "val_valid_enter": "الرجاء إدخال بريد إلكتروني صحيح",
+    "@val_valid_enter": {
+        "description": "الرجاء إدخال بريد إلكتروني صحيح"
+    },
+    "val_enter_password": "الرجاء إدخال كلمة المرور",
+    "@val_enter_password": {
+        "description": "الرجاء إدخال كلمة المرور"
+    },
+    "val_enter_old_pass": "الرجاء إدخال كلمة المرور القديمة",
+    "@val_enter_old_pass": {
+        "description": "الرجاء إدخال كلمة المرور القديمة"
+    },
+    "val_enter_new_pass": "الرجاء إدخال كلمة مرور جديدة",
+    "@val_enter_new_pass": {
+        "description": "الرجاء إدخال كلمة مرور جديدة"
+    },
+    "val_pass_short": "كلمة المرور قصيرة جدا",
+    "@val_pass_short": {
+        "description": "كلمة المرور قصيرة جدا"
+    },
+    "val_pass_not_match": "لا تتطابق كلمات المرور",
+    "@val_pass_not_match": {
+        "description": "لا تتطابق كلمات المرور"
+    },
+    "val_enter_name": "الرجاء إدخال الاسم",
+    "@val_enter_name": {
+        "description": "الرجاء إدخال الاسم"
+    },
+    "val_enter_query": "الرجاء إدخال الاستعلام",
+    "@val_enter_query": {
+        "description": "الرجاء إدخال الاستعلام"
+    },
+    "val_enter_confirm_pass": "الرجاء إدخال كلمة مرور تأكيد",
+    "@val_enter_confirm_pass": {
+        "description": "الرجاء إدخال كلمة مرور تأكيد"
+    },
+    "val_enter_address": "الرجاء إدخال العنوان",
+    "@val_enter_address": {
+        "description": "الرجاء إدخال العنوان"
+    },
+    "val_enter_mobile": "الرجاء إدخال رقم الهاتف المحمول",
+    "@val_enter_mobile": {
+        "description": "الرجاء إدخال رقم الهاتف المحمول"
+    },
+    "val_valid_number": "الرجاء إدخال رقم الهاتف المحمول صالح",
+    "@val_valid_number": {
+        "description": "الرجاء إدخال رقم الهاتف المحمول صالح"
+    },
+    "val_otp": "الرجاء إدخال OTP",
+    "@val_otp": {
+        "description": "الرجاء إدخال OTP"
+    },
+    "val_enter_postal_code": "الرجاء إدخال الرمز البريدي",
+    "@val_enter_postal_code": {
+        "description": "الرجاء إدخال الرمز البريدي"
+    },
+    "val_valid_postal_code": "Pالرجاء إدخال رمز بريدي صالح",
+    "@val_valid_postal_code": {
+        "description": "Pالرجاء إدخال رمز بريدي صالح"
+    },
+    "val_enter_landmark": "الرجاء إدخال لاندمارك",
+    "@val_enter_landmark": {
+        "description": "الرجاء إدخال لاندمارك"
+    },
+    "val_enter_city": "الرجاء إدخال المدينة",
+    "@val_enter_city": {
+        "description": "الرجاء إدخال المدينة"
+    },
+    "val_enter_state": "الرجاء إدخال الحالة",
+    "@val_enter_state": {
+        "description": "الرجاء إدخال الحالة"
+    },
+    "val_enter_address": "الرجاء إدخال العنوان",
+    "@val_enter_address": {
+        "description": "الرجاء إدخال العنوان"
+    },
+    "val_enter_specification": "الرجاء إدخال المواصفات",
+    "@val_enter_specification": {
+        "description": "الرجاء إدخال المواصفات"
+    },
+    "val_enter_message": "أدخل رسالة",
+    "@val_enter_message": {
+        "description": "أدخل رسالة"
+    },
+    "txt_camera_permission": "إذن الكاميرا",
+    "@txt_camera_permission": {
+        "description": "إذن الكاميرا"
+    },
+    "txt_permission_camera": "بدون هذا الإذن ، لن يتمكن هذا التطبيق من اختيار الصورة. هل أنت متأكد أنك تريد إنكار هذا الإذن؟",
+    "@txt_permission_camera": {
+        "description": "بدون هذا الإذن ، لن يتمكن هذا التطبيق من اختيار الصورة. هل أنت متأكد أنك تريد إنكار هذا الإذن؟"
+    },
+    "txt_retry": "إعادة المحاولة",
+    "@txt_retry": {
+        "description": "إعادة المحاولة"
+    },
+    "txt_im_sure": "انا متاكد",
+    "@txt_im_sure": {
+        "description": "انا متاكد"
+    },
+    "txt_gallery_permission": "معرض إذن",
+    "@txt_gallery_permission": {
+        "description": "معرض إذن"
+    },
+    "txt_permision_gallery": "بدون هذا الإذن ، لن يتمكن هذا التطبيق من الحصول على صور من المعرض. هل أنت متأكد أنك تريد إنكار هذا الإذن؟",
+    "@txt_permision_gallery": {
+        "description": "بدون هذا الإذن ، لن يتمكن هذا التطبيق من الحصول على صور من المعرض. هل أنت متأكد أنك تريد إنكار هذا الإذن؟"
+    },
+    "txt_your_msg": "رسالتك...",
+    "@txt_your_msg": {
+        "description": "رسالتك..."
+    },
+    "txt_user_cancel_process": "المستخدم يلغي العملية",
+    "@txt_user_cancel_process": {
+        "description": "المستخدم يلغي العملية"
+    },
+    "txt_thank_for_reg": "شكرا لك على التسجيل",
+    "@txt_thank_for_reg": {
+        "description": "شكرا لك على التسجيل"
+    },
+    "txt_verify_your_doc": "بمجرد التحقق من مستنداتك.",
+    "@txt_verify_your_doc": {
+        "description": "بمجرد التحقق من مستنداتك."
+    },
+     "txt_notify_you": "نعلمك قريبًا",
+    "@txt_notify_you": {
+        "description": "نعلمك قريبًا"
+    },
+    "txt_active_after_verification": "بعد التحقق من أن حسابك سينشط",
+    "@txt_active_after_verification": {
+        "description": "بعد التحقق من أن حسابك سينشط"
+    },
+    "val_enter_vehicle_num": "الرجاء إدخال رقم السيارة",
+    "@val_enter_vehicle_num": {
+        "description": "الرجاء إدخال رقم السيارة"
+    },
+     "val_upload_vehicle_front_img": "يرجى تحميل الصورة الأمامية للمركبة",
+    "@val_upload_vehicle_front_img": {
+        "description": "يرجى تحميل الصورة الأمامية للمركبة"
+    },
+     "val_upload_vehicle_back_img": "يرجى تحميل صورة الخلفية",
+    "@val_upload_vehicle_back_img": {
+        "description": "يرجى تحميل صورة الخلفية"
+    },
+     "val_enter_id_number": "الرجاء إدخال رقم بطاقة التعريف",
+    "@val_enter_id_number": {
+        "description": "الرجاء إدخال رقم بطاقة التعريف"
+    },
+     "val_upload_id_front_img": "يرجى تحميل صورة بطاقة التعريف الأمامية",
+    "@val_upload_id_front_img": {
+        "description": "يرجى تحميل صورة بطاقة التعريف الأمامية"
+    },
+     "val_upload_id_back_img": "يرجى تحميل صورة بطاقة التعريف",
+    "@val_upload_id_back_img": {
+        "description": "يرجى تحميل صورة بطاقة التعريف"
+    },
+     "val_select_id_start_date": "الرجاء تحديد تاريخ بدء بطاقة التعريف",
+    "@val_select_id_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء بطاقة التعريف"
+    },
+     "val_select_id_end_date": "الرجاء تحديد تاريخ نهاية بطاقة التعريف",
+    "@val_select_id_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية بطاقة التعريف"
+    },
+     "val_enter_license_num": "الرجاء إدخال رقم الترخيص",
+    "@val_enter_license_num": {
+        "description": "الرجاء إدخال رقم الترخيص"
+    },
+     "val_upload_license_front_img": "يرجى تحميل الصورة الأمامية لترخيص",
+    "@val_upload_license_front_img": {
+        "description": "يرجى تحميل الصورة الأمامية لترخيص"
+    },
+     "val_upload_license_back_img": "يرجى تحميل صورة الترخيص",
+    "@val_upload_license_back_img": {
+        "description": "يرجى تحميل صورة الترخيص"
+    },
+     "val_select_license_start_date": "الرجاء تحديد تاريخ بدء الترخيص",
+    "@val_select_license_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء الترخيص"
+    },
+     "val_select_license_end_date": "الرجاء تحديد تاريخ نهاية الترخيص",
+    "@val_select_license_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية الترخيص"
+    },
+     "val_enter_vehicle_reg_num": "الرجاء إدخال رقم تسجيل السيارة",
+    "@val_enter_vehicle_reg_num": {
+        "description": "الرجاء إدخال رقم تسجيل السيارة"
+    },
+     "val_upload_reg_front_img": "يرجى تحميل الصورة الأمامية لتسجيل المركبات",
+    "@val_upload_vehicle_front_img": {
+        "description": "يرجى تحميل الصورة الأمامية لتسجيل المركبات"
+    },
+     "val_upload_reg_back_img": "يرجى تحميل صورة تسجيل المركبات",
+    "@txt_your_msg": {
+        "description": "يرجى تحميل صورة تسجيل المركبات"
+    },
+     "val_enter_reg_start_date": "الرجاء تحديد تاريخ بدء تسجيل المركبات",
+    "@val_enter_reg_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء تسجيل المركبات"
+    },
+     "val_enter_reg_end_date": "الرجاء تحديد تاريخ نهاية تسجيل المركبات",
+    "@val_enter_reg_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية تسجيل المركبات"
+    },
+    "val_enter_owner_num": "الرجاء إدخال رقم ملكية السيارة",
+    "@val_enter_owner_num": {
+        "description": "الرجاء إدخال رقم ملكية السيارة"
+    },
+     "val_upload_owner_front_img": "يرجى تحميل صورة ملكية السيارة الأمامية",
+    "@val_upload_owner_front_img": {
+        "description": "يرجى تحميل صورة ملكية السيارة الأمامية"
+    },
+     "val_upload_owner_back_img": "يرجى تحميل صورة ملكية السيارة مرة أخرى",
+    "@val_upload_owner_back_img": {
+        "description": "يرجى تحميل صورة ملكية السيارة مرة أخرى"
+    },
+     "val_enter_owner_start_date": "الرجاء تحديد تاريخ بدء ملكية السيارة",
+    "@val_enter_owner_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء ملكية السيارة"
+    },
+     "val_enter_owner_end_date": "الرجاء تحديد تاريخ نهاية ملكية السيارة",
+    "@val_enter_owner_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية ملكية السيارة"
+    },
+     "val_enter_insurance_num": "الرجاء إدخال رقم التأمين على السيارة",
+    "@val_enter_insurance_num": {
+        "description": "الرجاء إدخال رقم التأمين على السيارة"
+    },
+      "val_upload_insurance_front_img": "يرجى تحميل الصورة الأمامية للتأمين على السيارة",
+    "@val_upload_insurance_front_img": {
+        "description": "يرجى تحميل الصورة الأمامية للتأمين على السيارة"
+    },
+      "val_upload_insurance_back_img": "يرجى تحميل صورة التأمين على السيارة",
+    "@val_upload_insurance_back_img": {
+        "description": "يرجى تحميل صورة التأمين على السيارة"
+    },
+      "val_insurance_start_date": "الرجاء تحديد تاريخ بدء التأمين على السيارة",
+    "@val_insurance_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء التأمين على السيارة"
+    },
+      "val_insurance_end_date": "الرجاء تحديد تاريخ نهاية التأمين على السيارة",
+    "@val_insurance_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية التأمين على السيارة"
+    },
+      "val_inspection_num": "الرجاء إدخال رقم فحص السيارة",
+    "@val_inspection_num": {
+        "description": "الرجاء إدخال رقم فحص السيارة"
+    },
+      "val_inspection_front_img": "يرجى تحميل الصورة الأمامية لفحص السيارة",
+    "@val_inspection_front_img": {
+        "description": "يرجى تحميل الصورة الأمامية لفحص السيارة"
+    },
+      "val_inspection_back_img": "يرجى تحميل صورة التفتيش مرة أخرى",
+    "@val_inspection_back_img": {
+        "description": "يرجى تحميل صورة التفتيش مرة أخرى"
+    },
+     "val_inspection_start_date": "الرجاء تحديد تاريخ بدء فحص السيارة",
+    "@val_inspection_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء فحص السيارة"
+    },
+     "val_inspection_end_date": "الرجاء تحديد تاريخ نهاية فحص السيارة",
+    "@val_inspection_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية فحص السيارة"
+    },
+     "val_manifest_num": "الرجاء إدخال رقم بيان السيارة",
+    "@val_manifest_num": {
+        "description": "الرجاء إدخال رقم بيان السيارة"
+    },
+     "val_manifest_front_img": "يرجى تحميل الصورة الأمامية للسيارة",
+    "@val_manifest_front_img": {
+        "description": "يرجى تحميل الصورة الأمامية للسيارة"
+    },
+     "val_manifest_back_img": "يرجى تحميل صورة البيان الواضحة للمركبة",
+    "@val_manifest_back_img": {
+        "description": "يرجى تحميل صورة البيان الواضحة للمركبة"
+    },
+     "val_manifest_start_date": "الرجاء تحديد تاريخ بدء تشغيل السيارة",
+    "@val_manifest_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء تشغيل السيارة"
+    },
+     "val_manifest_end_date": "الرجاء تحديد تاريخ نهاية البيان",
+    "@val_manifest_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية البيان"
+    },
+     "val_radio_num": "الرجاء إدخال رقم ضريبة الراديو للمركبة",
+    "@val_radio_num": {
+        "description": "الرجاء إدخال رقم ضريبة الراديو للمركبة"
+    },
+     "val_radio_front_img": "يرجى تحميل صورة ضريبة الراديو للمركبة",
+    "@val_radio_front_img": {
+        "description": "يرجى تحميل صورة ضريبة الراديو للمركبة"
+    },
+     "val_radio_back_img": "يرجى تحميل صورة ضريبة الراديو للمركبة",
+    "@val_radio_back_img": {
+        "description": "يرجى تحميل صورة ضريبة الراديو للمركبة"
+    },
+     "val_radio_start_date": "الرجاء تحديد تاريخ بدء ضريبة الراديو للمركبة",
+    "@val_radio_start_date": {
+        "description": "الرجاء تحديد تاريخ بدء ضريبة الراديو للمركبة"
+    },
+     "val_radio_end_date": "الرجاء تحديد تاريخ نهاية ضريبة الراديو للمركبة",
+    "@val_radio_end_date": {
+        "description": "الرجاء تحديد تاريخ نهاية ضريبة الراديو للمركبة"
+    },
+      "txt_file_selected": "ملف محدد",
+    "@txt_file_selected": {
+        "description": "ملف محدد"
+    },
+       "txt_nofile_selected": "لم يتم اختيار اي ملف",
+    "@txt_nofile_selected": {
+        "description": "لم يتم اختيار اي ملف"
+    },
+    "txt_server_error": "خطأ الخادم ، يرجى المحاولة مرة أخرى",
+    "@txt_server_error": {
+        "description": "خطأ الخادم ، يرجى المحاولة مرة أخرى"
+    },
+     "val_valid_otp": "الرجاء إدخال OTP صالح",
+    "@val_valid_otp": {
+        "description": "الرجاء إدخال OTP صالح"
+    },
+     "txt_double_click": "انقر نقرًا مزدوجًا للخروج من التطبيق",
+    "@txt_double_click": {
+        "description": "انقر نقرًا مزدوجًا للخروج من التطبيق"
+    },
+      "txt_pick_from": "تلتقط من",
+    "@txt_pick_from": {
+        "description": "تلتقط من"
+    },
+      "txt_transaction_id": "رقم المعاملة",
+    "@txt_pick_from": {
+        "description": "رقم المعاملة"
+    },
+       "txt_total_price": "السعر الكلي",
+    "@txt_total_price": {
+        "description": "السعر الكلي"
+    },
+     "txt_complete": "مكتمل",
+    "@txt_complete": {
+        "description": "مكتمل"
+    },
+      "txt_date": "تاريخ",
+    "@txt_date": {
+        "description": "تاريخ"
+    },
+      "txt_by": "بواسطة",
+    "@txt_by": {
+        "description": "بواسطة"
+    },
+       "txt_cancelled": "ألغيت",
+    "@txt_cancelled": {
+        "description": "ألغيت"
+    },
+       "txt_phone_number": "رقم الهاتف",
+    "@txt_phone_number": {
+        "description": "رقم الهاتف"
+    },
+       "txt_upload": "رفع",
+    "@txt_upload": {
+        "description": "رفع"
+    },
+       "txt_valid_phone": "الرجاء إدخال هاتف صالح لا",
+    "@txt_valid_phone": {
+        "description": "الرجاء إدخال هاتف صالح لا"
+    },
+       "txt_maker_name": "الرجاء إدخال تفاصيل صانع السيارات",
+    "@txt_maker_name": {
+        "description": "الرجاء إدخال تفاصيل صانع السيارات"
+    },
+       "txt_model_name": "الرجاء إدخال اسم طراز السيارة",
+    "@txt_model_name": {
+        "description": "الرجاء إدخال اسم طراز السيارة"
+    },
+       "txt_color_name": "الرجاء إدخال اسم لون السيارة",
+    "@txt_color_name": {
+        "description": "الرجاء إدخال اسم لون السيارة"
+    },
+       "txt_select_passenger": "الرجاء اختيار عدد الراكب",
+    "@txt_select_passenger": {
+        "description": "الرجاء اختيار عدد الراكب"
+    },
+       "txt_valid_data": "أدخل بيانات صالحة",
+    "@txt_valid_data": {
+        "description": "أدخل بيانات صالحة"
+    },
+       "txt_select_vehicle_pic": "الرجاء تحديد صور المركبات",
+    "@txt_select_vehicle_pic": {
+        "description": "الرجاء تحديد صور المركبات"
+    },
+         "txt_location_permission": "إذن الموقع",
+    "@txt_location_permission": {
+        "description": "إذن الموقع"
+    },
+    "txt_permision_location": "بدون هذا الإذن ، لن يتمكن هذا التطبيق من الحصول على موقعك وعنوانك. هل أنت متأكد أنك تريد إنكار هذا الإذن؟",
+    "@txt_permision_location": {
+        "description": "بدون هذا الإذن ، لن يتمكن هذا التطبيق من الحصول على موقعك وعنوانك. هل أنت متأكد أنك تريد إنكار هذا الإذن؟"
+    },
+    "txt_permision_setting": "إذا كنت ترغب في استخدام هذا التطبيق ، فيجب عليك تمكين الأذونات في إعداد أذونات النظام",
+    "@txt_permision_setting": {
+        "description": "إذا كنت ترغب في استخدام هذا التطبيق ، فيجب عليك تمكين الأذونات في إعداد أذونات النظام"
+    },
+     "txt_setting": "إعدادات",
+    "@txt_setting": {
+        "description": "إعدادات"
+    },
+     "txt_exit": "مخرج",
+    "@txt_exit": {
+        "description": "مخرج"
+    },
+    "txt_select_max": "حدد Max 10 Images",
+    "@txt_exit": {
+        "description": "حدد Max 10 Images"
+    },
+    "txt_car_maker": "صانع السيارات",
+    "@txt_car_maker": {
+        "description": "صانع السيارات"
+    },
+     "txt_car_model": "طراز السيارة",
+    "@txt_car_model": {
+        "description": "طراز السيارة"
+    },
+     "txt_car_color": "لون السيارة",
+    "@txt_car_color": {
+        "description": "لون السيارة"
+    },
+     "txt_no_pass": "عدد الركاب",
+    "@txt_no_pass": {
+        "description": "عدد الركاب"
+    },
+     "txt_vehicle_pic": "صورة السيارة",
+    "@txt_vehicle_pic": {
+        "description": "صورة السيارة"
+    },
+     "txt_driver_id": "بطاقة تعريف السائق",
+    "@txt_driver_id": {
+        "description": "بطاقة تعريف السائق"
+    },
+     "txt_driver_driving": "رخصة قيادة القيادة",
+    "@txt_driver_driving": {
+        "description": "رخصة قيادة القيادة"
+    },
+     "txt_vehicle_reg": "استمارة المركبة",
+    "@txt_vehicle_reg": {
+        "description": "استمارة المركبة"
+    },
+     "txt_vehicle_owner": "ملكية المركبات",
+    "@txt_vehicle_owner": {
+        "description": "ملكية المركبات"
+    },
+     "txt_vehicle_insur": "التأمين على المركبات",
+    "@txt_vehicle_insur": {
+        "description": "التأمين على المركبات"
+    },
+      "txt_vehicle_inspec": "فحص المركبة",
+    "@txt_vehicle_inspec": {
+        "description": "فحص المركبة"
+    },
+      "txt_vehicle_mani": "بيان السيارة",
+    "@txt_vehicle_mani": {
+        "description": "بيان السيارة"
+    },
+     "txt_vehicle_radio": "ضريبة راديو السيارة",
+    "@txt_vehicle_radio": {
+        "description": "ضريبة راديو السيارة"
+    },
+      "txt_maker": "صانع",
+    "@txt_maker": {
+        "description": "صانع"
+    },
+      "txt_model": "نموذج",
+    "@txt_model": {
+        "description": "نموذج"
+    },
+      "txt_color": "اللون",
+    "@txt_color": {
+        "description": "اللون"
+    },
+       "txt_passenger": "راكب",
+    "@txt_passenger": {
+        "description": "راكب"
+    },
+      "txt_max_10": "(الحد الأقصى 10)",
+    "@txt_max_10": {
+        "description": "(الحد الأقصى 10)"
+    },
+    "txt_uploaded": "تم الرفع",
+    "@txt_uploaded": {
+        "description": "تم الرفع"
+    },
+      "val_name_len": "أدخل اسم صالح",
+    "@val_name_len": {
+        "description": "أدخل اسم صالح"
+    },
+    "val_driving_license": "أدخل رخصة قيادة صالحة",
+    "@val_driving_license": {
+        "description": "أدخل رخصة قيادة صالحة"
+    },
+    "txt_select": "يختار",
+    "@txt_select": {
+        "description": "يختار"
+    },
+    "val_IdCard": "أدخل بطاقة هوية صالحة",
+    "@val_IdCard": {
+        "description": "أدخل بطاقة هوية صالحة"
+    },
+    "val_reg_len": "يجب ألا يتجاوز رقم التسجيل أكثر من 10 طابع أبجدي رقمي",
+    "@val_reg_len": {
+        "description": "يجب ألا يتجاوز رقم التسجيل أكثر من 10 طابع أبجدي رقمي"
+    },
+    "val_owner_len": "أدخل اسم المالك صالح",
+    "@val_owner_len": {
+        "description": "أدخل اسم المالك صالح"
+    },
+    "txt_insurance_len": "يجب ألا يتجاوز رقم التأمين أكثر من 30 شخصية أبجدية رقمية",
+    "@txt_insurance_len": {
+        "description": "يجب ألا يتجاوز رقم التأمين أكثر من 30 شخصية أبجدية رقمية"
+    },
+     "txt_change_lng": "تغيير اللغة",
+    "@txt_change_lng": {
+        "description": "تغيير اللغة"
+    },
+     "txt_pls_enter_queries": "الرجاء إدخال استفساراتك",
+    "@txt_pls_enter_queries": {
+        "description": "الرجاء إدخال استفساراتك"
+    },
+     "txt_query_length": "يجب أن يكون طول الاستفسارات 10 أحرف",
+    "@txt_query_length": {
+        "description": "يجب أن يكون طول الاستفسارات 10 أحرف"
+    },
+     "txt_take_live_photo": "التقط صورة حية",
+    "@txt_take_live_photo": {
+        "description": "التقط صورة حية"
+    },
+     "txt_loading_camera": "تحميل الكاميرا ...",
+    "@txt_loading_camera": {
+        "description": "تحميل الكاميرا ..."
+    },
+     "txt_retake": "إعادة",
+    "@txt_retake": {
+        "description": "إعادة"
+    },
+     "txt_confirm": "يتأكد",
+    "@txt_confirm": {
+        "description": "يتأكد"
+    },
+     "txt_no_booking_for_schedule": "لا يوجد حجز لركوب الجدول الزمني",
+    "@txt_no_booking_for_schedule": {
+        "description": "لا يوجد حجز لركوب الجدول الزمني"
+    },
+     "txt_schedule_ride": "جدولة ركوب",
+    "@txt_schedule_ride": {
+        "description": "جدولة ركوب"
+    },
+     "txt_scheduled_rides": "ركوب الخيل المجدولة",
+    "@txt_scheduled_rides": {
+        "description": "ركوب الخيل المجدولة"
+    },
+     "txt_cancel_ride": "إلغاء ركوب",
+    "@txt_cancel_ride": {
+        "description": "إلغاء ركوب"
+    },
+     "txt_payment_pending": "انتظار الدفع",
+    "@txt_payment_pending": {
+        "description": "انتظار الدفع"
+    },
+     "txt_accepted": "قبلت",
+    "@txt_accepted": {
+        "description": "قبلت"
+    },
+     "txt_ride_pending": "ركوب معلق",
+    "@txt_ride_pending": {
+        "description": "ركوب معلق"
+    },
+     "txt_wallet": "محفظة",
+    "@txt_wallet": {
+        "description": "محفظة"
+    },
+     "txt_send_request": "ارسل طلب",
+    "@txt_send_request": {
+        "description": "ارسل طلب"
+    },
+     "txt_note_remark": "ملاحظة/ملاحظة",
+    "@txt_note_remark": {
+        "description": "ملاحظة/ملاحظة"
+    },
+     "txt_withdrawal_amt": "كمية السحب",
+    "@txt_withdrawal_amt": {
+        "description": "كمية السحب"
+    },
+     "txt_history": "تاريخ",
+    "@txt_history": {
+        "description": "تاريخ"
+    },
+     "txt_skip": "يتخطى",
+    "@txt_skip": {
+        "description": "يتخطى"
+    },
+     "txt_success": "نجاح",
+    "@txt_success": {
+        "description": "نجاح"
+    },
+     "txt_enter_amt": "أدخل المبلغ",
+    "@txt_": {
+        "description": "أدخل المبلغ"
+    },
+     "txt_enter_valid_amt": "أدخل مبلغ صالح",
+    "@txt_enter_valid_amt": {
+        "description": "أدخل مبلغ صالح"
+    },
+     "txt_owner_name": "اسم المالك",
+    "@txt_owner_name": {
+        "description": "اسم المالك"
+    },
+     "txt_enter_owner_name": "الرجاء إدخال اسم المالك",
+    "@txt_enter_owner_name": {
+        "description": "الرجاء إدخال اسم المالك"
+    },
+     "txt_enter_valid_owner_name": "أدخل اسم المالك صالح",
+    "@txt_enter_valid_owner_name": {
+        "description": "أدخل اسم المالك صالح"
+    },
+     "txt_enter_valid_maker_name": "أدخل اسم صانع صالح",
+    "@txt_enter_valid_maker_name": {
+        "description": "أدخل اسم صانع صالح"
+    },
+     "txt_valid_color_name": "أدخل اسم اللون الصحيح",
+    "@txt_valid_color_name": {
+        "description": "أدخل اسم اللون الصحيح"
+    },
+     "txt_enter_color_name": "الرجاء إدخال اسم اللون",
+    "@txt_enter_color_name": {
+        "description": "الرجاء إدخال اسم اللون"
+    },
+     "txt_request_mode": "وضع الطلب",
+    "@txt_request_mode": {
+        "description": "وضع الطلب"
+    },
+     "txt_request_pending": "طلب معلق",
+    "@txt_request_pending": {
+        "description": "طلب معلق"
+    },
+     "txt_request_decline": "طلب انخفاض",
+    "@txt_request_decline": {
+        "description": "طلب انخفاض"
+    },
+     "txt_request_date": "تاريخ الطلب",
+    "@txt_request_date": {
+        "description": "تاريخ الطلب"
+    },
+     "txt_request_status": "حالة الطلب",
+    "@txt_request_status": {
+        "description": "حالة الطلب"
+    },
+     "txt_enter_vaild_name": "أدخل اسم صالح",
+    "@txt_enter_vaild_name": {
+        "description": "أدخل اسم صالح"
+    },
+     "txt_update": "تحديث",
+    "@txt_update": {
+        "description": "تحديث"
+    },
+     "txt_enter_details_of_your": "أدخل تفاصيل الخاص بك",
+    "@txt_enter_details_of_your": {
+        "description": "أدخل تفاصيل الخاص بك"
+    },
+     "txt_upload_photo_of_your": "تحميل صورة لك",
+    "@txt_upload_photo_of_your": {
+        "description": "تحميل صورة لك"
+    },
+     "txt_vehicle": "عربة",
+    "@txt_vehicle": {
+        "description": "عربة"
+    },
+     "txt_select_min_one_img": "حدد الحد الأدنى 1 صورة",
+    "@txt_select_min_one_img": {
+        "description": "حدد الحد الأدنى 1 صورة"
+    },
+     "txt_details": "تفاصيل",
+    "@txt_details": {
+        "description": "تفاصيل"
+    },
+     "txt_in_progress": "في تَقَدم",
+    "@txt_in_progress": {
+        "description": "في تَقَدم"
+    },
+     "txt_complete_ride": "ركوب كاملة",
+    "@txt_complete_ride": {
+        "description": "ركوب كاملة"
+    },
+     "txt_your_ride_completed": "تم الانتهاء من رحلتك",
+    "@txt_your_ride_completed": {
+        "description": "تم الانتهاء من رحلتك"
+    },
+     "txt_ride_completed": "الانتهاء من الركوب",
+    "@txt_ride_completed": {
+        "description": "الانتهاء من الركوب"
+    },
+     "txt_security_deposit": "مبلغ التأمين",
+    "@txt_security_deposit": {
+        "description": "مبلغ التأمين"
+    },
+     "txt_complete_security_deposit_process": "أكمل عملية إيداع الأمان",
+    "@txt_complete_security_deposit_process": {
+        "description": "أكمل عملية إيداع الأمان"
+    },
+     "txt_checked_pay_later": "لقد راجعت إيداع الأمن في وقت لاحق",
+    "@txt_checked_pay_later": {
+        "description": "لقد راجعت إيداع الأمن في وقت لاحق"
+    },
+     "txt_already_done_online_payment": "لقد قمت بالفعل بالدفع عبر الإنترنت",
+    "@txt_already_done_online_payment": {
+        "description": "لقد قمت بالفعل بالدفع عبر الإنترنت"
+    },
+     "txt_choose_pay_menthod": "اختر وسيلة الدفع",
+    "@txt_choose_pay_menthod": {
+        "description": "اختر وسيلة الدفع"
+    },
+     "txt_pay_now": "ادفع الآن",
+    "@txt_pay_now": {
+        "description": "ادفع الآن"
+    },
+     "txt_do_later": "سأقوم بإيداع الأمن لاحقًا",
+    "@txt_do_later": {
+        "description": "سأقوم بإيداع الأمن لاحقًا"
+    },
+     "txt_gender_pref": "تفضيلات الجنس",
+    "@txt_gender_pref": {
+        "description": "تفضيلات الجنس"
+    },
+     "txt_gender_you_want_to_prefer": "(حدد الجنس الذي تريد أن تفضل ركوبه)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(حدد الجنس الذي تريد أن تفضل ركوبه)"
+    },
+     "txt_male": "ذكر",
+    "@txt_male": {
+        "description": "ذكر"
+    },
+     "txt_female": "أنثى",
+    "@txt_female": {
+        "description": "أنثى"
+    },
+     "txt_other": "آخر",
+    "@txt_other": {
+        "description": "آخر"
+    },
+     "txt_no_pref": "لا تفضيلات",
+    "@txt_no_pref": {
+        "description": "لا تفضيلات"
+    },
+     "txt_update_details_of_user": "تحديث تفاصيل الخاص بك",
+    "@txt_update_details_of_user": {
+        "description": "تحديث تفاصيل الخاص بك"
+    },
+     "txt_criminal_record_certificate": "شهادة السجل الجنائي",
+    "@txt_criminal_record_certificate": {
+        "description": "شهادة السجل الجنائي"
+    },
+     "txt_criminal_record": "سجل جنائي",
+    "@txt_criminal_record": {
+        "description": "سجل جنائي"
+    },
+     "txt_update_your": "تحديث الخاص بك",
+    "@txt_update_your": {
+        "description": "تحديث الخاص بك"
+    },
+     "txt_document": "وثيقة",
+    "@txt_document": {
+        "description": "وثيقة"
+    },
+      "txt_select_your_gender": "اختر جنسك",
+    "@txt_select_your_gender": {
+        "description": "اختر جنسك"
+    },
+      "txt_gender": "جنس",
+    "@txt_gender": {
+        "description": "جنس"
+    },
+      "txt_ride_type": "نوع الركوب",
+    "@txt_ride_type": {
+        "description": "نوع الركوب"
+    },
+      "txt_rejected": "مرفوض",
+    "@txt_rejected": {
+        "description": "مرفوض"
+    },
+      "txt_km": "كم",
+    "@txt_km": {
+        "description": "كم"
+    },
+      "txt_select_reason": "حدد السبب",
+    "@txt_select_reason": {
+        "description": "حدد السبب"
+    },
+      "txt_select_gender_pref": "حدد تفضيل الجنس",
+    "@txt_select_gender_pref": {
+        "description": "حدد تفضيل الجنس"
+    },
+      "txt_update_documents": "تحديث المستندات",
+    "@txt_update_documents": {
+        "description": "تحديث المستندات"
+    },
+      "txt_are_you_sure_to_logout": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+    "@txt_are_you_sure_to_logout": {
+        "description": "هل أنت متأكد أنك تريد تسجيل الخروج؟"
+    },
+      "txt_my_rides": "ركوب بلدي",
+    "@txt_my_rides": {
+        "description": "ركوب بلدي"
+    },
+      "txt_rating": "تقييم",
+    "@txt_rating": {
+        "description": "تقييم"
+    },
+      "txt_daily_ride": "ركوب يومي",
+    "@txt_daily_ride": {
+        "description": "ركوب يومي"
+    },
+     "txt_rental_ride": "ركوب الإيجار",
+    "@txt_rental_ride": {
+        "description": "ركوب الإيجار"
+    },
+     "txt_enter_your_reason": "الرجاء إدخال السبب الخاص بك",
+    "@txt_enter_your_reason": {
+        "description": "الرجاء إدخال السبب الخاص بك"
+    },
+     "txt_select_ride_type": "حدد نوع الركوب",
+    "@txt_select_ride_type": {
+        "description": "حدد نوع الركوب"
+    },
+     "txt_profile_under_review": "ملف التعريف الخاص بك قيد المراجعة ، لا يمكنك ركوبه حتى ينشطه المسؤول.",
+    "@txt_profile_under_review": {
+        "description": "ملف التعريف الخاص بك قيد المراجعة ، لا يمكنك ركوبه حتى ينشطه المسؤول."
+    },
+     "txt_your_account_deactivateed": "تم إلغاء تنشيط حسابك بواسطة المسؤول ، يرجى الاتصال بهم.",
+    "@txt_your_account_deactivateed": {
+        "description": "تم إلغاء تنشيط حسابك بواسطة المسؤول ، يرجى الاتصال بهم."
+    },
+     "txt_accept_terms_privacy": "من خلال التسجيل ، فإنك تقبل شروط الخدمات وسياسة الخصوصية",
+    "@txt_accept_terms_privacy": {
+        "description": "من خلال التسجيل ، فإنك تقبل شروط الخدمات وسياسة الخصوصية"
+    },
+     "txt_please_accept_terms_privacy": "يرجى قبول شروط الخدمات وسياسة الخصوصية",
+    "@txt_please_accept_terms_privacy": {
+        "description": "يرجى قبول شروط الخدمات وسياسة الخصوصية"
+    },
+     "txt_thanks_for_registering": "شكرا للتسجيل معنا",
+    "@txt_thanks_for_registering": {
+        "description": "شكرا للتسجيل معنا"
+    },
+     "txt_application_under_review_check_status": "تطبيقك قيد المراجعة ، يمكنك التحقق من الحالة على الشريط الأحمر العلوي في الصفحة الرئيسية.",
+    "@txt_application_under_review_check_status": {
+        "description": "تطبيقك قيد المراجعة ، يمكنك التحقق من الحالة على الشريط الأحمر العلوي في الصفحة الرئيسية."
+    },
+     "txt_update_details": "تحديث التفاصيل",
+    "@txt_update_details": {
+        "description": "تحديث التفاصيل"
+    },
+     "txt_ride_details": "تفاصيل ركوب",
+    "@txt_ride_details": {
+        "description": "تفاصيل ركوب"
+    },
+     "txt_mpesa": "كرمة",
+    "@txt_mpesa": {
+        "description": "كرمة"
+    },
+     "txt_image": "صورة",
+    "@txt_image": {
+        "description": "صورة"
+    },
+     "txt_check_internet_try_again": "يرجى التحقق من اتصال الإنترنت الخاص بك والمحاولة مرة أخرى",
+    "@txt_check_internet_try_again": {
+        "description": "يرجى التحقق من اتصال الإنترنت الخاص بك والمحاولة مرة أخرى"
+    },
+     "txt_oops_no_internet": "عفوًا ، لا يوجد اتصال بالإنترنت",
+    "@txt_oops_no_internet": {
+        "description": "عفوًا ، لا يوجد اتصال بالإنترنت"
+    },
+     "txt_package_complete_renew": "تم الانتهاء من الحزمة الخاصة بك إما أكمل الركوب ، أو انتظر حتى يقوم المستخدم بتجديد الحزمة",
+    "@txt_package_complete_renew": {
+        "description": "تم الانتهاء من الحزمة الخاصة بك إما أكمل الركوب ، أو انتظر حتى يقوم المستخدم بتجديد الحزمة"
+    },
+     "txt_wait_for_response": "بإنتظار الرد",
+    "@txt_wait_for_response": {
+        "description": "بإنتظار الرد"
+    },
+     "txt_ride_complete_in": "ركوب كاملة في",
+    "@txt_ride_complete_in": {
+        "description": "ركوب كاملة في"
+    },
+     "txt_something_went_wrong": "هناك خطأ ما",
+    "@txt_something_went_wrong": {
+        "description": "هناك خطأ ما"
+    },
+     "txt_refresh_page_try_later": "حاول تحديث الصفحة ، أو حاول مرة أخرى لاحقًا.",
+    "@txt_refresh_page_try_later": {
+        "description": "حاول تحديث الصفحة ، أو حاول مرة أخرى لاحقًا."
+    },
+     "txt_permission_required": "إذن مطلوب",
+    "@txt_permission_required": {
+        "description": "إذن مطلوب"
+    },
+     "txt_enable_permission": "تمكين الإذن",
+    "@txt_enable_permission": {
+        "description": "تمكين الإذن"
+    },
+     "txt_pick_your_country": "اختر بلدك",
+    "@txt_pick_your_country": {
+        "description": "اختر بلدك"
+    },
+     "txt_cant_update_ride_type": "لا يمكنك تحديث نوع رحلتك في رحلة مستمرة.",
+    "@txt_cant_update_ride_type": {
+        "description": "لا يمكنك تحديث نوع رحلتك في رحلة مستمرة."
+    },
+     "txt_check_connect_timeout": "تحقق من وقت الاتصال الخاص بك!",
+    "@txt_check_connect_timeout": {
+        "description": "تحقق من وقت الاتصال الخاص بك!"
+    },
+     "txt_timeout_exception": "استثناء مهلة.",
+    "@txt_timeout_exception": {
+        "description": "استثناء مهلة."
+    },
+     "txt_request_cancel_from_user": "طلب إلغاء من المستخدم.",
+    "@txt_request_cancel_from_user": {
+        "description": "طلب إلغاء من المستخدم."
+    },
+     "txt_getting_wrong_response": "نحن نحصل على استجابة خاطئة.",
+    "@txt_getting_wrong_response": {
+        "description": "نحن نحصل على استجابة خاطئة."
+    },
+     "txt_connection_error": "خطأ في الإتصال.",
+    "@txt_connection_error": {
+        "description": "خطأ في الإتصال."
+    },
+     "txt_server_not_connected_contact_admin": "الخادم غير متصل ، يرجى الاتصال المسؤول.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "الخادم غير متصل ، يرجى الاتصال المسؤول."
+    },
+     "txt_socket_not_connect": "المقبس غير متصل ...",
+    "@txt_socket_not_connect": {
+        "description": "المقبس غير متصل ..."
+    },
+     "txt_user_renewed_package": "جدد المستخدم الحزمة!",
+    "@txt_user_renewed_package": {
+        "description": "جدد المستخدم الحزمة!"
+    },
+     "txt_bear_per_km": "دب المستخدم لكل كيلومترات!",
+    "@txt_bear_per_km": {
+        "description": "دب المستخدم لكل كيلومترات!"
+    },
+     "txt_wait_for_user": "انتظر المستخدم",
+    "@txt_wait_for_user": {
+        "description": "انتظر المستخدم"
+    },
+     "txt_bysigning_you_accept": "من خلال الاشتراك ، تقبل",
+    "@txt_bysigning_you_accept": {
+        "description": "من خلال الاشتراك ، تقبل"
+    },
+     "txt_terms_service": "شروط الخدمة",
+    "@txt_terms_service": {
+        "description": "شروط الخدمة"
+    },
+     "txt_and": "و",
+    "@txt_and": {
+        "description": "و"
+    },
+     "txt_privacy_policy": "سياسة الخصوصية",
+    "@txt_privacy_policy": {
+        "description": "سياسة الخصوصية"
+    },
+     "txt_cash_received": "المبلغ المستلم",
+    "@txt_cash_received": {
+        "description": "المبلغ المستلم"
+    },
+     "txt_click_to_take_photo": "انقر لالتقاط الصورة",
+    "@txt_click_to_take_photo": {
+        "description": "انقر لالتقاط الصورة"
+    },
+     "txt_camera_setting_permission": "لا يتم تمكين إذن الكاميرا ، يرجى تمكين الإذن",
+    "@txt_camera_setting_permission": {
+        "description": "لا يتم تمكين إذن الكاميرا ، يرجى تمكين الإذن"
+    },
+     "txt_gallery_setting_permission": "لا يتم تمكين إذن المعرض ، يرجى تمكين الإذن",
+    "@txt_gallery_setting_permission": {
+        "description": "لا يتم تمكين إذن المعرض ، يرجى تمكين الإذن"
+    },
+     "txt_unauthorized_login": "تسجيل الدخول غير التفويض",
+    "@txt_unauthorized_login": {
+        "description": "تسجيل الدخول غير التفويض"
+    },
+     "txt_login_detect": "تم اكتشاف تسجيل الدخول الجديد في جهاز آخر ، يرجى تسجيل الدخول مرة أخرى لاستخدامه على هذا الجهاز",
+    "@txt_login_detect": {
+        "description": "تم اكتشاف تسجيل الدخول الجديد في جهاز آخر ، يرجى تسجيل الدخول مرة أخرى لاستخدامه على هذا الجهاز"
+    },
+     "txt_location_setting_permission": "لا يتم تمكين إذن الموقع ، يرجى تمكين الإذن",
+    "@txt_location_setting_permission": {
+        "description": "لا يتم تمكين إذن الموقع ، يرجى تمكين الإذن"
+    },
+     "txt_delete_account": "حذف الحساب",
+    "@txt_delete_account": {
+        "description": "حذف الحساب"
+    },
+     "txt_sure_to_delete": "هل انت متأكد انك تريد حذف حسابك؟",
+    "@txt_sure_to_delete": {
+        "description": "هل انت متأكد انك تريد حذف حسابك؟"
+    },
+     "txt_open_with": "مفتوحة مع",
+    "@txt_open_with": {
+        "description": "مفتوحة مع"
+    },
+     "txt_new_request_from": "طلب جديد ",
+    "@txt_new_request_from": {
+        "description": "طلب جديد "
+    },
+     "txt_vehicle_assign": "يتم تعيين السيارة من قبل المشرف",
+    "@txt_vehicle_assign": {
+        "description": "يتم تعيين السيارة من قبل المشرف"
+    },
+    "txt_admin_delete": "قام المسؤول بحذف حسابك، ولا يمكنك استخدام التطبيق مرة أخرى. يرجى الاتصال بالمسؤول.",
+    "@txt_admin_delete": {
+        "description": "قام المسؤول بحذف حسابك، ولا يمكنك استخدام التطبيق مرة أخرى. يرجى الاتصال بالمسؤول."
+    }
+ }

@@ -1,0 +1,1606 @@
+{
+    "txt_login": "ログイン",
+    "@txt_login": {
+        "description": "ログイン"
+    },
+    "txt_mobile_number": "携帯電話番号",
+    "@txt_mobile_number": {
+        "description": "携帯電話番号"
+    },
+    "txt_submit": "送信",
+    "@txt_submit": {
+        "description": "送信"
+    },
+    "txt_continue_with": "または続行します",
+    "@txt_continue_with": {
+        "description": "または続行します"
+    },
+    "txt_select_lng": "言語を選択する",
+    "@txt_select_lng": {
+        "description": "言語を選択する"
+    },
+    "txt_select_country": "国を選択",
+    "@txt_select_country": {
+        "description": "国を選択"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "探す",
+    "@txt_search": {
+        "description": "探す"
+    },
+    "txt_last_pick": "最後のピック",
+    "@txt_last_pick": {
+        "description": "最後のピック"
+    },
+    "txt_successfully": "正常に",
+    "@txt_successfully": {
+        "description": "正常に"
+    },
+    "txt_your_otp": "あなたのOTPはです",
+    "@txt_your_otp": {
+        "description": "あなたのOTPはです"
+    },
+    "txt_otp_sent_successfully": "OTPは成功しました",
+    "@txt_otp_sent_successfully": {
+        "description": "OTPは成功しました"
+    },
+    "txt_verification": "検証",
+    "@txt_verification": {
+        "description": "検証"
+    },
+    "txt_enter_code_we_sent": "携帯電話番号に送信した確認コードを入力してください",
+    "@txt_enter_code_we_sent": {
+        "description": "携帯電話番号に送信した確認コードを入力してください"
+    },
+    "txt_resend_otp": "otpを再送信します",
+    "@txt_resend_otp": {
+        "description": "otpを再送信します"
+    },
+    "txt_verify": "確認",
+    "@txt_verify": {
+        "description": "確認"
+    },
+    "txt_error": "エラー",
+    "@txt_error": {
+        "description": "エラー"
+    },
+    "txt_ok": "わかった",
+    "@txt_ok": {
+        "description": "わかった"
+    },
+    "txt_upload_details": "詳細をアップロードします",
+    "@txt_upload_details": {
+        "description": "詳細をアップロードします"
+    },
+    "txt_vehicle_picture": "車両の写真",
+    "@txt_vehicle_picture": {
+        "description": "車両の写真"
+    },
+    "txt_vehicle_number": "車両番号",
+    "@txt_vehicle_number": {
+        "description": "車両番号"
+    },
+    "txt_upload_image": "画像をアップロードします",
+    "@txt_upload_image": {
+        "description": "画像をアップロードします"
+    },
+    "txt_front": "フロント",
+    "@txt_front": {
+        "description": "フロント"
+    },
+    "txt_back": "戻る",
+    "@txt_back": {
+        "description": "戻る"
+    },
+    "txt_driver_id_card": "ドライバー識別カード",
+    "@txt_driver_id_card": {
+        "description": "ドライバー識別カード"
+    },
+    "txt_id_number": "ID番号",
+    "@txt_id_number": {
+        "description": "ID番号"
+    },
+    "txt_valid_from": "から有効",
+    "@txt_valid_from": {
+        "description": "から有効"
+    },
+    "txt_valid_until": "まで有効",
+    "@txt_valid_until": {
+        "description": "まで有効"
+    },
+    "txt_driver_driving_license": "ドライバー運転免許証",
+    "@txt_driver_driving_license": {
+        "description": "ドライバー運転免許証"
+    },
+    "txt_license_number": "ライセンス番号",
+    "@txt_license_number": {
+        "description": "ライセンス番号"
+    },
+    "txt_vehicle_registration": "車両登録",
+    "@txt_vehicle_registration": {
+        "description": "車両登録"
+    },
+    "txt_registration_number": "登録番号",
+    "@txt_registration_number": {
+        "description": "登録番号"
+    },
+    "txt_next": "次",
+    "@txt_next": {
+        "description": "次"
+    },
+    "txt_vehicle_ownership": "車両の所有",
+    "@txt_vehicle_ownership": {
+        "description": "車両の所有"
+    },
+    "txt_ownership_number": "所有権番号",
+    "@txt_ownership_number": {
+        "description": "所有権番号"
+    },
+    "txt_vehicle_insurance": "車両保険",
+    "@txt_vehicle_insurance": {
+        "description": "車両保険"
+    },
+    "txt_vehicle_inspection": "車検",
+    "@txt_vehicle_inspection": {
+        "description": "車検"
+    },
+    "txt_insurance_number": "保険番号",
+    "@txt_insurance_number": {
+        "description": "保険番号"
+    },
+    "txt_inspection_number": "検査番号",
+    "@txt_inspection_number": {
+        "description": "検査番号"
+    },
+    "txt_vehicle_manifest": "車両マニフェスト",
+    "@txt_vehicle_manifest": {
+        "description": "車両マニフェスト"
+    },
+    "txt_manifest_number": "マニフェスト番号",
+    "@txt_manifest_number": {
+        "description": "マニフェスト番号"
+    },
+    "txt_vehicle_radio_tax": "車両無線税",
+    "@txt_vehicle_radio_tax": {
+        "description": "車両無線税"
+    },
+    "txt_radio_tax_number": "無線税番号",
+    "@txt_radio_tax_number": {
+        "description": "無線税番号"
+    },
+    "txt_done": "終わり",
+    "@txt_done": {
+        "description": "終わり"
+    },
+    "txt_almost_done": "ほぼ完了しました！携帯電話番号を入力して続行します",
+    "@txt_almost_done": {
+        "description": "ほぼ完了しました！携帯電話番号を入力して続行します"
+    },
+    "txt_menu": "メニュー",
+    "@txt_menu": {
+        "description": "メニュー"
+    },
+    "txt_driver_profile": "ドライバープロファイル",
+    "@txt_driver_profile": {
+        "description": "ドライバープロファイル"
+    },
+    "txt_upload_doc_info": "アップロードされたドキュメントと車の情報。",
+    "@txt_upload_doc_info": {
+        "description": "アップロードされたドキュメントと車の情報。"
+    },
+    "txt_add_new_doc": "新しいドキュメントを追加します",
+    "@txt_add_new_doc": {
+        "description": "新しいドキュメントを追加します"
+    },
+    "txt_bank_info": "銀行情報",
+    "@txt_bank_info": {
+        "description": "銀行情報"
+    },
+    "txt_transaction": "取引",
+    "@txt_transaction": {
+        "description": "取引"
+    },
+    "txt_my_trip": "私の旅行",
+    "@txt_my_trip": {
+        "description": "私の旅行"
+    },
+    "txt_support": "サポート",
+    "@txt_support": {
+        "description": "サポート"
+    },
+    "txt_about_us": "私たちに関しては",
+    "@txt_about_us": {
+        "description": "私たちに関しては"
+    },
+    "txt_terms_condition": "条件",
+    "@txt_terms_condition": {
+        "description": "条件"
+    },
+    "txt_logout": "ログアウト",
+    "@txt_logout": {
+        "description": "ログアウト"
+    },
+    "txt_edit_profile": "プロファイル編集",
+    "@txt_edit_profile": {
+        "description": "プロファイル編集"
+    },
+    "txt_name": "名前",
+    "@txt_name": {
+        "description": "名前"
+    },
+    "txt_email": "Eメール",
+    "@txt_email": {
+        "description": "Eメール"
+    },
+    "txt_camera": "カメラ",
+    "@txt_camera": {
+        "description": "カメラ"
+    },
+    "txt_gallery": "ギャラリー",
+    "@txt_gallery": {
+        "description": "ギャラリー"
+    },
+    "txt_uploaded_documents_info": "アップロードされたドキュメント情報",
+    "@txt_uploaded_documents_info": {
+        "description": "アップロードされたドキュメント情報"
+    },
+    "txt_pending": "保留中",
+    "@txt_pending": {
+        "description": "保留中"
+    },
+    "txt_approved": "承認済み",
+    "@txt_approved": {
+        "description": "承認済み"
+    },
+    "txt_upload_detail": "詳細をアップロードします",
+    "@txt_upload_detail": {
+        "description": "詳細をアップロードします"
+    },
+    "txt_welcome": "ようこそ",
+    "@txt_welcome": {
+        "description": "ようこそ"
+    },
+    "txt_welcome_and_setup": "これがあなたのアカウントを設定するために必要なことです",
+    "@txt_welcome_and_setup": {
+        "description": "これがあなたのアカウントを設定するために必要なことです"
+    },
+    "txt_take_photo": "あなたの写真を撮ります",
+    "@txt_take_photo": {
+        "description": "あなたの写真を撮ります"
+    },
+    "val_upload_doc": "ドキュメントをアップロードしてください",
+    "@val_upload_doc": {
+        "description": "ドキュメントをアップロードしてください"
+    },
+    "txt_update_document": "ドキュメントを更新します",
+    "@txt_update_document": {
+        "description": "ドキュメントを更新します"
+    },
+    "txt_holder_name": "銀行所有者名",
+    "@txt_holder_name": {
+        "description": "銀行所有者名"
+    },
+    "txt_account_number": "口座番号",
+    "@txt_account_number": {
+        "description": "口座番号"
+    },
+    "txt_ifsc_code": "ifscコード",
+    "@txt_ifsc_code": {
+        "description": "ifscコード"
+    },
+    "txt_bank_name": "銀行名",
+    "@txt_bank_name": {
+        "description": "銀行名"
+    },
+    "txt_transaction_upr": "トランザクション",
+    "@txt_transaction_upr": {
+        "description": "トランザクション"
+    },
+    "txt_total_amt": "合計金額",
+    "@txt_total_amt": {
+        "description": "合計金額"
+    },
+    "txt_cash": "現金",
+    "@txt_cash": {
+        "description": "現金"
+    },
+    "txt_online": "オンライン",
+    "@txt_online": {
+        "description": "オンライン"
+    },
+    "txt_payment_history": "支払歴",
+    "@txt_payment_history": {
+        "description": "支払歴"
+    },
+    "txt_no_data_found": "何もデータが見つかりませんでした",
+    "@txt_no_data_found": {
+        "description": "何もデータが見つかりませんでした"
+    },
+    "txt_support_upr": "サポート",
+    "@txt_support_upr": {
+        "description": "サポート"
+    },
+    "txt_concern_queries": "懸念と質問",
+    "@txt_concern_queries": {
+        "description": "懸念と質問"
+    },
+    "txt_upload_pic_doc": "写真やドキュメントをアップロードします",
+    "@txt_upload_pic_doc": {
+        "description": "写真やドキュメントをアップロードします"
+    },
+    "txt_logout": "ログアウト",
+    "@txt_logout": {
+        "description": "ログアウト"
+    },
+    "txt_want_to_logout": "ログアウトしますか",
+    "@txt_want_to_logout": {
+        "description": "ログアウトしますか"
+    },
+    "txt_no": "いいえ",
+    "@txt_no": {
+        "description": "いいえ"
+    },
+    "txt_yes": "はい",
+    "@txt_yes": {
+        "description": "はい"
+    },
+    "txt_notification": "通知",
+    "@txt_notification": {
+        "description": "通知"
+    },
+    "txt_offline": "オフラインです",
+    "@txt_offline": {
+        "description": "オフラインです"
+    },
+    "txt_successfully_logged_in": "あなたは正常にログインしています。",
+    "@txt_successfully_logged_in": {
+        "description": "あなたは正常にログインしています。"
+    },
+    "txt_distance": "距離",
+    "@txt_distance": {
+        "description": "距離"
+    },
+    "txt_estimate_time": "推定時間",
+    "@txt_estimate_time": {
+        "description": "推定時間"
+    },
+    "txt_from_upr": "から",
+    "@txt_from_upr": {
+        "description": "から"
+    },
+    "txt_to_upr": "に",
+    "@txt_to_upr": {
+        "description": "に"
+    },
+    "txt_call": "電話",
+    "@txt_call": {
+        "description": "電話"
+    },
+    "txt_chat": "チャット",
+    "@txt_chat": {
+        "description": "チャット"
+    },
+    "txt_price": "価格",
+    "@txt_price": {
+        "description": "価格"
+    },
+    "txt_decline": "却下",
+    "@txt_decline": {
+        "description": "却下"
+    },
+    "txt_accept": "承認",
+    "@txt_accept": {
+        "description": "承認"
+    },
+    "txt_customer_pickup": "カスタマーピックアップ？",
+    "@txt_customer_pickup": {
+        "description": "カスタマーピックアップ？"
+    },
+    "txt_navigate": "ナビゲートします",
+    "@txt_navigate": {
+        "description": "ナビゲートします"
+    },
+    "txt_enter_otp": "OTPを入力します",
+    "@txt_enter_otp": {
+        "description": "OTPを入力します"
+    },
+    "txt_start_ride": "乗り心地を始めます",
+    "@txt_start_ride": {
+        "description": "乗り心地を始めます"
+    },
+    "txt_ride_complete": "完全に乗る",
+    "@txt_ride_complete": {
+        "description": "完全に乗る"
+    },
+    "txt_wait_for_payment": "支払いを待ちます",
+    "@txt_wait_for_payment": {
+        "description": "支払いを待ちます"
+    },
+    "txt_ride_complete_upr": "完全に乗る",
+    "@txt_ride_complete_upr": {
+        "description": "完全に乗る"
+    },
+    "txt_your_ride_complete_upr": "あなたの乗り心地は完了します",
+    "@txt_your_ride_complete_upr": {
+        "description": "あなたの乗り心地は完了します"
+    },
+    "txt_payment_by": "による支払い",
+    "@txt_payment_by": {
+        "description": "による支払い"
+    },
+    "txt_type_of_service": "サービスの種類",
+    "@txt_type_of_service": {
+        "description": "サービスの種類"
+    },
+    "txt_total_km": "合計km",
+    "@txt_total_km": {
+        "description": "合計km"
+    },
+    "txt_duration": "間隔",
+    "@txt_duration": {
+        "description": "間隔"
+    },
+    "txt_reason_cancellation": "キャンセルの理由",
+    "@txt_reason_cancellation": {
+        "description": "キャンセルの理由"
+    },
+    "txt_driver_denied": "ドライバーはピックアップを拒否しました",
+    "@txt_driver_denied": {
+        "description": "ドライバーはピックアップを拒否しました"
+    },
+    "txt_expected_time": "短い待ち時間を期待した",
+    "@txt_expected_time": {
+        "description": "短い待ち時間を期待した"
+    },
+    "txt_unable_to_contact_user": "ユーザーに連絡できません",
+    "@txt_unable_to_contact_user": {
+        "description": "ユーザーに連絡できません"
+    },
+    "txt_reason_not_listed": "私の理由はここにリストされていません",
+    "@txt_reason_not_listed": {
+        "description": "私の理由はここにリストされていません"
+    },
+    "txt_cancel": "キャンセル",
+    "@txt_cancel": {
+        "description": "キャンセル"
+    },
+    "txt_check_internet": "インターネット接続を確認してください",
+    "@txt_check_internet": {
+        "description": "インターネット接続を確認してください"
+    },
+    "txt_english": "英語",
+    "@txt_english": {
+        "description": "英語"
+    },
+    "txt_portuguese": "ポルトガル語",
+    "@txt_portuguese": {
+        "description": "ポルトガル語"
+    },
+    "txt_arabic": "アラビア語",
+    "@txt_arabic": {
+        "description": "アラビア語"
+    },
+    "txt_urdu": "ウルドゥー語",
+    "@txt_urdu": {
+        "description": "ウルドゥー語"
+    },
+    "txt_hindi": "ヒンディー語",
+    "@txt_hindi": {
+        "description": "ヒンディー語"
+    },
+    "txt_spanish": "スペイン語",
+    "@txt_spanish": {
+        "description": "スペイン語"
+    },
+    "txt_mandarim": "マンダリン",
+    "@txt_mandarim": {
+        "description": "マンダリン"
+    },
+    "txt_french": "フランス語",
+    "@txt_french": {
+        "description": "フランス語"
+    },
+    "txt_afrikaans": "アフリカン",
+    "@txt_afrikaans": {
+        "description": "アフリカン"
+    },
+    "txt_bengali": "ベンガル語",
+    "@txt_bengali": {
+        "description": "ベンガル語"
+    },
+    "txt_russian": "ロシア",
+    "@txt_russian": {
+        "description": "ロシア"
+    },
+    "txt_japanese": "日本",
+    "@txt_japanese": {
+        "description": "日本"
+    },
+    "txt_turkish": "トルコ語",
+    "@txt_turkish": {
+        "description": "トルコ語"
+    },
+    "txt_swahili": "スワヒリ",
+    "@txt_swahili": {
+        "description": "スワヒリ"
+    },
+    "txt_italian": "イタリア語",
+    "@txt_italian": {
+        "description": "イタリア語"
+    },
+    "txt_edit": "編集",
+    "@txt_edit": {
+        "description": "編集"
+    },
+    "txt_delete": "消去",
+    "@txt_delete": {
+        "description": "消去"
+    },
+    "val_accept_term_condition": "利用規約を受け入れてください",
+    "@val_accept_term_condition": {
+        "description": "利用規約を受け入れてください"
+    },
+    "val_first_name": "名を入力してください",
+    "@val_first_name": {
+        "description": "名を入力してください"
+    },
+    "val_fullname_short": "フルネームが短すぎます",
+    "@val_fullname_short": {
+        "description": "フルネームが短すぎます"
+    },
+    "val_enter_userid_email": "ユーザーIDまたは電子メールを入力してください",
+    "@val_enter_userid_email": {
+        "description": "ユーザーIDまたは電子メールを入力してください"
+    },
+    "val_userid_email_short": "ユーザーIDまたは電子メールが短すぎます",
+    "@val_userid_email_short": {
+        "description": "ユーザーIDまたは電子メールが短すぎます"
+    },
+    "val_enter_last_name": "姓を入力してください",
+    "@val_enter_last_name": {
+        "description": "姓を入力してください"
+    },
+    "val_enter_userid": "ユーザーIDを入力してください",
+    "@val_enter_userid": {
+        "description": "ユーザーIDを入力してください"
+    },
+    "val_atleast_3char": "少なくとも3文字を入力してください",
+    "@val_atleast_3char": {
+        "description": "少なくとも3文字を入力してください"
+    },
+    "val_first_name_short": "名が短すぎる",
+    "@val_first_name_short": {
+        "description": "名が短すぎる"
+    },
+    "val_last_name_short": "姓が短すぎます",
+    "@val_last_name_short": {
+        "description": "姓が短すぎます"
+    },
+    "val_enter_email": "電子メールを入力してください",
+    "@val_enter_email": {
+        "description": "電子メールを入力してください"
+    },
+    "val_valid_enter": "有効な電子メールを入力してください",
+    "@val_valid_enter": {
+        "description": "有効な電子メールを入力してください"
+    },
+    "val_enter_password": "パスワードを入力してください",
+    "@val_enter_password": {
+        "description": "パスワードを入力してください"
+    },
+    "val_enter_old_pass": "古いパスワードを入力してください",
+    "@val_enter_old_pass": {
+        "description": "古いパスワードを入力してください"
+    },
+    "val_enter_new_pass": "新しいパスワードを入力してください",
+    "@val_enter_new_pass": {
+        "description": "新しいパスワードを入力してください"
+    },
+    "val_pass_short": "パスワードが短すぎます",
+    "@val_pass_short": {
+        "description": "パスワードが短すぎます"
+    },
+    "val_pass_not_match": "パスワードは一致しません",
+    "@val_pass_not_match": {
+        "description": "パスワードは一致しません"
+    },
+    "val_enter_name": "名前を入力してください",
+    "@val_enter_name": {
+        "description": "名前を入力してください"
+    },
+    "val_enter_query": "クエリを入力してください",
+    "@val_enter_query": {
+        "description": "クエリを入力してください"
+    },
+    "val_enter_confirm_pass": "パスワードの確認を入力してください",
+    "@val_enter_confirm_pass": {
+        "description": "パスワードの確認を入力してください"
+    },
+    "val_enter_address": "住所を入力してください",
+    "@val_enter_address": {
+        "description": "住所を入力してください"
+    },
+    "val_enter_mobile": "携帯電話番号を入力してください",
+    "@val_enter_mobile": {
+        "description": "携帯電話番号を入力してください"
+    },
+    "val_valid_number": "有効な携帯電話番号を入力してください",
+    "@val_valid_number": {
+        "description": "有効な携帯電話番号を入力してください"
+    },
+    "val_otp": "OTPを入力してください",
+    "@val_otp": {
+        "description": "OTPを入力してください"
+    },
+    "val_enter_postal_code": "郵便番号を入力してください",
+    "@val_enter_postal_code": {
+        "description": "郵便番号を入力してください"
+    },
+    "val_valid_postal_code": "有効な郵便番号を入力してください",
+    "@val_valid_postal_code": {
+        "description": "有効な郵便番号を入力してください"
+    },
+    "val_enter_landmark": "ランドマークを入力してください",
+    "@val_enter_landmark": {
+        "description": "ランドマークを入力してください"
+    },
+    "val_enter_city": "市を入力してください",
+    "@val_enter_city": {
+        "description": "市を入力してください"
+    },
+    "val_enter_state": "状態を入力してください",
+    "@val_enter_state": {
+        "description": "状態を入力してください"
+    },
+    "val_enter_address": "住所を入力してください",
+    "@val_enter_address": {
+        "description": "住所を入力してください"
+    },
+    "val_enter_specification": "仕様を入力してください",
+    "@val_enter_specification": {
+        "description": "仕様を入力してください"
+    },
+    "val_enter_message": "メッセージを入力します",
+    "@val_enter_message": {
+        "description": "Pメッセージを入力します"
+    },
+    "txt_camera_permission": "カメラの許可",
+    "@txt_camera_permission": {
+        "description": "カメラの許可"
+    },
+    "txt_permission_camera": "この許可がなければ、このアプリは写真を選ぶことができません。この許可を否定したいですか？",
+    "@txt_permission_camera": {
+        "description": "この許可がなければ、このアプリは写真を選ぶことができません。この許可を否定したいですか？"
+    },
+    "txt_retry": "リトライ",
+    "@txt_retry": {
+        "description": "リトライ"
+    },
+    "txt_im_sure": "私は確信しています",
+    "@txt_im_sure": {
+        "description": "私は確信しています"
+    },
+    "txt_gallery_permission": "ギャラリーの許可",
+    "@txt_gallery_permission": {
+        "description": "ギャラリーの許可"
+    },
+    "txt_permision_gallery": "この許可がなければ、このアプリはギャラリーから写真を撮ることができません。この許可を否定したいですか？",
+    "@txt_permision_gallery": {
+        "description": "この許可がなければ、このアプリはギャラリーから写真を撮ることができません。この許可を否定したいですか？"
+    },
+    "txt_your_msg": "あなたのメッセージ...",
+    "@txt_your_msg": {
+        "description": "あなたのメッセージ..."
+    },
+    "txt_user_cancel_process": "ユーザーはプロセスをキャンセルします",
+    "@txt_user_cancel_process": {
+        "description": "ユーザーはプロセスをキャンセルします"
+    },
+    "txt_thank_for_reg": "登録ありがとうございます",
+    "@txt_thank_for_reg": {
+        "description": "登録ありがとうございます"
+    },
+    "txt_verify_your_doc": "ドキュメントを確認したら。",
+    "@txt_verify_your_doc": {
+        "description": "ドキュメントを確認したら。"
+    },
+     "txt_notify_you": "すぐに通知します",
+    "@txt_notify_you": {
+        "description": "すぐに通知します"
+    },
+    "txt_active_after_verification": "確認後、アカウントがアクティブになります",
+    "@txt_active_after_verification": {
+        "description": "確認後、アカウントがアクティブになります"
+    },
+    "val_enter_vehicle_num": "車両番号を入力してください",
+    "@val_enter_vehicle_num": {
+        "description": "車両番号を入力してください"
+    },
+     "val_upload_vehicle_front_img": "車両のフロント画像をアップロードしてください",
+    "@val_upload_vehicle_front_img": {
+        "description": "車両のフロント画像をアップロードしてください"
+    },
+     "val_upload_vehicle_back_img": "車両の戻り画像をアップロードしてください",
+    "@val_upload_vehicle_back_img": {
+        "description": "車両の戻り画像をアップロードしてください"
+    },
+     "val_enter_id_number": "識別カード番号を入力してください",
+    "@val_enter_id_number": {
+        "description": "識別カード番号を入力してください"
+    },
+     "val_upload_id_front_img": "識別カードのフロント画像をアップロードしてください",
+    "@val_upload_id_front_img": {
+        "description": "識別カードのフロント画像をアップロードしてください"
+    },
+     "val_upload_id_back_img": "識別カードのバック画像をアップロードしてください",
+    "@val_upload_id_back_img": {
+        "description": "識別カードのバック画像をアップロードしてください"
+    },
+     "val_select_id_start_date": "識別カードの開始日を選択してください",
+    "@val_select_id_start_date": {
+        "description": "識別カードの開始日を選択してください"
+    },
+     "val_select_id_end_date": "識別カードの終了日を選択してください",
+    "@val_select_id_end_date": {
+        "description": "識別カードの終了日を選択してください"
+    },
+     "val_enter_license_num": "ライセンス番号を入力してください",
+    "@val_enter_license_num": {
+        "description": "ライセンス番号を入力してください"
+    },
+     "val_upload_license_front_img": "ライセンスフロント画像をアップロードしてください",
+    "@val_upload_license_front_img": {
+        "description": "ライセンスフロント画像をアップロードしてください"
+    },
+     "val_upload_license_back_img": "ライセンスバック画像をアップロードしてください",
+    "@val_upload_license_back_img": {
+        "description": "ライセンスバック画像をアップロードしてください"
+    },
+     "val_select_license_start_date": "ライセンス開始日を選択してください",
+    "@val_select_license_start_date": {
+        "description": "ライセンス開始日を選択してください"
+    },
+     "val_select_license_end_date": "ライセンスの終了日を選択してください",
+    "@val_select_license_end_date": {
+        "description": "ライセンスの終了日を選択してください"
+    },
+     "val_enter_vehicle_reg_num": "車両登録番号を入力してください",
+    "@val_enter_vehicle_reg_num": {
+        "description": "車両登録番号を入力してください"
+    },
+     "val_upload_reg_front_img": "車両登録のフロント画像をアップロードしてください",
+    "@val_upload_vehicle_front_img": {
+        "description": "車両登録のフロント画像をアップロードしてください"
+    },
+     "val_upload_reg_back_img": "車両登録の戻り画像をアップロードしてください",
+    "@txt_your_msg": {
+        "description": "車両登録の戻り画像をアップロードしてください"
+    },
+     "val_enter_reg_start_date": "車両登録の開始日を選択してください",
+    "@val_enter_reg_start_date": {
+        "description": "車両登録の開始日を選択してください"
+    },
+     "val_enter_reg_end_date": "車両登録の終了日を選択してください",
+    "@val_enter_reg_end_date": {
+        "description": "車両登録の終了日を選択してください"
+    },
+    "val_enter_owner_num": "車両の所有番号を入力してください",
+    "@val_enter_owner_num": {
+        "description": "車両の所有番号を入力してください"
+    },
+     "val_upload_owner_front_img": "車両の所有権のフロント画像をアップロードしてください",
+    "@val_upload_owner_front_img": {
+        "description": "車両の所有権のフロント画像をアップロードしてください"
+    },
+     "val_upload_owner_back_img": "車両の所有権をアップロードしてください画像",
+    "@val_upload_owner_back_img": {
+        "description": "車両の所有権をアップロードしてください画像"
+    },
+     "val_enter_owner_start_date": "車両の所有開始日を選択してください",
+    "@val_enter_owner_start_date": {
+        "description": "車両の所有開始日を選択してください"
+    },
+     "val_enter_owner_end_date": "車両の所有権の終了日を選択してください",
+    "@val_enter_owner_end_date": {
+        "description": "車両の所有権の終了日を選択してください"
+    },
+     "val_enter_insurance_num": "車両保険番号を入力してください",
+    "@val_enter_insurance_num": {
+        "description": "車両保険番号を入力してください"
+    },
+      "val_upload_insurance_front_img": "車両保険のフロントイメージをアップロードしてください",
+    "@val_upload_insurance_front_img": {
+        "description": "車両保険のフロントイメージをアップロードしてください"
+    },
+      "val_upload_insurance_back_img": "車両保険の戻り画像をアップロードしてください",
+    "@val_upload_insurance_back_img": {
+        "description": "車両保険の戻り画像をアップロードしてください"
+    },
+      "val_insurance_start_date": "車両保険の開始日を選択してください",
+    "@val_insurance_start_date": {
+        "description": "車両保険の開始日を選択してください"
+    },
+      "val_insurance_end_date": "車両保険の終了日を選択してください",
+    "@val_insurance_end_date": {
+        "description": "車両保険の終了日を選択してください"
+    },
+      "val_inspection_num": "車両検査番号を入力してください",
+    "@val_inspection_num": {
+        "description": "車両検査番号を入力してください"
+    },
+      "val_inspection_front_img": "車両検査のフロント画像をアップロードしてください",
+    "@val_inspection_front_img": {
+        "description": "車両検査のフロント画像をアップロードしてください"
+    },
+      "val_inspection_back_img": "車両の検査を戻して画像をアップロードしてください",
+    "@val_inspection_back_img": {
+        "description": "車両の検査を戻して画像をアップロードしてください"
+    },
+     "val_inspection_start_date": "車両検査の開始日を選択してください",
+    "@val_inspection_start_date": {
+        "description": "車両検査の開始日を選択してください"
+    },
+     "val_inspection_end_date": "車両検査の終了日を選択してください",
+    "@val_inspection_end_date": {
+        "description": "車両検査の終了日を選択してください"
+    },
+     "val_manifest_num": "車両マニフェスト番号を入力してください",
+    "@val_manifest_num": {
+        "description": "車両マニフェスト番号を入力してください"
+    },
+     "val_manifest_front_img": "車両マニフェストフロント画像をアップロードしてください",
+    "@val_manifest_front_img": {
+        "description": "車両マニフェストフロント画像をアップロードしてください"
+    },
+     "val_manifest_back_img": "車両マニフェストバック画像をアップロードしてください",
+    "@val_manifest_back_img": {
+        "description": "車両マニフェストバック画像をアップロードしてください"
+    },
+     "val_manifest_start_date": "車両マニフェストの開始日を選択してください",
+    "@val_manifest_start_date": {
+        "description": "車両マニフェストの開始日を選択してください"
+    },
+     "val_manifest_end_date": "車両マニフェストの終了日を選択してください",
+    "@val_manifest_end_date": {
+        "description": "車両マニフェストの終了日を選択してください"
+    },
+     "val_radio_num": "車両無線税番号を入力してください",
+    "@val_radio_num": {
+        "description": "車両無線税番号を入力してください"
+    },
+     "val_radio_front_img": "車両ラジオ税のフロントイメージをアップロードしてください",
+    "@val_radio_front_img": {
+        "description": "車両ラジオ税のフロントイメージをアップロードしてください"
+    },
+     "val_radio_back_img": "車両ラジオ税の画像をアップロードしてください",
+    "@val_radio_back_img": {
+        "description": "車両ラジオ税の画像をアップロードしてください"
+    },
+     "val_radio_start_date": "車両無線税の開始日を選択してください",
+    "@val_radio_start_date": {
+        "description": "車両無線税の開始日を選択してください"
+    },
+     "val_radio_end_date": "車両ラジオ税の終了日を選択してください",
+    "@val_radio_end_date": {
+        "description": "車両ラジオ税の終了日を選択してください"
+    },
+      "txt_file_selected": "選択したファイル",
+    "@txt_file_selected": {
+        "description": "選択したファイル"
+    },
+       "txt_nofile_selected": "ファイルが選択されていません",
+    "@txt_nofile_selected": {
+        "description": "ファイルが選択されていません"
+    },
+    "txt_server_error": "サーバーエラー、もう一度やり直してください",
+    "@txt_server_error": {
+        "description": "サーバーエラー、もう一度やり直してください"
+    },
+     "val_valid_otp": "有効なOTPを入力してください",
+    "@val_valid_otp": {
+        "description": "有効なOTPを入力してください"
+    },
+     "txt_double_click": "ダブルクリックしてアプリを終了します",
+    "@txt_double_click": {
+        "description": "ダブルクリックしてアプリを終了します"
+    },
+      "txt_pick_from": "からのピックアップ",
+    "@txt_pick_from": {
+        "description": "からのピックアップ"
+    },
+      "txt_transaction_id": "トランザクションID",
+    "@txt_pick_from": {
+        "description": "トランザクションID"
+    },
+       "txt_total_price": "合計金額",
+    "@txt_total_price": {
+        "description": "合計金額"
+    },
+     "txt_complete": "完了しました",
+    "@txt_complete": {
+        "description": "完了しました"
+    },
+      "txt_date": "日にち",
+    "@txt_date": {
+        "description": "日にち"
+    },
+      "txt_by": "に",
+    "@txt_by": {
+        "description": "に"
+    },
+       "txt_cancelled": "キャンセル",
+    "@txt_cancelled": {
+        "description": "キャンセル"
+    },
+       "txt_phone_number": "電話番号",
+    "@txt_phone_number": {
+        "description": "電話番号"
+    },
+       "txt_upload": "アップロード",
+    "@txt_upload": {
+        "description": "アップロード"
+    },
+       "txt_valid_phone": "有効な電話番号を入力してください",
+    "@txt_valid_phone": {
+        "description": "有効な電話番号を入力してください"
+    },
+       "txt_maker_name": "自動車メーカーの詳細を入力してください",
+    "@txt_maker_name": {
+        "description": "自動車メーカーの詳細を入力してください"
+    },
+       "txt_model_name": "車のモデル名を入力してください",
+    "@txt_model_name": {
+        "description": "車のモデル名を入力してください"
+    },
+       "txt_color_name": "車のカラー名を入力してください",
+    "@txt_color_name": {
+        "description": "車のカラー名を入力してください"
+    },
+       "txt_select_passenger": "乗客数を選択してください",
+    "@txt_select_passenger": {
+        "description": "乗客数を選択してください"
+    },
+       "txt_valid_data": "有効なデータを入力します",
+    "@txt_valid_data": {
+        "description": "有効なデータを入力します"
+    },
+       "txt_select_vehicle_pic": "車両の写真を選択してください",
+    "@txt_select_vehicle_pic": {
+        "description": "車両の写真を選択してください"
+    },
+        "txt_location_permission": "場所の許可",
+    "@txt_location_permission": {
+        "description": "場所の許可"
+    },
+    "txt_permision_location": "この許可がなければ、このアプリはあなたの場所と住所を取得することができません。この許可を否定したいですか？",
+    "@txt_permision_location": {
+        "description": "この許可がなければ、このアプリはあなたの場所と住所を取得することができません。この許可を否定したいですか？"
+    },
+    "txt_permision_setting": "このアプリを使用する場合は、システム許可設定で権限を有効にする必要があります",
+    "@txt_permision_setting": {
+        "description": "このアプリを使用する場合は、システム許可設定で権限を有効にする必要があります"
+    },
+     "txt_setting": "設定",
+    "@txt_setting": {
+        "description": "設定"
+    },
+     "txt_exit": "出口",
+    "@txt_exit": {
+        "description": "出口"
+    },
+    "txt_select_max": "最大10画像を選択します",
+    "@txt_exit": {
+        "description": "最大10画像を選択します"
+    },
+    "txt_car_maker": "自動車メーカー",
+    "@txt_car_maker": {
+        "description": "自動車メーカー"
+    },
+     "txt_car_model": "車のモデル",
+    "@txt_car_model": {
+        "description": "車のモデル"
+    },
+     "txt_car_color": "車の色",
+    "@txt_car_color": {
+        "description": "車の色"
+    },
+     "txt_no_pass": "乗客数",
+    "@txt_no_pass": {
+        "description": "乗客数"
+    },
+     "txt_vehicle_pic": "車両の写真",
+    "@txt_vehicle_pic": {
+        "description": "車両の写真"
+    },
+     "txt_driver_id": "ドライバー識別カード",
+    "@txt_driver_id": {
+        "description": "ドライバー識別カード"
+    },
+     "txt_driver_driving": "ドライバー運転免許証",
+    "@txt_driver_driving": {
+        "description": "ドライバー運転免許証"
+    },
+     "txt_vehicle_reg": "車両登録",
+    "@txt_vehicle_reg": {
+        "description": "車両登録"
+    },
+     "txt_vehicle_owner": "車両の所有",
+    "@txt_vehicle_owner": {
+        "description": "車両の所有"
+    },
+     "txt_vehicle_insur": "車両保険",
+    "@txt_vehicle_insur": {
+        "description": "車両保険"
+    },
+      "txt_vehicle_inspec": "車検",
+    "@txt_vehicle_inspec": {
+        "description": "車検"
+    },
+      "txt_vehicle_mani": "車両マニフェスト",
+    "@txt_vehicle_mani": {
+        "description": "車両マニフェスト"
+    },
+     "txt_vehicle_radio": "車両無線税",
+    "@txt_vehicle_radio": {
+        "description": "車両無線税"
+    },
+      "txt_maker": "メーカー",
+    "@txt_maker": {
+        "description": "メーカー"
+    },
+      "txt_model": "モデル",
+    "@txt_model": {
+        "description": "モデル"
+    },
+      "txt_color": "色",
+    "@txt_color": {
+        "description": "色"
+    },
+       "txt_passenger": "乗客",
+    "@txt_passenger": {
+        "description": "乗客"
+    },
+      "txt_max_10": "（最大10）",
+    "@txt_max_10": {
+        "description": "（最大10）"
+    },
+    "txt_uploaded": "アップロード",
+    "@txt_uploaded": {
+        "description": "アップロード"
+    },
+      "val_name_len": "有効な名前を入力します",
+    "@val_name_len": {
+        "description": "有効な名前を入力します"
+    },
+    "val_driving_license": "有効な運転免許証を入力します",
+    "@val_driving_license": {
+        "description": "有効な運転免許証を入力します"
+    },
+    "txt_select": "選択する",
+    "@txt_select": {
+        "description": "選択する"
+    },
+    "val_IdCard": "有効なIDカードを入力します",
+    "@tval_IdCard": {
+        "description": "有効なIDカードを入力します"
+    },
+    "val_reg_len": "登録番号は10以上の英数字を超えてはなりません",
+    "@val_reg_len": {
+        "description": "登録番号は10以上の英数字を超えてはなりません"
+    },
+    "val_owner_len": "有効な所有者名を入力します",
+    "@val_owner_len": {
+        "description": "有効な所有者名を入力します"
+    },
+    "txt_insurance_len": "保険番号は30以上の英数字を超えてはなりません",
+    "@txt_insurance_len": {
+        "description": "保険番号は30以上の英数字を超えてはなりません"
+    },
+     "txt_change_lng": "言語を変更",
+    "@txt_change_lng": {
+        "description": "言語を変更"
+    },
+     "txt_pls_enter_queries": "クエリを入力してください",
+    "@txt_pls_enter_queries": {
+        "description": "クエリを入力してください"
+    },
+     "txt_query_length": "クエリの長​​さは最小10文字でなければなりません",
+    "@txt_query_length": {
+        "description": "クエリの長​​さは最小10文字でなければなりません"
+    },
+     "txt_take_live_photo": "ライブ写真を撮ります",
+    "@txt_take_live_photo": {
+        "description": "ライブ写真を撮ります"
+    },
+     "txt_loading_camera": "カメラのロード...",
+    "@txt_loading_camera": {
+        "description": "カメラのロード..."
+    },
+     "txt_retake": "復活",
+    "@txt_retake": {
+        "description": "復活"
+    },
+     "txt_confirm": "確認する",
+    "@txt_confirm": {
+        "description": "確認する"
+    },
+     "txt_no_booking_for_schedule": "スケジュールライドの予約はありません",
+    "@txt_no_booking_for_schedule": {
+        "description": "スケジュールライドの予約はありません"
+    },
+     "txt_schedule_ride": "乗り心地をスケジュールします",
+    "@txt_schedule_ride": {
+        "description": "乗り心地をスケジュールします"
+    },
+     "txt_scheduled_rides": "スケジュールされた乗り物",
+    "@txt_scheduled_rides": {
+        "description": "スケジュールされた乗り物"
+    },
+     "txt_cancel_ride": "乗車をキャンセルします",
+    "@txt_cancel_ride": {
+        "description": "乗車をキャンセルします"
+    },
+     "txt_payment_pending": "保留中の支払い",
+    "@txt_payment_pending": {
+        "description": "保留中の支払い"
+    },
+     "txt_accepted": "受け入れられました",
+    "@txt_accepted": {
+        "description": "受け入れられました"
+    },
+     "txt_ride_pending": "保留中に乗る",
+    "@txt_ride_pending": {
+        "description": "保留中に乗る"
+    },
+     "txt_wallet": "財布",
+    "@txt_wallet": {
+        "description": "財布"
+    },
+     "txt_send_request": "リクエストを送信します",
+    "@txt_send_request": {
+        "description": "リクエストを送信します"
+    },
+     "txt_note_remark": "メモ/発言",
+    "@txt_note_remark": {
+        "description": "メモ/発言"
+    },
+     "txt_withdrawal_amt": "引き出し額",
+    "@txt_withdrawal_amt": {
+        "description": "引き出し額"
+    },
+     "txt_history": "歴史",
+    "@txt_history": {
+        "description": "歴史"
+    },
+     "txt_skip": "スキップ",
+    "@txt_skip": {
+        "description": "スキップ"
+    },
+     "txt_success": "成功",
+    "@txt_success": {
+        "description": "成功"
+    },
+     "txt_enter_amt": "金額を入力します",
+    "@txt_": {
+        "description": "金額を入力します"
+    },
+     "txt_enter_valid_amt": "有効な金額を入力します",
+    "@txt_enter_valid_amt": {
+        "description": "有効な金額を入力します"
+    },
+     "txt_owner_name": "所有者名",
+    "@txt_owner_name": {
+        "description": "所有者名"
+    },
+     "txt_enter_owner_name": "所有者名を入力してください",
+    "@txt_enter_owner_name": {
+        "description": "所有者名を入力してください"
+    },
+     "txt_enter_valid_owner_name": "有効な所有者名を入力します",
+    "@txt_enter_valid_owner_name": {
+        "description": "有効な所有者名を入力します"
+    },
+     "txt_enter_valid_maker_name": "有効なメーカー名を入力します",
+    "@txt_enter_valid_maker_name": {
+        "description": "有効なメーカー名を入力します"
+    },
+     "txt_valid_color_name": "有効なカラー名を入力します",
+    "@txt_valid_color_name": {
+        "description": "有効なカラー名を入力します"
+    },
+     "txt_enter_color_name": "カラー名を入力してください",
+    "@txt_enter_color_name": {
+        "description": "カラー名を入力してください"
+    },
+     "txt_request_mode": "リクエストモード",
+    "@txt_request_mode": {
+        "description": "リクエストモード"
+    },
+     "txt_request_pending": "リクエストを保留",
+    "@txt_request_pending": {
+        "description": "リクエストを保留"
+    },
+     "txt_request_decline": "リクエストの減少",
+    "@txt_request_decline": {
+        "description": "リクエストの減少"
+    },
+     "txt_request_date": "リクエスト日",
+    "@txt_request_date": {
+        "description": "リクエスト日"
+    },
+     "txt_request_status": "リクエストステータス",
+    "@txt_request_status": {
+        "description": "リクエストステータス"
+    },
+     "txt_enter_vaild_name": "有効な名前を入力します",
+    "@txt_enter_vaild_name": {
+        "description": "有効な名前を入力します"
+    },
+     "txt_update": "アップデート",
+    "@txt_update": {
+        "description": "アップデート"
+    },
+     "txt_enter_details_of_your": "あなたの詳細を入力してください",
+    "@txt_enter_details_of_your": {
+        "description": "あなたの詳細を入力してください"
+    },
+     "txt_upload_photo_of_your": "あなたの写真をアップロードします",
+    "@txt_upload_photo_of_your": {
+        "description": "あなたの写真をアップロードします"
+    },
+     "txt_vehicle": "車両",
+    "@txt_vehicle": {
+        "description": "車両"
+    },
+     "txt_select_min_one_img": "最小1つの画像を選択します",
+    "@txt_select_min_one_img": {
+        "description": "最小1つの画像を選択します"
+    },
+     "txt_details": "詳細",
+    "@txt_details": {
+        "description": "詳細"
+    },
+     "txt_in_progress": "進行中",
+    "@txt_in_progress": {
+        "description": "進行中"
+    },
+     "txt_complete_ride": "完全な乗り心地",
+    "@txt_complete_ride": {
+        "description": "完全な乗り心地"
+    },
+     "txt_your_ride_completed": "あなたの乗車は完了しました",
+    "@txt_your_ride_completed": {
+        "description": "あなたの乗車は完了しました"
+    },
+     "txt_ride_completed": "乗車が完了します",
+    "@txt_ride_completed": {
+        "description": "乗車が完了します"
+    },
+     "txt_security_deposit": "セキュリティデポジット",
+    "@txt_security_deposit": {
+        "description": "セキュリティデポジット"
+    },
+     "txt_complete_security_deposit_process": "セキュリティデポジットプロセスを完了します",
+    "@txt_complete_security_deposit_process": {
+        "description": "セキュリティデポジットプロセスを完了します"
+    },
+     "txt_checked_pay_later": "後でセキュリティデポジットの支払いを確認しました",
+    "@txt_checked_pay_later": {
+        "description": "後でセキュリティデポジットの支払いを確認しました"
+    },
+     "txt_already_done_online_payment": "あなたはすでにオンライン支払いを行っています",
+    "@txt_already_done_online_payment": {
+        "description": "あなたはすでにオンライン支払いを行っています"
+    },
+     "txt_choose_pay_menthod": "支払い方法を選択します",
+    "@txt_choose_pay_menthod": {
+        "description": "支払い方法を選択します"
+    },
+     "txt_pay_now": "今払う",
+    "@txt_pay_now": {
+        "description": "今払う"
+    },
+     "txt_do_later": "後でセキュリティデポジットを行います",
+    "@txt_do_later": {
+        "description": "後でセキュリティデポジットを行います"
+    },
+     "txt_gender_pref": "性別の好み",
+    "@txt_gender_pref": {
+        "description": "性別の好み"
+    },
+     "txt_gender_you_want_to_prefer": "（あなたが乗ることを好む性別を選択してください）",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "（あなたが乗ることを好む性別を選択してください）"
+    },
+     "txt_male": "男",
+    "@txt_male": {
+        "description": "男"
+    },
+     "txt_female": "女性",
+    "@txt_female": {
+        "description": "女性"
+    },
+     "txt_other": "他の",
+    "@txt_other": {
+        "description": "他の"
+    },
+     "txt_no_pref": "好みはありません",
+    "@txt_no_pref": {
+        "description": "好みはありません"
+    },
+     "txt_update_details_of_user": "あなたの詳細を更新します",
+    "@txt_update_details_of_user": {
+        "description": "あなたの詳細を更新します"
+    },
+     "txt_criminal_record_certificate": "犯罪歴証明書",
+    "@txt_criminal_record_certificate": {
+        "description": "犯罪歴証明書"
+    },
+     "txt_criminal_record": "犯罪歴",
+    "@txt_criminal_record": {
+        "description": "犯罪歴"
+    },
+     "txt_update_your": "更新します",
+    "@txt_update_your": {
+        "description": "更新します"
+    },
+     "txt_document": "書類",
+    "@txt_document": {
+        "description": "書類"
+    },
+      "txt_select_your_gender": "性別を選んでください",
+    "@txt_select_your_gender": {
+        "description": "性別を選んでください"
+    },
+      "txt_gender": "性別",
+    "@txt_gender": {
+        "description": "性別"
+    },
+      "txt_ride_type": "ライドタイプ",
+    "@txt_ride_type": {
+        "description": "ライドタイプ"
+    },
+      "txt_rejected": "拒否された",
+    "@txt_rejected": {
+        "description": "拒否された"
+    },
+      "txt_km": "km",
+    "@txt_km": {
+        "description": "km"
+    },
+      "txt_select_reason": "理由を選択します",
+    "@txt_select_reason": {
+        "description": "理由を選択します"
+    },
+      "txt_select_gender_pref": "性別の好みを選択しますe",
+    "@txt_select_gender_pref": {
+        "description": "性別の好みを選択しますe"
+    },
+      "txt_update_documents": "ドキュメントを更新します",
+    "@txt_update_documents": {
+        "description": "ドキュメントを更新します"
+    },
+      "txt_are_you_sure_to_logout": "ログアウトしたいですか？",
+    "@txt_are_you_sure_to_logout": {
+        "description": "ログアウトしたいですか？"
+    },
+      "txt_my_rides": "私の乗り物",
+    "@txt_my_rides": {
+        "description": "私の乗り物"
+    },
+      "txt_rating": "評価",
+    "@txt_rating": {
+        "description": "評価"
+    },
+      "txt_daily_ride": "毎日の乗車",
+    "@txt_daily_ride": {
+        "description": "毎日の乗車"
+    },
+     "txt_rental_ride": "レンタルライド",
+    "@txt_rental_ride": {
+        "description": "レンタルライド"
+    },
+     "txt_enter_your_reason": "あなたの理由を入力してください",
+    "@txt_enter_your_reason": {
+        "description": "あなたの理由を入力してください"
+    },
+     "txt_select_ride_type": "ライドタイプを選択します",
+    "@txt_select_ride_type": {
+        "description": "ライドタイプを選択します"
+    },
+     "txt_profile_under_review": "あなたのプロフィールはレビュー中です。管理者がアクティブになるまで乗ることはできません。",
+    "@txt_profile_under_review": {
+        "description": "あなたのプロフィールはレビュー中です。管理者がアクティブになるまで乗ることはできません。"
+    },
+     "txt_your_account_deactivateed": "アカウントは管理者によって非アクティブ化されています。連絡してください。",
+    "@txt_your_account_deactivateed": {
+        "description": "アカウントは管理者によって非アクティブ化されています。連絡してください。"
+    },
+     "txt_accept_terms_privacy": "サインアップすることで、サービスの条件とプライバシーポリシーを受け入れます",
+    "@txt_accept_terms_privacy": {
+        "description": "サインアップすることで、サービスの条件とプライバシーポリシーを受け入れます"
+    },
+     "txt_please_accept_terms_privacy": "サービスの条件とプライバシーポリシーを受け入れてください",
+    "@txt_please_accept_terms_privacy": {
+        "description": "サービスの条件とプライバシーポリシーを受け入れてください"
+    },
+     "txt_thanks_for_registering": "登録してくれてありがとう",
+    "@txt_thanks_for_registering": {
+        "description": "登録してくれてありがとう"
+    },
+     "txt_application_under_review_check_status": "アプリケーションはレビュー中です。ホームページのトップレッドバーのステータスを確認できます。",
+    "@txt_application_under_review_check_status": {
+        "description": "アプリケーションはレビュー中です。ホームページのトップレッドバーのステータスを確認できます。"
+    },
+     "txt_update_details": "詳細を更新します",
+    "@txt_update_details": {
+        "description": "詳細を更新します"
+    },
+     "txt_ride_details": "詳細に乗る",
+    "@txt_ride_details": {
+        "description": "詳細に乗る"
+    },
+     "txt_mpesa": "ぶどうの木",
+    "@txt_mpesa": {
+        "description": "ぶどうの木"
+    },
+     "txt_image": "画像",
+    "@txt_image": {
+        "description": "画像"
+    },
+     "txt_check_internet_try_again": "インターネットの接続を確認して、もう一度やり直してください",
+    "@txt_check_internet_try_again": {
+        "description": "インターネットの接続を確認して、もう一度やり直してください"
+    },
+     "txt_oops_no_internet": "おっと、インターネット接続なし",
+    "@txt_oops_no_internet": {
+        "description": "おっと、インターネット接続なし"
+    },
+     "txt_package_complete_renew": "パッケージが完了したか、乗車を完了するか、ユーザーがパッケージを更新するのを待ちます",
+    "@txt_package_complete_renew": {
+        "description": "パッケージが完了したか、乗車を完了するか、ユーザーがパッケージを更新するのを待ちます"
+    },
+     "txt_wait_for_response": "応答を待っています",
+    "@txt_wait_for_response": {
+        "description": "応答を待っています"
+    },
+     "txt_ride_complete_in": "完全に乗る",
+    "@txt_ride_complete_in": {
+        "description": "完全に乗る"
+    },
+     "txt_something_went_wrong": "何かがうまくいかなかった",
+    "@txt_something_went_wrong": {
+        "description": "何かがうまくいかなかった"
+    },
+     "txt_refresh_page_try_later": "ページを更新してみるか、後で再試行してください。",
+    "@txt_refresh_page_try_later": {
+        "description": "ページを更新してみるか、後で再試行してください。"
+    },
+     "txt_permission_required": "許可が必要です",
+    "@txt_permission_required": {
+        "description": "許可が必要です"
+    },
+     "txt_enable_permission": "許可を有効にします",
+    "@txt_enable_permission": {
+        "description": "許可を有効にします"
+    },
+     "txt_pick_your_country": "あなたの国を選んでください",
+    "@txt_pick_your_country": {
+        "description": "あなたの国を選んでください"
+    },
+     "txt_cant_update_ride_type": "進行中のライドでライドタイプを更新することはできません。",
+    "@txt_cant_update_ride_type": {
+        "description": "進行中のライドでライドタイプを更新することはできません。"
+    },
+     "txt_check_connect_timeout": "接続時間を確認してください!!",
+    "@txt_check_connect_timeout": {
+        "description": "接続時間を確認してください!!"
+    },
+     "txt_timeout_exception": "タイムアウトの例外。",
+    "@txt_timeout_exception": {
+        "description": "タイムアウトの例外。"
+    },
+     "txt_request_cancel_from_user": "ユーザーからキャンセルを要求します。",
+    "@txt_request_cancel_from_user": {
+        "description": "ユーザーからキャンセルを要求します。"
+    },
+     "txt_getting_wrong_response": "私たちは間違った応答を得ています。",
+    "@txt_getting_wrong_response": {
+        "description": "私たちは間違った応答を得ています。"
+    },
+     "txt_connection_error": "接続エラー。",
+    "@txt_connection_error": {
+        "description": "接続エラー。"
+    },
+     "txt_server_not_connected_contact_admin": "接続されていないサーバー、管理者に連絡してください。",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "接続されていないサーバー、管理者に連絡してください。"
+    },
+     "txt_socket_not_connect": "ソケットが接続されていません...",
+    "@txt_socket_not_connect": {
+        "description": "ソケットが接続されていません..."
+    },
+     "txt_user_renewed_package": "ユーザーはパッケージを更新しました！",
+    "@txt_user_renewed_package": {
+        "description": "ユーザーはパッケージを更新しました！"
+    },
+     "txt_bear_per_km": "kmあたりのユーザーベア料金！",
+    "@txt_bear_per_km": {
+        "description": "kmあたりのユーザーベア料金！"
+    },
+     "txt_wait_for_user": "ユーザーを待ちます",
+    "@txt_wait_for_user": {
+        "description": "ユーザーを待ちます"
+    },
+     "txt_bysigning_you_accept": "サインアップすることにより、あなたは受け入れます",
+    "@txt_bysigning_you_accept": {
+        "description": "サインアップすることにより、あなたは受け入れます"
+    },
+     "txt_terms_service": "サービスの条件",
+    "@txt_terms_service": {
+        "description": "サービスの条件"
+    },
+     "txt_and": "そして",
+    "@txt_and": {
+        "description": "そして"
+    },
+     "txt_privacy_policy": "プライバシーポリシー",
+    "@txt_privacy_policy": {
+        "description": "プライバシーポリシー"
+    },
+     "txt_cash_received": "受け取った現金",
+    "@txt_cash_received": {
+        "description": "受け取った現金"
+    },
+     "txt_click_to_take_photo": "クリックして写真を撮ります",
+    "@txt_click_to_take_photo": {
+        "description": "クリックして写真を撮ります"
+    },
+     "txt_camera_setting_permission": "カメラの許可は有効ではありません。許可を有効にしてください",
+    "@txt_camera_setting_permission": {
+        "description": "カメラの許可は有効ではありません。許可を有効にしてください"
+    },
+     "txt_gallery_setting_permission": "ギャラリーの許可は有効ではありません。許可を有効にしてください",
+    "@txt_gallery_setting_permission": {
+        "description": "ギャラリーの許可は有効ではありません。許可を有効にしてください"
+    },
+     "txt_unauthorized_login": "不正ログイン",
+    "@txt_unauthorized_login": {
+        "description": "不正ログイン"
+    },
+     "txt_login_detect": "新しいログインが別のデバイスで検出されます。もう一度ログインして、このデバイスで使用してください",
+    "@txt_login_detect": {
+        "description": "新しいログインが別のデバイスで検出されます。もう一度ログインして、このデバイスで使用してください"
+    },
+     "txt_location_setting_permission": "場所の許可は有効ではありません。許可を有効にしてください",
+    "@txt_location_setting_permission": {
+        "description": "場所の許可は有効ではありません。許可を有効にしてください"
+    },
+     "txt_delete_account": "アカウントを削除する",
+    "@txt_delete_account": {
+        "description": "アカウントを削除する"
+    },
+     "txt_sure_to_delete": "アカウントを削除してもよろしいですか?",
+    "@txt_sure_to_delete": {
+        "description": "アカウントを削除してもよろしいですか?"
+    },
+     "txt_open_with": "で開く",
+    "@txt_open_with": {
+        "description": "で開く"
+    },
+     "txt_new_request_from": "新しいリクエスト",
+    "@txt_new_request_from": {
+        "description": "新しいリクエスト"
+    },
+     "txt_vehicle_assign": "管理者による車両の割り当ては",
+    "@txt_vehicle_assign": {
+        "description": "管理者による車両の割り当ては"
+    },
+     "txt_admin_delete": "管理者 アカウントが削除されたため、アプリを今後使用することはできません。管理者に連絡してください。",
+    "@txt_admin_delete": {
+        "description": "管理者 アカウントが削除されたため、アプリを今後使用することはできません。管理者に連絡してください。"
+    }
+ }

@@ -1,0 +1,1606 @@
+{
+    "txt_login": "लॉग इन करें",
+    "@txt_login": {
+        "description": "लॉग इन करें"
+    },
+    "txt_mobile_number": "मोबाइल नंबर",
+    "@txt_mobile_number": {
+        "description": "मोबाइल नंबर"
+    },
+    "txt_submit": "प्रस्तुत करना",
+    "@txt_submit": {
+        "description": "प्रस्तुत करना"
+    },
+    "txt_continue_with": "या साथ जारी रखें",
+    "@txt_continue_with": {
+        "description": "या साथ जारी रखें"
+    },
+    "txt_select_lng": "भाषा चुने",
+    "@txt_select_lng": {
+        "description": "भाषा चुने"
+    },
+    "txt_select_country": "देश चुनें",
+    "@txt_select_country": {
+        "description": "देश चुनें"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "खोज",
+    "@txt_search": {
+        "description": "खोज"
+    },
+    "txt_last_pick": "आखिरी पिकअप",
+    "@txt_last_pick": {
+        "description": "आखिरी पिकअप"
+    },
+    "txt_successfully": "सफलतापूर्वक",
+    "@txt_successfully": {
+        "description": "सफलतापूर्वक"
+    },
+    "txt_your_otp": "आपका OTP है",
+    "@txt_your_otp": {
+        "description": "आपका OTP है"
+    },
+    "txt_otp_sent_successfully": "ओटीपी ने सफलतापूर्वक भेजा",
+    "@txt_otp_sent_successfully": {
+        "description": "ओटीपी ने सफलतापूर्वक भेजा"
+    },
+    "txt_verification": "सत्यापन",
+    "@txt_verification": {
+        "description": "सत्यापन"
+    },
+    "txt_enter_code_we_sent": "सत्यापन कोड दर्ज करें जो हमने आपको अपने मोबाइल नंबर पर भेजा है",
+    "@txt_enter_code_we_sent": {
+        "description": "सत्यापन कोड दर्ज करें जो हमने आपको अपने मोबाइल नंबर पर भेजा है"
+    },
+    "txt_resend_otp": "ओटीपी पुनः भेजें",
+    "@txt_resend_otp": {
+        "description": "ओटीपी पुनः भेजें"
+    },
+    "txt_verify": "सत्यापित करना",
+    "@txt_verify": {
+        "description": "सत्यापित करना"
+    },
+    "txt_error": "गलती",
+    "@txt_error": {
+        "description": "गलती"
+    },
+    "txt_ok": "ठीक",
+    "@txt_ok": {
+        "description": "ठीक"
+    },
+    "txt_upload_details": "विवरण अपलोड करें",
+    "@txt_upload_details": {
+        "description": "विवरण अपलोड करें"
+    },
+    "txt_vehicle_picture": "वाहन चित्र",
+    "@txt_vehicle_picture": {
+        "description": "वाहन चित्र"
+    },
+    "txt_vehicle_number": "गाडी नंबर",
+    "@txt_vehicle_number": {
+        "description": "गाडी नंबर"
+    },
+    "txt_upload_image": "तस्वीर डालिये",
+    "@txt_upload_image": {
+        "description": "तस्वीर डालिये"
+    },
+    "txt_front": "सामने",
+    "@txt_front": {
+        "description": "सामने"
+    },
+    "txt_back": "पीछे",
+    "@txt_back": {
+        "description": "पीछे"
+    },
+    "txt_driver_id_card": "चालक पहचान पत्र",
+    "@txt_driver_id_card": {
+        "description": "चालक पहचान पत्र"
+    },
+    "txt_id_number": "आईडी नंबर",
+    "@txt_id_number": {
+        "description": "आईडी नंबर"
+    },
+    "txt_valid_from": "से मान्य",
+    "@txt_valid_from": {
+        "description": "से मान्य"
+    },
+    "txt_valid_until": "तब तक वैध",
+    "@txt_valid_until": {
+        "description": "तब तक वैध"
+    },
+    "txt_driver_driving_license": "चालक ड्राइविंग लाइसेंस",
+    "@txt_driver_driving_license": {
+        "description": "चालक ड्राइविंग लाइसेंस"
+    },
+    "txt_license_number": "लाइसेंस संख्या",
+    "@txt_license_number": {
+        "description": "लाइसेंस संख्या"
+    },
+    "txt_vehicle_registration": "वाहन पंजीकरण",
+    "@txt_vehicle_registration": {
+        "description": "वाहन पंजीकरण"
+    },
+    "txt_registration_number": "पंजीकरण संख्या",
+    "@txt_registration_number": {
+        "description": "पंजीकरण संख्या"
+    },
+    "txt_next": "अगला",
+    "@txt_next": {
+        "description": "अगला"
+    },
+    "txt_vehicle_ownership": "वाहन स्वामित्व",
+    "@txt_vehicle_ownership": {
+        "description": "वाहन स्वामित्व"
+    },
+    "txt_ownership_number": "स्वामित्व संख्या",
+    "@txt_ownership_number": {
+        "description": "स्वामित्व संख्या"
+    },
+    "txt_vehicle_insurance": "वाहन बीमा",
+    "@txt_vehicle_insurance": {
+        "description": "वाहन बीमा"
+    },
+    "txt_vehicle_inspection": "वाहन निरीक्षण",
+    "@txt_vehicle_inspection": {
+        "description": "वाहन निरीक्षण"
+    },
+    "txt_insurance_number": "बीमा संख्या",
+    "@txt_insurance_number": {
+        "description": "बीमा संख्या"
+    },
+    "txt_inspection_number": "निरीक्षण संख्या",
+    "@txt_inspection_number": {
+        "description": "निरीक्षण संख्या"
+    },
+    "txt_vehicle_manifest": "वाहन प्रकट",
+    "@txt_vehicle_manifest": {
+        "description": "वाहन प्रकट"
+    },
+    "txt_manifest_number": "प्रकट संख्या",
+    "@txt_manifest_number": {
+        "description": "प्रकट संख्या"
+    },
+    "txt_vehicle_radio_tax": "वाहन रेडियो कर",
+    "@txt_vehicle_radio_tax": {
+        "description": "वाहन रेडियो कर"
+    },
+    "txt_radio_tax_number": "रेडियो कर संख्या",
+    "@txt_radio_tax_number": {
+        "description": "रेडियो कर संख्या"
+    },
+    "txt_done": "की गई",
+    "@txt_done": {
+        "description": "की गई"
+    },
+    "txt_almost_done": "लगभग हो गया! जारी रखने के लिए मोबाइल नंबर दर्ज करें",
+    "@txt_almost_done": {
+        "description": "लगभग हो गया! जारी रखने के लिए मोबाइल नंबर दर्ज करें"
+    },
+    "txt_menu": "मेन्यू",
+    "@txt_menu": {
+        "description": "मेन्यू"
+    },
+    "txt_driver_profile": "चालक प्रोफ़ाइल",
+    "@txt_driver_profile": {
+        "description": "चालक प्रोफ़ाइल"
+    },
+    "txt_upload_doc_info": "अपलोड किए गए दस्तावेज़ और कार की जानकारी।",
+    "@txt_upload_doc_info": {
+        "description": "अपलोड किए गए दस्तावेज़ और कार की जानकारी।"
+    },
+    "txt_add_new_doc": "नया दस्तावेज़ जोड़ें",
+    "@txt_add_new_doc": {
+        "description": "नया दस्तावेज़ जोड़ें"
+    },
+    "txt_bank_info": "बैंक जानकारी",
+    "@txt_bank_info": {
+        "description": "बैंक जानकारी"
+    },
+    "txt_transaction": "लेन-देन",
+    "@txt_transaction": {
+        "description": "लेन-देन"
+    },
+    "txt_my_trip": "मेरे सुझाव",
+    "@txt_my_trip": {
+        "description": "मेरे सुझाव"
+    },
+    "txt_support": "सहारा",
+    "@txt_support": {
+        "description": "सहारा"
+    },
+    "txt_about_us": "हमारे बारे में",
+    "@txt_about_us": {
+        "description": "हमारे बारे में"
+    },
+    "txt_terms_condition": "नियम व शर्तें",
+    "@txt_terms_condition": {
+        "description": "नियम व शर्तें"
+    },
+    "txt_logout": "लॉग आउट",
+    "@txt_logout": {
+        "description": "लॉग आउट"
+    },
+    "txt_edit_profile": "प्रोफ़ाइल संपादित करें",
+    "@txt_edit_profile": {
+        "description": "प्रोफ़ाइल संपादित करें"
+    },
+    "txt_name": "नाम",
+    "@txt_name": {
+        "description": "नाम"
+    },
+    "txt_email": "ईमेल",
+    "@txt_email": {
+        "description": "ईमेल"
+    },
+    "txt_camera": "कैमरा",
+    "@txt_camera": {
+        "description": "कैमरा"
+    },
+    "txt_gallery": "गेलरी",
+    "@txt_gallery": {
+        "description": "गेलरी"
+    },
+    "txt_uploaded_documents_info": "अपलोड किए गए दस्तावेज़ जानकारी",
+    "@txt_uploaded_documents_info": {
+        "description": "अपलोड किए गए दस्तावेज़ जानकारी"
+    },
+    "txt_pending": "लंबित",
+    "@txt_pending": {
+        "description": "लंबित"
+    },
+    "txt_approved": "स्वीकृत",
+    "@txt_approved": {
+        "description": "स्वीकृत"
+    },
+    "txt_upload_detail": "विवरण अपलोड करें",
+    "@txt_upload_detail": {
+        "description": "विवरण अपलोड करें"
+    },
+    "txt_welcome": "स्वागत",
+    "@txt_welcome": {
+        "description": "स्वागत"
+    },
+    "txt_welcome_and_setup": "यहां आपको अपना खाता सेट करने की आवश्यकता है",
+    "@txt_welcome_and_setup": {
+        "description": "यहां आपको अपना खाता सेट करने की आवश्यकता है"
+    },
+    "txt_take_photo": "अपनी एक तस्वीर ले लो",
+    "@txt_take_photo": {
+        "description": "अपनी एक तस्वीर ले लो"
+    },
+    "val_upload_doc": "कृपया दस्तावेज़ अपलोड करें",
+    "@val_upload_doc": {
+        "description": "कृपया दस्तावेज़ अपलोड करें"
+    },
+    "txt_update_document": "अद्यतन दस्तावेज़",
+    "@txt_update_document": {
+        "description": "अद्यतन दस्तावेज़"
+    },
+    "txt_holder_name": "बैंक धारक नाम",
+    "@txt_holder_name": {
+        "description": "बैंक धारक नाम"
+    },
+    "txt_account_number": "खाता संख्या",
+    "@txt_account_number": {
+        "description": "खाता संख्या"
+    },
+    "txt_ifsc_code": "IFSC कोड",
+    "@txt_ifsc_code": {
+        "description": "IFSC कोड"
+    },
+    "txt_bank_name": "बैंक का नाम",
+    "@txt_bank_name": {
+        "description": "बैंक का नाम"
+    },
+    "txt_transaction_upr": "लेनदेन",
+    "@txt_transaction_upr": {
+        "description": "लेनदेन"
+    },
+    "txt_total_amt": "कुल राशि",
+    "@txt_total_amt": {
+        "description": "कुल राशि"
+    },
+    "txt_cash": "नकद",
+    "@txt_cash": {
+        "description": "नकद"
+    },
+    "txt_online": "ऑनलाइन",
+    "@txt_online": {
+        "description": "ऑनलाइन"
+    },
+    "txt_payment_history": "भुगतान इतिहास",
+    "@txt_payment_history": {
+        "description": "भुगतान इतिहास"
+    },
+    "txt_no_data_found": "डाटा प्राप्त नहीं हुआ",
+    "@txt_no_data_found": {
+        "description": "डाटा प्राप्त नहीं हुआ"
+    },
+    "txt_support_upr": "सहयोग",
+    "@txt_support_upr": {
+        "description": "सहयोग"
+    },
+    "txt_concern_queries": "चिंता और प्रश्न",
+    "@txt_concern_queries": {
+        "description": "चिंता और प्रश्न"
+    },
+    "txt_upload_pic_doc": "अपनी तस्वीर या दस्तावेज़ अपलोड करें",
+    "@txt_upload_pic_doc": {
+        "description": "अपनी तस्वीर या दस्तावेज़ अपलोड करें"
+    },
+    "txt_logout": "लॉग आउट",
+    "@txt_logout": {
+        "description": "लॉग आउट"
+    },
+    "txt_want_to_logout": "क्या आप लॉग आउट करना चाहते हैं",
+    "@txt_want_to_logout": {
+        "description": "क्या आप लॉग आउट करना चाहते हैं"
+    },
+    "txt_no": "नहीं",
+    "@txt_no": {
+        "description": "नहीं"
+    },
+    "txt_yes": "हाँ",
+    "@txt_yes": {
+        "description": "हाँ"
+    },
+    "txt_notification": "अधिसूचना",
+    "@txt_notification": {
+        "description": "अधिसूचना"
+    },
+    "txt_offline": "आप ऑफलाइन हैं",
+    "@txt_offline": {
+        "description": "आप ऑफलाइन हैं"
+    },
+    "txt_successfully_logged_in": "आप सफलतापूर्वक लॉग इन हैं।",
+    "@txt_successfully_logged_in": {
+        "description": "आप सफलतापूर्वक लॉग इन हैं।"
+    },
+    "txt_distance": "दूरी",
+    "@txt_distance": {
+        "description": "दूरी"
+    },
+    "txt_estimate_time": "अनुमान समय",
+    "@txt_estimate_time": {
+        "description": "अनुमान समय"
+    },
+    "txt_from_upr": "से",
+    "@txt_from_upr": {
+        "description": "से"
+    },
+    "txt_to_upr": "को",
+    "@txt_to_upr": {
+        "description": "को"
+    },
+    "txt_call": "बुलाना",
+    "@txt_call": {
+        "description": "बुलाना"
+    },
+    "txt_chat": "बात करना",
+    "@txt_chat": {
+        "description": "बात करना"
+    },
+    "txt_price": "कीमत",
+    "@txt_price": {
+        "description": "कीमत"
+    },
+    "txt_decline": "मना करना",
+    "@txt_decline": {
+        "description": "मना करना"
+    },
+    "txt_accept": "स्वीकार करना",
+    "@txt_accept": {
+        "description": "स्वीकार करना"
+    },
+    "txt_customer_pickup": "ग्राहक बढ़ाना?",
+    "@txt_customer_pickup": {
+        "description": "ग्राहक बढ़ाना?"
+    },
+    "txt_navigate": "नेविगेट",
+    "@txt_navigate": {
+        "description": "नेविगेट"
+    },
+    "txt_enter_otp": "OTP दर्ज करें",
+    "@txt_enter_otp": {
+        "description": "OTP दर्ज करें"
+    },
+    "txt_start_ride": "सवारी शुरू करें",
+    "@txt_start_ride": {
+        "description": "सवारी शुरू करें"
+    },
+    "txt_ride_complete": "सवारी पूरी करना",
+    "@txt_ride_complete": {
+        "description": "सवारी पूरी करना"
+    },
+    "txt_wait_for_payment": "भुगतान की प्रतीक्षा करें",
+    "@txt_wait_for_payment": {
+        "description": "भुगतान की प्रतीक्षा करें"
+    },
+    "txt_ride_complete_upr": "सवारी पूरी करना",
+    "@txt_ride_complete_upr": {
+        "description": "सवारी पूरी करना"
+    },
+    "txt_your_ride_complete_upr": "आपकी सवारी पूरी है",
+    "@txt_your_ride_complete_upr": {
+        "description": "आपकी सवारी पूरी है"
+    },
+    "txt_payment_by": "पेमेंट इसके ज़रिये",
+    "@txt_payment_by": {
+        "description": "पेमेंट इसके ज़रिये"
+    },
+    "txt_type_of_service": "सेवा का प्रकार",
+    "@txt_type_of_service": {
+        "description": "सेवा का प्रकार"
+    },
+    "txt_total_km": "कुल किमी",
+    "@txt_total_km": {
+        "description": "कुल किमी"
+    },
+    "txt_duration": "अवधि",
+    "@txt_duration": {
+        "description": "अवधि"
+    },
+    "txt_reason_cancellation": "निरस्तीकरण का कारण",
+    "@txt_reason_cancellation": {
+        "description": "निरस्तीकरण का कारण"
+    },
+    "txt_driver_denied": "ड्राइवर ने पिक-अप से इनकार कर दिया",
+    "@txt_driver_denied": {
+        "description": "ड्राइवर ने पिक-अप से इनकार कर दिया"
+    },
+    "txt_expected_time": "कम प्रतीक्षा समय की उम्मीद है",
+    "@txt_expected_time": {
+        "description": "कम प्रतीक्षा समय की उम्मीद है"
+    },
+    "txt_unable_to_contact_user": "उपयोगकर्ता से संपर्क करने में असमर्थ",
+    "@txt_unable_to_contact_user": {
+        "description": "उपयोगकर्ता से संपर्क करने में असमर्थ"
+    },
+    "txt_reason_not_listed": "मेरा कारण यहाँ सूचीबद्ध नहीं है",
+    "@txt_reason_not_listed": {
+        "description": "मेरा कारण यहाँ सूचीबद्ध नहीं है"
+    },
+    "txt_cancel": "रद्द करना",
+    "@txt_cancel": {
+        "description": "रद्द करना"
+    },
+    "txt_check_internet": "कृपया अपने इंटरनेट कनेक्शन की जाँच करें",
+    "@txt_check_internet": {
+        "description": "कृपया अपने इंटरनेट कनेक्शन की जाँच करें"
+    },
+    "txt_english": "अंग्रेज़ी",
+    "@txt_english": {
+        "description": "अंग्रेज़ी"
+    },
+    "txt_portuguese": "पुर्तगाली",
+    "@txt_portuguese": {
+        "description": "पुर्तगाली"
+    },
+    "txt_arabic": "अरबी",
+    "@txt_arabic": {
+        "description": "अरबी"
+    },
+    "txt_urdu": "उर्दू",
+    "@txt_urdu": {
+        "description": "उर्दू"
+    },
+    "txt_hindi": "हिंदी",
+    "@txt_hindi": {
+        "description": "हिंदी"
+    },
+    "txt_spanish": "स्पैनिश",
+    "@txt_spanish": {
+        "description": "स्पैनिश"
+    },
+    "txt_mandarim": "अकर्मण्य",
+    "@txt_mandarim": {
+        "description": "अकर्मण्य"
+    },
+    "txt_french": "फ्रांसीसी",
+    "@txt_french": {
+        "description": "फ्रांसीसी"
+    },
+    "txt_afrikaans": "अफ़्रीकी",
+    "@txt_afrikaans": {
+        "description": "अफ़्रीकी"
+    },
+    "txt_bengali": "बंगाली",
+    "@txt_bengali": {
+        "description": "बंगाली"
+    },
+    "txt_russian": "रूसी",
+    "@txt_russian": {
+        "description": "रूसी"
+    },
+    "txt_japanese": "जापानी",
+    "@txt_japanese": {
+        "description": "जापानी"
+    },
+    "txt_turkish": "तुर्की",
+    "@txt_turkish": {
+        "description": "तुर्की"
+    },
+    "txt_swahili": "स्‍वाहि‍ली",
+    "@txt_swahili": {
+        "description": "स्‍वाहि‍ली"
+    },
+    "txt_italian": "इतालवी",
+    "@txt_italian": {
+        "description": "इतालवी"
+    },
+    "txt_edit": "संपादन करना",
+    "@txt_edit": {
+        "description": "संपादन करना"
+    },
+    "txt_delete": "मिटाना",
+    "@txt_delete": {
+        "description": "मिटाना"
+    },
+    "val_accept_term_condition": "कृपया नियम और शर्तें स्वीकार करें",
+    "@val_accept_term_condition": {
+        "description": "कृपया नियम और शर्तें स्वीकार करें"
+    },
+    "val_first_name": "कृपया पहला नाम दर्ज करें",
+    "@val_first_name": {
+        "description": "कृपया पहला नाम दर्ज करें"
+    },
+    "val_fullname_short": "पूरा नाम बहुत छोटा है",
+    "@val_fullname_short": {
+        "description": "पूरा नाम बहुत छोटा है"
+    },
+    "val_enter_userid_email": "कृपया उपयोगकर्ता आईडी या ईमेल दर्ज करें",
+    "@val_enter_userid_email": {
+        "description": "कृपया उपयोगकर्ता आईडी या ईमेल दर्ज करें"
+    },
+    "val_userid_email_short": "उपयोगकर्ता आईडी या ईमेल बहुत छोटा है",
+    "@val_userid_email_short": {
+        "description": "उपयोगकर्ता आईडी या ईमेल बहुत छोटा है"
+    },
+    "val_enter_last_name": "कृपया अंतिम नाम दर्ज करें",
+    "@val_enter_last_name": {
+        "description": "कृपया अंतिम नाम दर्ज करें"
+    },
+    "val_enter_userid": "कृपया उपयोगकर्ता आईडी दर्ज करें",
+    "@val_enter_userid": {
+        "description": "कृपया उपयोगकर्ता आईडी दर्ज करें"
+    },
+    "val_atleast_3char": "कृपया कम से कम 3 चरित्र दर्ज करें",
+    "@val_atleast_3char": {
+        "description": "कृपया कम से कम 3 चरित्र दर्ज करें"
+    },
+    "val_first_name_short": "पहला नाम बहुत छोटा है",
+    "@val_first_name_short": {
+        "description": "पहला नाम बहुत छोटा है"
+    },
+    "val_last_name_short": "अंतिम नाम बहुत छोटा है",
+    "@val_last_name_short": {
+        "description": "अंतिम नाम बहुत छोटा है"
+    },
+    "val_enter_email": "कृपया ईमेल दर्ज करें",
+    "@val_enter_email": {
+        "description": "कृपया ईमेल दर्ज करें"
+    },
+    "val_valid_enter": "कृपया वैध ईमेल दर्ज़ करें",
+    "@val_valid_enter": {
+        "description": "कृपया वैध ईमेल दर्ज़ करें"
+    },
+    "val_enter_password": "कृप्या पास्वर्ड भरो",
+    "@val_enter_password": {
+        "description": "कृप्या पास्वर्ड भरो"
+    },
+    "val_enter_old_pass": "कृपया पुराना पासवर्ड दर्ज करें",
+    "@val_enter_old_pass": {
+        "description": "कृपया पुराना पासवर्ड दर्ज करें"
+    },
+    "val_enter_new_pass": "कृपया नया पासवर्ड दर्ज करें",
+    "@val_enter_new_pass": {
+        "description": "कृपया नया पासवर्ड दर्ज करें"
+    },
+    "val_pass_short": "पारण शब्द बहुत छोटा है",
+    "@val_pass_short": {
+        "description": "पारण शब्द बहुत छोटा है"
+    },
+    "val_pass_not_match": "पासवर्ड मेल नहीं खाते",
+    "@val_pass_not_match": {
+        "description": "पासवर्ड मेल नहीं खाते"
+    },
+    "val_enter_name": "कृपया नाम दर्ज करें",
+    "@val_enter_name": {
+        "description": "कृपया नाम दर्ज करें"
+    },
+    "val_enter_query": "कृपया क्वेरी दर्ज करें",
+    "@val_enter_query": {
+        "description": "कृपया क्वेरी दर्ज करें"
+    },
+    "val_enter_confirm_pass": "कृपया पासवर्ड की पुष्टि करें",
+    "@val_enter_confirm_pass": {
+        "description": "कृपया पासवर्ड की पुष्टि करें"
+    },
+    "val_enter_address": "कृपया पता दर्ज करें",
+    "@val_enter_address": {
+        "description": "कृपया पता दर्ज करें"
+    },
+    "val_enter_mobile": "कृपया मोबाइल नंबर दर्ज करें",
+    "@val_enter_mobile": {
+        "description": "कृपया मोबाइल नंबर दर्ज करें"
+    },
+    "val_valid_number": "कृपया मान्य मोबाइल नंबर दर्ज करें",
+    "@val_valid_number": {
+        "description": "कृपया मान्य मोबाइल नंबर दर्ज करें"
+    },
+    "val_otp": "कृपया OTP दर्ज करें",
+    "@val_otp": {
+        "description": "कृपया OTP दर्ज करें"
+    },
+    "val_enter_postal_code": "कृपया डाक कोड दर्ज करें",
+    "@val_enter_postal_code": {
+        "description": "कृपया डाक कोड दर्ज करें"
+    },
+    "val_valid_postal_code": "कृपया मान्य डाक कोड दर्ज करें",
+    "@val_valid_postal_code": {
+        "description": "कृपया मान्य डाक कोड दर्ज करें"
+    },
+    "val_enter_landmark": "कृपया लैंडमार्क दर्ज करें",
+    "@val_enter_landmark": {
+        "description": "कृपया लैंडमार्क दर्ज करें"
+    },
+    "val_enter_city": "कृपया शहर में प्रवेश करें",
+    "@val_enter_city": {
+        "description": "कृपया शहर में प्रवेश करें"
+    },
+    "val_enter_state": "कृपया राज्य दर्ज करें",
+    "@val_enter_state": {
+        "description": "कृपया राज्य दर्ज करें"
+    },
+    "val_enter_address": "कृपया पता दर्ज करें",
+    "@val_enter_address": {
+        "description": "कृपया पता दर्ज करें"
+    },
+    "val_enter_specification": "कृपया विनिर्देश दर्ज करें",
+    "@val_enter_specification": {
+        "description": "कृपया विनिर्देश दर्ज करें"
+    },
+    "val_enter_message": "एक संदेश दर्ज करें",
+    "@val_enter_message": {
+        "description": "एक संदेश दर्ज करें"
+    },
+    "txt_camera_permission": "कैमरे की अनुमति",
+    "@txt_camera_permission": {
+        "description": "कैमरे की अनुमति"
+    },
+    "txt_permission_camera": "इस अनुमति के बिना, यह ऐप फोटो लेने में असमर्थ होगा। क्या आप सुनिश्चित हैं कि आप इस अनुमति से इनकार करना चाहते हैं?",
+    "@txt_permission_camera": {
+        "description": "इस अनुमति के बिना, यह ऐप फोटो लेने में असमर्थ होगा। क्या आप सुनिश्चित हैं कि आप इस अनुमति से इनकार करना चाहते हैं?"
+    },
+    "txt_retry": "पुन: प्रयास करें",
+    "@txt_retry": {
+        "description": "पुन: प्रयास करें"
+    },
+    "txt_im_sure": "मुझे यकीन है",
+    "@txt_im_sure": {
+        "description": "मुझे यकीन है"
+    },
+    "txt_gallery_permission": "गैलरी अनुमति",
+    "@txt_gallery_permission": {
+        "description": "गैलरी अनुमति"
+    },
+    "txt_permision_gallery": "इस अनुमति के बिना, यह ऐप गैलरी से फ़ोटो प्राप्त करने में असमर्थ होगा। क्या आप सुनिश्चित हैं कि आप इस अनुमति से इनकार करना चाहते हैं?",
+    "@txt_permision_gallery": {
+        "description": "इस अनुमति के बिना, यह ऐप गैलरी से फ़ोटो प्राप्त करने में असमर्थ होगा। क्या आप सुनिश्चित हैं कि आप इस अनुमति से इनकार करना चाहते हैं?"
+    },
+    "txt_your_msg": "आपका सन्देश...",
+    "@txt_your_msg": {
+        "description": "आपका सन्देश..."
+    },
+    "txt_user_cancel_process": "उपयोगकर्ता प्रक्रिया रद्द करें",
+    "@txt_user_cancel_process": {
+        "description": "उपयोगकर्ता प्रक्रिया रद्द करें"
+    },
+    "txt_thank_for_reg": "पंजीकरण के लिए धन्यवाद",
+    "@txt_thank_for_reg": {
+        "description": "पंजीकरण के लिए धन्यवाद"
+    },
+    "txt_verify_your_doc": "एक बार जब हम आपके दस्तावेजों को सत्यापित करते हैं।",
+    "@txt_verify_your_doc": {
+        "description": "एक बार जब हम आपके दस्तावेजों को सत्यापित करते हैं।"
+    },
+     "txt_notify_you": "हम आपको जल्द ही सूचित करते हैं",
+    "@txt_notify_you": {
+        "description": "हम आपको जल्द ही सूचित करते हैं"
+    },
+    "txt_active_after_verification": "सत्यापन के बाद आपका खाता सक्रिय हो जाएगा",
+    "@txt_active_after_verification": {
+        "description": "सत्यापन के बाद आपका खाता सक्रिय हो जाएगा"
+    },
+    "val_enter_vehicle_num": "कृपया वाहन नंबर दर्ज करें",
+    "@val_enter_vehicle_num": {
+        "description": "कृपया वाहन नंबर दर्ज करें"
+    },
+     "val_upload_vehicle_front_img": "कृपया वाहन सामने की छवि अपलोड करें",
+    "@val_upload_vehicle_front_img": {
+        "description": "कृपया वाहन सामने की छवि अपलोड करें"
+    },
+     "val_upload_vehicle_back_img": "कृपया वाहन बैक इमेज अपलोड करें",
+    "@val_upload_vehicle_back_img": {
+        "description": "कृपया वाहन बैक इमेज अपलोड करें"
+    },
+     "val_enter_id_number": "कृपया पहचान कार्ड नंबर दर्ज करें",
+    "@val_enter_id_number": {
+        "description": "कृपया पहचान कार्ड नंबर दर्ज करें"
+    },
+     "val_upload_id_front_img": "कृपया पहचान कार्ड फ्रंट इमेज अपलोड करें",
+    "@val_upload_id_front_img": {
+        "description": "कृपया पहचान कार्ड फ्रंट इमेज अपलोड करें"
+    },
+     "val_upload_id_back_img": "कृपया पहचान कार्ड बैक इमेज अपलोड करें",
+    "@val_upload_id_back_img": {
+        "description": "कृपया पहचान कार्ड बैक इमेज अपलोड करें"
+    },
+     "val_select_id_start_date": "कृपया पहचान कार्ड प्रारंभ तिथि का चयन करें",
+    "@val_select_id_start_date": {
+        "description": "कृपया पहचान कार्ड प्रारंभ तिथि का चयन करें"
+    },
+     "val_select_id_end_date": "कृपया पहचान कार्ड अंतिम तिथि का चयन करें",
+    "@val_select_id_end_date": {
+        "description": "कृपया पहचान कार्ड अंतिम तिथि का चयन करें"
+    },
+     "val_enter_license_num": "कृपया लाइसेंस नंबर दर्ज करें",
+    "@val_enter_license_num": {
+        "description": "कृपया लाइसेंस नंबर दर्ज करें"
+    },
+     "val_upload_license_front_img": "कृपया लाइसेंस फ्रंट इमेज अपलोड करें",
+    "@val_upload_license_front_img": {
+        "description": "कृपया लाइसेंस फ्रंट इमेज अपलोड करें"
+    },
+     "val_upload_license_back_img": "कृपया लाइसेंस बैक इमेज अपलोड करें",
+    "@val_upload_license_back_img": {
+        "description": "कृपया लाइसेंस बैक इमेज अपलोड करें"
+    },
+     "val_select_license_start_date": "कृपया लाइसेंस प्रारंभ तिथि का चयन करें",
+    "@val_select_license_start_date": {
+        "description": "कृपया लाइसेंस प्रारंभ तिथि का चयन करें"
+    },
+     "val_select_license_end_date": "कृपया लाइसेंस अंतिम तिथि का चयन करें",
+    "@val_select_license_end_date": {
+        "description": "कृपया लाइसेंस अंतिम तिथि का चयन करें"
+    },
+     "val_enter_vehicle_reg_num": "कृपया वाहन पंजीकरण संख्या दर्ज करें",
+    "@val_enter_vehicle_reg_num": {
+        "description": "कृपया वाहन पंजीकरण संख्या दर्ज करें"
+    },
+     "val_upload_reg_front_img": "कृपया वाहन पंजीकरण फ्रंट इमेज अपलोड करें",
+    "@val_upload_vehicle_front_img": {
+        "description": "कृपया वाहन पंजीकरण फ्रंट इमेज अपलोड करें"
+    },
+     "val_upload_reg_back_img": "कृपया वाहन पंजीकरण वापस छवि अपलोड करें",
+    "@txt_your_msg": {
+        "description": "कृपया वाहन पंजीकरण वापस छवि अपलोड करें"
+    },
+     "val_enter_reg_start_date": "कृपया वाहन पंजीकरण प्रारंभ तिथि का चयन करें",
+    "@val_enter_reg_start_date": {
+        "description": "कृपया वाहन पंजीकरण प्रारंभ तिथि का चयन करें"
+    },
+     "val_enter_reg_end_date": "कृपया वाहन पंजीकरण अंतिम तिथि का चयन करें",
+    "@val_enter_reg_end_date": {
+        "description": "कृपया वाहन पंजीकरण अंतिम तिथि का चयन करें"
+    },
+    "val_enter_owner_num": "कृपया वाहन स्वामित्व संख्या दर्ज करें",
+    "@val_enter_owner_num": {
+        "description": "कृपया वाहन स्वामित्व संख्या दर्ज करें"
+    },
+    "val_upload_owner_front_img": "कृपया वाहन स्वामित्व सामने की छवि अपलोड करें",
+    "@val_upload_owner_front_img": {
+        "description": "कृपया वाहन स्वामित्व सामने की छवि अपलोड करें"
+    },
+    "val_upload_owner_back_img": "कृपया वाहन स्वामित्व वापस छवि अपलोड करें",
+    "@val_upload_owner_back_img": {
+        "description": "कृपया वाहन स्वामित्व वापस छवि अपलोड करें"
+    },
+    "val_enter_owner_start_date": "कृपया वाहन स्वामित्व प्रारंभ तिथि का चयन करें",
+    "@val_enter_owner_start_date": {
+        "description": "कृपया वाहन स्वामित्व प्रारंभ तिथि का चयन करें"
+    },
+    "val_enter_owner_end_date": "कृपया वाहन स्वामित्व अंतिम तिथि का चयन करें",
+    "@val_enter_owner_end_date": {
+        "description": "कृपया वाहन स्वामित्व अंतिम तिथि का चयन करें"
+    },
+    "val_enter_insurance_num": "कृपया वाहन बीमा नंबर दर्ज करें",
+    "@val_enter_insurance_num": {
+        "description": "कृपया वाहन बीमा नंबर दर्ज करें"
+    },
+    "val_upload_insurance_front_img": "कृपया वाहन बीमा फ्रंट इमेज अपलोड करें",
+    "@val_upload_insurance_front_img": {
+        "description": "कृपया वाहन बीमा फ्रंट इमेज अपलोड करें"
+    },
+    "val_upload_insurance_back_img": "कृपया वाहन बीमा बैक इमेज अपलोड करें",
+    "@val_upload_insurance_back_img": {
+        "description": "कृपया वाहन बीमा बैक इमेज अपलोड करें"
+    },
+    "val_insurance_start_date": "कृपया वाहन बीमा प्रारंभ तिथि का चयन करें",
+    "@val_insurance_start_date": {
+        "description": "कृपया वाहन बीमा प्रारंभ तिथि का चयन करें"
+    },
+    "val_insurance_end_date": "कृपया वाहन बीमा अंतिम तिथि का चयन करें",
+    "@val_insurance_end_date": {
+        "description": "कृपया वाहन बीमा अंतिम तिथि का चयन करें"
+    },
+    "val_inspection_num": "कृपया वाहन निरीक्षण संख्या दर्ज करें",
+    "@val_inspection_num": {
+        "description": "कृपया वाहन निरीक्षण संख्या दर्ज करें"
+    },
+    "val_inspection_front_img": "कृपया वाहन निरीक्षण फ्रंट इमेज अपलोड करें",
+    "@val_inspection_front_img": {
+        "description": "कृपया वाहन निरीक्षण फ्रंट इमेज अपलोड करें"
+    },
+    "val_inspection_back_img": "कृपया वाहन निरीक्षण वापस छवि अपलोड करें",
+    "@val_inspection_back_img": {
+        "description": "कृपया वाहन निरीक्षण वापस छवि अपलोड करें"
+    },
+    "val_inspection_start_date": "कृपया वाहन निरीक्षण प्रारंभ तिथि का चयन करें",
+    "@val_inspection_start_date": {
+        "description": "कृपया वाहन निरीक्षण प्रारंभ तिथि का चयन करें"
+    },
+    "val_inspection_end_date": "कृपया वाहन निरीक्षण अंत तिथि का चयन करें",
+    "@val_inspection_end_date": {
+        "description": "कृपया वाहन निरीक्षण अंत तिथि का चयन करें"
+    },
+    "val_manifest_num": "कृपया वाहन घोषणापत्र संख्या दर्ज करें",
+    "@val_manifest_num": {
+        "description": "कृपया वाहन घोषणापत्र संख्या दर्ज करें"
+    },
+    "val_manifest_front_img": "कृपया वाहन प्रकट सामने की छवि अपलोड करें",
+    "@val_manifest_front_img": {
+        "description": "कृपया वाहन प्रकट सामने की छवि अपलोड करें"
+    },
+     "val_manifest_back_img": "कृपया वाहन प्रकट होने वाली छवि अपलोड करें",
+    "@val_manifest_back_img": {
+        "description": "कृपया वाहन प्रकट होने वाली छवि अपलोड करें"
+    },
+     "val_manifest_start_date": "कृपया वाहन मेनिफेस्ट स्टार्ट डेट चुनें",
+    "@val_manifest_start_date": {
+        "description": "कृपया वाहन मेनिफेस्ट स्टार्ट डेट चुनें"
+    },
+     "val_manifest_end_date": "कृपया वाहन मेनिफेस्ट एंड तिथि का चयन करें",
+    "@val_manifest_end_date": {
+        "description": "कृपया वाहन मेनिफेस्ट एंड तिथि का चयन करें"
+    },
+     "val_radio_num": "कृपया वाहन रेडियो टैक्स नंबर दर्ज करें",
+    "@val_radio_num": {
+        "description": "कृपया वाहन रेडियो टैक्स नंबर दर्ज करें"
+    },
+     "val_radio_front_img": "कृपया वाहन रेडियो टैक्स फ्रंट इमेज अपलोड करें",
+    "@val_radio_front_img": {
+        "description": "कृपया वाहन रेडियो टैक्स फ्रंट इमेज अपलोड करें"
+    },
+     "val_radio_back_img": "कृपया वाहन रेडियो टैक्स बैक इमेज अपलोड करें",
+    "@val_radio_back_img": {
+        "description": "कृपया वाहन रेडियो टैक्स बैक इमेज अपलोड करें"
+    },
+     "val_radio_start_date": "कृपया वाहन रेडियो टैक्स प्रारंभ तिथि का चयन करें",
+    "@val_radio_start_date": {
+        "description": "कृपया वाहन रेडियो टैक्स प्रारंभ तिथि का चयन करें"
+    },
+     "val_radio_end_date": "कृपया वाहन रेडियो कर अंत तिथि का चयन करें",
+    "@val_radio_end_date": {
+        "description": "कृपया वाहन रेडियो कर अंत तिथि का चयन करें"
+    },
+      "txt_file_selected": "चयनित फ़ाइल",
+    "@txt_file_selected": {
+        "description": "चयनित फ़ाइल"
+    },
+       "txt_nofile_selected": "किसी भी फाइल का चयन नहीं",
+    "@txt_nofile_selected": {
+        "description": "किसी भी फाइल का चयन नहीं"
+    },
+    "txt_server_error": "सर्वर त्रुटि, कृपया पुनः प्रयास करें",
+    "@txt_server_error": {
+        "description": "सर्वर त्रुटि, कृपया पुनः प्रयास करें"
+    },
+     "val_valid_otp": "कृपया मान्य OTP दर्ज करें",
+    "@val_valid_otp": {
+        "description": "कृपया मान्य OTP दर्ज करें"
+    },
+     "txt_double_click": "एग्जिट ऐप पर डबल क्लिक करें",
+    "@txt_double_click": {
+        "description": "एग्जिट ऐप पर डबल क्लिक करें"
+    },
+      "txt_pick_from": "वहाँ से उठाओ",
+    "@txt_pick_from": {
+        "description": "वहाँ से उठाओ"
+    },
+      "txt_transaction_id": "लेन -देन आईडी",
+    "@txt_pick_from": {
+        "description": "लेन -देन आईडी"
+    },
+       "txt_total_price": "कुल कीमत",
+    "@txt_total_price": {
+        "description": "कुल कीमत"
+    },
+     "txt_complete": "पूरा हुआ",
+    "@txt_complete": {
+        "description": "पूरा हुआ"
+    },
+      "txt_date": "तारीख",
+    "@txt_date": {
+        "description": "तारीख"
+    },
+      "txt_by": "द्वारा",
+    "@txt_by": {
+        "description": "द्वारा"
+    },
+       "txt_cancelled": "रद्द",
+    "@txt_cancelled": {
+        "description": "रद्द"
+    },
+       "txt_phone_number": "फ़ोन नंबर",
+    "@txt_phone_number": {
+        "description": "फ़ोन नंबर"
+    },
+       "txt_upload": "डालना",
+    "@txt_upload": {
+        "description": "डालना"
+    },
+       "txt_valid_phone": "कृपया मान्य फ़ोन नंबर दर्ज करें",
+    "@txt_valid_phone": {
+        "description": "कृपया मान्य फ़ोन नंबर दर्ज करें"
+    },
+       "txt_maker_name": "कृपया कार निर्माता विवरण दर्ज करें",
+    "@txt_maker_name": {
+        "description": "कृपया कार निर्माता विवरण दर्ज करें"
+    },
+       "txt_model_name": "कृपया कार मॉडल का नाम दर्ज करें",
+    "@txt_model_name": {
+        "description": "कृपया कार मॉडल का नाम दर्ज करें"
+    },
+       "txt_color_name": "कृपया कार रंग का नाम दर्ज करें",
+    "@txt_color_name": {
+        "description": "कृपया कार रंग का नाम दर्ज करें"
+    },
+       "txt_select_passenger": "कृपया यात्री की संख्या का चयन करें",
+    "@txt_select_passenger": {
+        "description": "कृपया यात्री की संख्या का चयन करें"
+    },
+       "txt_valid_data": "मान्य डेटा दर्ज करें",
+    "@txt_valid_data": {
+        "description": "मान्य डेटा दर्ज करें"
+    },
+       "txt_select_vehicle_pic": "कृपया वाहन चित्रों का चयन करें",
+    "@txt_select_vehicle_pic": {
+        "description": "कृपया वाहन चित्रों का चयन करें"
+    },
+     "txt_location_permission": "स्थान अनुमति",
+    "@txt_location_permission": {
+        "description": "स्थान अनुमति"
+    },
+    "txt_permision_location": "इस अनुमति के बिना, यह ऐप आपका स्थान और पता प्राप्त करने में असमर्थ होगा। क्या आप सुनिश्चित हैं कि आप इस अनुमति से इनकार करना चाहते हैं?",
+    "@txt_permision_location": {
+        "description": "इस अनुमति के बिना, यह ऐप आपका स्थान और पता प्राप्त करने में असमर्थ होगा। क्या आप सुनिश्चित हैं कि आप इस अनुमति से इनकार करना चाहते हैं?"
+    },
+    "txt_permision_setting": "यदि आप इस ऐप का उपयोग करना चाहते हैं, तो आपको सिस्टम अनुमतियाँ सेटिंग में अनुमतियों को सक्षम करना होगा",
+    "@txt_permision_setting": {
+        "description": "यदि आप इस ऐप का उपयोग करना चाहते हैं, तो आपको सिस्टम अनुमतियाँ सेटिंग में अनुमतियों को सक्षम करना होगा"
+    },
+     "txt_setting": "समायोजन",
+    "@txt_setting": {
+        "description": "समायोजन"
+    },
+     "txt_exit": "बाहर निकलना",
+    "@txt_exit": {
+        "description": "बाहर निकलना"
+    },
+    "txt_select_max": "अधिकतम 10 छवियों का चयन करें",
+    "@txt_exit": {
+        "description": "अधिकतम 10 छवियों का चयन करें"
+    },
+    "txt_car_maker": "कार निर्माता",
+    "@txt_car_maker": {
+        "description": "कार निर्माता"
+    },
+     "txt_car_model": "कार के मॉडल",
+    "@txt_car_model": {
+        "description": "कार के मॉडल"
+    },
+     "txt_car_color": "कार का रंग",
+    "@txt_car_color": {
+        "description": "कार का रंग"
+    },
+     "txt_no_pass": "यात्री की संख्या",
+    "@txt_no_pass": {
+        "description": "यात्री की संख्या"
+    },
+     "txt_vehicle_pic": "वाहन चित्र",
+    "@txt_vehicle_pic": {
+        "description": "वाहन चित्र"
+    },
+     "txt_driver_id": "चालक पहचान पत्र",
+    "@txt_driver_id": {
+        "description": "चालक पहचान पत्र"
+    },
+     "txt_driver_driving": "चालक ड्राइविंग लाइसेंस",
+    "@txt_driver_driving": {
+        "description": "चालक ड्राइविंग लाइसेंस"
+    },
+     "txt_vehicle_reg": "वाहन पंजीकरण",
+    "@txt_vehicle_reg": {
+        "description": "वाहन पंजीकरण"
+    },
+     "txt_vehicle_owner": "वाहन स्वामित्व",
+    "@txt_vehicle_owner": {
+        "description": "वाहन स्वामित्व"
+    },
+     "txt_vehicle_insur": "वाहन बीमा",
+    "@txt_vehicle_insur": {
+        "description": "वाहन बीमा"
+    },
+      "txt_vehicle_inspec": "वाहन निरीक्षण",
+    "@txt_vehicle_inspec": {
+        "description": "वाहन निरीक्षण"
+    },
+      "txt_vehicle_mani": "वाहन प्रकट",
+    "@txt_vehicle_mani": {
+        "description": "वाहन प्रकट"
+    },
+     "txt_vehicle_radio": "वाहन रेडियो कर",
+    "@txt_vehicle_radio": {
+        "description": "वाहन रेडियो कर"
+    },
+      "txt_maker": "निर्माता",
+    "@txt_maker": {
+        "description": "निर्माता"
+    },
+      "txt_model": "आदर्श",
+    "@txt_model": {
+        "description": "आदर्श"
+    },
+      "txt_color": "रंग",
+    "@txt_color": {
+        "description": "रंग"
+    },
+       "txt_passenger": "यात्री",
+    "@txt_passenger": {
+        "description": "यात्री"
+    },
+      "txt_max_10": "(अधिकतम 10)",
+    "@txt_max_10": {
+        "description": "(अधिकतम 10)"
+    },
+    "txt_uploaded": "अपलोड किए गए",
+    "@txt_uploaded": {
+        "description": "अपलोड किए गए"
+    },
+     "val_name_len": "मान्य नाम दर्ज करें",
+    "@val_name_len": {
+        "description": "मान्य नाम दर्ज करें"
+    },
+    "val_driving_license": "वैध ड्राइविंग लाइसेंस दर्ज करें",
+    "@val_driving_license": {
+        "description": "वैध ड्राइविंग लाइसेंस दर्ज करें"
+    },
+    "txt_select": "चुनना",
+    "@txt_select": {
+        "description": "चुनना"
+    },
+    "val_IdCard": "वैध आईडी कार्ड दर्ज करें",
+    "@tval_IdCard": {
+        "description": "वैध आईडी कार्ड दर्ज करें"
+    },
+    "val_reg_len": "पंजीकरण संख्या 10 से अधिक अल्फ़ान्यूमेरिक वर्ण नहीं होनी चाहिए",
+    "@val_reg_len": {
+        "description": "पंजीकरण संख्या 10 से अधिक अल्फ़ान्यूमेरिक वर्ण नहीं होनी चाहिए"
+    },
+    "val_owner_len": "मान्य स्वामी नाम दर्ज करें",
+    "@val_owner_len": {
+        "description": "मान्य स्वामी नाम दर्ज करें"
+    },
+    "txt_insurance_len": "बीमा संख्या 30 से अधिक अल्फ़ान्यूमेरिक चरित्र नहीं होनी चाहिए",
+    "@txt_insurance_len": {
+        "description": "बीमा संख्या 30 से अधिक अल्फ़ान्यूमेरिक चरित्र नहीं होनी चाहिए"
+    },
+     "txt_change_lng": "भाषा बदलें",
+    "@txt_change_lng": {
+        "description": "भाषा बदलें"
+    },
+     "txt_pls_enter_queries": "कृपया अपने प्रश्नों को दर्ज करें",
+    "@txt_pls_enter_queries": {
+        "description": "कृपया अपने प्रश्नों को दर्ज करें"
+    },
+     "txt_query_length": "क्वेरी की लंबाई न्यूनतम 10 वर्ण होनी चाहिए",
+    "@txt_query_length": {
+        "description": "क्वेरी की लंबाई न्यूनतम 10 वर्ण होनी चाहिए"
+    },
+     "txt_take_live_photo": "एक लाइव फोटो लें",
+    "@txt_take_live_photo": {
+        "description": "एक लाइव फोटो लें"
+    },
+     "txt_loading_camera": "लोडिंग कैमरा ...",
+    "@txt_loading_camera": {
+        "description": "लोडिंग कैमरा ..."
+    },
+     "txt_retake": "फिर से लेना",
+    "@txt_retake": {
+        "description": "फिर से लेना"
+    },
+     "txt_confirm": "पुष्टि करना",
+    "@txt_confirm": {
+        "description": "पुष्टि करना"
+    },
+     "txt_no_booking_for_schedule": "शेड्यूल राइड के लिए कोई बुकिंग नहीं है",
+    "@txt_no_booking_for_schedule": {
+        "description": "शेड्यूल राइड के लिए कोई बुकिंग नहीं है"
+    },
+     "txt_schedule_ride": "अनुसूची सवारी",
+    "@txt_schedule_ride": {
+        "description": "अनुसूची सवारी"
+    },
+     "txt_scheduled_rides": "अनुसूचित सवारी",
+    "@txt_scheduled_rides": {
+        "description": "अनुसूचित सवारी"
+    },
+     "txt_cancel_ride": "रद्द करें सवारी",
+    "@txt_cancel_ride": {
+        "description": "रद्द करें सवारी"
+    },
+     "txt_payment_pending": "भुगतान लंबित",
+    "@txt_payment_pending": {
+        "description": "भुगतान लंबित"
+    },
+     "txt_accepted": "स्वीकृत",
+    "@txt_accepted": {
+        "description": "स्वीकृत"
+    },
+     "txt_ride_pending": "सवारी लंबित",
+    "@txt_ride_pending": {
+        "description": "सवारी लंबित"
+    },
+     "txt_wallet": "बटुआ",
+    "@txt_wallet": {
+        "description": "बटुआ"
+    },
+     "txt_send_request": "अनुरोध भेजा",
+    "@txt_send_request": {
+        "description": "अनुरोध भेजा"
+    },
+     "txt_note_remark": "नोट/टिप्पणी",
+    "@txt_note_remark": {
+        "description": "नोट/टिप्पणी"
+    },
+     "txt_withdrawal_amt": "निकाली गयी राशि",
+    "@txt_withdrawal_amt": {
+        "description": "निकाली गयी राशि"
+    },
+     "txt_history": "इतिहास",
+    "@txt_history": {
+        "description": "इतिहास"
+    },
+     "txt_skip": "छोडना",
+    "@txt_skip": {
+        "description": "छोडना"
+    },
+     "txt_success": "सफलता",
+    "@txt_success": {
+        "description": "सफलता"
+    },
+     "txt_enter_amt": "राशि डालें",
+    "@txt_": {
+        "description": "राशि डालें"
+    },
+     "txt_enter_valid_amt": "मान्य राशि दर्ज करें",
+    "@txt_enter_valid_amt": {
+        "description": "मान्य राशि दर्ज करें"
+    },
+     "txt_owner_name": "मालिक का नाम",
+    "@txt_owner_name": {
+        "description": "मालिक का नाम"
+    },
+     "txt_enter_owner_name": "कृपया स्वामी का नाम दर्ज करें",
+    "@txt_enter_owner_name": {
+        "description": "कृपया स्वामी का नाम दर्ज करें"
+    },
+     "txt_enter_valid_owner_name": "मान्य स्वामी नाम दर्ज करें",
+    "@txt_enter_valid_owner_name": {
+        "description": "मान्य स्वामी नाम दर्ज करें"
+    },
+     "txt_enter_valid_maker_name": "मान्य निर्माता नाम दर्ज करें",
+    "@txt_enter_valid_maker_name": {
+        "description": "मान्य निर्माता नाम दर्ज करें"
+    },
+     "txt_valid_color_name": "मान्य रंग का नाम दर्ज करें",
+    "@txt_valid_color_name": {
+        "description": "मान्य रंग का नाम दर्ज करें"
+    },
+     "txt_enter_color_name": "कृपया रंग नाम दर्ज करें",
+    "@txt_enter_color_name": {
+        "description": "कृपया रंग नाम दर्ज करें"
+    },
+     "txt_request_mode": "अनुरोध विधा",
+    "@txt_request_mode": {
+        "description": "अनुरोध विधा"
+    },
+     "txt_request_pending": "अनुरोध लंबित है",
+    "@txt_request_pending": {
+        "description": "अनुरोध लंबित है"
+    },
+     "txt_request_decline": "अनुरोध गिरावट",
+    "@txt_request_decline": {
+        "description": "अनुरोध गिरावट"
+    },
+     "txt_request_date": "अनुरोध की तिथि",
+    "@txt_request_date": {
+        "description": "अनुरोध की तिथि"
+    },
+     "txt_request_status": "अनुरोध की स्थिति",
+    "@txt_request_status": {
+        "description": "अनुरोध की स्थिति"
+    },
+     "txt_enter_vaild_name": "मान्य नाम दर्ज करें",
+    "@txt_enter_vaild_name": {
+        "description": "मान्य नाम दर्ज करें"
+    },
+     "txt_update": "अद्यतन",
+    "@txt_update": {
+        "description": "अद्यतन"
+    },
+     "txt_enter_details_of_your": "आपका विवरण दर्ज करें",
+    "@txt_enter_details_of_your": {
+        "description": "आपका विवरण दर्ज करें"
+    },
+     "txt_upload_photo_of_your": "अपनी एक तस्वीर अपलोड करें",
+    "@txt_upload_photo_of_your": {
+        "description": "अपनी एक तस्वीर अपलोड करें"
+    },
+     "txt_vehicle": "वाहन",
+    "@txt_vehicle": {
+        "description": "वाहन"
+    },
+     "txt_select_min_one_img": "न्यूनतम 1 छवि का चयन करें",
+    "@txt_select_min_one_img": {
+        "description": "न्यूनतम 1 छवि का चयन करें"
+    },
+     "txt_details": "विवरण",
+    "@txt_details": {
+        "description": "विवरण"
+    },
+     "txt_in_progress": "प्रगति पर है",
+    "@txt_in_progress": {
+        "description": "प्रगति पर है"
+    },
+     "txt_complete_ride": "पूर्ण सवारी",
+    "@txt_complete_ride": {
+        "description": "पूर्ण सवारी"
+    },
+     "txt_your_ride_completed": "आपकी सवारी पूरी हो गई है",
+    "@txt_your_ride_completed": {
+        "description": "आपकी सवारी पूरी हो गई है"
+    },
+     "txt_ride_completed": "सवारी पूरी की",
+    "@txt_ride_completed": {
+        "description": "सवारी पूरी की"
+    },
+     "txt_security_deposit": "सुरक्षा जमा राशि",
+    "@txt_security_deposit": {
+        "description": "सुरक्षा जमा राशि"
+    },
+     "txt_complete_security_deposit_process": "सुरक्षा जमा प्रक्रिया को पूरा करें",
+    "@txt_complete_security_deposit_process": {
+        "description": "सुरक्षा जमा प्रक्रिया को पूरा करें"
+    },
+     "txt_checked_pay_later": "आपने बाद में सुरक्षा जमा वेतन की जाँच की है",
+    "@txt_checked_pay_later": {
+        "description": "आपने बाद में सुरक्षा जमा वेतन की जाँच की है"
+    },
+     "txt_already_done_online_payment": "आपने पहले ही ऑनलाइन भुगतान किया है",
+    "@txt_already_done_online_payment": {
+        "description": "आपने पहले ही ऑनलाइन भुगतान किया है"
+    },
+     "txt_choose_pay_menthod": "भुगतान का तरीका चुनें",
+    "@txt_choose_pay_menthod": {
+        "description": "भुगतान का तरीका चुनें"
+    },
+     "txt_pay_now": "अब भुगतान करें",
+    "@txt_pay_now": {
+        "description": "अब भुगतान करें"
+    },
+     "txt_do_later": "मैं बाद में सुरक्षा जमा करूंगा",
+    "@txt_do_later": {
+        "description": "मैं बाद में सुरक्षा जमा करूंगा"
+    },
+     "txt_gender_pref": "लिंग वरीयताएँ",
+    "@txt_gender_pref": {
+        "description": "लिंग वरीयताएँ"
+    },
+     "txt_gender_you_want_to_prefer": "(लिंग का चयन करें जिसे आप सवारी करना चाहते हैं)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(लिंग का चयन करें जिसे आप सवारी करना चाहते हैं)"
+    },
+     "txt_male": "पुरुष",
+    "@txt_male": {
+        "description": "पुरुष"
+    },
+     "txt_female": "महिला",
+    "@txt_female": {
+        "description": "महिला"
+    },
+     "txt_other": "अन्य",
+    "@txt_other": {
+        "description": "अन्य"
+    },
+     "txt_no_pref": "कोई वरीयताएँ नहीं",
+    "@txt_no_pref": {
+        "description": "कोई वरीयताएँ नहीं"
+    },
+     "txt_update_details_of_user": "अपने विवरण को अपडेट करें",
+    "@txt_update_details_of_user": {
+        "description": "अपने विवरण को अपडेट करें"
+    },
+     "txt_criminal_record_certificate": "आपराधिक अभिलेख प्रमाणपत्र",
+    "@txt_criminal_record_certificate": {
+        "description": "आपराधिक अभिलेख प्रमाणपत्र"
+    },
+     "txt_criminal_record": "आपराधिक रिकॉर्ड",
+    "@txt_criminal_record": {
+        "description": "आपराधिक रिकॉर्ड"
+    },
+     "txt_update_your": "अपना अपडेट करें",
+    "@txt_update_your": {
+        "description": "अपना अपडेट करें"
+    },
+     "txt_document": "दस्तावेज़",
+    "@txt_document": {
+        "description": "दस्तावेज़"
+    },
+      "txt_select_your_gender": "अपना लिंग चुनें",
+    "@txt_select_your_gender": {
+        "description": "अपना लिंग चुनें"
+    },
+      "txt_gender": "लिंग",
+    "@txt_gender": {
+        "description": "लिंग"
+    },
+      "txt_ride_type": "सवारी प्रकार",
+    "@txt_ride_type": {
+        "description": "सवारी प्रकार"
+    },
+      "txt_rejected": "अस्वीकार कर दिया",
+    "@txt_rejected": {
+        "description": "अस्वीकार कर दिया"
+    },
+      "txt_km": "किमी",
+    "@txt_km": {
+        "description": "किमी"
+    },
+      "txt_select_reason": "कारण का चयन करें",
+    "@txt_select_reason": {
+        "description": "कारण का चयन करें"
+    },
+      "txt_select_gender_pref": "लिंग वरीयता का चयन करें",
+    "@txt_select_gender_pref": {
+        "description": "लिंग वरीयता का चयन करें"
+    },
+      "txt_update_documents": "अद्यतन दस्तावेज",
+    "@txt_update_documents": {
+        "description": "अद्यतन दस्तावेज"
+    },
+      "txt_are_you_sure_to_logout": "क्या आप लॉग आउट करना चाहते हैं?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "क्या आप लॉग आउट करना चाहते हैं?"
+    },
+      "txt_my_rides": "मेरी सवारी",
+    "@txt_my_rides": {
+        "description": "मेरी सवारी"
+    },
+      "txt_rating": "रेटिंग",
+    "@txt_rating": {
+        "description": "रेटिंग"
+    },
+      "txt_daily_ride": "दैनिक सवारी",
+    "@txt_daily_ride": {
+        "description": "दैनिक सवारी"
+    },
+     "txt_rental_ride": "किराये की सवारी",
+    "@txt_rental_ride": {
+        "description": "किराये की सवारी"
+    },
+     "txt_enter_your_reason": "कृपया अपना कारण दर्ज करें",
+    "@txt_enter_your_reason": {
+        "description": "कृपया अपना कारण दर्ज करें"
+    },
+     "txt_select_ride_type": "सवारी प्रकार का चयन करें",
+    "@txt_select_ride_type": {
+        "description": "सवारी प्रकार का चयन करें"
+    },
+     "txt_profile_under_review": "आपकी प्रोफ़ाइल की समीक्षा की जा रही है, आप तब तक सवारी नहीं कर सकते जब तक कि व्यवस्थापक इसे सक्रिय नहीं करता।",
+    "@txt_profile_under_review": {
+        "description": "आपकी प्रोफ़ाइल की समीक्षा की जा रही है, आप तब तक सवारी नहीं कर सकते जब तक कि व्यवस्थापक इसे सक्रिय नहीं करता।"
+    },
+     "txt_your_account_deactivateed": "आपका खाता व्यवस्थापक द्वारा निष्क्रिय कर दिया गया है, कृपया उनसे संपर्क करें।",
+    "@txt_your_account_deactivateed": {
+        "description": "आपका खाता व्यवस्थापक द्वारा निष्क्रिय कर दिया गया है, कृपया उनसे संपर्क करें।"
+    },
+     "txt_accept_terms_privacy": "साइन अप करके आप सेवाओं और गोपनीयता नीति की शर्तों को स्वीकार करते हैं",
+    "@txt_accept_terms_privacy": {
+        "description": "साइन अप करके आप सेवाओं और गोपनीयता नीति की शर्तों को स्वीकार करते हैं"
+    },
+     "txt_please_accept_terms_privacy": "कृपया सेवाओं और गोपनीयता नीति की शर्तों को स्वीकार करें",
+    "@txt_please_accept_terms_privacy": {
+        "description": "कृपया सेवाओं और गोपनीयता नीति की शर्तों को स्वीकार करें"
+    },
+     "txt_thanks_for_registering": "हमारे साथ पंजीकरण करने के लिए धन्यवाद",
+    "@txt_thanks_for_registering": {
+        "description": "हमारे साथ पंजीकरण करने के लिए धन्यवाद"
+    },
+     "txt_application_under_review_check_status": "आपका आवेदन समीक्षा के अधीन है, आप होमपेज में शीर्ष लाल पट्टी पर स्थिति की जांच कर सकते हैं।",
+    "@txt_application_under_review_check_status": {
+        "description": "आपका आवेदन समीक्षा के अधीन है, आप होमपेज में शीर्ष लाल पट्टी पर स्थिति की जांच कर सकते हैं।"
+    },
+     "txt_update_details": "अद्यतन विवरण",
+    "@txt_update_details": {
+        "description": "अद्यतन विवरण"
+    },
+     "txt_ride_details": "सवारी विवरण",
+    "@txt_ride_details": {
+        "description": "सवारी विवरण"
+    },
+     "txt_mpesa": "बेल",
+    "@txt_mpesa": {
+        "description": "बेल"
+    },
+     "txt_image": "छवि",
+    "@txt_image": {
+        "description": "छवि"
+    },
+     "txt_check_internet_try_again": "कृपया अपनी इंटरनेट कनेक्टिविटी की जाँच करें और पुनः प्रयास करें",
+    "@txt_check_internet_try_again": {
+        "description": "कृपया अपनी इंटरनेट कनेक्टिविटी की जाँच करें और पुनः प्रयास करें"
+    },
+     "txt_oops_no_internet": "उफ़, कोई इंटरनेट कनेक्शन नहीं",
+    "@txt_oops_no_internet": {
+        "description": "उफ़, कोई इंटरनेट कनेक्शन नहीं"
+    },
+     "txt_package_complete_renew": "आपका पैकेज या तो सवारी पूरी कर लिया गया है, या उपयोगकर्ता को नवीनीकृत करने के लिए प्रतीक्षा करें",
+    "@txt_package_complete_renew": {
+        "description": "आपका पैकेज या तो सवारी पूरी कर लिया गया है, या उपयोगकर्ता को नवीनीकृत करने के लिए प्रतीक्षा करें"
+    },
+     "txt_wait_for_response": "प्रतिक्रिया के लिए प्रतीक्षा कर रहा हूँ",
+    "@txt_wait_for_response": {
+        "description": "प्रतिक्रिया के लिए प्रतीक्षा कर रहा हूँ"
+    },
+     "txt_ride_complete_in": "में पूरी सवारी करना",
+    "@txt_ride_complete_in": {
+        "description": "में पूरी सवारी करना"
+    },
+     "txt_something_went_wrong": "कुछ गलत हो गया",
+    "@txt_something_went_wrong": {
+        "description": "कुछ गलत हो गया"
+    },
+     "txt_refresh_page_try_later": "पृष्ठ को ताज़ा करने का प्रयास करें, या बाद में फिर से प्रयास करें।",
+    "@txt_refresh_page_try_later": {
+        "description": "पृष्ठ को ताज़ा करने का प्रयास करें, या बाद में फिर से प्रयास करें।"
+    },
+     "txt_permission_required": "आवश्यक अनुमति",
+    "@txt_permission_required": {
+        "description": "आवश्यक अनुमति"
+    },
+     "txt_enable_permission": "अनुमति सक्षम करें",
+    "@txt_enable_permission": {
+        "description": "अनुमति सक्षम करें"
+    },
+     "txt_pick_your_country": "अपने देश को उठाओ",
+    "@txt_pick_your_country": {
+        "description": "अपने देश को उठाओ"
+    },
+     "txt_cant_update_ride_type": "आप चल रही सवारी में अपनी सवारी प्रकार को अपडेट नहीं कर सकते।",
+    "@txt_cant_update_ride_type": {
+        "description": "आप चल रही सवारी में अपनी सवारी प्रकार को अपडेट नहीं कर सकते।"
+    },
+     "txt_check_connect_timeout": "अपने कनेक्शन समय की जाँच करें !!",
+    "@txt_check_connect_timeout": {
+        "description": "अपने कनेक्शन समय की जाँच करें !!"
+    },
+     "txt_timeout_exception": "टाइमआउट अपवाद।",
+    "@txt_timeout_exception": {
+        "description": "टाइमआउट अपवाद।"
+    },
+     "txt_request_cancel_from_user": "उपयोगकर्ता से अनुरोध रद्द करें।",
+    "@txt_request_cancel_from_user": {
+        "description": "उपयोगकर्ता से अनुरोध रद्द करें।"
+    },
+     "txt_getting_wrong_response": "हमें गलत प्रतिक्रिया मिल रही है।",
+    "@txt_getting_wrong_response": {
+        "description": "हमें गलत प्रतिक्रिया मिल रही है।"
+    },
+     "txt_connection_error": "संपर्क त्रुटि।",
+    "@txt_connection_error": {
+        "description": "संपर्क त्रुटि।"
+    },
+     "txt_server_not_connected_contact_admin": "सर्वर कनेक्ट नहीं है, कृपया व्यवस्थापक से संपर्क करें।",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "सर्वर कनेक्ट नहीं है, कृपया व्यवस्थापक से संपर्क करें।"
+    },
+     "txt_socket_not_connect": "सॉकेट जुड़ा नहीं ...",
+    "@txt_socket_not_connect": {
+        "description": "सॉकेट जुड़ा नहीं ..."
+    },
+     "txt_user_renewed_package": "उपयोगकर्ता ने पैकेज को नवीनीकृत किया!",
+    "@txt_user_renewed_package": {
+        "description": "उपयोगकर्ता ने पैकेज को नवीनीकृत किया!"
+    },
+     "txt_bear_per_km": "उपयोगकर्ता भालू प्रति किमी शुल्क!",
+    "@txt_bear_per_km": {
+        "description": "उपयोगकर्ता भालू प्रति किमी शुल्क!"
+    },
+     "txt_wait_for_user": "उपयोगकर्ता की प्रतीक्षा करें",
+    "@txt_wait_for_user": {
+        "description": "उपयोगकर्ता की प्रतीक्षा करें"
+    },
+     "txt_bysigning_you_accept": "साइन अप करके आप स्वीकार करते हैं",
+    "@txt_bysigning_you_accept": {
+        "description": "साइन अप करके आप स्वीकार करते हैं"
+    },
+     "txt_terms_service": "सेवाओं की शर्तें",
+    "@txt_terms_service": {
+        "description": "सेवाओं की शर्तें"
+    },
+     "txt_and": "और",
+    "@txt_and": {
+        "description": "और"
+    },
+     "txt_privacy_policy": "गोपनीयता नीति",
+    "@txt_privacy_policy": {
+        "description": "गोपनीयता नीति"
+    },
+     "txt_cash_received": "नकदी प्राप्त हुई",
+    "@txt_cash_received": {
+        "description": "नकदी प्राप्त हुई"
+    },
+     "txt_click_to_take_photo": "फोटो लेने के लिए क्लिक करें",
+    "@txt_click_to_take_photo": {
+        "description": "फोटो लेने के लिए क्लिक करें"
+    },
+     "txt_camera_setting_permission": "कैमरा अनुमति सक्षम नहीं है, कृपया अनुमति सक्षम करें",
+    "@txt_camera_setting_permission": {
+        "description": "कैमरा अनुमति सक्षम नहीं है, कृपया अनुमति सक्षम करें"
+    },
+     "txt_gallery_setting_permission": "गैलरी की अनुमति सक्षम नहीं है, कृपया अनुमति सक्षम करें",
+    "@txt_gallery_setting_permission": {
+        "description": "गैलरी की अनुमति सक्षम नहीं है, कृपया अनुमति सक्षम करें"
+    },
+     "txt_unauthorized_login": "अनधिकृत लॉगिन",
+    "@txt_unauthorized_login": {
+        "description": "अनधिकृत लॉगिन"
+    },
+     "txt_login_detect": "किसी अन्य डिवाइस में नया लॉगिन का पता चला है, कृपया इस डिवाइस पर उपयोग करने के लिए फिर से लॉगिन करें",
+    "@txt_login_detect": {
+        "description": "किसी अन्य डिवाइस में नया लॉगिन का पता चला है, कृपया इस डिवाइस पर उपयोग करने के लिए फिर से लॉगिन करें"
+    },
+     "txt_location_setting_permission": "स्थान की अनुमति सक्षम नहीं है, कृपया अनुमति सक्षम करें",
+    "@txt_location_setting_permission": {
+        "description": "स्थान की अनुमति सक्षम नहीं है, कृपया अनुमति सक्षम करें"
+    },
+     "txt_delete_account": "खाता हटा दो",
+    "@txt_delete_account": {
+        "description": "खाता हटा दो"
+    },
+     "txt_sure_to_delete": "क्या आप इस खाते को हटाने के लिए सुनिश्चित हैं?",
+    "@txt_sure_to_delete": {
+        "description": "क्या आप इस खाते को हटाने के लिए सुनिश्चित हैं?"
+    },
+     "txt_open_with": "के साथ खोलें",
+    "@txt_open_with": {
+        "description": "के साथ खोलें"
+    },
+     "txt_new_request_from": "नई विनती ",
+    "@txt_new_request_from": {
+        "description": "नई विनती "
+    },
+     "txt_vehicle_assign": "व्यवस्थापक द्वारा वाहन आवंटित किया गया है",
+    "@txt_vehicle_assign": {
+        "description": "व्यवस्थापक द्वारा वाहन आवंटित किया गया है"
+    },
+     "txt_admin_delete": "व्यवस्थापक ने आपका खाता हटा दिया है, आप आगे ऐप का उपयोग नहीं कर सकते। कृपया व्यवस्थापक से संपर्क करें.",
+    "@txt_admin_delete": {
+        "description": "व्यवस्थापक ने आपका खाता हटा दिया है, आप आगे ऐप का उपयोग नहीं कर सकते। कृपया व्यवस्थापक से संपर्क करें."
+    }
+ }

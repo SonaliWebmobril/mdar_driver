@@ -1,0 +1,1606 @@
+{
+    "txt_login": "登录",
+    "@txt_login": {
+        "description": "登录"
+    },
+    "txt_mobile_number": "手机号码",
+    "@txt_mobile_number": {
+        "description": "手机号码"
+    },
+    "txt_submit": "提交",
+    "@txt_submit": {
+        "description": "提交"
+    },
+    "txt_continue_with": "或继续",
+    "@txt_continue_with": {
+        "description": "或继续"
+    },
+    "txt_select_lng": "选择语言",
+    "@txt_select_lng": {
+        "description": "选择语言"
+    },
+    "txt_select_country": "选择国家",
+    "@txt_select_country": {
+        "description": "选择国家"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "搜索",
+    "@txt_search": {
+        "description": "搜索"
+    },
+    "txt_last_pick": "最后选择",
+    "@txt_last_pick": {
+        "description": "最后选择"
+    },
+    "txt_successfully": "成功地",
+    "@txt_successfully": {
+        "description": "成功地"
+    },
+    "txt_your_otp": "您的OTP是",
+    "@txt_your_otp": {
+        "description": "您的OTP是"
+    },
+    "txt_otp_sent_successfully": "OTP成功发送了",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP成功发送了"
+    },
+    "txt_verification": "确认",
+    "@txt_verification": {
+        "description": "确认"
+    },
+    "txt_enter_code_we_sent": "输入我们刚刚发送给您的手机号码的验证代码",
+    "@txt_enter_code_we_sent": {
+        "description": "输入我们刚刚发送给您的手机号码的验证代码"
+    },
+    "txt_resend_otp": "重新启动OTP",
+    "@txt_resend_otp": {
+        "description": "重新启动OTP"
+    },
+    "txt_verify": "核实",
+    "@txt_verify": {
+        "description": "核实"
+    },
+    "txt_error": "错误",
+    "@txt_error": {
+        "description": "错误"
+    },
+    "txt_ok": "行",
+    "@txt_ok": {
+        "description": "行"
+    },
+    "txt_upload_details": "上传详细信息",
+    "@txt_upload_details": {
+        "description": "上传详细信息"
+    },
+    "txt_vehicle_picture": "车辆图片",
+    "@txt_vehicle_picture": {
+        "description": "车辆图片"
+    },
+    "txt_vehicle_number": "车辆号码",
+    "@txt_vehicle_number": {
+        "description": "车辆号码"
+    },
+    "txt_upload_image": "上传图片",
+    "@txt_upload_image": {
+        "description": "上传图片"
+    },
+    "txt_front": "正面",
+    "@txt_front": {
+        "description": "正面"
+    },
+    "txt_back": "后退",
+    "@txt_back": {
+        "description": "后退"
+    },
+    "txt_driver_id_card": "驾驶员身份证",
+    "@txt_driver_id_card": {
+        "description": "驾驶员身份证"
+    },
+    "txt_id_number": "身份证号",
+    "@txt_id_number": {
+        "description": "身份证号"
+    },
+    "txt_valid_from": "有效",
+    "@txt_valid_from": {
+        "description": "有效"
+    },
+    "txt_valid_until": "有效直到为止",
+    "@txt_valid_until": {
+        "description": "有效直到为止"
+    },
+    "txt_driver_driving_license": "驾驶执照",
+    "@txt_driver_driving_license": {
+        "description": "驾驶执照"
+    },
+    "txt_license_number": "许可证号码",
+    "@txt_license_number": {
+        "description": "许可证号码"
+    },
+    "txt_vehicle_registration": "车辆登记",
+    "@txt_vehicle_registration": {
+        "description": "车辆登记"
+    },
+    "txt_registration_number": "注册号码",
+    "@txt_registration_number": {
+        "description": "注册号码"
+    },
+    "txt_next": "下一个",
+    "@txt_next": {
+        "description": "下一个"
+    },
+    "txt_vehicle_ownership": "车辆所有权",
+    "@txt_vehicle_ownership": {
+        "description": "车辆所有权"
+    },
+    "txt_ownership_number": "所有权号码",
+    "@txt_ownership_number": {
+        "description": "所有权号码"
+    },
+    "txt_vehicle_insurance": "车辆保险",
+    "@txt_vehicle_insurance": {
+        "description": "车辆保险"
+    },
+    "txt_vehicle_inspection": "车辆检查",
+    "@txt_vehicle_inspection": {
+        "description": "车辆检查"
+    },
+    "txt_insurance_number": "保险号码",
+    "@txt_insurance_number": {
+        "description": "保险号码"
+    },
+    "txt_inspection_number": "检查编号",
+    "@txt_inspection_number": {
+        "description": "检查编号"
+    },
+    "txt_vehicle_manifest": "车辆表现",
+    "@txt_vehicle_manifest": {
+        "description": "车辆表现"
+    },
+    "txt_manifest_number": "清单号码",
+    "@txt_manifest_number": {
+        "description": "清单号码"
+    },
+    "txt_vehicle_radio_tax": "车辆无线电税",
+    "@txt_vehicle_radio_tax": {
+        "description": "车辆无线电税"
+    },
+    "txt_radio_tax_number": "无线电税号",
+    "@txt_radio_tax_number": {
+        "description": "无线电税号"
+    },
+    "txt_done": "完毕",
+    "@txt_done": {
+        "description": "完毕"
+    },
+    "txt_almost_done": "快要完成了！输入手机号码继续",
+    "@txt_almost_done": {
+        "description": "快要完成了！输入手机号码继续"
+    },
+    "txt_menu": "菜单",
+    "@txt_menu": {
+        "description": "菜单"
+    },
+    "txt_driver_profile": "驱动程序配置文件",
+    "@txt_driver_profile": {
+        "description": "驱动程序配置文件"
+    },
+    "txt_upload_doc_info": "上传文档和汽车信息。",
+    "@txt_upload_doc_info": {
+        "description": "上传文档和汽车信息。"
+    },
+    "txt_add_new_doc": "添加新文档",
+    "@txt_add_new_doc": {
+        "description": "添加新文档"
+    },
+    "txt_bank_info": "银行信息",
+    "@txt_bank_info": {
+        "description": "银行信息"
+    },
+    "txt_transaction": "交易",
+    "@txt_transaction": {
+        "description": "交易"
+    },
+    "txt_my_trip": "我的旅行",
+    "@txt_my_trip": {
+        "description": "我的旅行"
+    },
+    "txt_support": "支持",
+    "@txt_support": {
+        "description": "支持"
+    },
+    "txt_about_us": "关于我们",
+    "@txt_about_us": {
+        "description": "关于我们"
+    },
+    "txt_terms_condition": "附带条约",
+    "@txt_terms_condition": {
+        "description": "附带条约"
+    },
+    "txt_logout": "登出",
+    "@txt_logout": {
+        "description": "登出"
+    },
+    "txt_edit_profile": "编辑个人资料",
+    "@txt_edit_profile": {
+        "description": "编辑个人资料"
+    },
+    "txt_name": "名称",
+    "@txt_name": {
+        "description": "名称"
+    },
+    "txt_email": "电子邮件",
+    "@txt_email": {
+        "description": "电子邮件"
+    },
+    "txt_camera": "相机",
+    "@txt_camera": {
+        "description": "相机"
+    },
+    "txt_gallery": "画廊",
+    "@txt_gallery": {
+        "description": "画廊"
+    },
+    "txt_uploaded_documents_info": "上传文档信息",
+    "@txt_uploaded_documents_info": {
+        "description": "上传文档信息"
+    },
+    "txt_pending": "待办的",
+    "@txt_pending": {
+        "description": "待办的"
+    },
+    "txt_approved": "得到正式认可的",
+    "@txt_approved": {
+        "description": "得到正式认可的"
+    },
+    "txt_upload_detail": "上传详细信息",
+    "@txt_upload_detail": {
+        "description": "上传详细信息"
+    },
+    "txt_welcome": "欢迎",
+    "@txt_welcome": {
+        "description": "欢迎"
+    },
+    "txt_welcome_and_setup": "这是您需要设置帐户需要做的事情",
+    "@txt_welcome_and_setup": {
+        "description": "这是您需要设置帐户需要做的事情"
+    },
+    "txt_take_photo": "给你的照片",
+    "@txt_take_photo": {
+        "description": "给你的照片"
+    },
+    "val_upload_doc": "请上传文档",
+    "@val_upload_doc": {
+        "description": "请上传文档"
+    },
+    "txt_update_document": "更新文档",
+    "@txt_update_document": {
+        "description": "更新文档"
+    },
+    "txt_holder_name": "银行持有人名称",
+    "@txt_holder_name": {
+        "description": "银行持有人名称"
+    },
+    "txt_account_number": "账号",
+    "@txt_account_number": {
+        "description": "账号"
+    },
+    "txt_ifsc_code": "IFSC代码",
+    "@txt_ifsc_code": {
+        "description": "IFSC代码"
+    },
+    "txt_bank_name": "银行名称",
+    "@txt_bank_name": {
+        "description": "银行名称"
+    },
+    "txt_transaction_upr": "交易",
+    "@txt_transaction_upr": {
+        "description": "交易"
+    },
+    "txt_total_amt": "总金额",
+    "@txt_total_amt": {
+        "description": "总金额"
+    },
+    "txt_cash": "现金",
+    "@txt_cash": {
+        "description": "现金"
+    },
+    "txt_online": "在线的",
+    "@txt_online": {
+        "description": "在线的"
+    },
+    "txt_payment_history": "支付历史",
+    "@txt_payment_history": {
+        "description": "支付历史"
+    },
+    "txt_no_data_found": "没有找到数据",
+    "@txt_no_data_found": {
+        "description": "没有找到数据"
+    },
+    "txt_support_upr": "支持",
+    "@txt_support_upr": {
+        "description": "支持"
+    },
+    "txt_concern_queries": "关注和查询",
+    "@txt_concern_queries": {
+        "description": "关注和查询"
+    },
+    "txt_upload_pic_doc": "上传您的图片或文档",
+    "@txt_upload_pic_doc": {
+        "description": "上传您的图片或文档"
+    },
+    "txt_logout": "登出",
+    "@txt_logout": {
+        "description": "登出"
+    },
+    "txt_want_to_logout": "你想注销吗",
+    "@txt_want_to_logout": {
+        "description": "你想注销吗"
+    },
+    "txt_no": "不",
+    "@txt_no": {
+        "description": "不"
+    },
+    "txt_yes": "是的",
+    "@txt_yes": {
+        "description": "是的"
+    },
+    "txt_notification": "通知",
+    "@txt_notification": {
+        "description": "通知"
+    },
+    "txt_offline": "你离线",
+    "@txt_offline": {
+        "description": "你离线"
+    },
+    "txt_successfully_logged_in": "您已成功登录。",
+    "@txt_successfully_logged_in": {
+        "description": "您已成功登录。"
+    },
+    "txt_distance": "距离",
+    "@txt_distance": {
+        "description": "距离"
+    },
+    "txt_estimate_time": "估计时间",
+    "@txt_estimate_time": {
+        "description": "估计时间"
+    },
+    "txt_from_upr": "从",
+    "@txt_from_upr": {
+        "description": "从"
+    },
+    "txt_to_upr": "到",
+    "@txt_to_upr": {
+        "description": "到"
+    },
+    "txt_call": "称呼",
+    "@txt_call": {
+        "description": "称呼"
+    },
+    "txt_chat": "聊天",
+    "@txt_chat": {
+        "description": "聊天"
+    },
+    "txt_price": "价格",
+    "@txt_price": {
+        "description": "价格"
+    },
+    "txt_decline": "衰退",
+    "@txt_decline": {
+        "description": "衰退"
+    },
+    "txt_accept": "接受",
+    "@txt_accept": {
+        "description": "接受"
+    },
+    "txt_customer_pickup": "客户接送？",
+    "@txt_customer_pickup": {
+        "description": "客户接送？"
+    },
+    "txt_navigate": "导航",
+    "@txt_navigate": {
+        "description": "导航"
+    },
+    "txt_enter_otp": "输入OTP",
+    "@txt_enter_otp": {
+        "description": "输入OTP"
+    },
+    "txt_start_ride": "开始骑行",
+    "@txt_start_ride": {
+        "description": "开始骑行"
+    },
+    "txt_ride_complete": "骑完整",
+    "@txt_ride_complete": {
+        "description": "骑完整"
+    },
+    "txt_wait_for_payment": "等待付款",
+    "@txt_wait_for_payment": {
+        "description": "等待付款"
+    },
+    "txt_ride_complete_upr": "骑完整",
+    "@txt_ride_complete_upr": {
+        "description": "骑完整"
+    },
+    "txt_your_ride_complete_upr": "您的骑行完成",
+    "@txt_your_ride_complete_upr": {
+        "description": "您的骑行完成"
+    },
+    "txt_payment_by": "付款",
+    "@txt_payment_by": {
+        "description": "付款"
+    },
+    "txt_type_of_service": "服务类型",
+    "@txt_type_of_service": {
+        "description": "服务类型"
+    },
+    "txt_total_km": "总公里",
+    "@txt_total_km": {
+        "description": "总公里"
+    },
+    "txt_duration": "期间",
+    "@txt_duration": {
+        "description": "期间"
+    },
+    "txt_reason_cancellation": "取消的原因",
+    "@txt_reason_cancellation": {
+        "description": "取消的原因"
+    },
+    "txt_driver_denied": "驾驶员拒绝接送",
+    "@txt_driver_denied": {
+        "description": "驾驶员拒绝接送"
+    },
+    "txt_expected_time": "期待更短的等待时间",
+    "@txt_expected_time": {
+        "description": "期待更短的等待时间"
+    },
+    "txt_unable_to_contact_user": "无法联系用户",
+    "@txt_unable_to_contact_user": {
+        "description": "无法联系用户"
+    },
+    "txt_reason_not_listed": "我的原因没有在这里列出",
+    "@txt_reason_not_listed": {
+        "description": "我的原因没有在这里列出"
+    },
+    "txt_cancel": "取消",
+    "@txt_cancel": {
+        "description": "取消"
+    },
+    "txt_check_internet": "请检查您的互联网连接",
+    "@txt_check_internet": {
+        "description": "请检查您的互联网连接"
+    },
+    "txt_english": "英语",
+    "@txt_english": {
+        "description": "英语"
+    },
+    "txt_portuguese": "葡萄牙语",
+    "@txt_portuguese": {
+        "description": "葡萄牙语"
+    },
+    "txt_arabic": "阿拉伯",
+    "@txt_arabic": {
+        "description": "阿拉伯"
+    },
+    "txt_urdu": "乌尔都语",
+    "@txt_urdu": {
+        "description": "乌尔都语"
+    },
+    "txt_hindi": "印地语",
+    "@txt_hindi": {
+        "description": "印地语"
+    },
+    "txt_spanish": "西班牙语",
+    "@txt_spanish": {
+        "description": "西班牙语"
+    },
+    "txt_mandarim": "普通话",
+    "@txt_mandarim": {
+        "description": "普通话"
+    },
+    "txt_french": "法语",
+    "@txt_french": {
+        "description": "法语"
+    },
+    "txt_afrikaans": "非洲人",
+    "@txt_afrikaans": {
+        "description": "非洲人"
+    },
+    "txt_bengali": "孟加拉",
+    "@txt_bengali": {
+        "description": "孟加拉"
+    },
+    "txt_russian": "俄语",
+    "@txt_russian": {
+        "description": "俄语"
+    },
+    "txt_japanese": "日本人",
+    "@txt_japanese": {
+        "description": "日本人"
+    },
+    "txt_turkish": "土耳其",
+    "@txt_turkish": {
+        "description": "土耳其"
+    },
+    "txt_swahili": "斯瓦希里语",
+    "@txt_swahili": {
+        "description": "斯瓦希里语"
+    },
+    "txt_italian": "意大利人",
+    "@txt_italian": {
+        "description": "意大利人"
+    },
+    "txt_edit": "编辑",
+    "@txt_edit": {
+        "description": "编辑"
+    },
+    "txt_delete": "删除",
+    "@txt_delete": {
+        "description": "删除"
+    },
+    "val_accept_term_condition": "请接受条款和条件",
+    "@val_accept_term_condition": {
+        "description": "请接受条款和条件"
+    },
+    "val_first_name": "请输入名字",
+    "@val_first_name": {
+        "description": "请输入名字"
+    },
+    "val_fullname_short": "全名太短",
+    "@val_fullname_short": {
+        "description": "全名太短"
+    },
+    "val_enter_userid_email": "请输入用户ID或电子邮件",
+    "@val_enter_userid_email": {
+        "description": "请输入用户ID或电子邮件"
+    },
+    "val_userid_email_short": "用户ID或电子邮件太短",
+    "@val_userid_email_short": {
+        "description": "用户ID或电子邮件太短"
+    },
+    "val_enter_last_name": "请输入姓氏",
+    "@val_enter_last_name": {
+        "description": "请输入姓氏"
+    },
+    "val_enter_userid": "请输入用户ID",
+    "@val_enter_userid": {
+        "description": "请输入用户ID"
+    },
+    "val_atleast_3char": "请输入至少3个字符",
+    "@val_atleast_3char": {
+        "description": "请输入至少3个字符"
+    },
+    "val_first_name_short": "名字太短",
+    "@val_first_name_short": {
+        "description": "名字太短"
+    },
+    "val_last_name_short": "姓太短",
+    "@val_last_name_short": {
+        "description": "姓太短"
+    },
+    "val_enter_email": "请输入电子邮件",
+    "@val_enter_email": {
+        "description": "请输入电子邮件"
+    },
+    "val_valid_enter": "请输入有效的电子邮件",
+    "@val_valid_enter": {
+        "description": "请输入有效的电子邮件"
+    },
+    "val_enter_password": "请输入密码",
+    "@val_enter_password": {
+        "description": "请输入密码"
+    },
+    "val_enter_old_pass": "请输入旧密码",
+    "@val_enter_old_pass": {
+        "description": "请输入旧密码"
+    },
+    "val_enter_new_pass": "请输入新密码",
+    "@val_enter_new_pass": {
+        "description": "请输入新密码"
+    },
+    "val_pass_short": "密码太短了",
+    "@val_pass_short": {
+        "description": "密码太短了"
+    },
+    "val_pass_not_match": "密码不匹配",
+    "@val_pass_not_match": {
+        "description": "密码不匹配"
+    },
+    "val_enter_name": "请输入名称",
+    "@val_enter_name": {
+        "description": "请输入名称"
+    },
+    "val_enter_query": "请输入查询",
+    "@val_enter_query": {
+        "description": "请输入查询"
+    },
+    "val_enter_confirm_pass": "请输入确认密码",
+    "@val_enter_confirm_pass": {
+        "description": "请输入确认密码"
+    },
+    "val_enter_address": "请输入地址",
+    "@val_enter_address": {
+        "description": "请输入地址"
+    },
+    "val_enter_mobile": "请输入手机号码",
+    "@val_enter_mobile": {
+        "description": "请输入手机号码"
+    },
+    "val_valid_number": "请输入有效的手机号码",
+    "@val_valid_number": {
+        "description": "请输入有效的手机号码"
+    },
+    "val_otp": "请输入OTP",
+    "@val_otp": {
+        "description": "请输入OTP"
+    },
+    "val_enter_postal_code": "请输入邮政编码",
+    "@val_enter_postal_code": {
+        "description": "请输入邮政编码"
+    },
+    "val_valid_postal_code": "请输入有效的邮政编码",
+    "@val_valid_postal_code": {
+        "description": "请输入有效的邮政编码"
+    },
+    "val_enter_landmark": "请输入地标",
+    "@val_enter_landmark": {
+        "description": "请输入地标"
+    },
+    "val_enter_city": "请进入城市",
+    "@val_enter_city": {
+        "description": "请进入城市"
+    },
+    "val_enter_state": "请输入状态",
+    "@val_enter_state": {
+        "description": "请输入状态"
+    },
+    "val_enter_address": "请输入地址",
+    "@val_enter_address": {
+        "description": "请输入地址"
+    },
+    "val_enter_specification": "请输入规格",
+    "@val_enter_specification": {
+        "description": "请输入规格"
+    },
+    "val_enter_message": "输入消息",
+    "@val_enter_message": {
+        "description": "P输入消息"
+    },
+    "txt_camera_permission": "相机许可",
+    "@txt_camera_permission": {
+        "description": "相机许可"
+    },
+    "txt_permission_camera": "没有此许可，此应用程序将无法选择照片。您确定要拒绝此许可吗？",
+    "@txt_permission_camera": {
+        "description": "没有此许可，此应用程序将无法选择照片。您确定要拒绝此许可吗？"
+    },
+    "txt_retry": "重试",
+    "@txt_retry": {
+        "description": "重试"
+    },
+    "txt_im_sure": "我敢肯定",
+    "@txt_im_sure": {
+        "description": "我敢肯定"
+    },
+    "txt_gallery_permission": "画廊许可",
+    "@txt_gallery_permission": {
+        "description": "画廊许可"
+    },
+    "txt_permision_gallery": "没有此许可，此应用程序将无法从画廊中获取照片。您确定要拒绝此许可吗？",
+    "@txt_permision_gallery": {
+        "description": "没有此许可，此应用程序将无法从画廊中获取照片。您确定要拒绝此许可吗？"
+    },
+    "txt_your_msg": "你的信息...",
+    "@txt_your_msg": {
+        "description": "你的信息..."
+    },
+    "txt_user_cancel_process": "用户取消该过程",
+    "@txt_user_cancel_process": {
+        "description": "用户取消该过程"
+    },
+    "txt_thank_for_reg": "谢谢您的注册",
+    "@txt_thank_for_reg": {
+        "description": "谢谢您的注册"
+    },
+    "txt_verify_your_doc": "一旦我们验证您的文档。",
+    "@txt_verify_your_doc": {
+        "description": "一旦我们验证您的文档。"
+    },
+     "txt_notify_you": "我们很快通知您",
+    "@txt_notify_you": {
+        "description": "我们很快通知您"
+    },
+    "txt_active_after_verification": "验证后，您的帐户将活跃",
+    "@txt_active_after_verification": {
+        "description": "验证后，您的帐户将活跃"
+    },
+    "val_enter_vehicle_num": "请输入车辆号码",
+    "@val_enter_vehicle_num": {
+        "description": "请输入车辆号码"
+    },
+     "val_upload_vehicle_front_img": "请上传车前图像",
+    "@val_upload_vehicle_front_img": {
+        "description": "请上传车前图像"
+    },
+     "val_upload_vehicle_back_img": "请上传车辆映像",
+    "@val_upload_vehicle_back_img": {
+        "description": "请上传车辆映像"
+    },
+     "val_enter_id_number": "请输入身份证号码",
+    "@val_enter_id_number": {
+        "description": "请输入身份证号码"
+    },
+     "val_upload_id_front_img": "请上传标识卡前图",
+    "@val_upload_id_front_img": {
+        "description": "请上传标识卡前图"
+    },
+     "val_upload_id_back_img": "请上传标识卡回来图像",
+    "@val_upload_id_back_img": {
+        "description": "请上传标识卡回来图像"
+    },
+     "val_select_id_start_date": "请选择身份证开始日期",
+    "@val_select_id_start_date": {
+        "description": "请选择身份证开始日期"
+    },
+     "val_select_id_end_date": "请选择身份证结束日期",
+    "@val_select_id_end_date": {
+        "description": "请选择身份证结束日期"
+    },
+     "val_enter_license_num": "请输入许可证号码",
+    "@val_enter_license_num": {
+        "description": "请输入许可证号码"
+    },
+     "val_upload_license_front_img": "请上传许可证前图",
+    "@val_upload_license_front_img": {
+        "description": "请上传许可证前图"
+    },
+     "val_upload_license_back_img": "请上传许可证映像",
+    "@val_upload_license_back_img": {
+        "description": "请上传许可证映像"
+    },
+     "val_select_license_start_date": "请选择许可证开始日期",
+    "@val_select_license_start_date": {
+        "description": "请选择许可证开始日期"
+    },
+     "val_select_license_end_date": "请选择许可证结束日期",
+    "@val_select_license_end_date": {
+        "description": "请选择许可证结束日期"
+    },
+     "val_enter_vehicle_reg_num": "请输入车辆注册号",
+    "@val_enter_vehicle_reg_num": {
+        "description": "请输入车辆注册号"
+    },
+     "val_upload_reg_front_img": "请上传车辆注册前图",
+    "@val_upload_vehicle_front_img": {
+        "description": "请上传车辆注册前图"
+    },
+     "val_upload_reg_back_img": "请上传车辆注册后映像",
+    "@txt_your_msg": {
+        "description": "请上传车辆注册后映像"
+    },
+     "val_enter_reg_start_date": "请选择车辆注册开始日期",
+    "@val_enter_reg_start_date": {
+        "description": "请选择车辆注册开始日期"
+    },
+     "val_enter_reg_end_date": "请选择车辆注册日期",
+    "@val_enter_reg_end_date": {
+        "description": "请选择车辆注册日期"
+    },
+    "val_enter_owner_num": "请输入车辆所有权号码",
+    "@val_enter_owner_num": {
+        "description": "请输入车辆所有权号码"
+    },
+     "val_upload_owner_front_img": "请上传车辆所有权前图",
+    "@val_upload_owner_front_img": {
+        "description": "请上传车辆所有权前图"
+    },
+     "val_upload_owner_back_img": "请上传车辆所有权返回图像",
+    "@val_upload_owner_back_img": {
+        "description": "请上传车辆所有权返回图像"
+    },
+     "val_enter_owner_start_date": "请选择车辆所有权开始日期",
+    "@val_enter_owner_start_date": {
+        "description": "请选择车辆所有权开始日期"
+    },
+     "val_enter_owner_end_date": "请选择车辆所有权结束日期",
+    "@val_enter_owner_end_date": {
+        "description": "请选择车辆所有权结束日期"
+    },
+     "val_enter_insurance_num": "请输入车辆保险号码",
+    "@val_enter_insurance_num": {
+        "description": "请输入车辆保险号码"
+    },
+      "val_upload_insurance_front_img": "请上传车辆保险前图",
+    "@val_upload_insurance_front_img": {
+        "description": "请上传车辆保险前图"
+    },
+      "val_upload_insurance_back_img": "请上传车辆保险返回图像",
+    "@val_upload_insurance_back_img": {
+        "description": "请上传车辆保险返回图像"
+    },
+      "val_insurance_start_date": "请选择车辆保险开始日期",
+    "@val_insurance_start_date": {
+        "description": "请选择车辆保险开始日期"
+    },
+      "val_insurance_end_date": "请选择车辆保险结束日期",
+    "@val_insurance_end_date": {
+        "description": "请选择车辆保险结束日期"
+    },
+      "val_inspection_num": "请输入车辆检查号码",
+    "@val_inspection_num": {
+        "description": "请输入车辆检查号码"
+    },
+      "val_inspection_front_img": "请上传车辆检查前图",
+    "@val_inspection_front_img": {
+        "description": "请上传车辆检查前图"
+    },
+      "val_inspection_back_img": "请上传车辆检查后图像",
+    "@val_inspection_back_img": {
+        "description": "请上传车辆检查后图像"
+    },
+     "val_inspection_start_date": "请选择车辆检查开始日期",
+    "@val_inspection_start_date": {
+        "description": "请选择车辆检查开始日期"
+    },
+     "val_inspection_end_date": "请选择车辆检查结束日期",
+    "@val_inspection_end_date": {
+        "description": "请选择车辆检查结束日期"
+    },
+     "val_manifest_num": "请输入车辆清单号码",
+    "@val_manifest_num": {
+        "description": "请输入车辆清单号码"
+    },
+     "val_manifest_front_img": "请上传车辆清单前图",
+     "@val_manifest_front_img": {
+        "description": "请上传车辆清单前图"
+    },
+     "val_manifest_back_img": "请上传车辆清单后退图像",
+    "@val_manifest_back_img": {
+        "description": "请上传车辆清单后退图像"
+    },
+     "val_manifest_start_date": "请选择车辆清单开始日期",
+    "@val_manifest_start_date": {
+        "description": "请选择车辆清单开始日期"
+    },
+     "val_manifest_end_date": "请选择车辆清单结束日期",
+    "@val_manifest_end_date": {
+        "description": "请选择车辆清单结束日期"
+    },
+     "val_radio_num": "请输入车辆无线电税号",
+    "@val_radio_num": {
+        "description": "请输入车辆无线电税号"
+    },
+     "val_radio_front_img": "请上传车辆无线电税前图像",
+    "@val_radio_front_img": {
+        "description": "请上传车辆无线电税前图像"
+    },
+     "val_radio_back_img": "请上传车辆无线电税的图像",
+    "@val_radio_back_img": {
+        "description": "请上传车辆无线电税的图像"
+    },
+     "val_radio_start_date": "请选择车辆无线电税开始日期",
+    "@val_radio_start_date": {
+        "description": "请选择车辆无线电税开始日期"
+    },
+     "val_radio_end_date": "请选择车辆无线电税结束日期",
+    "@val_radio_end_date": {
+        "description": "请选择车辆无线电税结束日期"
+    },
+      "txt_file_selected": "选择的文件",
+    "@txt_file_selected": {
+        "description": "选择的文件"
+    },
+       "txt_nofile_selected": "未选择文件",
+    "@txt_nofile_selected": {
+        "description": "未选择文件"
+    },
+    "txt_server_error": "服务器错误，请重试",
+    "@txt_server_error": {
+        "description": "服务器错误，请重试"
+    },
+     "val_valid_otp": "请输入有效的OTP",
+    "@val_valid_otp": {
+        "description": "请输入有效的OTP"
+    },
+     "txt_double_click": "双击即可退出应用",
+    "@txt_double_click": {
+        "description": "双击即可退出应用"
+    },
+      "txt_pick_from": "来自",
+    "@txt_pick_from": {
+        "description": "来自"
+    },
+      "txt_transaction_id": "事务ID",
+    "@txt_pick_from": {
+        "description": "事务ID"
+    },
+       "txt_total_price": "总价",
+    "@txt_total_price": {
+        "description": "总价"
+    },
+     "txt_complete": "完全的",
+    "@txt_complete": {
+        "description": "完全的"
+    },
+      "txt_date": "日期",
+    "@txt_date": {
+        "description": "日期"
+    },
+      "txt_by": "经过",
+    "@txt_by": {
+        "description": "经过"
+    },
+       "txt_cancelled": "取消",
+    "@txt_cancelled": {
+        "description": "取消"
+    },
+       "txt_phone_number": "电话号码",
+    "@txt_phone_number": {
+        "description": "电话号码"
+    },
+       "txt_upload": "上传",
+    "@txt_upload": {
+        "description": "上传"
+    },
+       "txt_valid_phone": "请输入有效的电话号码",
+    "@txt_valid_phone": {
+        "description": "请输入有效的电话号码"
+    },
+       "txt_maker_name": "请输入汽车制造商细节",
+    "@txt_maker_name": {
+        "description": "请输入汽车制造商细节"
+    },
+       "txt_model_name": "请输入汽车模型名称",
+    "@txt_model_name": {
+        "description": "请输入汽车模型名称"
+    },
+       "txt_color_name": "请输入汽车颜色名称",
+    "@txt_color_name": {
+        "description": "请输入汽车颜色名称"
+    },
+       "txt_select_passenger": "请选择乘客数量",
+    "@txt_select_passenger": {
+        "description": "请选择乘客数量"
+    },
+       "txt_valid_data": "输入有效数据",
+    "@txt_valid_data": {
+        "description": "输入有效数据"
+    },
+       "txt_select_vehicle_pic": "请选择车辆图片",
+    "@txt_select_vehicle_pic": {
+        "description": "请选择车辆图片"
+    },
+         "txt_location_permission": "位置许可",
+    "@txt_location_permission": {
+        "description": "位置许可"
+    },
+    "txt_permision_location": "未经这份许可，此应用将无法获取您的位置和地址。您确定要拒绝此许可吗？",
+    "@txt_permision_location": {
+        "description": "未经这份许可，此应用将无法获取您的位置和地址。您确定要拒绝此许可吗？"
+    },
+    "txt_permision_setting": "如果要使用此应用程序，则必须在系统权限设置中启用权限",
+    "@txt_permision_setting": {
+        "description": "如果要使用此应用程序，则必须在系统权限设置中启用权限"
+    },
+     "txt_setting": "设置",
+    "@txt_setting": {
+        "description": "设置"
+    },
+     "txt_exit": "出口",
+    "@txt_exit": {
+        "description": "出口"
+    },
+    "txt_select_max": "选择最大10张图像",
+    "@txt_exit": {
+        "description": "选择最大10张图像"
+    },
+    "txt_car_maker": "汽车制造商",
+    "@txt_car_maker": {
+        "description": "汽车制造商"
+    },
+     "txt_car_model": "汽车模型",
+    "@txt_car_model": {
+        "description": "汽车模型"
+    },
+     "txt_car_color": "汽车颜色",
+    "@txt_car_color": {
+        "description": "汽车颜色"
+    },
+     "txt_no_pass": "乘客数量",
+    "@txt_no_pass": {
+        "description": "乘客数量"
+    },
+     "txt_vehicle_pic": "车辆图片",
+    "@txt_vehicle_pic": {
+        "description": "车辆图片"
+    },
+     "txt_driver_id": "驾驶员身份证",
+    "@txt_driver_id": {
+        "description": "驾驶员身份证"
+    },
+     "txt_driver_driving": "驾驶执照",
+    "@txt_driver_driving": {
+        "description": "驾驶执照"
+    },
+     "txt_vehicle_reg": "车辆登记",
+    "@txt_vehicle_reg": {
+        "description": "车辆登记"
+    },
+     "txt_vehicle_owner": "车辆所有权",
+    "@txt_vehicle_owner": {
+        "description": "车辆所有权"
+    },
+     "txt_vehicle_insur": "车辆保险",
+    "@txt_vehicle_insur": {
+        "description": "车辆保险"
+    },
+      "txt_vehicle_inspec": "车辆检查",
+    "@txt_vehicle_inspec": {
+        "description": "车辆检查"
+    },
+      "txt_vehicle_mani": "车辆表现",
+    "@txt_vehicle_mani": {
+        "description": "车辆表现"
+    },
+     "txt_vehicle_radio": "车辆无线电税",
+    "@txt_vehicle_radio": {
+        "description": "车辆无线电税"
+    },
+          "txt_maker": "制作者",
+    "@txt_maker": {
+        "description": "制作者"
+    },
+      "txt_model": "模型",
+    "@txt_model": {
+        "description": "模型"
+    },
+      "txt_color": "颜色",
+    "@txt_color": {
+        "description": "颜色"
+    },
+       "txt_passenger": "乘客",
+    "@txt_passenger": {
+        "description": "乘客"
+    },
+      "txt_max_10": "（最大10）",
+    "@txt_max_10": {
+        "description": "（最大10）"
+    },
+    "txt_uploaded": "上传",
+    "@txt_uploaded": {
+        "description": "上传"
+    },
+        "val_name_len": "输入有效名称",
+    "@val_name_len": {
+        "description": "输入有效名称"
+    },
+    "val_driving_license": "输入有效的驾驶执照",
+    "@val_driving_license": {
+        "description": "输入有效的驾驶执照"
+    },
+    "txt_select": "选择",
+    "@txt_select": {
+        "description": "选择"
+    },
+    "val_IdCard": "输入有效的身份证",
+    "@tval_IdCard": {
+        "description": "输入有效的身份证"
+    },
+    "val_reg_len": "注册号不得超过10个字母数字字符",
+    "@val_reg_len": {
+        "description": "注册号不得超过10个字母数字字符"
+    },
+    "val_owner_len": "输入有效的所有者名称",
+    "@val_owner_len": {
+        "description": "输入有效的所有者名称"
+    },
+    "txt_insurance_len": "保险号码不得超过30个字母数字",
+    "@txt_insurance_len": {
+        "description": "保险号码不得超过30个字母数字"
+    },
+     "txt_change_lng": "改变语言",
+    "@txt_change_lng": {
+        "description": "改变语言"
+    },
+     "txt_pls_enter_queries": "请输入您的查询",
+    "@txt_pls_enter_queries": {
+        "description": "请输入您的查询"
+    },
+     "txt_query_length": "查询长度必须为最小10个字符",
+    "@txt_query_length": {
+        "description": "查询长度必须为最小10个字符"
+    },
+     "txt_take_live_photo": "拍摄现场照片",
+    "@txt_take_live_photo": {
+        "description": "拍摄现场照片"
+    },
+     "txt_loading_camera": "加载摄像头...",
+    "@txt_loading_camera": {
+        "description": "加载摄像头..."
+    },
+     "txt_retake": "重拍",
+    "@txt_retake": {
+        "description": "重拍"
+    },
+     "txt_confirm": "确认",
+    "@txt_confirm": {
+        "description": "确认"
+    },
+     "txt_no_booking_for_schedule": "没有预订时间安排",
+    "@txt_no_booking_for_schedule": {
+        "description": "没有预订时间安排"
+    },
+     "txt_schedule_ride": "安排骑行",
+    "@txt_schedule_ride": {
+        "description": "安排骑行"
+    },
+     "txt_scheduled_rides": "预定的骑行",
+    "@txt_scheduled_rides": {
+        "description": "预定的骑行"
+    },
+     "txt_cancel_ride": "取消骑行",
+    "@txt_cancel_ride": {
+        "description": "取消骑行"
+    },
+     "txt_payment_pending": "付款等待中",
+    "@txt_payment_pending": {
+        "description": "付款等待中"
+    },
+     "txt_accepted": "公认",
+    "@txt_accepted": {
+        "description": "公认"
+    },
+     "txt_ride_pending": "骑行待定",
+    "@txt_ride_pending": {
+        "description": "骑行待定"
+    },
+     "txt_wallet": "钱包",
+    "@txt_wallet": {
+        "description": "钱包"
+    },
+     "txt_send_request": "发送请求",
+    "@txt_send_request": {
+        "description": "发送请求"
+    },
+     "txt_note_remark": "注意/备注",
+    "@txt_note_remark": {
+        "description": "注意/备注"
+    },
+     "txt_withdrawal_amt": "提款金额",
+    "@txt_withdrawal_amt": {
+        "description": "提款金额"
+    },
+     "txt_history": "历史",
+    "@txt_history": {
+        "description": "历史"
+    },
+     "txt_skip": "跳过",
+    "@txt_skip": {
+        "description": "跳过"
+    },
+     "txt_success": "成功",
+    "@txt_success": {
+        "description": "成功"
+    },
+     "txt_enter_amt": "输入金额",
+    "@txt_": {
+        "description": "输入金额"
+    },
+     "txt_enter_valid_amt": "输入有效金额",
+    "@txt_enter_valid_amt": {
+        "description": "输入有效金额"
+    },
+     "txt_owner_name": "所有者名称",
+    "@txt_owner_name": {
+        "description": "所有者名称"
+    },
+     "txt_enter_owner_name": "请输入所有者名称",
+    "@txt_enter_owner_name": {
+        "description": "请输入所有者名称"
+    },
+     "txt_enter_valid_owner_name": "输入有效的所有者名称",
+    "@txt_enter_valid_owner_name": {
+        "description": "输入有效的所有者名称"
+    },
+     "txt_enter_valid_maker_name": "输入有效的制造商名称",
+    "@txt_enter_valid_maker_name": {
+        "description": "输入有效的制造商名称"
+    },
+     "txt_valid_color_name": "输入有效的颜色名称",
+    "@txt_valid_color_name": {
+        "description": "输入有效的颜色名称"
+    },
+     "txt_enter_color_name": "请输入颜色名称",
+    "@txt_enter_color_name": {
+        "description": "请输入颜色名称"
+    },
+     "txt_request_mode": "请求模式",
+    "@txt_request_mode": {
+        "description": "请求模式"
+    },
+     "txt_request_pending": "请求待处理",
+    "@txt_request_pending": {
+        "description": "请求待处理"
+    },
+     "txt_request_decline": "要求下降",
+    "@txt_request_decline": {
+        "description": "要求下降"
+    },
+     "txt_request_date": "查询日期",
+    "@txt_request_date": {
+        "description": "查询日期"
+    },
+     "txt_request_status": "请求状态",
+    "@txt_request_status": {
+        "description": "请求状态"
+    },
+     "txt_enter_vaild_name": "输入有效名称",
+    "@txt_enter_vaild_name": {
+        "description": "输入有效名称"
+    },
+     "txt_update": "更新",
+    "@txt_update": {
+        "description": "更新"
+    },
+     "txt_enter_details_of_your": "输入您的详细信息",
+    "@txt_enter_details_of_your": {
+        "description": "输入您的详细信息"
+    },
+     "txt_upload_photo_of_your": "上传您的照片",
+    "@txt_upload_photo_of_your": {
+        "description": "上传您的照片"
+    },
+     "txt_vehicle": "车辆",
+    "@txt_vehicle": {
+        "description": "车辆"
+    },
+     "txt_select_min_one_img": "选择最低1张图像",
+    "@txt_select_min_one_img": {
+        "description": "选择最低1张图像"
+    },
+     "txt_details": "细节",
+    "@txt_details": {
+        "description": "细节"
+    },
+     "txt_in_progress": "进行中",
+    "@txt_in_progress": {
+        "description": "进行中"
+    },
+     "txt_complete_ride": "完整的骑行",
+    "@txt_complete_ride": {
+        "description": "完整的骑行"
+    },
+     "txt_your_ride_completed": "您的骑行已经完成",
+    "@txt_your_ride_completed": {
+        "description": "您的骑行已经完成"
+    },
+     "txt_ride_completed": "骑行完成",
+    "@txt_ride_completed": {
+        "description": "骑行完成"
+    },
+     "txt_security_deposit": "保证金",
+    "@txt_security_deposit": {
+        "description": "保证金"
+    },
+     "txt_complete_security_deposit_process": "完成保证金过程",
+    "@txt_complete_security_deposit_process": {
+        "description": "完成保证金过程"
+    },
+     "txt_checked_pay_later": "您稍后检查保证金付款",
+    "@txt_checked_pay_later": {
+        "description": "您稍后检查保证金付款"
+    },
+     "txt_already_done_online_payment": "您已经完成了在线付款",
+    "@txt_already_done_online_payment": {
+        "description": "您已经完成了在线付款"
+    },
+     "txt_choose_pay_menthod": "选择付款方式",
+    "@txt_choose_pay_menthod": {
+        "description": "选择付款方式"
+    },
+     "txt_pay_now": "现在付款",
+    "@txt_pay_now": {
+        "description": "现在付款"
+    },
+     "txt_do_later": "我稍后将进行保证金",
+    "@txt_do_later": {
+        "description": "我稍后将进行保证金"
+    },
+     "txt_gender_pref": "性别偏好",
+    "@txt_gender_pref": {
+        "description": "性别偏好"
+    },
+     "txt_gender_you_want_to_prefer": "（选择您想乘坐的性别）",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "（选择您想乘坐的性别）"
+    },
+     "txt_male": "男性",
+    "@txt_male": {
+        "description": "男性"
+    },
+     "txt_female": "女性",
+    "@txt_female": {
+        "description": "女性"
+    },
+     "txt_other": "其他",
+    "@txt_other": {
+        "description": "其他"
+    },
+     "txt_no_pref": "没有偏好",
+    "@txt_no_pref": {
+        "description": "没有偏好"
+    },
+     "txt_update_details_of_user": "更新您的详细信息",
+    "@txt_update_details_of_user": {
+        "description": "更新您的详细信息"
+    },
+     "txt_criminal_record_certificate": "犯罪记录证书",
+    "@txt_criminal_record_certificate": {
+        "description": "犯罪记录证书"
+    },
+     "txt_criminal_record": "犯罪记录",
+    "@txt_criminal_record": {
+        "description": "犯罪记录"
+    },
+     "txt_update_your": "更新您的",
+    "@txt_update_your": {
+        "description": "更新您的"
+    },
+     "txt_document": "文档",
+    "@txt_document": {
+        "description": "文档"
+    },
+      "txt_select_your_gender": "选择您的性别",
+    "@txt_select_your_gender": {
+        "description": "选择您的性别"
+    },
+      "txt_gender": "性别",
+    "@txt_gender": {
+        "description": "性别"
+    },
+      "txt_ride_type": "骑行类型",
+    "@txt_ride_type": {
+        "description": "骑行类型"
+    },
+      "txt_rejected": "拒绝",
+    "@txt_rejected": {
+        "description": "拒绝"
+    },
+      "txt_km": "公里",
+    "@txt_km": {
+        "description": "公里"
+    },
+      "txt_select_reason": "选择原因",
+    "@txt_select_reason": {
+        "description": "选择原因"
+    },
+      "txt_select_gender_pref": "选择性别偏好",
+    "@txt_select_gender_pref": {
+        "description": "选择性别偏好"
+    },
+      "txt_update_documents": "更新文档",
+    "@txt_update_documents": {
+        "description": "更新文档"
+    },
+      "txt_are_you_sure_to_logout": "您确定要注销吗？",
+    "@txt_are_you_sure_to_logout": {
+        "description": "您确定要注销吗？"
+    },
+      "txt_my_rides": "我的游乐设施",
+    "@txt_my_rides": {
+        "description": "我的游乐设施"
+    },
+      "txt_rating": "评分",
+    "@txt_rating": {
+        "description": "评分"
+    },
+      "txt_daily_ride": "日常骑行",
+    "@txt_daily_ride": {
+        "description": "日常骑行"
+    },
+     "txt_rental_ride": "租车",
+    "@txt_rental_ride": {
+        "description": "租车"
+    },
+     "txt_enter_your_reason": "请输入您的理由",
+    "@txt_enter_your_reason": {
+        "description": "请输入您的理由"
+    },
+     "txt_select_ride_type": "选择骑行类型",
+    "@txt_select_ride_type": {
+        "description": "选择骑行类型"
+    },
+     "txt_profile_under_review": "您的个人资料正在审核中，直到管理员激活它，您才能乘坐。",
+    "@txt_profile_under_review": {
+        "description": "您的个人资料正在审核中，直到管理员激活它，您才能乘坐。"
+    },
+     "txt_your_account_deactivateed": "您的帐户已被管理员停用，请与他们联系。",
+    "@txt_your_account_deactivateed": {
+        "description": "您的帐户已被管理员停用，请与他们联系。"
+    },
+     "txt_accept_terms_privacy": "通过注册您接受服务条款和隐私政策的条款",
+    "@txt_accept_terms_privacy": {
+        "description": "通过注册您接受服务条款和隐私政策的条款"
+    },
+     "txt_please_accept_terms_privacy": "请接受服务条款和隐私政策",
+    "@txt_please_accept_terms_privacy": {
+        "description": "请接受服务条款和隐私政策"
+    },
+     "txt_thanks_for_registering": "感谢您向我们注册",
+    "@txt_thanks_for_registering": {
+        "description": "感谢您向我们注册"
+    },
+     "txt_application_under_review_check_status": "您的应用程序正在审核中，您可以在首页上的顶级红色栏上检查状态。",
+    "@txt_application_under_review_check_status": {
+        "description": "您的应用程序正在审核中，您可以在首页上的顶级红色栏上检查状态。"
+    },
+     "txt_update_details": "更新详细信息",
+    "@txt_update_details": {
+        "description": "更新详细信息"
+    },
+     "txt_ride_details": "骑行细节",
+    "@txt_ride_details": {
+        "description": "骑行细节"
+    },
+     "txt_mpesa": "藤蔓",
+    "@txt_mpesa": {
+        "description": "藤蔓"
+    },
+     "txt_image": "图像",
+    "@txt_image": {
+        "description": "图像"
+    },
+     "txt_check_internet_try_again": "请检查您的互联网连接，然后重试",
+    "@txt_check_internet_try_again": {
+        "description": "请检查您的互联网连接，然后重试"
+    },
+     "txt_oops_no_internet": "糟糕，没有互联网连接",
+    "@txt_oops_no_internet": {
+        "description": "糟糕，没有互联网连接"
+    },
+     "txt_package_complete_renew": "您的包裹已完成，要么完成骑行，要么等待用户续订包装",
+    "@txt_package_complete_renew": {
+        "description": "您的包裹已完成，要么完成骑行，要么等待用户续订包装"
+    },
+     "txt_wait_for_response": "等待回应",
+    "@txt_wait_for_response": {
+        "description": "等待回应"
+    },
+     "txt_ride_complete_in": "骑行完整",
+    "@txt_ride_complete_in": {
+        "description": "骑行完整"
+    },
+     "txt_something_went_wrong": "出了些问题",
+    "@txt_something_went_wrong": {
+        "description": "出了些问题"
+    },
+     "txt_refresh_page_try_later": "尝试刷新页面，或稍后再试。",
+    "@txt_refresh_page_try_later": {
+        "description": "尝试刷新页面，或稍后再试。"
+    },
+     "txt_permission_required": "需要许可",
+    "@txt_permission_required": {
+        "description": "需要许可"
+    },
+     "txt_enable_permission": "启用许可",
+    "@txt_enable_permission": {
+        "description": "启用许可"
+    },
+     "txt_pick_your_country": "选择你的国家",
+    "@txt_pick_your_country": {
+        "description": "选择你的国家"
+    },
+     "txt_cant_update_ride_type": "您无法在持续旅行中更新乘车类型。",
+    "@txt_cant_update_ride_type": {
+        "description": "您无法在持续旅行中更新乘车类型。"
+    },
+     "txt_check_connect_timeout": "检查您的连接超时！！",
+    "@txt_check_connect_timeout": {
+        "description": "检查您的连接超时！！"
+    },
+     "txt_timeout_exception": "超时例外。",
+    "@txt_timeout_exception": {
+        "description": "超时例外。"
+    },
+     "txt_request_cancel_from_user": "请求从用户取消。",
+    "@txt_request_cancel_from_user": {
+        "description": "请求从用户取消。"
+    },
+     "txt_getting_wrong_response": "我们得到错误的回应。",
+    "@txt_getting_wrong_response": {
+        "description": "我们得到错误的回应。"
+    },
+     "txt_connection_error": "连接错误。",
+    "@txt_connection_error": {
+        "description": "连接错误。"
+    },
+     "txt_server_not_connected_contact_admin": "服务器未连接，请联系管理员。",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "服务器未连接，请联系管理员。"
+    },
+     "txt_socket_not_connect": "插座未连接...",
+    "@txt_socket_not_connect": {
+        "description": "插座未连接..."
+    },
+     "txt_user_renewed_package": "用户更新了包装！",
+    "@txt_user_renewed_package": {
+        "description": "用户更新了包装！"
+    },
+     "txt_bear_per_km": "用户熊每公里收费！",
+    "@txt_bear_per_km": {
+        "description": "用户熊每公里收费！"
+    },
+     "txt_wait_for_user": "等待用户",
+    "@txt_wait_for_user": {
+        "description": "等待用户"
+    },
+     "txt_bysigning_you_accept": "通过注册，您接受",
+    "@txt_bysigning_you_accept": {
+        "description": "通过注册，您接受"
+    },
+     "txt_terms_service": "服务条款",
+    "@txt_terms_service": {
+        "description": "服务条款"
+    },
+     "txt_and": "和",
+    "@txt_and": {
+        "description": "和"
+    },
+     "txt_privacy_policy": "隐私政策",
+    "@txt_privacy_policy": {
+        "description": "隐私政策"
+    },
+     "txt_cash_received": "收到的现金",
+    "@txt_cash_received": {
+        "description": "收到的现金"
+    },
+     "txt_click_to_take_photo": "点击拍照",
+    "@txt_click_to_take_photo": {
+        "description": "点击拍照"
+    },
+     "txt_camera_setting_permission": "摄像机许可未启用，请启用许可",
+    "@txt_camera_setting_permission": {
+        "description": "摄像机许可未启用，请启用许可"
+    },
+     "txt_gallery_setting_permission": "画廊许可未启用，请启用许可",
+    "@txt_gallery_setting_permission": {
+        "description": "画廊许可未启用，请启用许可"
+    },
+     "txt_unauthorized_login": "未授权登录",
+    "@txt_unauthorized_login": {
+        "description": "未授权登录"
+    },
+     "txt_login_detect": "在另一台设备中检测到新登录，请再次登录以在此设备上使用",
+    "@txt_login_detect": {
+        "description": "在另一台设备中检测到新登录，请再次登录以在此设备上使用"
+    },
+     "txt_location_setting_permission": "未启用位置许可，请启用许可",
+    "@txt_location_setting_permission": {
+        "description": "未启用位置许可，请启用许可"
+    },
+     "txt_delete_account": "删除帐户",
+    "@txt_delete_account": {
+        "description": "删除帐户"
+    },
+     "txt_sure_to_delete": "您确定要删除您的帐户吗？",
+    "@txt_sure_to_delete": {
+        "description": "您确定要删除您的帐户吗？"
+    },
+     "txt_open_with": "打开用",
+    "@txt_open_with": {
+        "description": "打开用"
+    },
+     "txt_new_request_from": "新请求",
+    "@txt_new_request_from": {
+        "description": "新请求"
+    },
+     "txt_vehicle_assign": "管理员分配的车辆是",
+    "@txt_vehicle_assign": {
+        "description": "管理员分配的车辆是"
+    },
+     "txt_admin_delete": "管理员删除了您的帐户，您无法再使用该应用程序。请联系管理员。",
+    "@txt_admin_delete": {
+        "description": "管理员删除了您的帐户，您无法再使用该应用程序。请联系管理员。"
+    }
+ }

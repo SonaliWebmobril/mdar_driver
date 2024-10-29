@@ -1,0 +1,1606 @@
+{
+    "txt_login": "لاگ ان کریں",
+    "@txt_login": {
+        "description": "لاگ ان کریں"
+    },
+    "txt_mobile_number": "موبائل فون کانمبر",
+    "@txt_mobile_number": {
+        "description": "موبائل فون کانمبر"
+    },
+    "txt_submit": "جمع کرائیں",
+    "@txt_submit": {
+        "description": "جمع کرائیں"
+    },
+    "txt_continue_with": "یا جاری رکھیں",
+    "@txt_continue_with": {
+        "description": "یا جاری رکھیں"
+    },
+    "txt_select_lng": "زبان منتخب کریں",
+    "@txt_select_lng": {
+        "description": "زبان منتخب کریں"
+    },
+    "txt_select_country": "ملک کا انتخاب کیجئے",
+    "@txt_select_country": {
+        "description": "ملک کا انتخاب کیجئے"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "تلاش",
+    "@txt_search": {
+        "description": "تلاش"
+    },
+    "txt_last_pick": "آخری چن",
+    "@txt_last_pick": {
+        "description": "آخری چن"
+    },
+    "txt_successfully": "کامیابی سے",
+    "@txt_successfully": {
+        "description": "کامیابی سے"
+    },
+    "txt_your_otp": "آپ کا OTP ہے",
+    "@txt_your_otp": {
+        "description": "آپ کا OTP ہے"
+    },
+    "txt_otp_sent_successfully": "او ٹی پی نے کامیابی کے ساتھ بھیجا",
+    "@txt_otp_sent_successfully": {
+        "description": "او ٹی پی نے کامیابی کے ساتھ بھیجا"
+    },
+    "txt_verification": "تصدیق",
+    "@txt_verification": {
+        "description": "تصدیق"
+    },
+    "txt_enter_code_we_sent": "توثیق کا کوڈ درج کریں ہم نے ابھی آپ کو آپ کے موبائل نمبر پر بھیجا ہے",
+    "@txt_enter_code_we_sent": {
+        "description": "توثیق کا کوڈ درج کریں ہم نے ابھی آپ کو آپ کے موبائل نمبر پر بھیجا ہے"
+    },
+    "txt_resend_otp": "رینڈ او ٹی پی",
+    "@txt_resend_otp": {
+        "description": "رینڈ او ٹی پی"
+    },
+    "txt_verify": "تصدیق کریں",
+    "@txt_verify": {
+        "description": "تصدیق کریں"
+    },
+    "txt_error": "غلطی",
+    "@txt_error": {
+        "description": "غلطی"
+    },
+    "txt_ok": "ٹھیک ہے",
+    "@txt_ok": {
+        "description": "ٹھیک ہے"
+    },
+    "txt_upload_details": "تفصیلات اپ لوڈ کریں",
+    "@txt_upload_details": {
+        "description": "تفصیلات اپ لوڈ کریں"
+    },
+    "txt_vehicle_picture": "گاڑیوں کی تصاویر",
+    "@txt_vehicle_picture": {
+        "description": "گاڑیوں کی تصاویر"
+    },
+    "txt_vehicle_number": "گاڑی کا نمبر",
+    "@txt_vehicle_number": {
+        "description": "گاڑی کا نمبر"
+    },
+    "txt_upload_image": "تصویر انٹرنیٹ پر ڈالنا",
+    "@txt_upload_image": {
+        "description": "تصویر انٹرنیٹ پر ڈالنا"
+    },
+    "txt_front": "سامنے",
+    "@txt_front": {
+        "description": "سامنے"
+    },
+    "txt_back": "پیچھے",
+    "@txt_back": {
+        "description": "پیچھے"
+    },
+    "txt_driver_id_card": "ڈرائیور شناختی کارڈ",
+    "@txt_driver_id_card": {
+        "description": "ڈرائیور شناختی کارڈ"
+    },
+    "txt_id_number": "شناختی نمبر",
+    "@txt_id_number": {
+        "description": "شناختی نمبر"
+    },
+    "txt_valid_from": "سے درست",
+    "@txt_valid_from": {
+        "description": "سے درست"
+    },
+    "txt_valid_until": "قابل قبول جب تک",
+    "@txt_valid_until": {
+        "description": "قابل قبول جب تک"
+    },
+    "txt_driver_driving_license": "ڈرائیور ڈرائیونگ لائسنس",
+    "@txt_driver_driving_license": {
+        "description": "ڈرائیور ڈرائیونگ لائسنس"
+    },
+    "txt_license_number": "لائسنس نمبر",
+    "@txt_license_number": {
+        "description": "لائسنس نمبر"
+    },
+    "txt_vehicle_registration": "گاڑیوں کا اندراج",
+    "@txt_vehicle_registration": {
+        "description": "گاڑیوں کا اندراج"
+    },
+    "txt_registration_number": "رجسٹریشن نمبر",
+    "@txt_registration_number": {
+        "description": "رجسٹریشن نمبر"
+    },
+    "txt_next": "اگلے",
+    "@txt_next": {
+        "description": "اگلے"
+    },
+    "txt_vehicle_ownership": "گاڑیوں کی ملکیت",
+    "@txt_vehicle_ownership": {
+        "description": "گاڑیوں کی ملکیت"
+    },
+    "txt_ownership_number": "ملکیت کا نمبر",
+    "@txt_ownership_number": {
+        "description": "ملکیت کا نمبر"
+    },
+    "txt_vehicle_insurance": "گاڑی انشورنس",
+    "@txt_vehicle_insurance": {
+        "description": "گاڑی انشورنس"
+    },
+    "txt_vehicle_inspection": "گاڑیوں کا معائنہ",
+    "@txt_vehicle_inspection": {
+        "description": "گاڑیوں کا معائنہ"
+    },
+    "txt_insurance_number": "انشورنس نمبر",
+    "@txt_insurance_number": {
+        "description": "انشورنس نمبر"
+    },
+    "txt_inspection_number": "معائنہ نمبر",
+    "@txt_inspection_number": {
+        "description": "معائنہ نمبر"
+    },
+    "txt_vehicle_manifest": "گاڑی کا منشور",
+    "@txt_vehicle_manifest": {
+        "description": "گاڑی کا منشور"
+    },
+    "txt_manifest_number": "ظاہر نمبر",
+    "@txt_manifest_number": {
+        "description": "ظاہر نمبر"
+    },
+    "txt_vehicle_radio_tax": "گاڑی ریڈیو ٹیکس",
+    "@txt_vehicle_radio_tax": {
+        "description": "گاڑی ریڈیو ٹیکس"
+    },
+    "txt_radio_tax_number": "ریڈیو ٹیکس نمبر",
+    "@txt_radio_tax_number": {
+        "description": "ریڈیو ٹیکس نمبر"
+    },
+    "txt_done": "کیا",
+    "@txt_done": {
+        "description": "کیا"
+    },
+    "txt_almost_done": "تقریپا ہو گیا! جاری رکھنے کے لئے موبائل نمبر درج کریں",
+    "@txt_almost_done": {
+        "description": "تقریپا ہو گیا! جاری رکھنے کے لئے موبائل نمبر درج کریں"
+    },
+    "txt_menu": "مینو",
+    "@txt_menu": {
+        "description": "مینو"
+    },
+    "txt_driver_profile": "ڈرائیور پروفائل",
+    "@txt_driver_profile": {
+        "description": "ڈرائیور پروفائل"
+    },
+    "txt_upload_doc_info": "اپ لوڈ کردہ دستاویز اور کار کی معلومات۔",
+    "@txt_upload_doc_info": {
+        "description": "اپ لوڈ کردہ دستاویز اور کار کی معلومات۔"
+    },
+    "txt_add_new_doc": "نئی دستاویز شامل کریں",
+    "@txt_add_new_doc": {
+        "description": "نئی دستاویز شامل کریں"
+    },
+    "txt_bank_info": "بینک کی معلومات",
+    "@txt_bank_info": {
+        "description": "بینک کی معلومات"
+    },
+    "txt_transaction": "لین دین",
+    "@txt_transaction": {
+        "description": "لین دین"
+    },
+    "txt_my_trip": "میرے دورے",
+    "@txt_my_trip": {
+        "description": "میرے دورے"
+    },
+    "txt_support": "تائید",
+    "@txt_support": {
+        "description": "تائید"
+    },
+    "txt_about_us": "ہمارے بارے میں",
+    "@txt_about_us": {
+        "description": "ہمارے بارے میں"
+    },
+    "txt_terms_condition": "شرائط و ضوابط",
+    "@txt_terms_condition": {
+        "description": "شرائط و ضوابط"
+    },
+    "txt_logout": "لاگ آوٹ",
+    "@txt_logout": {
+        "description": "لاگ آوٹ"
+    },
+    "txt_edit_profile": "پروفائل میں ترمیم کریں",
+    "@txt_edit_profile": {
+        "description": "پروفائل میں ترمیم کریں"
+    },
+    "txt_name": "نام",
+    "@txt_name": {
+        "description": "نام"
+    },
+    "txt_email": "ای میل",
+    "@txt_email": {
+        "description": "ای میل"
+    },
+    "txt_camera": "کیمرا",
+    "@txt_camera": {
+        "description": "کیمرا"
+    },
+    "txt_gallery": "گیلری ، نگارخانہ",
+    "@txt_gallery": {
+        "description": "گیلری ، نگارخانہ"
+    },
+    "txt_uploaded_documents_info": "اپ لوڈ کردہ دستاویزات کی معلومات",
+    "@txt_uploaded_documents_info": {
+        "description": "اپ لوڈ کردہ دستاویزات کی معلومات"
+    },
+    "txt_pending": "زیر التوا",
+    "@txt_pending": {
+        "description": "زیر التوا"
+    },
+    "txt_approved": "منظورشدہ",
+    "@txt_approved": {
+        "description": "منظورشدہ"
+    },
+    "txt_upload_detail": "تفصیلات اپ لوڈ کریں",
+    "@txt_upload_detail": {
+        "description": "تفصیلات اپ لوڈ کریں"
+    },
+    "txt_welcome": "خوش آمدید",
+    "@txt_welcome": {
+        "description": "خوش آمدید"
+    },
+    "txt_welcome_and_setup": "یہاں آپ کو اپنا اکاؤنٹ ترتیب دینے کی ضرورت ہے",
+    "@txt_welcome_and_setup": {
+        "description": "یہاں آپ کو اپنا اکاؤنٹ ترتیب دینے کی ضرورت ہے"
+    },
+    "txt_take_photo": "اپنی تصویر لیں",
+    "@txt_take_photo": {
+        "description": "اپنی تصویر لیں"
+    },
+    "val_upload_doc": "براہ کرم دستاویزات اپ لوڈ کریں",
+    "@val_upload_doc": {
+        "description": "براہ کرم دستاویزات اپ لوڈ کریں"
+    },
+    "txt_update_document": "دستاویز کو اپ ڈیٹ کریں",
+    "@txt_update_document": {
+        "description": "دستاویز کو اپ ڈیٹ کریں"
+    },
+    "txt_holder_name": "بینک ہولڈر کا نام",
+    "@txt_holder_name": {
+        "description": "بینک ہولڈر کا نام"
+    },
+    "txt_account_number": "اکاؤنٹ نمبر",
+    "@txt_account_number": {
+        "description": "اکاؤنٹ نمبر"
+    },
+    "txt_ifsc_code": "IFSC کوڈ",
+    "@txt_ifsc_code": {
+        "description": "IFSC کوڈ"
+    },
+    "txt_bank_name": "بینک کا نام",
+    "@txt_bank_name": {
+        "description": "بینک کا نام"
+    },
+    "txt_transaction_upr": "لین دین",
+    "@txt_transaction_upr": {
+        "description": "لین دین"
+    },
+    "txt_total_amt": "کل رقم",
+    "@txt_total_amt": {
+        "description": "کل رقم"
+    },
+    "txt_cash": "نقد",
+    "@txt_cash": {
+        "description": "نقد"
+    },
+    "txt_online": "آن لائن",
+    "@txt_online": {
+        "description": "آن لائن"
+    },
+    "txt_payment_history": "ادائیگی کی تاریخ",
+    "@txt_payment_history": {
+        "description": "ادائیگی کی تاریخ"
+    },
+    "txt_no_data_found": "کوئی ڈیٹا نہیں ملا",
+    "@txt_no_data_found": {
+        "description": "کوئی ڈیٹا نہیں ملا"
+    },
+    "txt_support_upr": "تائید",
+    "@txt_support_upr": {
+        "description": "تائید"
+    },
+    "txt_concern_queries": "خدشات اور سوالات",
+    "@txt_concern_queries": {
+        "description": "خدشات اور سوالات"
+    },
+    "txt_upload_pic_doc": "اپنی تصویر یا دستاویز اپ لوڈ کریں",
+    "@txt_upload_pic_doc": {
+        "description": "اپنی تصویر یا دستاویز اپ لوڈ کریں"
+    },
+    "txt_logout": "لاگ آوٹ",
+    "@txt_logout": {
+        "description": "لاگ آوٹ"
+    },
+    "txt_want_to_logout": "کیا آپ لاگ آؤٹ کرنا چاہتے ہیں؟",
+    "@txt_want_to_logout": {
+        "description": "کیا آپ لاگ آؤٹ کرنا چاہتے ہیں؟"
+    },
+    "txt_no": "نہیں",
+    "@txt_no": {
+        "description": "نہیں"
+    },
+    "txt_yes": "جی ہاں",
+    "@txt_yes": {
+        "description": "جی ہاں"
+    },
+    "txt_notification": "اطلاعات",
+    "@txt_notification": {
+        "description": "اطلاعات"
+    },
+    "txt_offline": "آپ آف لائن ہیں",
+    "@txt_offline": {
+        "description": "آپ آف لائن ہیں"
+    },
+    "txt_successfully_logged_in": "آپ کامیابی کے ساتھ لاگ ان ہیں۔",
+    "@txt_successfully_logged_in": {
+        "description": "آپ کامیابی کے ساتھ لاگ ان ہیں۔"
+    },
+    "txt_distance": "فاصلے",
+    "@txt_distance": {
+        "description": "فاصلے"
+    },
+    "txt_estimate_time": "وقت کا تخمینہ لگائیں",
+    "@txt_estimate_time": {
+        "description": "وقت کا تخمینہ لگائیں"
+    },
+    "txt_from_upr": "سے",
+    "@txt_from_upr": {
+        "description": "سے"
+    },
+    "txt_to_upr": "کو",
+    "@txt_to_upr": {
+        "description": "کو"
+    },
+    "txt_call": "کال کریں",
+    "@txt_call": {
+        "description": "کال کریں"
+    },
+    "txt_chat": "چیٹ",
+    "@txt_chat": {
+        "description": "چیٹ"
+    },
+    "txt_price": "قیمت",
+    "@txt_price": {
+        "description": "قیمت"
+    },
+    "txt_decline": "گراوٹ",
+    "@txt_decline": {
+        "description": "گراوٹ"
+    },
+    "txt_accept": "قبول کریں",
+    "@txt_accept": {
+        "description": "قبول کریں"
+    },
+    "txt_customer_pickup": "کسٹمر پک اپ؟",
+    "@txt_customer_pickup": {
+        "description": "کسٹمر پک اپ؟"
+    },
+    "txt_navigate": "نیویگیٹ کریں",
+    "@txt_navigate": {
+        "description": "نیویگیٹ کریں"
+    },
+    "txt_enter_otp": "OTP درج کریں",
+    "@txt_enter_otp": {
+        "description": "OTP درج کریں"
+    },
+    "txt_start_ride": "سواری شروع کریں",
+    "@txt_start_ride": {
+        "description": "سواری شروع کریں"
+    },
+    "txt_ride_complete": "سواری مکمل",
+    "@txt_ride_complete": {
+        "description": "سواری مکمل"
+    },
+    "txt_wait_for_payment": "ادائیگی کا انتظار کریں",
+    "@txt_wait_for_payment": {
+        "description": "ادائیگی کا انتظار کریں"
+    },
+    "txt_ride_complete_upr": "سواری مکمل",
+    "@txt_ride_complete_upr": {
+        "description": "سواری مکمل"
+    },
+    "txt_your_ride_complete_upr": "آپ کی سواری مکمل",
+    "@txt_your_ride_complete_upr": {
+        "description": "آپ کی سواری مکمل"
+    },
+    "txt_payment_by": "ادائیگی کے ذریعہ",
+    "@txt_payment_by": {
+        "description": "ادائیگی کے ذریعہ"
+    },
+    "txt_type_of_service": "خدمت کی قسم",
+    "@txt_type_of_service": {
+        "description": "خدمت کی قسم"
+    },
+    "txt_total_km": "کل کلومیٹر",
+    "@txt_total_km": {
+        "description": "کل کلومیٹر"
+    },
+    "txt_duration": "دورانیہ",
+    "@txt_duration": {
+        "description": "دورانیہ"
+    },
+    "txt_reason_cancellation": "منسوخی کی وجہ",
+    "@txt_reason_cancellation": {
+        "description": "منسوخی کی وجہ"
+    },
+    "txt_driver_denied": "ڈرائیور نے پک اپ سے انکار کیا",
+    "@txt_driver_denied": {
+        "description": "ڈرائیور نے پک اپ سے انکار کیا"
+    },
+    "txt_expected_time": "انتظار کرنے کا ایک چھوٹا وقت متوقع ہے",
+    "@txt_expected_time": {
+        "description": "انتظار کرنے کا ایک چھوٹا وقت متوقع ہے"
+    },
+    "txt_unable_to_contact_user": "صارف سے رابطہ کرنے سے قاصر ہے",
+    "@txt_unable_to_contact_user": {
+        "description": "صارف سے رابطہ کرنے سے قاصر ہے"
+    },
+    "txt_reason_not_listed": "میری وجہ یہاں درج نہیں ہے",
+    "@txt_reason_not_listed": {
+        "description": "میری وجہ یہاں درج نہیں ہے"
+    },
+    "txt_cancel": "منسوخ کریں",
+    "@txt_cancel": {
+        "description": "منسوخ کریں"
+    },
+    "txt_check_internet": "براہ کرم اپنا انٹرنیٹ کنیکشن چیک کریں",
+    "@txt_check_internet": {
+        "description": "براہ کرم اپنا انٹرنیٹ کنیکشن چیک کریں"
+    },
+    "txt_english": "انگریزی",
+    "@txt_english": {
+        "description": "انگریزی"
+    },
+    "txt_portuguese": "پرتگالی",
+    "@txt_portuguese": {
+        "description": "پرتگالی"
+    },
+    "txt_arabic": "عربی",
+    "@txt_arabic": {
+        "description": "عربی"
+    },
+    "txt_urdu": "اردو",
+    "@txt_urdu": {
+        "description": "اردو"
+    },
+    "txt_hindi": "ہندی۔",
+    "@txt_hindi": {
+        "description": "ہندی۔"
+    },
+    "txt_spanish": "ہسپانوی",
+    "@txt_spanish": {
+        "description": "ہسپانوی"
+    },
+    "txt_mandarim": "مینڈارن",
+    "@txt_mandarim": {
+        "description": "مینڈارن"
+    },
+    "txt_french": "فرانسیسی",
+    "@txt_french": {
+        "description": "فرانسیسی"
+    },
+    "txt_afrikaans": "افریقی",
+    "@txt_afrikaans": {
+        "description": "افریقی"
+    },
+    "txt_bengali": "بنگالی",
+    "@txt_bengali": {
+        "description": "بنگالی"
+    },
+    "txt_russian": "روسی",
+    "@txt_russian": {
+        "description": "روسی"
+    },
+    "txt_japanese": "جاپانی",
+    "@txt_japanese": {
+        "description": "جاپانی"
+    },
+    "txt_turkish": "ترک",
+    "@txt_turkish": {
+        "description": "ترک"
+    },
+    "txt_swahili": "سواحلی",
+    "@txt_swahili": {
+        "description": "سواحلی"
+    },
+    "txt_italian": "اطالوی",
+    "@txt_italian": {
+        "description": "اطالوی"
+    },
+    "txt_edit": "ترمیم",
+    "@txt_edit": {
+        "description": "ترمیم"
+    },
+    "txt_delete": "حذف کریں",
+    "@txt_delete": {
+        "description": "حذف کریں"
+    },
+    "val_accept_term_condition": "براہ کرم شرائط و ضوابط قبول کریں",
+    "@val_accept_term_condition": {
+        "description": "براہ کرم شرائط و ضوابط قبول کریں"
+    },
+    "val_first_name": "براہ کرم پہلا نام درج کریں",
+    "@val_first_name": {
+        "description": "براہ کرم پہلا نام درج کریں"
+    },
+    "val_fullname_short": "مکمل نام بہت چھوٹا ہے",
+    "@val_fullname_short": {
+        "description": "مکمل نام بہت چھوٹا ہے"
+    },
+    "val_enter_userid_email": "براہ کرم صارف کی شناخت یا ای میل درج کریں",
+    "@val_enter_userid_email": {
+        "description": "براہ کرم صارف کی شناخت یا ای میل درج کریں"
+    },
+    "val_userid_email_short": "صارف کی شناخت یا ای میل بہت مختصر",
+    "@val_userid_email_short": {
+        "description": "صارف کی شناخت یا ای میل بہت مختصر"
+    },
+    "val_enter_last_name": "براہ کرم آخری نام درج کریں",
+    "@val_enter_last_name": {
+        "description": "براہ کرم آخری نام درج کریں"
+    },
+    "val_enter_userid": "براہ کرم صارف کی شناخت درج کریں",
+    "@val_enter_userid": {
+        "description": "براہ کرم صارف کی شناخت درج کریں"
+    },
+    "val_atleast_3char": "براہ کرم کم از کم 3 کردار درج کریں",
+    "@val_atleast_3char": {
+        "description": "براہ کرم کم از کم 3 کردار درج کریں"
+    },
+    "val_first_name_short": "پہلا نام بہت چھوٹا ہے",
+    "@val_first_name_short": {
+        "description": "پہلا نام بہت چھوٹا ہے"
+    },
+    "val_last_name_short": "آخری نام بہت چھوٹا ہے",
+    "@val_last_name_short": {
+        "description": "آخری نام بہت چھوٹا ہے"
+    },
+    "val_enter_email": "براہ کرم ای میل درج کریں",
+    "@val_enter_email": {
+        "description": "براہ کرم ای میل درج کریں"
+    },
+    "val_valid_enter": "براہ کرم درست ای میل درج کریں",
+    "@val_valid_enter": {
+        "description": "براہ کرم درست ای میل درج کریں"
+    },
+    "val_enter_password": "براہ کرم پاس ورڈ درج کریں",
+    "@val_enter_password": {
+        "description": "براہ کرم پاس ورڈ درج کریں"
+    },
+    "val_enter_old_pass": "براہ کرم پرانا پاس ورڈ درج کریں",
+    "@val_enter_old_pass": {
+        "description": "براہ کرم پرانا پاس ورڈ درج کریں"
+    },
+    "val_enter_new_pass": "براہ کرم نیا پاس ورڈ درج کریں",
+    "@val_enter_new_pass": {
+        "description": "براہ کرم نیا پاس ورڈ درج کریں"
+    },
+    "val_pass_short": "پاس ورڈ بہت چھوٹا ہے",
+    "@val_pass_short": {
+        "description": "پاس ورڈ بہت چھوٹا ہے"
+    },
+    "val_pass_not_match": "پاس ورڈ مماثل نہیں ہیں",
+    "@val_pass_not_match": {
+        "description": "پاس ورڈ مماثل نہیں ہیں"
+    },
+    "val_enter_name": "براہ کرم نام درج کریں",
+    "@val_enter_name": {
+        "description": "براہ کرم نام درج کریں"
+    },
+    "val_enter_query": "براہ کرم استفسار درج کریں",
+    "@val_enter_query": {
+        "description": "براہ کرم استفسار درج کریں"
+    },
+    "val_enter_confirm_pass": "براہ کرم تصدیق شدہ پاس ورڈ درج کریں",
+    "@val_enter_confirm_pass": {
+        "description": "براہ کرم تصدیق شدہ پاس ورڈ درج کریں"
+    },
+    "val_enter_address": "براہ کرم ایڈریس درج کریں",
+    "@val_enter_address": {
+        "description": "براہ کرم ایڈریس درج کریں"
+    },
+    "val_enter_mobile": "براہ کرم موبائل نمبر درج کریں",
+    "@val_enter_mobile": {
+        "description": "براہ کرم موبائل نمبر درج کریں"
+    },
+    "val_valid_number": "براہ کرم درست موبائل نمبر درج کریں",
+    "@val_valid_number": {
+        "description": "براہ کرم درست موبائل نمبر درج کریں"
+    },
+    "val_otp": "براہ کرم او ٹی پی درج کریں",
+    "@val_otp": {
+        "description": "براہ کرم او ٹی پی درج کریں"
+    },
+    "val_enter_postal_code": "براہ کرم پوسٹل کوڈ درج کریں",
+    "@val_enter_postal_code": {
+        "description": "براہ کرم پوسٹل کوڈ درج کریں"
+    },
+    "val_valid_postal_code": "براہ کرم درست پوسٹل کوڈ درج کریں",
+    "@val_valid_postal_code": {
+        "description": "براہ کرم درست پوسٹل کوڈ درج کریں"
+    },
+    "val_enter_landmark": "براہ کرم لینڈ مارک درج کریں",
+    "@val_enter_landmark": {
+        "description": "براہ کرم لینڈ مارک درج کریں"
+    },
+    "val_enter_city": "براہ کرم شہر میں داخل ہوں",
+    "@val_enter_city": {
+        "description": "براہ کرم شہر میں داخل ہوں"
+    },
+    "val_enter_state": "براہ کرم ریاست میں داخل ہوں",
+    "@val_enter_state": {
+        "description": "براہ کرم ریاست میں داخل ہوں"
+    },
+    "val_enter_address": "براہ کرم ایڈریس درج کریں",
+    "@val_enter_address": {
+        "description": "براہ کرم ایڈریس درج کریں"
+    },
+    "val_enter_specification": "براہ کرم تصریح درج کریں",
+    "@val_enter_specification": {
+        "description": "براہ کرم تصریح درج کریں"
+    },
+    "val_enter_message": "ایک پیغام درج کریں",
+    "@val_enter_message": {
+        "description": "ایک پیغام درج کریں"
+    },
+    "txt_camera_permission": "کیمرا کی اجازت",
+    "@txt_camera_permission": {
+        "description": "کیمرا کی اجازت"
+    },
+    "txt_permission_camera": "اس اجازت کے بغیر ، یہ ایپ تصویر لینے سے قاصر ہوگی۔ کیا آپ واقعی اس اجازت سے انکار کرنا چاہتے ہیں؟",
+    "@txt_permission_camera": {
+        "description": "اس اجازت کے بغیر ، یہ ایپ تصویر لینے سے قاصر ہوگی۔ کیا آپ واقعی اس اجازت سے انکار کرنا چاہتے ہیں؟"
+    },
+    "txt_retry": "دوبارہ کوشش کریں",
+    "@txt_retry": {
+        "description": "دوبارہ کوشش کریں"
+    },
+    "txt_im_sure": "مجھے یقین ہے",
+    "@txt_im_sure": {
+        "description": "مجھے یقین ہے"
+    },
+    "txt_gallery_permission": "گیلری ، نگارخانہ کی اجازت",
+    "@txt_gallery_permission": {
+        "description": "گیلری ، نگارخانہ کی اجازت"
+    },
+    "txt_permision_gallery": "اس اجازت کے بغیر ، یہ ایپ گیلری سے فوٹو حاصل کرنے سے قاصر ہوگی۔ کیا آپ واقعی اس اجازت سے انکار کرنا چاہتے ہیں؟",
+    "@txt_permision_gallery": {
+        "description": "اس اجازت کے بغیر ، یہ ایپ گیلری سے فوٹو حاصل کرنے سے قاصر ہوگی۔ کیا آپ واقعی اس اجازت سے انکار کرنا چاہتے ہیں؟"
+    },
+    "txt_your_msg": "آپ کا پیغام...",
+    "@txt_your_msg": {
+        "description": "آپ کا پیغام..."
+    },
+    "txt_user_cancel_process": "صارف عمل منسوخ کریں",
+    "@txt_user_cancel_process": {
+        "description": "صارف عمل منسوخ کریں"
+    },
+    "txt_thank_for_reg": "اندراج کے لئے آپ کا شکریہ",
+    "@txt_thank_for_reg": {
+        "description": "اندراج کے لئے آپ کا شکریہ"
+    },
+    "txt_verify_your_doc": "ایک بار جب ہم آپ کے دستاویزات کی تصدیق کریں۔",
+    "@txt_verify_your_doc": {
+        "description": "ایک بار جب ہم آپ کے دستاویزات کی تصدیق کریں۔"
+    },
+     "txt_notify_you": "ہم جلد ہی آپ کو مطلع کرتے ہیں",
+    "@txt_notify_you": {
+        "description": "ہم جلد ہی آپ کو مطلع کرتے ہیں"
+    },
+    "txt_active_after_verification": "تصدیق کے بعد آپ کا اکاؤنٹ فعال ہوگا",
+    "@txt_active_after_verification": {
+        "description": "تصدیق کے بعد آپ کا اکاؤنٹ فعال ہوگا"
+    },
+    "val_enter_vehicle_num": "براہ کرم گاڑی کا نمبر درج کریں",
+    "@val_enter_vehicle_num": {
+        "description": "براہ کرم گاڑی کا نمبر درج کریں"
+    },
+     "val_upload_vehicle_front_img": "براہ کرم گاڑی کا فرنٹ امیج اپ لوڈ کریں",
+    "@val_upload_vehicle_front_img": {
+        "description": "براہ کرم گاڑی کا فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_upload_vehicle_back_img": "براہ کرم گاڑی کو بیک اپ لوڈ کریں",
+    "@val_upload_vehicle_back_img": {
+        "description": "براہ کرم گاڑی کو بیک اپ لوڈ کریں"
+    },
+     "val_enter_id_number": "براہ کرم شناختی کارڈ نمبر درج کریں",
+    "@val_enter_id_number": {
+        "description": "براہ کرم شناختی کارڈ نمبر درج کریں"
+    },
+     "val_upload_id_front_img": "براہ کرم شناختی کارڈ فرنٹ امیج اپ لوڈ کریں",
+    "@val_upload_id_front_img": {
+        "description": "براہ کرم شناختی کارڈ فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_upload_id_back_img": "براہ کرم شناختی کارڈ بیک امیج اپ لوڈ کریں",
+    "@val_upload_id_back_img": {
+        "description": "براہ کرم شناختی کارڈ بیک امیج اپ لوڈ کریں"
+    },
+     "val_select_id_start_date": "براہ کرم شناختی کارڈ شروع کی تاریخ منتخب کریں",
+    "@val_select_id_start_date": {
+        "description": "براہ کرم شناختی کارڈ شروع کی تاریخ منتخب کریں"
+    },
+     "val_select_id_end_date": "براہ کرم شناختی کارڈ کے اختتام کی تاریخ منتخب کریں",
+    "@val_select_id_end_date": {
+        "description": "براہ کرم شناختی کارڈ کے اختتام کی تاریخ منتخب کریں"
+    },
+     "val_enter_license_num": "براہ کرم لائسنس نمبر درج کریں",
+    "@val_enter_license_num": {
+        "description": "براہ کرم لائسنس نمبر درج کریں"
+    },
+     "val_upload_license_front_img": "براہ کرم لائسنس فرنٹ امیج اپ لوڈ کریں",
+    "@val_upload_license_front_img": {
+        "description": "براہ کرم لائسنس فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_upload_license_back_img": "براہ کرم لائسنس بیک امیج اپ لوڈ کریں",
+    "@val_upload_license_back_img": {
+        "description": "براہ کرم لائسنس بیک امیج اپ لوڈ کریں"
+    },
+     "val_select_license_start_date": "براہ کرم لائسنس اسٹارٹ کی تاریخ منتخب کریں",
+    "@val_select_license_start_date": {
+        "description": "براہ کرم لائسنس اسٹارٹ کی تاریخ منتخب کریں"
+    },
+     "val_select_license_end_date": "براہ کرم لائسنس کے اختتام کی تاریخ منتخب کریں",
+    "@val_select_license_end_date": {
+        "description": "براہ کرم لائسنس کے اختتام کی تاریخ منتخب کریں"
+    },
+     "val_enter_vehicle_reg_num": "براہ کرم گاڑیوں کا رجسٹریشن نمبر درج کریں",
+    "@val_enter_vehicle_reg_num": {
+        "description": "براہ کرم گاڑیوں کا رجسٹریشن نمبر درج کریں"
+    },
+     "val_upload_reg_front_img": "براہ کرم گاڑیوں کی رجسٹریشن فرنٹ امیج اپ لوڈ کریں",
+    "@val_upload_vehicle_front_img": {
+        "description": "براہ کرم گاڑیوں کی رجسٹریشن فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_upload_reg_back_img": "براہ کرم گاڑیوں کی رجسٹریشن بیک امیج اپ لوڈ کریں",
+    "@txt_your_msg": {
+        "description": "براہ کرم گاڑیوں کی رجسٹریشن بیک امیج اپ لوڈ کریں"
+    },
+     "val_enter_reg_start_date": "براہ کرم گاڑیوں کے اندراج کی شروعات کی تاریخ منتخب کریں",
+    "@val_enter_reg_start_date": {
+        "description": "براہ کرم گاڑیوں کے اندراج کی شروعات کی تاریخ منتخب کریں"
+    },
+     "val_enter_reg_end_date": "براہ کرم گاڑیوں کی رجسٹریشن کے اختتام کی تاریخ منتخب کریں",
+    "@val_enter_reg_end_date": {
+        "description": "براہ کرم گاڑیوں کی رجسٹریشن کے اختتام کی تاریخ منتخب کریں"
+    },
+    "val_enter_owner_num": "براہ کرم گاڑیوں کی ملکیت کا نمبر درج کریں",
+    "@val_enter_owner_num": {
+        "description": "براہ کرم گاڑیوں کی ملکیت کا نمبر درج کریں"
+    },
+     "val_upload_owner_front_img": "براہ کرم گاڑیوں کی ملکیت کا فرنٹ امیج اپ لوڈ کریں",
+    "@val_upload_owner_front_img": {
+        "description": "براہ کرم گاڑیوں کی ملکیت کا فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_upload_owner_back_img": "براہ کرم گاڑیوں کی ملکیت بیک امیج اپ لوڈ کریں",
+    "@val_upload_owner_back_img": {
+        "description": "براہ کرم گاڑیوں کی ملکیت بیک امیج اپ لوڈ کریں"
+    },
+     "val_enter_owner_start_date": "براہ کرم گاڑیوں کی ملکیت کی شروعات کی تاریخ منتخب کریں",
+    "@val_enter_owner_start_date": {
+        "description": "براہ کرم گاڑیوں کی ملکیت کی شروعات کی تاریخ منتخب کریں"
+    },
+     "val_enter_owner_end_date": "براہ کرم گاڑیوں کی ملکیت کے اختتام کی تاریخ منتخب کریں",
+    "@val_enter_owner_end_date": {
+        "description": "براہ کرم گاڑیوں کی ملکیت کے اختتام کی تاریخ منتخب کریں"
+    },
+     "val_enter_insurance_num": "براہ کرم گاڑیوں کا انشورنس نمبر درج کریں",
+    "@val_enter_insurance_num": {
+        "description": "براہ کرم گاڑیوں کا انشورنس نمبر درج کریں"
+    },
+      "val_upload_insurance_front_img": "براہ کرم گاڑیوں کی انشورنس فرنٹ امیج اپ لوڈ کریں",
+    "@val_upload_insurance_front_img": {
+        "description": "براہ کرم گاڑیوں کی انشورنس فرنٹ امیج اپ لوڈ کریں"
+    },
+      "val_upload_insurance_back_img": "براہ کرم گاڑیوں کی انشورنس بیک امیج اپ لوڈ کریں",
+    "@val_upload_insurance_back_img": {
+        "description": "براہ کرم گاڑیوں کی انشورنس بیک امیج اپ لوڈ کریں"
+    },
+      "val_insurance_start_date": "براہ کرم گاڑیوں کی انشورنس شروعات کی تاریخ منتخب کریں",
+    "@val_insurance_start_date": {
+        "description": "براہ کرم گاڑیوں کی انشورنس شروعات کی تاریخ منتخب کریں"
+    },
+      "val_insurance_end_date": "براہ کرم گاڑیوں کی انشورنس اختتامی تاریخ کو منتخب کریں",
+    "@val_insurance_end_date": {
+        "description": "براہ کرم گاڑیوں کی انشورنس اختتامی تاریخ کو منتخب کریں"
+    },
+      "val_inspection_num": "براہ کرم گاڑیوں کے معائنے کا نمبر درج کریں",
+    "@val_inspection_num": {
+        "description": "براہ کرم گاڑیوں کے معائنے کا نمبر درج کریں"
+    },
+      "val_inspection_front_img": "براہ کرم گاڑیوں کے معائنہ فرنٹ امیج کو اپ لوڈ کریں",
+    "@val_inspection_front_img": {
+        "description": "براہ کرم گاڑیوں کے معائنہ فرنٹ امیج کو اپ لوڈ کریں"
+    },
+      "val_inspection_back_img": "براہ کرم گاڑیوں کے معائنے کے پیچھے کی تصویر اپ لوڈ کریں",
+    "@val_inspection_back_img": {
+        "description": "براہ کرم گاڑیوں کے معائنے کے پیچھے کی تصویر اپ لوڈ کریں"
+    },
+     "val_inspection_start_date": "براہ کرم گاڑیوں کے معائنے کے آغاز کی تاریخ منتخب کریں",
+    "@val_inspection_start_date": {
+        "description": "براہ کرم گاڑیوں کے معائنے کے آغاز کی تاریخ منتخب کریں"
+    },
+     "val_inspection_end_date": "براہ کرم گاڑیوں کے معائنے کے اختتام کی تاریخ منتخب کریں",
+    "@val_inspection_end_date": {
+        "description": "براہ کرم گاڑیوں کے معائنے کے اختتام کی تاریخ منتخب کریں"
+    },
+     "val_manifest_num": "براہ کرم گاڑی کا منشور نمبر درج کریں",
+    "@val_manifest_num": {
+        "description": "براہ کرم گاڑی کا منشور نمبر درج کریں"
+    },
+     "val_manifest_front_img": "براہ کرم گاڑی مینی فیسٹ فرنٹ امیج اپ لوڈ کریں",
+     "@val_manifest_front_img": {
+        "description": "براہ کرم گاڑی مینی فیسٹ فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_manifest_back_img": "براہ کرم گاڑی کو ظاہر کرنے والی تصویر اپ لوڈ کریں",
+    "@val_manifest_back_img": {
+        "description": "براہ کرم گاڑی کو ظاہر کرنے والی تصویر اپ لوڈ کریں"
+    },
+     "val_manifest_start_date": "براہ کرم گاڑی کی منشور کی شروعات کی تاریخ منتخب کریں",
+    "@val_manifest_start_date": {
+        "description": "براہ کرم گاڑی کی منشور کی شروعات کی تاریخ منتخب کریں"
+    },
+     "val_manifest_end_date": "براہ کرم گاڑی کی منشور کی آخری تاریخ منتخب کریں",
+    "@val_manifest_end_date": {
+        "description": "براہ کرم گاڑی کی منشور کی آخری تاریخ منتخب کریں"
+    },
+     "val_radio_num": "براہ کرم وہیکل ریڈیو ٹیکس نمبر درج کریں",
+    "@val_radio_num": {
+        "description": "براہ کرم وہیکل ریڈیو ٹیکس نمبر درج کریں"
+    },
+     "val_radio_front_img": "براہ کرم وہیکل ریڈیو ٹیکس فرنٹ امیج اپ لوڈ کریں",
+    "@val_radio_front_img": {
+        "description": "براہ کرم وہیکل ریڈیو ٹیکس فرنٹ امیج اپ لوڈ کریں"
+    },
+     "val_radio_back_img": "براہ کرم وہیکل ریڈیو ٹیکس بیک امیج اپ لوڈ کریں",
+    "@val_radio_back_img": {
+        "description": "براہ کرم وہیکل ریڈیو ٹیکس بیک امیج اپ لوڈ کریں"
+    },
+     "val_radio_start_date": "براہ کرم وہیکل ریڈیو ٹیکس کی شروعات کی تاریخ منتخب کریں",
+    "@val_radio_start_date": {
+        "description": "براہ کرم وہیکل ریڈیو ٹیکس کی شروعات کی تاریخ منتخب کریں"
+    },
+     "val_radio_end_date": "براہ کرم وہیکل ریڈیو ٹیکس کے اختتام کی تاریخ منتخب کریں",
+    "@val_radio_end_date": {
+        "description": "براہ کرم وہیکل ریڈیو ٹیکس کے اختتام کی تاریخ منتخب کریں"
+    },
+      "txt_file_selected": "فائل منتخب",
+    "@txt_file_selected": {
+        "description": "فائل منتخب"
+    },
+       "txt_nofile_selected": "کوئی فائل منتخب نہیں کی گئی",
+    "@txt_nofile_selected": {
+        "description": "کوئی فائل منتخب نہیں کی گئی"
+    },
+    "txt_server_error": "سرور کی خرابی ، براہ کرم دوبارہ کوشش کریں",
+    "@txt_server_error": {
+        "description": "سرور کی خرابی ، براہ کرم دوبارہ کوشش کریں"
+    },
+     "val_valid_otp": "براہ کرم درست OTP درج کریں",
+    "@val_valid_otp": {
+        "description": "براہ کرم درست OTP درج کریں"
+    },
+     "txt_double_click": "ایپ سے باہر نکلنے کے لئے ڈبل کلک کریں",
+    "@txt_double_click": {
+        "description": "ایپ سے باہر نکلنے کے لئے ڈبل کلک کریں"
+    },
+      "txt_pick_from": "سے اٹھاو",
+    "@txt_pick_from": {
+        "description": "سے اٹھاو"
+    },
+      "txt_transaction_id": "ٹرانزیکشن ID",
+    "@txt_pick_from": {
+        "description": "ٹرانزیکشن ID"
+    },
+       "txt_total_price": "کل قیمت",
+    "@txt_total_price": {
+        "description": "کل قیمت"
+    },
+     "txt_complete": "مکمل",
+    "@txt_complete": {
+        "description": "مکمل"
+    },
+      "txt_date": "تاریخ",
+    "@txt_date": {
+        "description": "تاریخ"
+    },
+      "txt_by": "بذریعہ",
+    "@txt_by": {
+        "description": "بذریعہ"
+    },
+       "txt_cancelled": "منسوخ",
+    "@txt_cancelled": {
+        "description": "منسوخ"
+    },
+       "txt_phone_number": "فون نمبر",
+    "@txt_phone_number": {
+        "description": "فون نمبر"
+    },
+       "txt_upload": "اپ لوڈ کریں",
+    "@txt_upload": {
+        "description": "اپ لوڈ کریں"
+    },
+       "txt_valid_phone": "براہ کرم درست فون نمبر درج کریں",
+    "@txt_valid_phone": {
+        "description": "براہ کرم درست فون نمبر درج کریں"
+    },
+       "txt_maker_name": "براہ کرم کار بنانے والے کی تفصیل درج کریں",
+    "@txt_maker_name": {
+        "description": "براہ کرم کار بنانے والے کی تفصیل درج کریں"
+    },
+       "txt_model_name": "براہ کرم کار ماڈل کا نام درج کریں",
+    "@txt_model_name": {
+        "description": "براہ کرم کار ماڈل کا نام درج کریں"
+    },
+       "txt_color_name": "براہ کرم کار رنگ کا نام درج کریں",
+    "@txt_color_name": {
+        "description": "براہ کرم کار رنگ کا نام درج کریں"
+    },
+       "txt_select_passenger": "براہ کرم مسافر کی تعداد منتخب کریں",
+    "@txt_select_passenger": {
+        "description": "براہ کرم مسافر کی تعداد منتخب کریں"
+    },
+       "txt_valid_data": "درست ڈیٹا درج کریں",
+    "@txt_valid_data": {
+        "description": "درست ڈیٹا درج کریں"
+    },
+       "txt_select_vehicle_pic": "براہ کرم گاڑیوں کی تصاویر منتخب کریں",
+    "@txt_select_vehicle_pic": {
+        "description": "براہ کرم گاڑیوں کی تصاویر منتخب کریں"
+    },
+         "txt_location_permission": "مقام کی اجازت",
+    "@txt_location_permission": {
+        "description": "مقام کی اجازت"
+    },
+    "txt_permision_location": "اس اجازت کے بغیر ، یہ ایپ آپ کا مقام اور پتہ حاصل کرنے سے قاصر ہوگی۔ کیا آپ واقعی اس اجازت سے انکار کرنا چاہتے ہیں؟",
+    "@txt_permision_location": {
+        "description": "اس اجازت کے بغیر ، یہ ایپ آپ کا مقام اور پتہ حاصل کرنے سے قاصر ہوگی۔ کیا آپ واقعی اس اجازت سے انکار کرنا چاہتے ہیں؟"
+    },
+    "txt_permision_setting": "اگر آپ اس ایپ کو استعمال کرنا چاہتے ہیں تو آپ کو سسٹم کی اجازت کی ترتیب میں اجازتوں کو اہل بنانا ہوگا",
+    "@txt_permision_setting": {
+        "description": "اگر آپ اس ایپ کو استعمال کرنا چاہتے ہیں تو آپ کو سسٹم کی اجازت کی ترتیب میں اجازتوں کو اہل بنانا ہوگا"
+    },
+     "txt_setting": "ترتیبات",
+    "@txt_setting": {
+        "description": "ترتیبات"
+    },
+     "txt_exit": "باہر نکلیں",
+    "@txt_exit": {
+        "description": "باہر نکلیں"
+    },
+    "txt_select_max": "زیادہ سے زیادہ 10 تصاویر منتخب کریں",
+    "@txt_exit": {
+        "description": "زیادہ سے زیادہ 10 تصاویر منتخب کریں"
+    },
+    "txt_car_maker": "کار بنانے والا",
+    "@txt_car_maker": {
+        "description": "کار بنانے والا"
+    },
+     "txt_car_model": "کار ماڈل",
+    "@txt_car_model": {
+        "description": "کار ماڈل"
+    },
+     "txt_car_color": "کار کا رنگ",
+    "@txt_car_color": {
+        "description": "کار کا رنگ"
+    },
+     "txt_no_pass": "مسافر کی تعداد",
+    "@txt_no_pass": {
+        "description": "مسافر کی تعداد"
+    },
+     "txt_vehicle_pic": "گاڑی کی تصویر",
+    "@txt_vehicle_pic": {
+        "description": "گاڑی کی تصویر"
+    },
+     "txt_driver_id": "ڈرائیور شناختی کارڈ",
+    "@txt_driver_id": {
+        "description": "ڈرائیور شناختی کارڈ"
+    },
+     "txt_driver_driving": "ڈرائیور ڈرائیونگ لائسنس",
+    "@txt_driver_driving": {
+        "description": "ڈرائیور ڈرائیونگ لائسنس"
+    },
+     "txt_vehicle_reg": "گاڑیوں کا اندراج",
+    "@txt_vehicle_reg": {
+        "description": "گاڑیوں کا اندراج"
+    },
+     "txt_vehicle_owner": "گاڑیوں کی ملکیت",
+    "@txt_vehicle_owner": {
+        "description": "گاڑیوں کی ملکیت"
+    },
+     "txt_vehicle_insur": "گاڑی انشورنس",
+    "@txt_vehicle_insur": {
+        "description": "گاڑی انشورنس"
+    },
+      "txt_vehicle_inspec": "گاڑیوں کا معائنہ",
+    "@txt_vehicle_inspec": {
+        "description": "گاڑیوں کا معائنہ"
+    },
+      "txt_vehicle_mani": "گاڑی کا منشور",
+    "@txt_vehicle_mani": {
+        "description": "گاڑی کا منشور"
+    },
+     "txt_vehicle_radio": "گاڑی ریڈیو ٹیکس",
+    "@txt_vehicle_radio": {
+        "description": "گاڑی ریڈیو ٹیکس"
+    },
+    "txt_maker": "بنانے والا",
+    "@txt_maker": {
+        "description": "بنانے والا"
+    },
+      "txt_model": "ماڈل",
+    "@txt_model": {
+        "description": "ماڈل"
+    },
+      "txt_color": "رنگ",
+    "@txt_color": {
+        "description": "رنگ"
+    },
+       "txt_passenger": "مسافر",
+    "@txt_passenger": {
+        "description": "مسافر"
+    },
+      "txt_max_10": "(زیادہ سے زیادہ 10)",
+    "@txt_max_10": {
+        "description": "(زیادہ سے زیادہ 10)"
+    },
+    "txt_uploaded": "اپ لوڈ",
+    "@txt_uploaded": {
+        "description": "اپ لوڈ"
+    },
+     "val_name_len": "درست نام درج کریں",
+    "@val_name_len": {
+        "description": "درست نام درج کریں"
+    },
+    "val_driving_license": "درست ڈرائیونگ لائسنس درج کریں",
+    "@val_driving_license": {
+        "description": "درست ڈرائیونگ لائسنس درج کریں"
+    },
+    "txt_select": "منتخب کریں",
+    "@txt_select": {
+        "description": "منتخب کریں"
+    },
+    "val_IdCard": "درست شناختی کارڈ درج کریں",
+    "@val_IdCard": {
+        "description": "درست شناختی کارڈ درج کریں"
+    },
+    "val_reg_len": "رجسٹریشن نمبر 10 سے زیادہ الفانومیرک کردار سے زیادہ نہیں ہونا چاہئے",
+    "@val_reg_len": {
+        "description": "رجسٹریشن نمبر 10 سے زیادہ الفانومیرک کردار سے زیادہ نہیں ہونا چاہئے"
+    },
+    "val_owner_len": "درست مالک کا نام درج کریں",
+    "@val_owner_len": {
+        "description": "درست مالک کا نام درج کریں"
+    },
+    "txt_insurance_len": "انشورنس نمبر 30 سے زیادہ حرفی حرف سے زیادہ نہیں ہونا چاہئے",
+    "@txt_insurance_len": {
+        "description": "انشورنس نمبر 30 سے زیادہ حرفی حرف سے زیادہ نہیں ہونا چاہئے"
+    },
+     "txt_change_lng": "زبان تبدیل کریں",
+    "@txt_change_lng": {
+        "description": "زبان تبدیل کریں"
+    },
+     "txt_pls_enter_queries": "براہ کرم اپنے سوالات درج کریں",
+    "@txt_pls_enter_queries": {
+        "description": "براہ کرم اپنے سوالات درج کریں"
+    },
+     "txt_query_length": "سوالات کی لمبائی کم سے کم 10 حرف ہونی چاہئے",
+    "@txt_query_length": {
+        "description": "سوالات کی لمبائی کم سے کم 10 حرف ہونی چاہئے"
+    },
+     "txt_take_live_photo": "ایک براہ راست تصویر لیں",
+    "@txt_take_live_photo": {
+        "description": "ایک براہ راست تصویر لیں"
+    },
+     "txt_loading_camera": "کیمرا لوڈ ہو رہا ہے ...",
+    "@txt_loading_camera": {
+        "description": "کیمرا لوڈ ہو رہا ہے ..."
+    },
+     "txt_retake": "دوبارہ لگائیں",
+    "@txt_retake": {
+        "description": "دوبارہ لگائیں"
+    },
+     "txt_confirm": "تصدیق کریں",
+    "@txt_confirm": {
+        "description": "تصدیق کریں"
+    },
+     "txt_no_booking_for_schedule": "شیڈول سواری کے لئے کوئی بکنگ نہیں ہے",
+    "@txt_no_booking_for_schedule": {
+        "description": "شیڈول سواری کے لئے کوئی بکنگ نہیں ہے"
+    },
+     "txt_schedule_ride": "شیڈول سواری",
+    "@txt_schedule_ride": {
+        "description": "شیڈول سواری"
+    },
+     "txt_scheduled_rides": "شیڈول سواری",
+    "@txt_scheduled_rides": {
+        "description": "شیڈول سواری"
+    },
+     "txt_cancel_ride": "سواری منسوخ کریں",
+    "@txt_cancel_ride": {
+        "description": "سواری منسوخ کریں"
+    },
+     "txt_payment_pending": "ادائیگی زیر التوا ہے",
+    "@txt_payment_pending": {
+        "description": "ادائیگی زیر التوا ہے"
+    },
+     "txt_accepted": "قبول",
+    "@txt_accepted": {
+        "description": "قبول"
+    },
+     "txt_ride_pending": "سواری زیر التوا ہے",
+    "@txt_ride_pending": {
+        "description": "سواری زیر التوا ہے"
+    },
+     "txt_wallet": "پرس",
+    "@txt_wallet": {
+        "description": "پرس"
+    },
+     "txt_send_request": "درخواست بھیجیں",
+    "@txt_send_request": {
+        "description": "درخواست بھیجیں"
+    },
+     "txt_note_remark": "نوٹ/تبصرہ",
+    "@txt_note_remark": {
+        "description": "نوٹ/تبصرہ"
+    },
+     "txt_withdrawal_amt": "واپسی کی رقم",
+    "@txt_withdrawal_amt": {
+        "description": "واپسی کی رقم"
+    },
+     "txt_history": "تاریخ",
+    "@txt_history": {
+        "description": "تاریخ"
+    },
+     "txt_skip": "چھوڑ دو",
+    "@txt_skip": {
+        "description": "چھوڑ دو"
+    },
+     "txt_success": "کامیابی",
+    "@txt_success": {
+        "description": "کامیابی"
+    },
+     "txt_enter_amt": "رقم درج کریں",
+    "@txt_": {
+        "description": "رقم درج کریں"
+    },
+     "txt_enter_valid_amt": "درست رقم درج کریں",
+    "@txt_enter_valid_amt": {
+        "description": "درست رقم درج کریں"
+    },
+     "txt_owner_name": "مالک کا نام",
+    "@txt_owner_name": {
+        "description": "مالک کا نام"
+    },
+     "txt_enter_owner_name": "براہ کرم مالک کا نام درج کریں",
+    "@txt_enter_owner_name": {
+        "description": "براہ کرم مالک کا نام درج کریں"
+    },
+     "txt_enter_valid_owner_name": "درست مالک کا نام درج کریں",
+    "@txt_enter_valid_owner_name": {
+        "description": "درست مالک کا نام درج کریں"
+    },
+     "txt_enter_valid_maker_name": "درست بنانے والا نام درج کریں",
+    "@txt_enter_valid_maker_name": {
+        "description": "درست بنانے والا نام درج کریں"
+    },
+     "txt_valid_color_name": "درست رنگ کا نام درج کریں",
+    "@txt_valid_color_name": {
+        "description": "درست رنگ کا نام درج کریں"
+    },
+     "txt_enter_color_name": "براہ کرم رنگین نام درج کریں",
+    "@txt_enter_color_name": {
+        "description": "براہ کرم رنگین نام درج کریں"
+    },
+     "txt_request_mode": "درخواست کے موڈ",
+    "@txt_request_mode": {
+        "description": "درخواست کے موڈ"
+    },
+     "txt_request_pending": "درخواست زیرغورہے",
+    "@txt_request_pending": {
+        "description": "درخواست زیرغورہے"
+    },
+     "txt_request_decline": "درخواست میں کمی",
+    "@txt_request_decline": {
+        "description": "درخواست میں کمی"
+    },
+     "txt_request_date": "درخواست کی تاریخ",
+    "@txt_request_date": {
+        "description": "درخواست کی تاریخ"
+    },
+     "txt_request_status": "درخواست کی حیثیت",
+    "@txt_request_status": {
+        "description": "درخواست کی حیثیت"
+    },
+     "txt_enter_vaild_name": "درست نام درج کریں",
+    "@txt_enter_vaild_name": {
+        "description": "درست نام درج کریں"
+    },
+     "txt_update": "اپ ڈیٹ",
+    "@txt_update": {
+        "description": "اپ ڈیٹ"
+    },
+     "txt_enter_details_of_your": "اپنے کی تفصیلات درج کریں",
+    "@txt_enter_details_of_your": {
+        "description": "اپنے کی تفصیلات درج کریں"
+    },
+     "txt_upload_photo_of_your": "اپنی تصویر اپ لوڈ کریں",
+    "@txt_upload_photo_of_your": {
+        "description": "اپنی تصویر اپ لوڈ کریں"
+    },
+     "txt_vehicle": "گاڑی",
+    "@txt_vehicle": {
+        "description": "گاڑی"
+    },
+     "txt_select_min_one_img": "کم سے کم 1 تصویر منتخب کریں",
+    "@txt_select_min_one_img": {
+        "description": "کم سے کم 1 تصویر منتخب کریں"
+    },
+     "txt_details": "تفصیلات",
+    "@txt_details": {
+        "description": "تفصیلات"
+    },
+     "txt_in_progress": "کام جاری ہے",
+    "@txt_in_progress": {
+        "description": "کام جاری ہے"
+    },
+     "txt_complete_ride": "مکمل سواری",
+    "@txt_complete_ride": {
+        "description": "مکمل سواری"
+    },
+     "txt_your_ride_completed": "آپ کی سواری مکمل ہوچکی ہے",
+    "@txt_your_ride_completed": {
+        "description": "آپ کی سواری مکمل ہوچکی ہے"
+    },
+     "txt_ride_completed": "سواری مکمل",
+    "@txt_ride_completed": {
+        "description": "سواری مکمل"
+    },
+     "txt_security_deposit": "زرضمانت",
+    "@txt_security_deposit": {
+        "description": "زرضمانت"
+    },
+     "txt_complete_security_deposit_process": "سیکیورٹی ڈپازٹ کے عمل کو مکمل کریں",
+    "@txt_complete_security_deposit_process": {
+        "description": "سیکیورٹی ڈپازٹ کے عمل کو مکمل کریں"
+    },
+     "txt_checked_pay_later": "آپ نے بعد میں سیکیورٹی ڈپازٹ تنخواہ چیک کی ہے",
+    "@txt_checked_pay_later": {
+        "description": "آپ نے بعد میں سیکیورٹی ڈپازٹ تنخواہ چیک کی ہے"
+    },
+     "txt_already_done_online_payment": "آپ نے پہلے ہی آن لائن ادائیگی کی ہے",
+    "@txt_already_done_online_payment": {
+        "description": "آپ نے پہلے ہی آن لائن ادائیگی کی ہے"
+    },
+     "txt_choose_pay_menthod": "ادائیگی کے طریقہ کار کا انتخاب کریں",
+    "@txt_choose_pay_menthod": {
+        "description": "ادائیگی کے طریقہ کار کا انتخاب کریں"
+    },
+     "txt_pay_now": "اب ادا",
+    "@txt_pay_now": {
+        "description": "اب ادا"
+    },
+     "txt_do_later": "میں بعد میں سیکیورٹی ڈپازٹ کروں گا",
+    "@txt_do_later": {
+        "description": "میں بعد میں سیکیورٹی ڈپازٹ کروں گا"
+    },
+     "txt_gender_pref": "صنفی ترجیحات",
+    "@txt_gender_pref": {
+        "description": "صنفی ترجیحات"
+    },
+     "txt_gender_you_want_to_prefer": "(صنف کو منتخب کریں جس کی آپ سواری کو ترجیح دینا چاہتے ہیں)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(صنف کو منتخب کریں جس کی آپ سواری کو ترجیح دینا چاہتے ہیں)"
+    },
+     "txt_male": "مرد",
+    "@txt_male": {
+        "description": "مرد"
+    },
+     "txt_female": "عورت",
+    "@txt_female": {
+        "description": "عورت"
+    },
+     "txt_other": "دیگر",
+    "@txt_other": {
+        "description": "دیگر"
+    },
+     "txt_no_pref": "کوئی ترجیحات نہیں",
+    "@txt_no_pref": {
+        "description": "کوئی ترجیحات نہیں"
+    },
+     "txt_update_details_of_user": "اپنے کی تفصیلات کو اپ ڈیٹ کریں",
+    "@txt_update_details_of_user": {
+        "description": "اپنے کی تفصیلات کو اپ ڈیٹ کریں"
+    },
+     "txt_criminal_record_certificate": "مجرمانہ ریکارڈ سرٹیفکیٹ",
+    "@txt_criminal_record_certificate": {
+        "description": "مجرمانہ ریکارڈ سرٹیفکیٹ"
+    },
+     "txt_criminal_record": "مجرمانہ ریکارڈ",
+    "@txt_criminal_record": {
+        "description": "مجرمانہ ریکارڈ"
+    },
+     "txt_update_your": "اپنی تازہ کاری کریں",
+    "@txt_update_your": {
+        "description": "اپنی تازہ کاری کریں"
+    },
+     "txt_document": "دستاویز",
+    "@txt_document": {
+        "description": "دستاویز"
+    },
+      "txt_select_your_gender": "اپنی جنس منتخب کریں",
+    "@txt_select_your_gender": {
+        "description": "اپنی جنس منتخب کریں"
+    },
+      "txt_gender": "صنف",
+    "@txt_gender": {
+        "description": "صنف"
+    },
+      "txt_ride_type": "سواری کی قسم",
+    "@txt_ride_type": {
+        "description": "سواری کی قسم"
+    },
+      "txt_rejected": "مسترد",
+    "@txt_rejected": {
+        "description": "مسترد"
+    },
+      "txt_km": "کلومیٹر",
+    "@txt_km": {
+        "description": "کلومیٹر"
+    },
+      "txt_select_reason": "وجہ منتخب کریں",
+    "@txt_select_reason": {
+        "description": "وجہ منتخب کریں"
+    },
+      "txt_select_gender_pref": "صنف کی ترجیح کو منتخب کریں",
+    "@txt_select_gender_pref": {
+        "description": "صنف کی ترجیح کو منتخب کریں"
+    },
+      "txt_update_documents": "دستاویزات کو اپ ڈیٹ کریں",
+    "@txt_update_documents": {
+        "description": "دستاویزات کو اپ ڈیٹ کریں"
+    },
+      "txt_are_you_sure_to_logout": "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟",
+    "@txt_are_you_sure_to_logout": {
+        "description": "کیا آپ واقعی لاگ آؤٹ کرنا چاہتے ہیں؟"
+    },
+      "txt_my_rides": "میری سواری",
+    "@txt_my_rides": {
+        "description": "میری سواری"
+    },
+      "txt_rating": "درجہ بندی",
+    "@txt_rating": {
+        "description": "درجہ بندی"
+    },
+      "txt_daily_ride": "روزانہ سواری",
+    "@txt_daily_ride": {
+        "description": "روزانہ سواری"
+    },
+     "txt_rental_ride": "کرایہ کی سواری",
+    "@txt_rental_ride": {
+        "description": "کرایہ کی سواری"
+    },
+     "txt_enter_your_reason": "براہ کرم اپنی وجہ درج کریں",
+    "@txt_enter_your_reason": {
+        "description": "براہ کرم اپنی وجہ درج کریں"
+    },
+     "txt_select_ride_type": "سواری کی قسم منتخب کریں",
+    "@txt_select_ride_type": {
+        "description": "سواری کی قسم منتخب کریں"
+    },
+     "txt_profile_under_review": "آپ کا پروفائل زیر غور ہے ، جب تک ایڈمن اسے متحرک نہیں کرتا ہے اس وقت تک آپ سواری نہیں کرسکتے ہیں۔",
+    "@txt_profile_under_review": {
+        "description": "آپ کا پروفائل زیر غور ہے ، جب تک ایڈمن اسے متحرک نہیں کرتا ہے اس وقت تک آپ سواری نہیں کرسکتے ہیں۔"
+    },
+     "txt_your_account_deactivateed": "آپ کا اکاؤنٹ ایڈمن کے ذریعہ غیر فعال کردیا گیا ہے ، براہ کرم ان سے رابطہ کریں۔",
+    "@txt_your_account_deactivateed": {
+        "description": "آپ کا اکاؤنٹ ایڈمن کے ذریعہ غیر فعال کردیا گیا ہے ، براہ کرم ان سے رابطہ کریں۔"
+    },
+     "txt_accept_terms_privacy": "سائن اپ کرکے آپ خدمات اور رازداری کی پالیسی کی شرائط کو قبول کرتے ہیں",
+    "@txt_accept_terms_privacy": {
+        "description": "سائن اپ کرکے آپ خدمات اور رازداری کی پالیسی کی شرائط کو قبول کرتے ہیں"
+    },
+     "txt_please_accept_terms_privacy": "براہ کرم خدمات اور رازداری کی پالیسی کی شرائط کو قبول کریں",
+    "@txt_please_accept_terms_privacy": {
+        "description": "براہ کرم خدمات اور رازداری کی پالیسی کی شرائط کو قبول کریں"
+    },
+     "txt_thanks_for_registering": "ہمارے ساتھ اندراج کرنے کا شکریہ",
+    "@txt_thanks_for_registering": {
+        "description": "ہمارے ساتھ اندراج کرنے کا شکریہ"
+    },
+     "txt_application_under_review_check_status": "آپ کی درخواست زیر غور ہے ، آپ ہوم پیج میں اوپر والے ریڈ بار پر حیثیت چیک کرسکتے ہیں۔",
+    "@txt_application_under_review_check_status": {
+        "description": "آپ کی درخواست زیر غور ہے ، آپ ہوم پیج میں اوپر والے ریڈ بار پر حیثیت چیک کرسکتے ہیں۔"
+    },
+     "txt_update_details": "تفصیلات کو اپ ڈیٹ کریں",
+    "@txt_update_details": {
+        "description": "تفصیلات کو اپ ڈیٹ کریں"
+    },
+     "txt_ride_details": "سواری کی تفصیلات",
+    "@txt_ride_details": {
+        "description": "سواری کی تفصیلات"
+    },
+     "txt_mpesa": "بیل",
+    "@txt_mpesa": {
+        "description": "بیل"
+    },
+     "txt_image": "تصویر",
+    "@txt_image": {
+        "description": "تصویر"
+    },
+     "txt_check_internet_try_again": "براہ کرم اپنا انٹرنیٹ کنیکٹیویٹی چیک کریں اور دوبارہ کوشش کریں",
+    "@txt_check_internet_try_again": {
+        "description": "براہ کرم اپنا انٹرنیٹ کنیکٹیویٹی چیک کریں اور دوبارہ کوشش کریں"
+    },
+     "txt_oops_no_internet": "افوہ ، انٹرنیٹ کنیکشن نہیں",
+    "@txt_oops_no_internet": {
+        "description": "افوہ ، انٹرنیٹ کنیکشن نہیں"
+    },
+     "txt_package_complete_renew": "آپ کا پیکیج مکمل ہوچکا ہے یا تو سواری کو مکمل کریں ، یا صارف کے پیکیج کی تجدید کا انتظار کریں",
+    "@txt_package_complete_renew": {
+        "description": "آپ کا پیکیج مکمل ہوچکا ہے یا تو سواری کو مکمل کریں ، یا صارف کے پیکیج کی تجدید کا انتظار کریں"
+    },
+     "txt_wait_for_response": "جواب کا منتظر",
+    "@txt_wait_for_response": {
+        "description": "جواب کا منتظر"
+    },
+     "txt_ride_complete_in": "سواری میں مکمل کریں",
+    "@txt_ride_complete_in": {
+        "description": "سواری میں مکمل کریں"
+    },
+     "txt_something_went_wrong": "کچھ غلط ہو گیا",
+    "@txt_something_went_wrong": {
+        "description": "کچھ غلط ہو گیا"
+    },
+     "txt_refresh_page_try_later": "صفحہ کو تازہ دم کرنے کی کوشش کریں ، یا بعد میں دوبارہ کوشش کریں۔",
+    "@txt_refresh_page_try_later": {
+        "description": "صفحہ کو تازہ دم کرنے کی کوشش کریں ، یا بعد میں دوبارہ کوشش کریں۔"
+    },
+     "txt_permission_required": "اجازت درکار ہے",
+    "@txt_permission_required": {
+        "description": "اجازت درکار ہے"
+    },
+     "txt_enable_permission": "اجازت کو فعال کریں",
+    "@txt_enable_permission": {
+        "description": "اجازت کو فعال کریں"
+    },
+     "txt_pick_your_country": "اپنے ملک کو منتخب کریں",
+    "@txt_pick_your_country": {
+        "description": "اپنے ملک کو منتخب کریں"
+    },
+     "txt_cant_update_ride_type": "آپ جاری سواری میں اپنی سواری کی قسم کو اپ ڈیٹ نہیں کرسکتے ہیں۔",
+    "@txt_cant_update_ride_type": {
+        "description": "آپ جاری سواری میں اپنی سواری کی قسم کو اپ ڈیٹ نہیں کرسکتے ہیں۔"
+    },
+     "txt_check_connect_timeout": "اپنے کنکشن کا وقت چیک کریں !!",
+    "@txt_check_connect_timeout": {
+        "description": "اپنے کنکشن کا وقت چیک کریں !!"
+    },
+     "txt_timeout_exception": "ٹائم آؤٹ رعایت",
+    "@txt_timeout_exception": {
+        "description": "ٹائم آؤٹ رعایت"
+    },
+     "txt_request_cancel_from_user": "درخواست صارف سے منسوخ کریں۔",
+    "@txt_request_cancel_from_user": {
+        "description": "درخواست صارف سے منسوخ کریں۔"
+    },
+     "txt_getting_wrong_response": "ہمیں غلط جواب مل رہا ہے۔",
+    "@txt_getting_wrong_response": {
+        "description": "ہمیں غلط جواب مل رہا ہے۔"
+    },
+     "txt_connection_error": "رابطے میں خرابی.",
+    "@txt_connection_error": {
+        "description": "رابطے میں خرابی."
+    },
+     "txt_server_not_connected_contact_admin": "سرور منسلک نہیں ، براہ کرم ایڈمن سے رابطہ کریں۔",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "سرور منسلک نہیں ، براہ کرم ایڈمن سے رابطہ کریں۔"
+    },
+     "txt_socket_not_connect": "ساکٹ منسلک نہیں ...",
+    "@txt_socket_not_connect": {
+        "description": "ساکٹ منسلک نہیں ..."
+    },
+     "txt_user_renewed_package": "صارف نے پیکیج کی تجدید کی!",
+    "@txt_user_renewed_package": {
+        "description": "صارف نے پیکیج کی تجدید کی!"
+    },
+     "txt_bear_per_km": "صارف ریچھ فی کلومیٹر چارجز!",
+    "@txt_bear_per_km": {
+        "description": "صارف ریچھ فی کلومیٹر چارجز!"
+    },
+     "txt_wait_for_user": "صارف کا انتظار کریں",
+    "@txt_wait_for_user": {
+        "description": "صارف کا انتظار کریں"
+    },
+     "txt_bysigning_you_accept": "سائن اپ کرکے آپ قبول کریں",
+    "@txt_bysigning_you_accept": {
+        "description": "سائن اپ کرکے آپ قبول کریں"
+    },
+     "txt_terms_service": "خدمات کی شرائط",
+    "@txt_terms_service": {
+        "description": "خدمات کی شرائط"
+    },
+     "txt_and": "اور",
+    "@txt_and": {
+        "description": "اور"
+    },
+     "txt_privacy_policy": "رازداری کی پالیسی",
+    "@txt_privacy_policy": {
+        "description": "رازداری کی پالیسی"
+    },
+     "txt_cash_received": "نقد موصول ہوا",
+    "@txt_cash_received": {
+        "description": "نقد موصول ہوا"
+    },
+     "txt_click_to_take_photo": "تصویر لینے کے لئے کلک کریں",
+    "@txt_click_to_take_photo": {
+        "description": "تصویر لینے کے لئے کلک کریں"
+    },
+     "txt_camera_setting_permission": "کیمرے کی اجازت قابل نہیں ہے ، براہ کرم اجازت کو فعال کریں",
+    "@txt_camera_setting_permission": {
+        "description": "کیمرے کی اجازت قابل نہیں ہے ، براہ کرم اجازت کو فعال کریں"
+    },
+     "txt_gallery_setting_permission": "گیلری ، نگارخانہ کی اجازت قابل نہیں ہے ، براہ کرم اجازت کو فعال کریں",
+    "@txt_gallery_setting_permission": {
+        "description": "گیلری ، نگارخانہ کی اجازت قابل نہیں ہے ، براہ کرم اجازت کو فعال کریں"
+    },
+     "txt_unauthorized_login": "لاگ ان کو غیر مجاز بنائیں",
+    "@txt_unauthorized_login": {
+        "description": "لاگ ان کو غیر مجاز بنائیں"
+    },
+     "txt_login_detect": "کسی دوسرے آلے میں نیا لاگ ان کا پتہ چلا ہے ، براہ کرم اس ڈیوائس پر استعمال کرنے کے لئے دوبارہ لاگ ان ہوں",
+    "@txt_login_detect": {
+        "description": "کسی دوسرے آلے میں نیا لاگ ان کا پتہ چلا ہے ، براہ کرم اس ڈیوائس پر استعمال کرنے کے لئے دوبارہ لاگ ان ہوں"
+    },
+     "txt_location_setting_permission": "مقام کی اجازت قابل نہیں ہے ، براہ کرم اجازت کو فعال کریں",
+    "@txt_location_setting_permission": {
+        "description": "مقام کی اجازت قابل نہیں ہے ، براہ کرم اجازت کو فعال کریں"
+    },
+     "txt_delete_account": "کھاتہ مٹا دو",
+    "@txt_delete_account": {
+        "description": "کھاتہ مٹا دو"
+    },
+     "txt_sure_to_delete": "کیا آپ واقعی اپنا اکاؤنٹ حذف کرنا چاہتے ہیں؟",
+    "@txt_sure_to_delete": {
+        "description": "کیا آپ واقعی اپنا اکاؤنٹ حذف کرنا چاہتے ہیں؟"
+    },
+     "txt_open_with": "کے ساتھ کھولیں۔",
+    "@txt_open_with": {
+        "description": "کے ساتھ کھولیں۔"
+    },
+     "txt_new_request_from": "نئی درخواست ",
+    "@txt_new_request_from": {
+        "description": "نئی درخواست "
+    },
+     "txt_vehicle_assign": "ایڈمن کی طرف سے گاڑی تفویض ہے",
+    "@txt_vehicle_assign": {
+        "description": "ایڈمن کی طرف سے گاڑی تفویض ہے"
+    },
+     "txt_admin_delete": "ایڈمن نے آپ کا اکاؤنٹ ڈیلیٹ کر دیا، آپ ایپ کو مزید استعمال نہیں کر سکتے۔ براہ کرم ایڈمن سے رابطہ کریں۔",
+    "@txt_admin_delete": {
+        "description": "ایڈمن نے آپ کا اکاؤنٹ ڈیلیٹ کر دیا، آپ ایپ کو مزید استعمال نہیں کر سکتے۔ براہ کرم ایڈمن سے رابطہ کریں۔"
+    }
+ }

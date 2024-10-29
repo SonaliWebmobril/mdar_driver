@@ -1,0 +1,1606 @@
+{
+    "txt_login": "Giriş yapmak",
+    "@txt_login": {
+        "description": "Giriş yapmak"
+    },
+    "txt_mobile_number": "Cep numarası",
+    "@txt_mobile_number": {
+        "description": "Cep numarası"
+    },
+    "txt_submit": "Göndermek",
+    "@txt_submit": {
+        "description": "Göndermek"
+    },
+    "txt_continue_with": "Veya devam et",
+    "@txt_continue_with": {
+        "description": "Veya devam et"
+    },
+    "txt_select_lng": "Dil Seçin",
+    "@txt_select_lng": {
+        "description": "Dil Seçin"
+    },
+    "txt_select_country": "Seçme Ülke",
+    "@txt_select_country": {
+        "description": "Seçme Ülke"
+    },
+     "txt_write_comment": "Write your comment",
+    "@txt_write_comment": {
+        "description": "Write your comment"
+    },
+    "txt_search": "Arama",
+    "@txt_search": {
+        "description": "Arama"
+    },
+    "txt_last_pick": "SON SEÇİM",
+    "@txt_last_pick": {
+        "description": "SON SEÇİM"
+    },
+    "txt_successfully": "başarıyla",
+    "@txt_successfully": {
+        "description": "başarıyla"
+    },
+    "txt_your_otp": "OTP'niz",
+    "@txt_your_otp": {
+        "description": "OTP'niz"
+    },
+    "txt_otp_sent_successfully": "OTP başarılı bir şekilde gönderildi",
+    "@txt_otp_sent_successfully": {
+        "description": "OTP başarılı bir şekilde gönderildi"
+    },
+    "txt_verification": "Doğrulama",
+    "@txt_verification": {
+        "description": "Doğrulama"
+    },
+    "txt_enter_code_we_sent": "Cep telefonu numaranıza gönderdiğimiz doğrulama kodunu girin",
+    "@txt_enter_code_we_sent": {
+        "description": "Cep telefonu numaranıza gönderdiğimiz doğrulama kodunu girin"
+    },
+    "txt_resend_otp": "OTP'yi yeniden yap",
+    "@txt_resend_otp": {
+        "description": "OTP'yi yeniden yap"
+    },
+    "txt_verify": "Doğrulamak",
+    "@txt_verify": {
+        "description": "Doğrulamak"
+    },
+    "txt_error": "Hata",
+    "@txt_error": {
+        "description": "Hata"
+    },
+    "txt_ok": "Tamam",
+    "@txt_ok": {
+        "description": "Tamam"
+    },
+    "txt_upload_details": "Ayrıntıları Yükle",
+    "@txt_upload_details": {
+        "description": "Ayrıntıları Yükle"
+    },
+    "txt_vehicle_picture": "Araç resimleri",
+    "@txt_vehicle_picture": {
+        "description": "Araç resimleri"
+    },
+    "txt_vehicle_number": "Araç numarası",
+    "@txt_vehicle_number": {
+        "description": "Araç numarası"
+    },
+    "txt_upload_image": "Fotoğraf yükleniyor",
+    "@txt_upload_image": {
+        "description": "Fotoğraf yükleniyor"
+    },
+    "txt_front": "Ön",
+    "@txt_front": {
+        "description": "Ön"
+    },
+    "txt_back": "Geri",
+    "@txt_back": {
+        "description": "Geri"
+    },
+    "txt_driver_id_card": "Sürücü Kimlik Kartı",
+    "@txt_driver_id_card": {
+        "description": "Sürücü Kimlik Kartı"
+    },
+    "txt_id_number": "kimlik Numarası",
+    "@txt_id_number": {
+        "description": "kimlik Numarası"
+    },
+    "txt_valid_from": "Kadar geçerli",
+    "@txt_valid_from": {
+        "description": "Kadar geçerli"
+    },
+    "txt_valid_until": "Kadar geçerli",
+    "@txt_valid_until": {
+        "description": "Kadar geçerli"
+    },
+    "txt_driver_driving_license": "Sürücü ehliyeti",
+    "@txt_driver_driving_license": {
+        "description": "Sürücü ehliyeti"
+    },
+    "txt_license_number": "Lisans numarası",
+    "@txt_license_number": {
+        "description": "Lisans numarası"
+    },
+    "txt_vehicle_registration": "Araç Kayıt",
+    "@txt_vehicle_registration": {
+        "description": "Araç Kayıt"
+    },
+    "txt_registration_number": "Kayıt numarası",
+    "@txt_registration_number": {
+        "description": "Kayıt numarası"
+    },
+    "txt_next": "Sonraki",
+    "@txt_next": {
+        "description": "Sonraki"
+    },
+    "txt_vehicle_ownership": "Araç sahipliği",
+    "@txt_vehicle_ownership": {
+        "description": "Araç sahipliği"
+    },
+    "txt_ownership_number": "Sahiplik numarası",
+    "@txt_ownership_number": {
+        "description": "Sahiplik numarası"
+    },
+    "txt_vehicle_insurance": "Araç sigortası",
+    "@txt_vehicle_insurance": {
+        "description": "Araç sigortası"
+    },
+    "txt_vehicle_inspection": "Araç muayenesi",
+    "@txt_vehicle_inspection": {
+        "description": "Araç muayenesi"
+    },
+    "txt_insurance_number": "Sigorta numarası",
+    "@txt_insurance_number": {
+        "description": "Sigorta numarası"
+    },
+    "txt_inspection_number": "Denetim numarası",
+    "@txt_inspection_number": {
+        "description": "Denetim numarası"
+    },
+    "txt_vehicle_manifest": "Araç tezahürü",
+    "@txt_vehicle_manifest": {
+        "description": "Araç tezahürü"
+    },
+    "txt_manifest_number": "Manifest Numarası",
+    "@txt_manifest_number": {
+        "description": "Manifest Numarası"
+    },
+    "txt_vehicle_radio_tax": "Araç Radyo Vergisi",
+    "@txt_vehicle_radio_tax": {
+        "description": "Araç Radyo Vergisi"
+    },
+    "txt_radio_tax_number": "Radyo Vergisi Numarası",
+    "@txt_radio_tax_number": {
+        "description": "Radyo Vergisi Numarası"
+    },
+    "txt_done": "Tamamlandı",
+    "@txt_done": {
+        "description": "Tamamlandı"
+    },
+    "txt_almost_done": "Neredeyse bitti! Devam etmek için cep telefonu numarasını girin",
+    "@txt_almost_done": {
+        "description": "Neredeyse bitti! Devam etmek için cep telefonu numarasını girin"
+    },
+    "txt_menu": "MENÜ",
+    "@txt_menu": {
+        "description": "MENÜ"
+    },
+    "txt_driver_profile": "Sürücü profili",
+    "@txt_driver_profile": {
+        "description": "Sürücü profili"
+    },
+    "txt_upload_doc_info": "Yüklenen belge ve araba bilgileri.",
+    "@txt_upload_doc_info": {
+        "description": "Yüklenen belge ve araba bilgileri."
+    },
+    "txt_add_new_doc": "Yeni belge ekle",
+    "@txt_add_new_doc": {
+        "description": "Yeni belge ekle"
+    },
+    "txt_bank_info": "Banka bilgisi",
+    "@txt_bank_info": {
+        "description": "Banka bilgisi"
+    },
+    "txt_transaction": "İşlem",
+    "@txt_transaction": {
+        "description": "İşlem"
+    },
+    "txt_my_trip": "Gezilerim",
+    "@txt_my_trip": {
+        "description": "Gezilerim"
+    },
+    "txt_support": "Destek olmak",
+    "@txt_support": {
+        "description": "Destek olmak"
+    },
+    "txt_about_us": "Hakkımızda",
+    "@txt_about_us": {
+        "description": "Hakkımızda"
+    },
+    "txt_terms_condition": "Şartlar ve koşullar",
+    "@txt_terms_condition": {
+        "description": "Şartlar ve koşullar"
+    },
+    "txt_logout": "Çıkış Yap",
+    "@txt_logout": {
+        "description": "Çıkış Yap"
+    },
+    "txt_edit_profile": "PROFİLİ DÜZENLE",
+    "@txt_edit_profile": {
+        "description": "PROFİLİ DÜZENLE"
+    },
+    "txt_name": "İsim",
+    "@txt_name": {
+        "description": "İsim"
+    },
+    "txt_email": "E -posta",
+    "@txt_email": {
+        "description": "E -posta"
+    },
+    "txt_camera": "Kamera",
+    "@txt_camera": {
+        "description": "Kamera"
+    },
+    "txt_gallery": "Galeri",
+    "@txt_gallery": {
+        "description": "Galeri"
+    },
+    "txt_uploaded_documents_info": "Yüklenen belgeler bilgi",
+    "@txt_uploaded_documents_info": {
+        "description": "Yüklenen belgeler bilgi"
+    },
+    "txt_pending": "Bekliyor",
+    "@txt_pending": {
+        "description": "Bekliyor"
+    },
+    "txt_approved": "Onaylı",
+    "@txt_approved": {
+        "description": "Onaylı"
+    },
+    "txt_upload_detail": "Ayrıntıları Yükle",
+    "@txt_upload_detail": {
+        "description": "Ayrıntıları Yükle"
+    },
+    "txt_welcome": "Hoşgeldiniz",
+    "@txt_welcome": {
+        "description": "Hoşgeldiniz"
+    },
+    "txt_welcome_and_setup": "Hesabınızı ayarlamak için yapmanız gerekenler",
+    "@txt_welcome_and_setup": {
+        "description": "Hesabınızı ayarlamak için yapmanız gerekenler"
+    },
+    "txt_take_photo": "Bir fotoğrafını çek",
+    "@txt_take_photo": {
+        "description": "Bir fotoğrafını çek"
+    },
+    "val_upload_doc": "Lütfen belgeleri yükleyin",
+    "@val_upload_doc": {
+        "description": "Lütfen belgeleri yükleyin"
+    },
+    "txt_update_document": "Güncelleme belgesi",
+    "@txt_update_document": {
+        "description": "Güncelleme belgesi"
+    },
+    "txt_holder_name": "Banka Sahibi Adı",
+    "@txt_holder_name": {
+        "description": "Banka Sahibi Adı"
+    },
+    "txt_account_number": "Hesap numarası",
+    "@txt_account_number": {
+        "description": "Hesap numarası"
+    },
+    "txt_ifsc_code": "IFSC kodu",
+    "@txt_ifsc_code": {
+        "description": "IFSC kodu"
+    },
+    "txt_bank_name": "Banka adı",
+    "@txt_bank_name": {
+        "description": "Banka adı"
+    },
+    "txt_transaction_upr": "İşlemler",
+    "@txt_transaction_upr": {
+        "description": "İşlemler"
+    },
+    "txt_total_amt": "Toplam tutar",
+    "@txt_total_amt": {
+        "description": "Toplam tutar"
+    },
+    "txt_cash": "Peşin",
+    "@txt_cash": {
+        "description": "Peşin"
+    },
+    "txt_online": "İnternet üzerinden",
+    "@txt_online": {
+        "description": "İnternet üzerinden"
+    },
+    "txt_payment_history": "ÖDEME GEÇMİŞİ",
+    "@txt_payment_history": {
+        "description": "ÖDEME GEÇMİŞİ"
+    },
+    "txt_no_data_found": "Veri bulunamadı",
+    "@txt_no_data_found": {
+        "description": "Veri bulunamadı"
+    },
+    "txt_support_upr": "DESTEK",
+    "@txt_support_upr": {
+        "description": "DESTEK"
+    },
+    "txt_concern_queries": "Endişeler ve sorgular",
+    "@txt_concern_queries": {
+        "description": "Endişeler ve sorgular"
+    },
+    "txt_upload_pic_doc": "Resminizi veya belgenizi yükleyin",
+    "@txt_upload_pic_doc": {
+        "description": "Resminizi veya belgenizi yükleyin"
+    },
+    "txt_logout": "Çıkış Yap",
+    "@txt_logout": {
+        "description": "Çıkış Yap"
+    },
+    "txt_want_to_logout": "Oturum açmak ister misin",
+    "@txt_want_to_logout": {
+        "description": "Oturum açmak ister misin"
+    },
+    "txt_no": "hayır",
+    "@txt_no": {
+        "description": "hayır"
+    },
+    "txt_yes": "Evet",
+    "@txt_yes": {
+        "description": "Evet"
+    },
+    "txt_notification": "BİLDİRİMLER",
+    "@txt_notification": {
+        "description": "BİLDİRİMLER"
+    },
+    "txt_offline": "Çevrimdışısınız",
+    "@txt_offline": {
+        "description": "Çevrimdışısınız"
+    },
+    "txt_successfully_logged_in": "Başarılı bir şekilde giriş yaptınız.",
+    "@txt_successfully_logged_in": {
+        "description": "Başarılı bir şekilde giriş yaptınız."
+    },
+    "txt_distance": "Hantal",
+    "@txt_distance": {
+        "description": "Hantal"
+    },
+    "txt_estimate_time": "Tahmini zaman",
+    "@txt_estimate_time": {
+        "description": "Tahmini zaman"
+    },
+    "txt_from_upr": "İTİBAREN",
+    "@txt_from_upr": {
+        "description": "İTİBAREN"
+    },
+    "txt_to_upr": "İLE",
+    "@txt_to_upr": {
+        "description": "İLE"
+    },
+    "txt_call": "Telefon etmek",
+    "@txt_call": {
+        "description": "Telefon etmek"
+    },
+    "txt_chat": "Sohbet etmek",
+    "@txt_chat": {
+        "description": "Sohbet etmek"
+    },
+    "txt_price": "Fiyat",
+    "@txt_price": {
+        "description": "Fiyat"
+    },
+    "txt_decline": "Reddetmek",
+    "@txt_decline": {
+        "description": "Reddetmek"
+    },
+    "txt_accept": "Kabul etmek",
+    "@txt_accept": {
+        "description": "Kabul etmek"
+    },
+    "txt_customer_pickup": "Müşteri Pikap?",
+    "@txt_customer_pickup": {
+        "description": "Müşteri Pikap?"
+    },
+    "txt_navigate": "Gezinmek",
+    "@txt_navigate": {
+        "description": "Gezinmek"
+    },
+    "txt_enter_otp": "OTP girin",
+    "@txt_enter_otp": {
+        "description": "OTP girin"
+    },
+    "txt_start_ride": "Sürüşe Başla",
+    "@txt_start_ride": {
+        "description": "Sürüşe Başla"
+    },
+    "txt_ride_complete": "Sürüş Tamamlandı",
+    "@txt_ride_complete": {
+        "description": "Sürüş Tamamlandı"
+    },
+    "txt_wait_for_payment": "Ödeme Bekle",
+    "@txt_wait_for_payment": {
+        "description": "Ödeme Bekle"
+    },
+    "txt_ride_complete_upr": "Sürüş Tamamlandı",
+    "@txt_ride_complete_upr": {
+        "description": "Sürüş Tamamlandı"
+    },
+    "txt_your_ride_complete_upr": "Sürüşünüz tamamlandı",
+    "@txt_your_ride_complete_upr": {
+        "description": "Sürüşünüz tamamlandı"
+    },
+    "txt_payment_by": "Ödeme",
+    "@txt_payment_by": {
+        "description": "Ödeme"
+    },
+    "txt_type_of_service": "Servis tipi",
+    "@txt_type_of_service": {
+        "description": "Servis tipi"
+    },
+    "txt_total_km": "Toplam km",
+    "@txt_total_km": {
+        "description": "Toplam km"
+    },
+    "txt_duration": "Süre",
+    "@txt_duration": {
+        "description": "Süre"
+    },
+    "txt_reason_cancellation": "İptal sebebi",
+    "@txt_reason_cancellation": {
+        "description": "İptal sebebi"
+    },
+    "txt_driver_denied": "Sürücü pick-up'ı reddetti",
+    "@txt_driver_denied": {
+        "description": "Sürücü pick-up'ı reddetti"
+    },
+    "txt_expected_time": "Daha kısa bir bekleme süresi bekleniyor",
+    "@txt_expected_time": {
+        "description": "Daha kısa bir bekleme süresi bekleniyor"
+    },
+    "txt_unable_to_contact_user": "Kullanıcı ile iletişime geçilemiyor",
+    "@txt_unable_to_contact_user": {
+        "description": "Kullanıcı ile iletişime geçilemiyor"
+    },
+    "txt_reason_not_listed": "Sebebim burada listelenmedi",
+    "@txt_reason_not_listed": {
+        "description": "Sebebim burada listelenmedi"
+    },
+    "txt_cancel": "İptal",
+    "@txt_cancel": {
+        "description": "İptal"
+    },
+    "txt_check_internet": "Lütfen İnternet bağlantınızı kontrol edin",
+    "@txt_check_internet": {
+        "description": "Lütfen İnternet bağlantınızı kontrol edin"
+    },
+    "txt_english": "ingilizce",
+    "@txt_english": {
+        "description": "ingilizce"
+    },
+    "txt_portuguese": "Portekizce",
+    "@txt_portuguese": {
+        "description": "Portekizce"
+    },
+    "txt_arabic": "Arapça",
+    "@txt_arabic": {
+        "description": "Arapça"
+    },
+    "txt_urdu": "Urdu",
+    "@txt_urdu": {
+        "description": "Urdu"
+    },
+    "txt_hindi": "Hintçe",
+    "@txt_hindi": {
+        "description": "Hintçe"
+    },
+    "txt_spanish": "İspanyol",
+    "@txt_spanish": {
+        "description": "İspanyol"
+    },
+    "txt_mandarim": "Mandalina",
+    "@txt_mandarim": {
+        "description": "Mandalina"
+    },
+    "txt_french": "Fransızca",
+    "@txt_french": {
+        "description": "Fransızca"
+    },
+    "txt_afrikaans": "Afrikalı",
+    "@txt_afrikaans": {
+        "description": "Afrikalı"
+    },
+    "txt_bengali": "Bengal",
+    "@txt_bengali": {
+        "description": "Bengal"
+    },
+    "txt_russian": "Rusça",
+    "@txt_russian": {
+        "description": "Rusça"
+    },
+    "txt_japanese": "Japonca",
+    "@txt_japanese": {
+        "description": "Japonca"
+    },
+    "txt_turkish": "Türk",
+    "@txt_turkish": {
+        "description": "Türk"
+    },
+    "txt_swahili": "Svahili",
+    "@txt_swahili": {
+        "description": "Svahili"
+    },
+    "txt_italian": "İtalyan",
+    "@txt_italian": {
+        "description": "İtalyan"
+    },
+    "txt_edit": "Düzenlemek",
+    "@txt_edit": {
+        "description": "Düzenlemek"
+    },
+    "txt_delete": "Silmek",
+    "@txt_delete": {
+        "description": "Silmek"
+    },
+    "val_accept_term_condition": "Lütfen Şartlar ve Koşulları Kabul Et",
+    "@val_accept_term_condition": {
+        "description": "Lütfen Şartlar ve Koşulları Kabul Et"
+    },
+    "val_first_name": "Lütfen Ad Adını Girin",
+    "@val_first_name": {
+        "description": "Lütfen Ad Adını Girin"
+    },
+    "val_fullname_short": "Tam isim çok kısa",
+    "@val_fullname_short": {
+        "description": "Tam isim çok kısa"
+    },
+    "val_enter_userid_email": "Lütfen kullanıcı kimliği veya e -posta girin",
+    "@val_enter_userid_email": {
+        "description": "Lütfen kullanıcı kimliği veya e -posta girin"
+    },
+    "val_userid_email_short": "Kullanıcı kimliği veya e -posta çok kısa",
+    "@val_userid_email_short": {
+        "description": "Kullanıcı kimliği veya e -posta çok kısa"
+    },
+    "val_enter_last_name": "Lütfen Soyadı Girin",
+    "@val_enter_last_name": {
+        "description": "Lütfen Soyadı Girin"
+    },
+    "val_enter_userid": "Lütfen Kullanıcı Kimliği girin",
+    "@val_enter_userid": {
+        "description": "Lütfen Kullanıcı Kimliği girin"
+    },
+    "val_atleast_3char": "Lütfen en az 3 karakteri girin",
+    "@val_atleast_3char": {
+        "description": "Lütfen en az 3 karakteri girin"
+    },
+    "val_first_name_short": "Adı çok kısa",
+    "@val_first_name_short": {
+        "description": "Adı çok kısa"
+    },
+    "val_last_name_short": "Soyadı Çok Kısa",
+    "@val_last_name_short": {
+        "description": "Soyadı Çok Kısa"
+    },
+    "val_enter_email": "Lütfen e-posta giriniz",
+    "@val_enter_email": {
+        "description": "Lütfen e-posta giriniz"
+    },
+    "val_valid_enter": "Lütfen geçerli e -postayı girin",
+    "@val_valid_enter": {
+        "description": "Lütfen geçerli e -postayı girin"
+    },
+    "val_enter_password": "Lütfen şifre giriniz",
+    "@val_enter_password": {
+        "description": "Lütfen şifre giriniz"
+    },
+    "val_enter_old_pass": "Lütfen eski şifreyi girin",
+    "@val_enter_old_pass": {
+        "description": "Lütfen eski şifreyi girin"
+    },
+    "val_enter_new_pass": "Lütfen yeni şifre girin",
+    "@val_enter_new_pass": {
+        "description": "Lütfen yeni şifre girin"
+    },
+    "val_pass_short": "Şifre çok kısa",
+    "@val_pass_short": {
+        "description": "Şifre çok kısa"
+    },
+    "val_pass_not_match": "Şifreler eşleşmiyor",
+    "@val_pass_not_match": {
+        "description": "Şifreler eşleşmiyor"
+    },
+    "val_enter_name": "Lütfen Adı Girin",
+    "@val_enter_name": {
+        "description": "Lütfen Adı Girin"
+    },
+    "val_enter_query": "Lütfen sorguyu girin",
+    "@val_enter_query": {
+        "description": "Lütfen sorguyu girin"
+    },
+    "val_enter_confirm_pass": "Lütfen Parolayı Onayla Girin",
+    "@val_enter_confirm_pass": {
+        "description": "Lütfen Parolayı Onayla Girin"
+    },
+    "val_enter_address": "Lütfen Adresi Girin",
+    "@val_enter_address": {
+        "description": "Lütfen Adresi Girin"
+    },
+    "val_enter_mobile": "Lütfen cep telefonu numarasını girin",
+    "@val_enter_mobile": {
+        "description": "Lütfen cep telefonu numarasını girin"
+    },
+    "val_valid_number": "Lütfen geçerli cep telefonu numarasını girin",
+    "@val_valid_number": {
+        "description": "Lütfen geçerli cep telefonu numarasını girin"
+    },
+    "val_otp": "Lütfen OTP girin",
+    "@val_otp": {
+        "description": "Lütfen OTP girin"
+    },
+    "val_enter_postal_code": "Lütfen posta kodunu girin",
+    "@val_enter_postal_code": {
+        "description": "Lütfen posta kodunu girin"
+    },
+    "val_valid_postal_code": "Lütfen geçerli posta kodunu girin",
+    "@val_valid_postal_code": {
+        "description": "Lütfen geçerli posta kodunu girin"
+    },
+    "val_enter_landmark": "Lütfen Landmark girin",
+    "@val_enter_landmark": {
+        "description": "Lütfen Landmark girin"
+    },
+    "val_enter_city": "Lütfen şehre girin",
+    "@val_enter_city": {
+        "description": "Lütfen şehre girin"
+    },
+    "val_enter_state": "Lütfen Devleti Girin",
+    "@val_enter_state": {
+        "description": "Lütfen Devleti Girin"
+    },
+    "val_enter_address": "Lütfen Adresi Girin",
+    "@val_enter_address": {
+        "description": "Lütfen Adresi Girin"
+    },
+    "val_enter_specification": "Lütfen Spesifikasyonu Girin",
+    "@val_enter_specification": {
+        "description": "Lütfen Spesifikasyonu Girin"
+    },
+    "val_enter_message": "Mesaj girin",
+    "@val_enter_message": {
+        "description": "PMesaj girin"
+    },
+    "txt_camera_permission": "Kamera izni",
+    "@txt_camera_permission": {
+        "description": "Kamera izni"
+    },
+    "txt_permission_camera": "Bu izin olmadan, bu uygulama fotoğraf seçemez. Bu izni reddetmek istediğinizden emin misiniz?",
+    "@txt_permission_camera": {
+        "description": "Bu izin olmadan, bu uygulama fotoğraf seçemez. Bu izni reddetmek istediğinizden emin misiniz?"
+    },
+    "txt_retry": "Tekrarlamak",
+    "@txt_retry": {
+        "description": "Tekrarlamak"
+    },
+    "txt_im_sure": "Eminim",
+    "@txt_im_sure": {
+        "description": "Eminim"
+    },
+    "txt_gallery_permission": "Galeri İzni",
+    "@txt_gallery_permission": {
+        "description": "Galeri İzni"
+    },
+    "txt_permision_gallery": "Bu izin olmadan, bu uygulama galeriden fotoğraf alamayacak. Bu izni reddetmek istediğinizden emin misiniz?",
+    "@txt_permision_gallery": {
+        "description": "Bu izin olmadan, bu uygulama galeriden fotoğraf alamayacak. Bu izni reddetmek istediğinizden emin misiniz?"
+    },
+    "txt_your_msg": "Mesajın...",
+    "@txt_your_msg": {
+        "description": "Mesajın..."
+    },
+    "txt_user_cancel_process": "Kullanıcı işlemi iptal edin",
+    "@txt_user_cancel_process": {
+        "description": "Kullanıcı işlemi iptal edin"
+    },
+    "txt_thank_for_reg": "Kayıt için teşekkürler",
+    "@txt_thank_for_reg": {
+        "description": "Kayıt için teşekkürler"
+    },
+    "txt_verify_your_doc": "Bir kez belgelerinizi doğruladıktan sonra.",
+    "@txt_verify_your_doc": {
+        "description": "Bir kez belgelerinizi doğruladıktan sonra."
+    },
+     "txt_notify_you": "Yakında seni bilgilendiriyoruz",
+    "@txt_notify_you": {
+        "description": "Yakında seni bilgilendiriyoruz"
+    },
+    "txt_active_after_verification": "Doğrulamadan sonra hesabınız etkin olacaktır",
+    "@txt_active_after_verification": {
+        "description": "Doğrulamadan sonra hesabınız etkin olacaktır"
+    },
+    "val_enter_vehicle_num": "Lütfen araç numarasını girin",
+    "@val_enter_vehicle_num": {
+        "description": "Lütfen araç numarasını girin"
+    },
+     "val_upload_vehicle_front_img": "Lütfen araç ön resmi yükleyin",
+    "@val_upload_vehicle_front_img": {
+        "description": "Lütfen araç ön resmi yükleyin"
+    },
+     "val_upload_vehicle_back_img": "Lütfen Araç Geri Yükle Görüntü Yükle",
+    "@val_upload_vehicle_back_img": {
+        "description": "Lütfen Araç Geri Yükle Görüntü Yükle"
+    },
+     "val_enter_id_number": "Lütfen kimlik kartı numarasını girin",
+    "@val_enter_id_number": {
+        "description": "Lütfen kimlik kartı numarasını girin"
+    },
+     "val_upload_id_front_img": "Lütfen kimlik kartı ön resmini yükleyin",
+    "@val_upload_id_front_img": {
+        "description": "Lütfen kimlik kartı ön resmini yükleyin"
+    },
+     "val_upload_id_back_img": "Lütfen kimlik kartı geri resim yükleyin",
+    "@val_upload_id_back_img": {
+        "description": "Lütfen kimlik kartı geri resim yükleyin"
+    },
+     "val_select_id_start_date": "Lütfen Kimlik Kartı Başlangıç ​​Tarihini seçin",
+    "@val_select_id_start_date": {
+        "description": "Lütfen Kimlik Kartı Başlangıç ​​Tarihini seçin"
+    },
+     "val_select_id_end_date": "Lütfen kimlik kartı bitiş tarihini seçin",
+    "@val_select_id_end_date": {
+        "description": "Lütfen kimlik kartı bitiş tarihini seçin"
+    },
+     "val_enter_license_num": "Lütfen lisans numarasını girin",
+    "@val_enter_license_num": {
+        "description": "Lütfen lisans numarasını girin"
+    },
+     "val_upload_license_front_img": "Lütfen Lisans Ön Görüntüyü Yükle",
+    "@val_upload_license_front_img": {
+        "description": "Lütfen Lisans Ön Görüntüyü Yükle"
+    },
+     "val_upload_license_back_img": "Lütfen Lisansı Geri Yükle Resim Yükle",
+    "@val_upload_license_back_img": {
+        "description": "Lütfen Lisansı Geri Yükle Resim Yükle"
+    },
+     "val_select_license_start_date": "Lütfen lisans başlangıç ​​tarihini seçin",
+    "@val_select_license_start_date": {
+        "description": "Lütfen lisans başlangıç ​​tarihini seçin"
+    },
+     "val_select_license_end_date": "Lütfen lisans bitiş tarihini seçin",
+    "@val_select_license_end_date": {
+        "description": "Lütfen lisans bitiş tarihini seçin"
+    },
+     "val_enter_vehicle_reg_num": "Lütfen araç kayıt numarasını girin",
+    "@val_enter_vehicle_reg_num": {
+        "description": "Lütfen araç kayıt numarasını girin"
+    },
+     "val_upload_reg_front_img": "Lütfen araç kaydı ön resmi yükleyin",
+    "@val_upload_vehicle_front_img": {
+        "description": "Lütfen araç kaydı ön resmi yükleyin"
+    },
+     "val_upload_reg_back_img": "Lütfen Araç Kayıt Geri Yükle Görüntü Yükle",
+    "@txt_your_msg": {
+        "description": "Lütfen Araç Kayıt Geri Yükle Görüntü Yükle"
+    },
+     "val_enter_reg_start_date": "Lütfen Araç Kayıt Başlangıç ​​Tarihini seçin",
+    "@val_enter_reg_start_date": {
+        "description": "Lütfen Araç Kayıt Başlangıç ​​Tarihini seçin"
+    },
+     "val_enter_reg_end_date": "Lütfen araç kayıt bitiş tarihini seçin",
+    "@val_enter_reg_end_date": {
+        "description": "Lütfen araç kayıt bitiş tarihini seçin"
+    },
+    "val_enter_owner_num": "Lütfen araç sahipliği numarasını girin",
+    "@val_enter_owner_num": {
+        "description": "Lütfen araç sahipliği numarasını girin"
+    },
+     "val_upload_owner_front_img": "Lütfen araç sahipliği ön resm yükleyin",
+    "@val_upload_owner_front_img": {
+        "description": "Lütfen araç sahipliği ön resm yükleyin"
+    },
+     "val_upload_owner_back_img": "Lütfen araç sahipliği geri resim yükleyin",
+    "@val_upload_owner_back_img": {
+        "description": "Lütfen araç sahipliği geri resim yükleyin"
+    },
+     "val_enter_owner_start_date": "Lütfen araç sahipliği başlangıç ​​tarihini seçin",
+    "@val_enter_owner_start_date": {
+        "description": "Lütfen araç sahipliği başlangıç ​​tarihini seçin"
+    },
+     "val_enter_owner_end_date": "Lütfen araç sahipliği bitiş tarihini seçin",
+    "@val_enter_owner_end_date": {
+        "description": "Lütfen araç sahipliği bitiş tarihini seçin"
+    },
+     "val_enter_insurance_num": "Lütfen araç sigortası numarasını girin",
+    "@val_enter_insurance_num": {
+        "description": "Lütfen araç sigortası numarasını girin"
+    },
+      "val_upload_insurance_front_img": "Lütfen araç sigortası ön resim yükleyin",
+    "@val_upload_insurance_front_img": {
+        "description": "Lütfen araç sigortası ön resim yükleyin"
+    },
+      "val_upload_insurance_back_img": "Lütfen araç sigortası geri resim yükleyin",
+    "@val_upload_insurance_back_img": {
+        "description": "Lütfen araç sigortası geri resim yükleyin"
+    },
+      "val_insurance_start_date": "Lütfen araç sigortası başlangıç ​​tarihini seçin",
+    "@val_insurance_start_date": {
+        "description": "Lütfen araç sigortası başlangıç ​​tarihini seçin"
+    },
+      "val_insurance_end_date": "Lütfen araç sigortası bitiş tarihini seçin",
+    "@val_insurance_end_date": {
+        "description": "Lütfen araç sigortası bitiş tarihini seçin"
+    },
+      "val_inspection_num": "Lütfen araç muayene numarasını girin",
+    "@val_inspection_num": {
+        "description": "Lütfen araç muayene numarasını girin"
+    },
+      "val_inspection_front_img": "Lütfen araç muayenesi ön resmi yükleyin",
+    "@val_inspection_front_img": {
+        "description": "Lütfen araç muayenesi ön resmi yükleyin"
+    },
+      "val_inspection_back_img": "Lütfen araç muayenesi geri resim yükleyin",
+    "@val_inspection_back_img": {
+        "description": "Lütfen araç muayenesi geri resim yükleyin"
+    },
+     "val_inspection_start_date": "Lütfen araç denetim başlangıç ​​tarihini seçin",
+    "@val_inspection_start_date": {
+        "description": "Lütfen araç denetim başlangıç ​​tarihini seçin"
+    },
+     "val_inspection_end_date": "Lütfen araç denetim bitiş tarihini seçin",
+    "@val_inspection_end_date": {
+        "description": "Lütfen araç denetim bitiş tarihini seçin"
+    },
+     "val_manifest_num": "Lütfen araç manifest numarasını girin",
+    "@val_manifest_num": {
+        "description": "Lütfen araç manifest numarasını girin"
+    },
+     "val_manifest_front_img": "Lütfen araç tezahürü ön resmi yükleyin",
+    "@val_manifest_front_img": {
+        "description": "Lütfen araç tezahürü ön resmi yükleyin"
+    },
+     "val_manifest_back_img": "Lütfen araç tezahürü arka resmi yükleyin",
+    "@val_manifest_back_img": {
+        "description": "Lütfen araç tezahürü arka resmi yükleyin"
+    },
+     "val_manifest_start_date": "Lütfen Araç Manifest Başlangıç ​​Tarihini seçin",
+    "@val_manifest_start_date": {
+        "description": "Lütfen Araç Manifest Başlangıç ​​Tarihini seçin"
+    },
+     "val_manifest_end_date": "Lütfen araç manifest son tarihini seçin",
+    "@val_manifest_end_date": {
+        "description": "Lütfen araç manifest son tarihini seçin"
+    },
+     "val_radio_num": "Lütfen araç radyo vergisi numarasını girin",
+    "@val_radio_num": {
+        "description": "Lütfen araç radyo vergisi numarasını girin"
+    },
+     "val_radio_front_img": "Lütfen Araç Radyo Vergisi Ön Resim Yükle",
+    "@val_radio_front_img": {
+        "description": "Lütfen Araç Radyo Vergisi Ön Resim Yükle"
+    },
+     "val_radio_back_img": "Lütfen araç radyo vergisi geri resim yükleyin",
+    "@val_radio_back_img": {
+        "description": "Lütfen araç radyo vergisi geri resim yükleyin"
+    },
+     "val_radio_start_date": "Lütfen araç radyo vergisi başlangıç ​​tarihini seçin",
+    "@val_radio_start_date": {
+        "description": "Lütfen araç radyo vergisi başlangıç ​​tarihini seçin"
+    },
+     "val_radio_end_date": "Lütfen araç radyo vergisi bitiş tarihini seçin",
+    "@val_radio_end_date": {
+        "description": "Lütfen araç radyo vergisi bitiş tarihini seçin"
+    },
+      "txt_file_selected": "Dosya seçildi",
+    "@txt_file_selected": {
+        "description": "Dosya seçildi"
+    },
+       "txt_nofile_selected": "Dosya seçilmedi",
+    "@txt_nofile_selected": {
+        "description": "Dosya seçilmedi"
+    },
+    "txt_server_error": "Sunucu hatası, lütfen tekrar deneyin",
+    "@txt_server_error": {
+        "description": "Sunucu hatası, lütfen tekrar deneyin"
+    },
+     "val_valid_otp": "Lütfen geçerli OTP girin",
+    "@val_valid_otp": {
+        "description": "Lütfen geçerli OTP girin"
+    },
+     "txt_double_click": "Uygulamadan çıkmak için çift tıklayın",
+    "@txt_double_click": {
+        "description": "Uygulamadan çıkmak için çift tıklayın"
+    },
+      "txt_pick_from": "Dan almak",
+    "@txt_pick_from": {
+        "description": "Dan almak"
+    },
+      "txt_transaction_id": "İşlem Kimliği",
+    "@txt_pick_from": {
+        "description": "İşlem Kimliği"
+    },
+       "txt_total_price": "Toplam fiyat",
+    "@txt_total_price": {
+        "description": "Toplam fiyat"
+    },
+     "txt_complete": "Tamamlanmış",
+    "@txt_complete": {
+        "description": "Tamamlanmış"
+    },
+      "txt_date": "Tarih",
+    "@txt_date": {
+        "description": "Tarih"
+    },
+      "txt_by": "Tarafından",
+    "@txt_by": {
+        "description": "Tarafından"
+    },
+       "txt_cancelled": "İptal edildi",
+    "@txt_cancelled": {
+        "description": "İptal edildi"
+    },
+       "txt_phone_number": "Telefon numarası",
+    "@txt_phone_number": {
+        "description": "Telefon numarası"
+    },
+       "txt_upload": "Yüklemek",
+    "@txt_upload": {
+        "description": "Yüklemek"
+    },
+       "txt_valid_phone": "Lütfen geçerli telefon hayır girin",
+    "@txt_valid_phone": {
+        "description": "Lütfen geçerli telefon hayır girin"
+    },
+       "txt_maker_name": "Lütfen araba üreticisi detayını girin",
+    "@txt_maker_name": {
+        "description": "Lütfen araba üreticisi detayını girin"
+    },
+       "txt_model_name": "Lütfen araba modeli adını girin",
+    "@txt_model_name": {
+        "description": "Lütfen araba modeli adını girin"
+    },
+       "txt_color_name": "Lütfen araba renk adını girin",
+    "@txt_color_name": {
+        "description": "Lütfen araba renk adını girin"
+    },
+       "txt_select_passenger": "Lütfen yolcu numarasını seçin",
+    "@txt_select_passenger": {
+        "description": "Lütfen yolcu numarasını seçin"
+    },
+       "txt_valid_data": "Geçerli verileri girin",
+    "@txt_valid_data": {
+        "description": "Geçerli verileri girin"
+    },
+       "txt_select_vehicle_pic": "Lütfen araç resimlerini seçin",
+    "@txt_select_vehicle_pic": {
+        "description": "Lütfen araç resimlerini seçin"
+    },
+        "txt_location_permission": "Konum izni",
+    "@txt_location_permission": {
+        "description": "Konum izni"
+    },
+    "txt_permision_location": "Bu izin olmadan, bu uygulama konum ve adres alamayacaktır. Bu izni reddetmek istediğinizden emin misiniz?",
+    "@txt_permision_location": {
+        "description": "Bu izin olmadan, bu uygulama konum ve adres alamayacaktır. Bu izni reddetmek istediğinizden emin misiniz?"
+    },
+    "txt_permision_setting": "Bu uygulamayı kullanmak istiyorsanız, sistem izinleri ayarında izinleri etkinleştirmelisiniz",
+    "@txt_permision_setting": {
+        "description": "Bu uygulamayı kullanmak istiyorsanız, sistem izinleri ayarında izinleri etkinleştirmelisiniz"
+    },
+     "txt_setting": "Ayarlar",
+    "@txt_setting": {
+        "description": "Ayarlar"
+    },
+     "txt_exit": "çıkış",
+    "@txt_exit": {
+        "description": "çıkış"
+    },
+    "txt_select_max": "Maksimum 10 resim seçin",
+    "@txt_exit": {
+        "description": "Maksimum 10 resim seçin"
+    },
+    "txt_car_maker": "Araba üreticisi",
+    "@txt_car_maker": {
+        "description": "Araba üreticisi"
+    },
+     "txt_car_model": "Araba modeli",
+    "@txt_car_model": {
+        "description": "Araba modeli"
+    },
+     "txt_car_color": "Araba rengi",
+    "@txt_car_color": {
+        "description": "Araba rengi"
+    },
+     "txt_no_pass": "Yolcu Sayısı",
+    "@txt_no_pass": {
+        "description": "Yolcu Sayısı"
+    },
+     "txt_vehicle_pic": "Araç resmi",
+    "@txt_vehicle_pic": {
+        "description": "Araç resmi"
+    },
+     "txt_driver_id": "Sürücü Kimlik Kartı",
+    "@txt_driver_id": {
+        "description": "Sürücü Kimlik Kartı"
+    },
+     "txt_driver_driving": "Sürücü ehliyeti",
+    "@txt_driver_driving": {
+        "description": "Sürücü ehliyeti"
+    },
+     "txt_vehicle_reg": "Araç Kayıt",
+    "@txt_vehicle_reg": {
+        "description": "Araç Kayıt"
+    },
+     "txt_vehicle_owner": "Araç sahipliği",
+    "@txt_vehicle_owner": {
+        "description": "Araç sahipliği"
+    },
+     "txt_vehicle_insur": "Araç sigortası",
+    "@txt_vehicle_insur": {
+        "description": "Araç sigortası"
+    },
+      "txt_vehicle_inspec": "Araç muayenesi",
+    "@txt_vehicle_inspec": {
+        "description": "Araç muayenesi"
+    },
+      "txt_vehicle_mani": "Araç tezahürü",
+    "@txt_vehicle_mani": {
+        "description": "Araç tezahürü"
+    },
+     "txt_vehicle_radio": "Araç Radyo Vergisi",
+    "@txt_vehicle_radio": {
+        "description": "Araç Radyo Vergisi"
+    },
+      "txt_maker": "Yapımcı",
+    "@txt_maker": {
+        "description": "Yapımcı"
+    },
+      "txt_model": "Model",
+    "@txt_model": {
+        "description": "Model"
+    },
+      "txt_color": "Renk",
+    "@txt_color": {
+        "description": "Renk"
+    },
+       "txt_passenger": "Yolcu",
+    "@txt_passenger": {
+        "description": "Yolcu"
+    },
+      "txt_max_10": "(maksimum 10)",
+    "@txt_max_10": {
+        "description": "(maksimum 10)"
+    },
+    "txt_uploaded": "Yüklenmiş",
+    "@txt_uploaded": {
+        "description": "Yüklenmiş"
+    },
+     "val_name_len": "Geçerli adı girin",
+    "@val_name_len": {
+        "description": "Geçerli adı girin"
+    },
+    "val_driving_license": "Geçerli ehliyete girin",
+    "@val_driving_license": {
+        "description": "Geçerli ehliyete girin"
+    },
+    "txt_select": "Seçme",
+    "@txt_select": {
+        "description": "Seçme"
+    },
+    "val_IdCard": "Geçerli Kimlik Kartı girin",
+    "@tval_IdCard": {
+        "description": "Geçerli Kimlik Kartı girin"
+    },
+    "val_reg_len": "Kayıt numarası 10'dan fazla alfasayısal karakteri aşmamalıdır",
+    "@val_reg_len": {
+        "description": "Kayıt numarası 10'dan fazla alfasayısal karakteri aşmamalıdır"
+    },
+    "val_owner_len": "Geçerli sahip adını girin",
+    "@val_owner_len": {
+        "description": "Geçerli sahip adını girin"
+    },
+    "txt_insurance_len": "Sigorta numarası 30'dan fazla alfasayısal karakteri geçmemelidir",
+    "@txt_insurance_len": {
+        "description": "Sigorta numarası 30'dan fazla alfasayısal karakteri geçmemelidir"
+    },
+     "txt_change_lng": "Dili değiştir",
+    "@txt_change_lng": {
+        "description": "Dili değiştir"
+    },
+     "txt_pls_enter_queries": "Lütfen Sorgularınızı Girin",
+    "@txt_pls_enter_queries": {
+        "description": "Lütfen Sorgularınızı Girin"
+    },
+     "txt_query_length": "Sorgular uzunluğu min 10 karakter olmalıdır",
+    "@txt_query_length": {
+        "description": "Sorgular uzunluğu min 10 karakter olmalıdır"
+    },
+     "txt_take_live_photo": "Canlı Fotoğraf Çekin",
+    "@txt_take_live_photo": {
+        "description": "Canlı Fotoğraf Çekin"
+    },
+     "txt_loading_camera": "Kamera yükleme ...",
+    "@txt_loading_camera": {
+        "description": "Kamera yükleme ..."
+    },
+     "txt_retake": "Geri almak",
+    "@txt_retake": {
+        "description": "Geri almak"
+    },
+     "txt_confirm": "Onaylamak",
+    "@txt_confirm": {
+        "description": "Onaylamak"
+    },
+     "txt_no_booking_for_schedule": "Program sürüşü için rezervasyon yok",
+    "@txt_no_booking_for_schedule": {
+        "description": "Program sürüşü için rezervasyon yok"
+    },
+     "txt_schedule_ride": "Planlama",
+    "@txt_schedule_ride": {
+        "description": "Planlama"
+    },
+     "txt_scheduled_rides": "Planlanan sürüşler",
+    "@txt_scheduled_rides": {
+        "description": "Planlanan sürüşler"
+    },
+     "txt_cancel_ride": "Sürüşü İptal Et",
+    "@txt_cancel_ride": {
+        "description": "Sürüşü İptal Et"
+    },
+     "txt_payment_pending": "Ödeme bekleniyor",
+    "@txt_payment_pending": {
+        "description": "Ödeme bekleniyor"
+    },
+     "txt_accepted": "Kabul edilmiş",
+    "@txt_accepted": {
+        "description": "Kabul edilmiş"
+    },
+     "txt_ride_pending": "Beklemede binmek",
+    "@txt_ride_pending": {
+        "description": "Beklemede binmek"
+    },
+     "txt_wallet": "Cüzdan",
+    "@txt_wallet": {
+        "description": "Cüzdan"
+    },
+     "txt_send_request": "İstek gönder",
+    "@txt_send_request": {
+        "description": "İstek gönder"
+    },
+     "txt_note_remark": "Not/açıklama",
+    "@txt_note_remark": {
+        "description": "Not/açıklama"
+    },
+     "txt_withdrawal_amt": "Para çekme miktarı",
+    "@txt_withdrawal_amt": {
+        "description": "Para çekme miktarı"
+    },
+     "txt_history": "Tarih",
+    "@txt_history": {
+        "description": "Tarih"
+    },
+     "txt_skip": "Atlamak",
+    "@txt_skip": {
+        "description": "Atlamak"
+    },
+     "txt_success": "Başarı",
+    "@txt_success": {
+        "description": "Başarı"
+    },
+     "txt_enter_amt": "Miktarı girin",
+    "@txt_": {
+        "description": "Miktarı girin"
+    },
+     "txt_enter_valid_amt": "Geçerli Tutar girin",
+    "@txt_enter_valid_amt": {
+        "description": "Geçerli Tutar girin"
+    },
+     "txt_owner_name": "Sahip Adı",
+    "@txt_owner_name": {
+        "description": "Sahip Adı"
+    },
+     "txt_enter_owner_name": "Lütfen Sahip Adını Girin",
+    "@txt_enter_owner_name": {
+        "description": "Lütfen Sahip Adını Girin"
+    },
+     "txt_enter_valid_owner_name": "Geçerli sahip adını girin",
+    "@txt_enter_valid_owner_name": {
+        "description": "Geçerli sahip adını girin"
+    },
+     "txt_enter_valid_maker_name": "Geçerli Maker adını girin",
+    "@txt_enter_valid_maker_name": {
+        "description": "Geçerli Maker adını girin"
+    },
+     "txt_valid_color_name": "Geçerli renk adını girin",
+    "@txt_valid_color_name": {
+        "description": "Geçerli renk adını girin"
+    },
+     "txt_enter_color_name": "Lütfen renk adı girin",
+    "@txt_enter_color_name": {
+        "description": "Lütfen renk adı girin"
+    },
+     "txt_request_mode": "İstek modu",
+    "@txt_request_mode": {
+        "description": "İstek modu"
+    },
+     "txt_request_pending": "Beklemede istemek",
+    "@txt_request_pending": {
+        "description": "Beklemede istemek"
+    },
+     "txt_request_decline": "Talep Düşüşü",
+    "@txt_request_decline": {
+        "description": "Talep Düşüşü"
+    },
+     "txt_request_date": "İstek Tarihi",
+    "@txt_request_date": {
+        "description": "İstek Tarihi"
+    },
+     "txt_request_status": "Istek durumu",
+    "@txt_request_status": {
+        "description": "Istek durumu"
+    },
+     "txt_enter_vaild_name": "Geçerli adı girin",
+    "@txt_enter_vaild_name": {
+        "description": "Geçerli adı girin"
+    },
+     "txt_update": "Güncelleme",
+    "@txt_update": {
+        "description": "Güncelleme"
+    },
+     "txt_enter_details_of_your": "Ayrıntılarınızın detaylarını girin",
+    "@txt_enter_details_of_your": {
+        "description": "Ayrıntılarınızın detaylarını girin"
+    },
+     "txt_upload_photo_of_your": "Bir fotoğrafını yükleyin",
+    "@txt_upload_photo_of_your": {
+        "description": "Bir fotoğrafını yükleyin"
+    },
+     "txt_vehicle": "Araç",
+    "@txt_vehicle": {
+        "description": "Araç"
+    },
+     "txt_select_min_one_img": "Minimum 1 Resim'i seçin",
+    "@txt_select_min_one_img": {
+        "description": "Minimum 1 Resim'i seçin"
+    },
+     "txt_details": "Detaylar",
+    "@txt_details": {
+        "description": "Detaylar"
+    },
+     "txt_in_progress": "Devam etmekte",
+    "@txt_in_progress": {
+        "description": "Devam etmekte"
+    },
+     "txt_complete_ride": "Tam Sürüş",
+    "@txt_complete_ride": {
+        "description": "Tam Sürüş"
+    },
+     "txt_your_ride_completed": "Yolculuğunuz tamamlandı",
+    "@txt_your_ride_completed": {
+        "description": "Yolculuğunuz tamamlandı"
+    },
+     "txt_ride_completed": "Sürüş tamamlandı",
+    "@txt_ride_completed": {
+        "description": "Sürüş tamamlandı"
+    },
+     "txt_security_deposit": "Güvence bedeli",
+    "@txt_security_deposit": {
+        "description": "Güvence bedeli"
+    },
+     "txt_complete_security_deposit_process": "Güvenlik Depozito Sürecini tamamlayın",
+    "@txt_complete_security_deposit_process": {
+        "description": "Güvenlik Depozito Sürecini tamamlayın"
+    },
+     "txt_checked_pay_later": "Güvenlik depozito ödemesini daha sonra kontrol ettiniz",
+    "@txt_checked_pay_later": {
+        "description": "Güvenlik depozito ödemesini daha sonra kontrol ettiniz"
+    },
+     "txt_already_done_online_payment": "Zaten çevrimiçi ödeme yaptınız",
+    "@txt_already_done_online_payment": {
+        "description": "Zaten çevrimiçi ödeme yaptınız"
+    },
+     "txt_choose_pay_menthod": "Ödeme yöntemini seçin",
+    "@txt_choose_pay_menthod": {
+        "description": "Ödeme yöntemini seçin"
+    },
+     "txt_pay_now": "Şimdi öde",
+    "@txt_pay_now": {
+        "description": "Şimdi öde"
+    },
+     "txt_do_later": "Güvenlik depozitosunu daha sonra yapacağım",
+    "@txt_do_later": {
+        "description": "Güvenlik depozitosunu daha sonra yapacağım"
+    },
+     "txt_gender_pref": "Cinsiyet Tercihleri",
+    "@txt_gender_pref": {
+        "description": "Cinsiyet Tercihleri"
+    },
+     "txt_gender_you_want_to_prefer": "(Yolculuğa çıkmayı tercih etmek istediğiniz cinsiyeti seçin)",
+    "@txt_gender_you_want_to_prefer": {
+        "description": "(Yolculuğa çıkmayı tercih etmek istediğiniz cinsiyeti seçin)"
+    },
+     "txt_male": "Erkek",
+    "@txt_male": {
+        "description": "Erkek"
+    },
+     "txt_female": "Dişi",
+    "@txt_female": {
+        "description": "Dişi"
+    },
+     "txt_other": "Diğer",
+    "@txt_other": {
+        "description": "Diğer"
+    },
+     "txt_no_pref": "Tercih yok",
+    "@txt_no_pref": {
+        "description": "Tercih yok"
+    },
+     "txt_update_details_of_user": "Ayrıntılarınızın ayrıntılarını güncelleyin",
+    "@txt_update_details_of_user": {
+        "description": "Ayrıntılarınızın ayrıntılarını güncelleyin"
+    },
+     "txt_criminal_record_certificate": "Sabıka kaydı sertifikası",
+    "@txt_criminal_record_certificate": {
+        "description": "Sabıka kaydı sertifikası"
+    },
+     "txt_criminal_record": "Sabıka kaydı",
+    "@txt_criminal_record": {
+        "description": "Sabıka kaydı"
+    },
+     "txt_update_your": "Güncelle",
+    "@txt_update_your": {
+        "description": "Güncelle"
+    },
+     "txt_document": "belge",
+    "@txt_document": {
+        "description": "belge"
+    },
+      "txt_select_your_gender": "Cinsiyetinizi seçiniz",
+    "@txt_select_your_gender": {
+        "description": "Cinsiyetinizi seçiniz"
+    },
+      "txt_gender": "Cinsiyet",
+    "@txt_gender": {
+        "description": "Cinsiyet"
+    },
+      "txt_ride_type": "Sürüş tipi",
+    "@txt_ride_type": {
+        "description": "Sürüş tipi"
+    },
+      "txt_rejected": "Reddedilmiş",
+    "@txt_rejected": {
+        "description": "Reddedilmiş"
+    },
+      "txt_km": "km",
+    "@txt_km": {
+        "description": "km"
+    },
+      "txt_select_reason": "Sebep Seçin",
+    "@txt_select_reason": {
+        "description": "Sebep Seçin"
+    },
+      "txt_select_gender_pref": "Cinsiyet Tercihi Seçin",
+    "@txt_select_gender_pref": {
+        "description": "Cinsiyet Tercihi Seçin"
+    },
+      "txt_update_documents": "Belgeleri Güncelle",
+    "@txt_update_documents": {
+        "description": "Belgeleri Güncelle"
+    },
+      "txt_are_you_sure_to_logout": "Oturum açmak istediğinden emin misiniz?",
+    "@txt_are_you_sure_to_logout": {
+        "description": "Oturum açmak istediğinden emin misiniz?"
+    },
+      "txt_my_rides": "Benim geziler",
+    "@txt_my_rides": {
+        "description": "Benim geziler"
+    },
+      "txt_rating": "Değerlendirme",
+    "@txt_rating": {
+        "description": "Değerlendirme"
+    },
+      "txt_daily_ride": "Günlük sürüş",
+    "@txt_daily_ride": {
+        "description": "Günlük sürüş"
+    },
+     "txt_rental_ride": "Kiralık Sürüş",
+    "@txt_rental_ride": {
+        "description": "Kiralık Sürüş"
+    },
+     "txt_enter_your_reason": "Lütfen nedeninizi girin",
+    "@txt_enter_your_reason": {
+        "description": "Lütfen nedeninizi girin"
+    },
+     "txt_select_ride_type": "Sürüş Türünü Seçin",
+    "@txt_select_ride_type": {
+        "description": "Sürüş Türünü Seçin"
+    },
+     "txt_profile_under_review": "Profiliniz inceleniyor, yönetici etkinleştirene kadar binemezsiniz.",
+    "@txt_profile_under_review": {
+        "description": "Profiliniz inceleniyor, yönetici etkinleştirene kadar binemezsiniz."
+    },
+     "txt_your_account_deactivateed": "Hesabınız yönetici tarafından devre dışı bırakıldı, lütfen bunlarla iletişime geçin.",
+    "@txt_your_account_deactivateed": {
+        "description": "Hesabınız yönetici tarafından devre dışı bırakıldı, lütfen bunlarla iletişime geçin."
+    },
+     "txt_accept_terms_privacy": "Kaydolarak Hizmet Şartlarını ve Gizlilik Politikasını kabul edersiniz",
+    "@txt_accept_terms_privacy": {
+        "description": "Kaydolarak Hizmet Şartlarını ve Gizlilik Politikasını kabul edersiniz"
+    },
+     "txt_please_accept_terms_privacy": "Lütfen Hizmet Şartları ve Gizlilik Politikasını Kabul Et",
+    "@txt_please_accept_terms_privacy": {
+        "description": "Lütfen Hizmet Şartları ve Gizlilik Politikasını Kabul Et"
+    },
+     "txt_thanks_for_registering": "Bize kaydolduğunuz için teşekkürler",
+    "@txt_thanks_for_registering": {
+        "description": "Bize kaydolduğunuz için teşekkürler"
+    },
+     "txt_application_under_review_check_status": "Uygulamanız inceleniyor, ana sayfadaki üst kırmızı çubuktaki durumu kontrol edebilirsiniz.",
+    "@txt_application_under_review_check_status": {
+        "description": "Uygulamanız inceleniyor, ana sayfadaki üst kırmızı çubuktaki durumu kontrol edebilirsiniz."
+    },
+     "txt_update_details": "Güncelleme Ayrıntıları",
+    "@txt_update_details": {
+        "description": "Güncelleme Ayrıntıları"
+    },
+     "txt_ride_details": "Sürüş Ayrıntıları",
+    "@txt_ride_details": {
+        "description": "Sürüş Ayrıntıları"
+    },
+     "txt_mpesa": "Asma",
+    "@txt_mpesa": {
+        "description": "Asma"
+    },
+     "txt_image": "İmaj",
+    "@txt_image": {
+        "description": "İmaj"
+    },
+     "txt_check_internet_try_again": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin",
+    "@txt_check_internet_try_again": {
+        "description": "Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin"
+    },
+     "txt_oops_no_internet": "Oops, İnternet bağlantısı yok",
+    "@txt_oops_no_internet": {
+        "description": "Oops, İnternet bağlantısı yok"
+    },
+     "txt_package_complete_renew": "Paketiniz tamamlandı Ya sürüşü tamamlayın veya kullanıcının paketi yenilemesini bekleyin",
+    "@txt_package_complete_renew": {
+        "description": "Paketiniz tamamlandı Ya sürüşü tamamlayın veya kullanıcının paketi yenilemesini bekleyin"
+    },
+     "txt_wait_for_response": "Yanıt bekliyor",
+    "@txt_wait_for_response": {
+        "description": "Yanıt bekliyor"
+    },
+     "txt_ride_complete_in": "Sürüş tamamlandı",
+    "@txt_ride_complete_in": {
+        "description": "Sürüş tamamlandı"
+    },
+     "txt_something_went_wrong": "Bir şeyler yanlış gitti",
+    "@txt_something_went_wrong": {
+        "description": "Bir şeyler yanlış gitti"
+    },
+     "txt_refresh_page_try_later": "Sayfayı yenilemeyi deneyin veya daha sonra tekrar deneyin.",
+    "@txt_refresh_page_try_later": {
+        "description": "Sayfayı yenilemeyi deneyin veya daha sonra tekrar deneyin."
+    },
+     "txt_permission_required": "İzin Gerekli",
+    "@txt_permission_required": {
+        "description": "İzin Gerekli"
+    },
+     "txt_enable_permission": "İzni Etkinleştir",
+    "@txt_enable_permission": {
+        "description": "İzni Etkinleştir"
+    },
+     "txt_pick_your_country": "Ülkenizi seçin",
+    "@txt_pick_your_country": {
+        "description": "Ülkenizi seçin"
+    },
+     "txt_cant_update_ride_type": "Sürüş tipinizi devam eden sürüşte güncelleyemezsiniz.",
+    "@txt_cant_update_ride_type": {
+        "description": "Sürüş tipinizi devam eden sürüşte güncelleyemezsiniz."
+    },
+     "txt_check_connect_timeout": "Bağlantı zamanınızı kontrol edin !!",
+    "@txt_check_connect_timeout": {
+        "description": "Bağlantı zamanınızı kontrol edin !!"
+    },
+     "txt_timeout_exception": "Zaman aşımı istisnası.",
+    "@txt_timeout_exception": {
+        "description": "Zaman aşımı istisnası."
+    },
+     "txt_request_cancel_from_user": "Kullanıcıdan iptal isteyin.",
+    "@txt_request_cancel_from_user": {
+        "description": "Kullanıcıdan iptal isteyin."
+    },
+     "txt_getting_wrong_response": "Yanlış yanıt alıyoruz.",
+    "@txt_getting_wrong_response": {
+        "description": "Yanlış yanıt alıyoruz."
+    },
+     "txt_connection_error": "Bağlantı hatası.",
+    "@txt_connection_error": {
+        "description": "Bağlantı hatası."
+    },
+     "txt_server_not_connected_contact_admin": "Sunucu bağlı değil, lütfen admin ile iletişime geçin.",
+    "@txt_server_not_connected_contact_admin": {
+        "description": "Sunucu bağlı değil, lütfen admin ile iletişime geçin."
+    },
+     "txt_socket_not_connect": "Soket bağlı değil ...",
+    "@txt_socket_not_connect": {
+        "description": "Soket bağlı değil ..."
+    },
+     "txt_user_renewed_package": "Kullanıcı paketi yeniledi!",
+    "@txt_user_renewed_package": {
+        "description": "Kullanıcı paketi yeniledi!"
+    },
+     "txt_bear_per_km": "KM ücretlerine göre kullanıcı ayı!",
+    "@txt_bear_per_km": {
+        "description": "KM ücretlerine göre kullanıcı ayı!"
+    },
+     "txt_wait_for_user": "Kullanıcı için bekle",
+    "@txt_wait_for_user": {
+        "description": "Kullanıcı için bekle"
+    },
+     "txt_bysigning_you_accept": "Kaydolarak kabul edersiniz",
+    "@txt_bysigning_you_accept": {
+        "description": "Kaydolarak kabul edersiniz"
+    },
+     "txt_terms_service": "Hizmet şartları",
+    "@txt_terms_service": {
+        "description": "Hizmet şartları"
+    },
+     "txt_and": "Ve",
+    "@txt_and": {
+        "description": "Ve"
+    },
+     "txt_privacy_policy": "Gizlilik Politikası",
+    "@txt_privacy_policy": {
+        "description": "Gizlilik Politikası"
+    },
+     "txt_cash_received": "Nakit alındı",
+    "@txt_cash_received": {
+        "description": "Nakit alındı"
+    },
+     "txt_click_to_take_photo": "Fotoğraf çekmek için tıklayın",
+    "@txt_click_to_take_photo": {
+        "description": "Fotoğraf çekmek için tıklayın"
+    },
+     "txt_camera_setting_permission": "Kamera izni etkin değil, lütfen izni etkinleştirin",
+    "@txt_camera_setting_permission": {
+        "description": "Kamera izni etkin değil, lütfen izni etkinleştirin"
+    },
+     "txt_gallery_setting_permission": "Galeri izni etkin değil, lütfen izni etkinleştirin",
+    "@txt_gallery_setting_permission": {
+        "description": "Galeri izni etkin değil, lütfen izni etkinleştirin"
+    },
+     "txt_unauthorized_login": "Giriş Yapma Yetkilendir",
+    "@txt_unauthorized_login": {
+        "description": "Giriş Yapma Yetkilendir"
+    },
+     "txt_login_detect": "Başka bir cihazda yeni giriş algılanır, lütfen bu cihazda kullanmak için tekrar giriş yapın",
+    "@txt_login_detect": {
+        "description": "Başka bir cihazda yeni giriş algılanır, lütfen bu cihazda kullanmak için tekrar giriş yapın"
+    },
+     "txt_location_setting_permission": "Konum izni etkin değil, lütfen izni etkinleştirin",
+    "@txt_location_setting_permission": {
+        "description": "Konum izni etkin değil, lütfen izni etkinleştirin"
+    },
+     "txt_delete_account": "Hesabı sil",
+    "@txt_delete_account": {
+        "description": "Hesabı sil"
+    },
+     "txt_sure_to_delete": "Hesabınızı silmek istediğinizden emin misiniz?",
+    "@txt_sure_to_delete": {
+        "description": "Hesabınızı silmek istediğinizden emin misiniz?"
+    },
+     "txt_open_with": "Bununla aç",
+    "@txt_open_with": {
+        "description": "Bununla aç"
+    },
+     "txt_new_request_from": "Yeni istek",
+    "@txt_new_request_from": {
+        "description": "Yeni istek"
+    },
+     "txt_vehicle_assign": "Yönetici tarafından araç ataması:",
+    "@txt_vehicle_assign": {
+        "description": "Yönetici tarafından araç ataması:"
+    },
+     "txt_admin_delete": "Yönetici Hesabınızı sildi, uygulamayı daha fazla kullanamazsınız. Lütfen yöneticiyle iletişime geçin.",
+    "@txt_admin_delete": {
+        "description": "Yönetici Hesabınızı sildi, uygulamayı daha fazla kullanamazsınız. Lütfen yöneticiyle iletişime geçin."
+    }
+ }
